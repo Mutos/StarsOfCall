@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<naev_save>
+ <version>
+  <naev>0.7.0</naev>
+  <data>Hoshikaze 2250 - Stars of Call - NAEV Total Conversion</data>
+ </version>
+ <diffs/>
+ <player name="Test-003">
+  <rating>0.000000</rating>
+  <credits>5000</credits>
+  <guiOverride>0</guiOverride>
+  <mapOverlay>0</mapOverlay>
+  <time>
+   <SCU>2250</SCU>
+   <STP>3726</STP>
+   <STU>3751</STU>
+   <Remainder>239.310631</Remainder>
+  </time>
+  <location>Earth</location>
+  <ship name="El Ego de Deiz" model="Eclair d'Etoiles">
+   <fuel>1000</fuel>
+   <outfits_structure>
+    <outfit slot="0">Std Sml Hull Plating</outfit>
+    <outfit slot="1">Std Sml Powerplant</outfit>
+    <outfit slot="2">Std Sml Computer</outfit>
+    <outfit slot="3">Std Sml Warp Engine</outfit>
+    <outfit slot="4">Std Sml Jump Drive</outfit>
+    <outfit slot="5">Std Sml Verniers</outfit>
+    <outfit slot="6">Std Sml Shield</outfit>
+   </outfits_structure>
+   <outfits_utility/>
+   <outfits_weapon>
+    <outfit slot="0">Small Ion Flak Turret</outfit>
+   </outfits_weapon>
+   <commodities/>
+   <weaponsets autoweap="1" active_set="0">
+    <weaponset inrange="0" id="0"/>
+    <weaponset inrange="0" id="1"/>
+    <weaponset inrange="0" id="2"/>
+    <weaponset inrange="0" id="3"/>
+    <weaponset inrange="0" id="4"/>
+    <weaponset inrange="0" id="5"/>
+    <weaponset inrange="0" id="6"/>
+    <weaponset inrange="0" id="7"/>
+    <weaponset inrange="0" id="8"/>
+    <weaponset inrange="0" id="9"/>
+   </weaponsets>
+  </ship>
+  <ships/>
+  <guis>
+   <gui>slim</gui>
+  </guis>
+  <outfits/>
+  <licenses/>
+ </player>
+ <missions_done/>
+ <events_done/>
+ <escorts/>
+ <missions/>
+ <events/>
+ <news>
+  <article title="Governor Helmer Jailed" desc="Core Auditors arrested governor Rex Helmer of the High Plains region on Hope, on charges of corruption. He has been removed from office and transported to a holding facility awaiting trial. He is said to have illegally detained numerous Ziffelian Minidragons." faction="Core League" date="0" date_to_rm="500000000000000" id="5"/>
+  <article title="Games for Young Pilots" desc="Want your child to have a chance at a career as a space pilot?  Games like Super Julio Omniverse and SpaceFox help your child develop twitch muscles." faction="Generic" date="0" date_to_rm="500000000000000" id="4"/>
+  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two days floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Generic" date="0" date_to_rm="500000000000000" id="3"/>
+  <article title="Admiral's Ball a Triumph" desc="The glamorous season drew to a close with an underwater themed ball held in air bubbles. All the season's debutantes attended." faction="Generic" date="0" date_to_rm="500000000000000" id="2"/>
+ </news>
+ <vars>
+  <var name="pc_species" type="str">Sshaad</var>
+  <var name="_fcap_trader" type="num">30.000000</var>
+  <var name="_fcap_independent" type="num">10.000000</var>
+  <var name="_fcap_stellarpolice" type="num">30.000000</var>
+  <var name="_fcap_pirate" type="num">30.000000</var>
+  <var name="boolDisableLandingPassRemove" type="bool">1</var>
+  <var name="AdrimShipwreck_count" type="num">1.000000</var>
+ </vars>
+ <factions>
+  <faction name="Pirate">
+   <standing>-27.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Trader">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Free Traders">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Innovari">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Joint Peacekeepers Corps">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="K'Rinn Council">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Ka'Ralt Secession">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Rithai Kemae">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Irilia Clan">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Irmothem Clan">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Erdil Clan">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Arythem Clan">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="JnI">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Free Adrimai">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Gham Garri">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Alliance">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Aragwedyr Clan">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Pei Clan-Family">
+   <standing>7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Stellar Police">
+   <standing>7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Core League">
+   <standing>25.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Ziffel Empire">
+   <standing>7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Banthory Autarcy">
+   <standing>7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Purple Trail">
+   <standing>-7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Akta Manniskor">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="HnH">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Children of the Stars">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Shadow Complex">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Ashioto Cluster">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Thirteen Planets League">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Red Quadrant League">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Wandering Domains">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Instrumentality Company">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Shoden Clusters">
+   <standing>-7.500000</standing>
+   <known/>
+  </faction>
+  <faction name="Baartish Intersystems">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Daneb Anarchs">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Complementarist Protectorate">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Candidate Systems">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Ren'sh Planetary Council">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Proteous Resistance">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Independent Stars">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+ </factions>
+ <hooks/>
+ <space>
+  <known sys="Sol">
+   <planet>Asteroids Cluster 122468</planet>
+   <planet>Asteroids Cluster 127153</planet>
+   <planet>Asteroids Cluster 205400</planet>
+   <planet>Asteroids Cluster 205426</planet>
+   <planet>Asteroids Cluster 208024</planet>
+   <planet>Asteroids Cluster 261589</planet>
+   <planet>Asteroids Cluster 293208</planet>
+   <planet>Asteroids Cluster 332977</planet>
+   <planet>Asteroids Cluster 390586</planet>
+   <planet>Asteroids Cluster 456779</planet>
+   <planet>Asteroids Cluster 466015</planet>
+   <planet>Asteroids Cluster 466213</planet>
+   <planet>Asteroids Cluster 558805</planet>
+   <planet>Asteroids Cluster 561941</planet>
+   <planet>Asteroids Cluster 619373</planet>
+   <planet>Asteroids Cluster 684171</planet>
+   <planet>Asteroids Cluster 687846</planet>
+   <planet>Asteroids Cluster 725366</planet>
+   <planet>Asteroids Cluster 754813</planet>
+   <planet>Asteroids Cluster 760584</planet>
+   <planet>Asteroids Cluster 767047</planet>
+   <planet>Asteroids Cluster 768106</planet>
+   <planet>Asteroids Cluster 868405</planet>
+   <planet>Asteroids Cluster 870335</planet>
+   <planet>Asteroids Cluster 871523</planet>
+   <planet>Asteroids Cluster 875171</planet>
+   <planet>Asteroids Cluster 888078</planet>
+   <planet>Asteroids Cluster 902576</planet>
+   <planet>Asteroids Marker</planet>
+   <planet>Budiharto Asteroids Cluster</planet>
+   <planet>Calif High Shipyards</planet>
+   <planet>Earth</planet>
+   <planet>Jupiter</planet>
+   <planet>Jupiter Station</planet>
+   <planet>Mars</planet>
+   <planet>New Taxaco</planet>
+   <planet>Riley Asteroids Cluster</planet>
+   <planet>Saturn</planet>
+   <planet>Tuskegee Training Academy</planet>
+   <jump>Alpha Corvis</jump>
+   <jump>Barnard's Star</jump>
+   <jump>Gl 252</jump>
+   <jump>Gl 380</jump>
+   <jump>Gl 902</jump>
+  </known>
+ </space>
+</naev_save>

@@ -1,0 +1,2 @@
+ Naev v0.7.0 (i686-w64-mingw32)
+ git HEAD at 5518fd71d
