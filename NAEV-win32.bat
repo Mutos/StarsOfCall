@@ -16,8 +16,6 @@ FOR /D %%F in (..\Repositories\naev\?*) do (
 )
 
 REM Copy naev repository's files
-FOR %%F in (*) do (
-)
 FOR %%F in (..\Repositories\naev\*) do (
 	COPY /Y  %%F .
 )
