@@ -1,1 +1,0 @@
-../../Repositories/naev/naev-confupdate.sh

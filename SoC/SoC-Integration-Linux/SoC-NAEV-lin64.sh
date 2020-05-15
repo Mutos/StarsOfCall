@@ -1,1 +1,0 @@
-../../Repositories/naev/SoC-NAEV-lin64.sh
