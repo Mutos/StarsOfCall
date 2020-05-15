@@ -1,13 +1,13 @@
-SoC-appdata/collisions
-SoC-appdata/nebula
-SoC-appdata/saves
-SoC-appdata/logs
-SoC-appdata/conf.lua
-SoC-appdata/conf.lua.backup
+appdata-SoC/collisions
+appdata-SoC/nebula
+appdata-SoC/saves
+appdata-SoC/logs
+appdata-SoC/conf.lua
+appdata-SoC/conf.lua.backup
 
-NAEV-appdata/collisions
-NAEV-appdata/nebula
-NAEV-appdata/saves
-NAEV-appdata/logs
-NAEV-appdata/conf.lua
-NAEV-appdata/conf.lua.backup
+appdata-NAEV/collisions
+appdata-NAEV/nebula
+appdata-NAEV/saves
+appdata-NAEV/logs
+appdata-NAEV/conf.lua
+appdata-NAEV/conf.lua.backup
