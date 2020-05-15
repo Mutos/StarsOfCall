@@ -1,0 +1,241 @@
+|===============================================================================================================================|
+|																																|
+|		Stars of Call Total Conversion for NAEV																					|
+|				Credits as of 15/02/2013																						|
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|				   The Hoshikaze 2250 Association																				|
+|===============================================================================================================================|
+|																																|
+	Hoshikaze 2250 Association, 
+		Benoît « Mutos » ROBIN, Président
+		Lisa « Lisou' LESCORNEZ-ROBIN » Treasurer
+		Franck « Jollyrodger » BARBE
+		Arnaud « Azekiel » BORIE
+		Boris « Soulnight » BOUARD
+		Patrick « Cialf » CIALF
+		Philippe « Phalvick » HALVICK
+		Sylvie « Scylliane » MARTIN
+		Morgane « Sariel » PARISOT
+		Gaëlle « Gel Weo ! » WOLF
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|		NAEV Team Members who contributed to the SoC TC																			|
+|===============================================================================================================================|
+|																																|
+		bobbens
+		BTAxis
+		crimson_shade
+		Neonpico
+		leodudepal
+		Ambience
+		Barium Blue
+		Grumbel
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			Stars of Call specific contributions																				|
+|===============================================================================================================================|
+|																																|
+		Gham Garri main base
+			"Kono Asteroid Station" by solcommand
+			http://www.solcommand.com/2011/11/kono-asteroid-station.html
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			Hoshikaze 2250 contributors since 1990																				|
+|===============================================================================================================================|
+|																																|
+		Pierre « G@briel » BRZEZNY			3D Graphist
+		René « esposito » Esposito			Paperback RPG
+		« Evolvana »						Illustrator
+		Olivier « REOS » BRU				Illustrator
+											Leaflet
+		Clémentine « Kakhi » WOLF			Illustrator
+		Antoine « ChN1 » RAVNICH			Illustrator
+		« Myrelingues »						Writer
+		Boris « Drakan »					Illustrator
+		Abdel « badouch-k » BADAOUI			Musician
+		Francis « Renkir » GAMBOA			RPG Scenarist
+		Lydie « Lauryn » BLAIZOT			Short stories author
+		Olivier « innsomniac » GIROD		3D Graphist
+		Alexandre « selenim » VERKELAK		Short stories author
+		Loïc « corwin » RICHARD				Short stories author
+											2nd book cover
+		Isabelle « Elisel » CAGNARD			3nd book cover
+		L. Abdul Baan « lordabdul »			Illustrator
+		Anthony « Khellendros » BOULANGER	Short stories author
+		Michel-Marc « MM01 » ABIGNOLI		Illustrator
+		Nicolas « Nicozor » LE TUTOUR		Illustrator
+											Poster illustrator
+		Philippe LEMIEUX					Illustrator
+		James SHUSTER						Astronomy data
+		Mabiala N'KOUKA ('MN2')				Illustrator
+		Menga N'KOUKA ('MN2')				Illustrator
+		Antonino MACARIO					Paperback RPG
+											General gamedev
+		Rui 'Hearthemyst' TAKASHI			Illustrator
+		Pierre « Dr_Folaweb » MATTERNE		Illustrator
+											Species designer
+		Etienne BOCHARD						Gamedev
+		Julien BRIATTE						Illustrator
+		Mehdi 'aza' ABDEMEZZIANE			3D Graphist
+		Gary JAMROZ-PALMA					Illustrator
+		David « Flan » DELATTRE				Illustrator
+		Olivier COCHE						Gamedev
+		Laurent MARIE						Illustrator
+		Adrian « Star Admiral » DeAngelis	Gamedev and Playtest
+		« Melody »							Illustrator
+		Dominique BARNET					Gamedev
+		Denis JALON							Illustrator
+		Nicole MATIAS						Illustrator
+		Jean-Louis BERGAMI					Logos and Banners
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|					Internship : ITIN 2012																						|
+|	"Prototyping in Unity of the SoC Stellar System Editor"																		|
+|===============================================================================================================================|
+|																																|
+			Yann FLORY
+			Jérémy GIRARDEY
+			Lucas DELVALLE
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|				Internship : Ecole Pivaut, 2012																					|
+|	"Ambiance illustration for the Hoshikaze 2250 universe"																		|
+|===============================================================================================================================|
+|																																|
+			Maxime MERINO
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			Internship : ISART-Digital, 2011																					|
+|	"Game Design and Prototyping of a Cooperative Boardgame"																	|
+|			(including presentation at Japan Expo 2011																			|
+|===============================================================================================================================|
+|																																|
+			Séphirah « Jin » LEMOINE
+			Amélie N’GUEKORA
+			Matthieu « Nataniel » GOERIG
+			Michel TOPUZOGLU
+			Stéphanie « Epsilonn » DE FORTIS
+			Anthony « Malharhak » PIGEOT
+			Alexandre « Subject » KAPUSTA
+			Ludovic « Frozenpunk » CORNU
+			Walter « Xantam » BELLETTI
+			Cédric DOVGALENKO
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			Internship : ISART-Digital, 2010																					|
+|		"Game Design for a SoC Stellar System Editor"																			|
+|===============================================================================================================================|
+|																																|
+			Antoine «  Kilirane  » DRUAUX
+			Loren «  Lowren  » COSTET
+			Lucas « SushiKaze » JOUVENOT
+			Marc-Antoine « MarcChanWook » DUPONT
+			Yohann « Centaure » DONSE
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|				Internship : Ecole Pivaut, 2010																					|
+|		"Reference illustrations for the sentient species"																		|
+|		"Studies for a short stories book cover"																				|
+|===============================================================================================================================|
+|																																|
+			Charles « Silver » CARDON
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|				Internship : Lycée L’Initiative, 2010																			|
+|		"Storyboard rough for a comic derivated from																			|
+|		a Hoshikaze 2250 short story"																							|
+|				"Where Angels fear to tread"																					|
+|===============================================================================================================================|
+|																																|
+			Marie « achard » ACHARD
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|				Internship : ISART-Digital, 2009																				|
+|		"SoC Game Design and Functional Specification"																			|
+|===============================================================================================================================|
+|																																|
+			Alessandro COSTA
+			Paul PERRIERE
+			Martin « Gordhak » MONTRIEUL
+			Maxime BARBE
+			Julien « Lupus » HUGUENIN
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			Thesis : Université de Marne la Vallée, 2009																		|
+|			"Collaborative Creation Communities"																				|
+|			Interrupted due to personal reasons																					|
+|===============================================================================================================================|
+|																																|
+			Rémi « Roumy » GEORGES
+				Student in Multimedia Arts
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|		Internship : Université de Marne la Vallée, 2008																		|
+|			"Redesign of the Hoshikaze 2250 web site,																			|
+|			presentations and leaflets"																							|
+|===============================================================================================================================|
+|																																|
+			Maria Azalea « =Azalea=  » TAN
+				aka « Mechanical Maria »
+				Graphist
+			Kevin « Evolius » BIHANNIC
+				Writer and Leaflet Design
+			Bruno BOUTAREL
+				Webdesign and PHP Coding
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|			EPITECH Innovative Project, 2007-2008																				|
+|				"SoC Prototyping under OGRE"																					|
+|===============================================================================================================================|
+|																																|
+		Laurent VANAERDE
+		Jeremy DERRAC
+		Adrien MATHIEU
+		Basile O’SULLIVAN
+		Raphael MALIE
+		Thibault « Stormer » SIAMER
+|																																|
+|===============================================================================================================================|

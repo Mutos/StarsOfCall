@@ -1,0 +1,1249 @@
+|===============================================================================================================================|
+|																																|
+|				Stars of Call NAEV TC Revisions																					|
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								TODO																							|
+|===============================================================================================================================|
+|																																|
+	(C code) Economy
+		Add Lua bindings for economic data on system
+	(C code) Debug Map Editor
+		Still sometimes memory crash, must miss a free()
+	(C code) Expand Map Editor
+		Display other maps with different colors to serve as reference points
+	Complete economy data
+	Factions
+		Add a human spacers anarchist faction akin to the Wandering Domains or Daneb Anarchs
+	Commodities
+		Add up to 30 commodities to allow for varied trade panels
+	Complete coding of Escort Mission
+		Comms from the escortee
+	Add more border, recently explored and lawless zones
+		Systems
+		Factions
+	Finalize presence map balance
+		Addition of border stations on interstate routes
+		Fine presence adjustment on each route
+		Add more virtual presence for Spacer factions
+	Loading pictures
+		Add more ships to the imageset
+		Refine ships presentation
+	Events
+		Add a Dawson's Christian-like event thread located near the Gham Garri border
+	Missions
+		To add after Recon Pirate Base mission is fully tested :
+			Chance that a squadron will be chasing the player on the return trip
+			Arrange to keep squadron ships between jumps : follow escort mission layout and take casualties into account
+		Spawning
+			Add lawful fighter patrols in regular systems
+	Ships
+		Balance ships for their roles
+		Maybe specific per-category outfits
+		Add specific Fighter slots for all core outfits
+	Outfits
+		Remove pirate and a few other semi-clandestine factions bases from Main Routes maps
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								TODO for Upgrade NAEV engine to 0.7.0															|
+|===============================================================================================================================|
+|																																|
+	Add a SoC-specific version number
+		00.07.00.01 = 1st release based on NAEV 0.7.0
+	Escorts behaviour
+		Attack nearest ennemy instead of designated target
+		Do not attack ennemy shooting at player
+	Question: restore /dat to vanilla, then merge SoC-specific changes ?
+		Needed : generic procedure to transition from NAEV vanilla /dat to SoC
+			1/ Unzip vanilla thrice :
+				000-UnZipped
+				100-Compiled
+				200-SoC-C-code
+			2/ Compile #100
+				Copy from SoC Reference version: currently 020-Dev
+					Configuration
+						/datapath.lua
+						/naev-data/conf.lua
+						/naev-data/nebula
+						/naev-data/saves
+					SoC auxiliary files
+						/SoC-NAEV-lin64
+						/SoC-NAEV-win32.bat
+						/SoC-NAEV-win64.bat
+					DLLs
+						/bin/win32/*.dll
+						/bin/win64/*.dll
+				Check compiled EXE works OK with vanilla /dat
+			3/ Apply SoC C-codes changes to #200
+				Copy from SoC Reference version (idem 2)
+				Compile #200
+				Check compiled EXE works OK with vanilla /dat
+			4/ Replace vanilla main data by SoC ones
+				Copy #200 to:
+					300-merge-dat
+				Copy /dat to /dat-NAEV
+				Copy from SoC Reference version (idem 2)
+					<Reference>/dat to /dat-SoC
+				Replace XML files
+				Assess errors
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								rxxxx <=> 00.07.00.01 (../../....)																|
+|			Based on NAEV 0.7.0 Commit 7794b2b3a24e1c8493b8687267082cd732dbaf7b													|
+|===============================================================================================================================|
+|																																|
+	Upgrade NAEV engine to 0.7.0
+		(C code) Possible Commits
+			9d9d7fbf1936aeceb304fd8a575867a049373e17 02/07/2017
+				Last version before addition of localization code in NAEV vanilla
+				Localization code now works under win64, doesn't work under lin64, not tested yet against win32
+			7794b2b3a24e1c8493b8687267082cd732dbaf7b 07/01/2019
+				Latest versioon as of r155k release
+		(C code) Report SoC-specific modifications on C code : OK
+			src/Makefile.am
+				Include dev_mapedit.c
+			src/pilot.h
+				Change reverse thrust max factor constant PILOT_REVERSE_THRUST to 1.0 instead of 0.4
+				Should be in the reverse tag of the thruster instead of the C code
+			src/dev_mapedit.h, src/dev_mapedit.c
+				Copy files as is from r155k
+			src/dev_system.h, src/dev_system.c
+				Add arguments fileName, mapName, mapDescription to function dsys_saveMap()
+			src/dev_uniedit.h, src/dev_uniedit.c
+				Remove "Save as Map" button
+				Change "Close" button to "Exit" with "x" shortcut
+				Add "Center" button to center the map on the selected system
+				Modify uniedit_nameFilter to keep "_" characters
+			src/menu.h, src/menu.c
+				Replace "Editor" button by "Editors"
+				Add editors menu popup
+			src/land_outfits.c, src/nlua_hook.c
+				Add hooks outfit_buy and outfit_sell
+		(C code) Check all other C changes :
+			Already reintegrated into NAEV vanilla C
+		Upgrade /dat to NAEV vanilla data codebase
+			Once C-code is converted
+			Replace ./dat by SoC ./dat
+		Debug /dat
+			Fix crashes due to missing new files : copy files from vanilla
+				New asteroids system
+					/dat/asteroids.xml
+					/dat/gfx/planet/space/asteroid/*.*
+				Translation control files
+					/dat/translation.its
+			Change XML format in base data files : <name> tag instead of name attribute in <commodity> tag
+				/dat/commodity.xml
+				/dat/faction.xml
+			Fix issue with <description> tag in asset XML files
+				Description was not displayed
+				String beginning by a \n was the cause of the issue
+				Fixed by removing leading \n character
+				Checked for similar issue in <bar> tag : none found
+			AI issue : ships stay at spawn planet, do not move
+				Replace AI includes, templates and personnalities by vanilla ones
+				/dat/ai/include
+				/dat/ai/personnality
+				/dat/ai/tpl
+		(C code) Debug Map Editor
+			Only one map file displayed
+				Data type changed in ndata_* functions calls
+			Garbled data in file properties display
+				Control characters to be removed
+		Merge /dat changes into SoC codebase
+			Compare common files
+		(C code) Game crashes when exiting
+			Seemed to disappear, cause not found
+		(C code) Debug issue : craft bay launching 1 craft only
+			Delay unit was ms, is now s
+			Fix : change all <delay> from 1000 to 1
+			Already fixed in NAEV vanilla : OK
+		Spawn issue : pirate ships generated with Independent AI
+			Caused by a change in parameters in function scom.spawn()
+			Restore proper parameters
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155k <=> 00.06.01.02 (10/01/2019)																|
+|			Based on NAEV 0.6.1 Commit fe41995ce9b766e4a2fe35b3093677babf95f6a6													|
+|===============================================================================================================================|
+|																																|
+	Compilation
+		Add Out-Of-Tree compilation structure
+			Scripts and links for seamless launch under Linux, Windows 32-bits and 64-bits
+			For details, see SoC-NAEV-TC-INSTALL.txt
+			Folders structure :
+				<SoC-Root>
+					bin/
+						lin64/
+						win32/
+						win64/
+	Bugfix (C code)
+		Added save all to Center if autosave is toggled on
+			src/uniedit.c
+	Hooks (C code)
+		Added hooks outfit_buy and outfit_sell :
+			land_outfits.c
+			nlua_hook.c
+		Test event for the hooks, just display bought and sold outfits
+			event/_test/test_landed.lua
+			scripts/debug/debug.lua
+	Enhanced Free Adrimai ghostship event
+	Maps
+		Multiplied presence factors by 10
+			[0-1000] range instead of [0-100]
+			More in line with NAEV standard
+			Better visibility in map
+			Adjusted presence checks in some XML files and Lua scripts
+		Added multiple hints to the Hoshikaze short stories, novels and comics
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155j <=> 00.06.01.01 (09/12/2017)																|
+|			Based on NAEV 0.6.1 Commit fe41995ce9b766e4a2fe35b3093677babf95f6a6													|
+|===============================================================================================================================|
+|																																|
+	Loading pictures
+		Replaced by ships wireframe renders with various subsystems marked
+	System Editor (C code)
+		Added new button for creating asteroids cluster
+			Named "Asteroids Cluster xxxxxx"
+			xxxxxx between 111111 and 999999
+			Copied from a random existing asset with the same name pattern
+			At least one suitable template must exist
+			If no template found, reverse to regular planet creation form
+		Added shortcuts to all buttons :
+			<A>steroids
+			<N>ew Planet
+			<R>ename
+			<D>elete
+			Reset <J>ump
+			<E>dit
+			--
+			<S>cale
+			<G>rid
+			--
+			<E>xit
+	Outfits + Landing Scripts + Events
+		Add a consistent Landing Pass system
+			Landing authorization script in planet <land> tag only checks player has proper pass
+			On Land Event, one pass is removed from player inventory
+			On Load Event, pass removal is disabled
+			To use on a given planet :
+				- Add tag <land>land_pass</land>
+				- Either:
+					- add a record indexed by the planet's name on landing_passes table in dat/scripts/landing/landing_params.lua, like example:
+						landing_passes["Eden"] = {
+							passName      = "Eden Landing Pass",
+							okMessage     = "Welcome to the Free Paradise of the Hekka, enjoy your stay and keep out of trouble.",
+							noPassMessage = "You have no valid Landing Pass. Please register to the Hekka Council.",
+						}
+					- Or simply add an Outfit named planetName.." Landing Pass"
+						This will cause generic okMessage and noPassMessage to be used
+	Landing scripts
+		Added a per-faction landing logic with scripted parameters
+	Maps
+		Integrate many changes from the 3rd Hoshikaze novel in writing "Demeniev's last battle"
+			Notably, rename as "Raumbahn Sieben" the flanking route between the Le Manège/Nyotekundu/Villera sector and the Nouvelle Hong-Kong/SinJiang sector
+		Added a number of Asteroids Clusters in various uninhabited systems
+		Added details and fixed consistency issues on many planet descriptions while using them to make backgrounds for paperback RPG chatacter presets
+	Change folders structure
+		Make multiple platforms compilation easier
+		Only keep a single source folder for all platforms
+	Improve Escort AI
+		Escorters fly in a random pattern around their escortee, using follow_accurate instead of follow
+		Player Escorts do not finish off a disabled target
+			Todo : force finishing off if player orders to attack an already disabled target
+	Upgrade NAEV engine to 0.6.1 Commit fe41995ce9b766e4a2fe35b3093677babf95f6a6
+		Added a SoC-specific version number
+			00.06.01.01 = 1st release based on NAEV 0.6.1
+		Debug issue : craft bay launching 1 craft only
+			Delay unit was ms, is now safe
+			Fix : change all <delay> from 1000 to 1
+		Check all other C changes :
+			Already reintegrated into NAEV vanilla C
+		Report SoC-specific modifications on C code
+			Makefile.am
+				Include dev_mapedit.c
+			pilot.h
+				Change reverse thrust max factor constant PILOT_REVERSE_THRUST to 1.0 instead of 0.4
+				Should be in the reverse tag of the thruster instead of the C code
+			dev_mapedit.h, dev_mapedit.c
+				Copy files as is from r155i
+			dev_uniedit.h, dev_uniedit.c
+				Change "Close" button to "Exit"
+				Remove "Save as Map" button
+				Add "Center" button to center the map on the selected system
+				Modify uniedit_nameFilter to keep "_" characters
+			menu.h, menu.c
+				Replace "Editor" button by "Editors"
+				Add editors menu popup
+		Upgrade to NAEV vanilla codebase
+			Use NAEV as a build base
+			Replace ./dat by SoC ./dat
+			Merge dat changes into SoC codebase
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155i (10/12/2016)																				|
+|===============================================================================================================================|
+|																																|
+	Scripts
+		Landing
+			Added a "grey zone" between zero and land_floor, where player is cleared for landing but warned to behave themselves
+		Missions
+			Moved the spacefamily.lua script back into the neutral folder
+			On Patrol and Bounty missions, display Paying Faction and Number of Jumps in Missions Computer
+	Maps
+		Added outpost graphics :
+			T'Kil'n (K'Rinn Council)
+			Life Shell (Red Quadrant League)
+			Purr Sphere (Thirteen Planets League)
+			Halisht (Irilia)
+		Added many outposts on state-internal jump routes.
+		Added a small virtual Independant presence to inhabited systems
+	Ships
+		Balance
+			Adjusted Jump Range on all ships between 3 and 10 with most being between 4 and 6.
+			Created special outfits for fighters (see outfits)
+			Adjusted mass on non-fighter ships
+			Adjusted fighters and drones so that Tiny Bounty missions are difficult, but not impossible on the smallest ships
+	Outfits
+		Added special slot for Fighters Jump Drives, due to too high fuel range for low-cost ships
+			Added the appropriate outfits
+			Referenced them in "tech.xml"
+			Modified all fighter ships
+		Added special slot for Fighters Shields, due to shield being too strong, causing never-ending fighter-vs-fighter combat
+		Replaced negative <energy_regen> tags by <energy_usage> tags in Warp Engines
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155h (08/06/2016)																				|
+|			Based on NAEV 0.6.0 Commit e574791b09d389f59a14f56d328d312df141a28c													|
+|===============================================================================================================================|
+|																																|
+	Delete original NAEV slots
+		/dat/slots.xml
+	(C code) Upgrade Map Editor
+		When opening Save popup, select current file by description
+			(dev_mapedit.c)
+	(C code) Fix compilation warnings
+		Unused functions and variables
+			(dev_system.c ; dev_mapedit.c ; dev_mapedit.c)
+	(C code) Change reverse thrust factor constant PILOT_REVERSE_THRUST
+		Was 0.4 in NAEV universe, is 1.0 in Hoshikaze universe
+		As it is a universe-specific value, should be set in data instead of C code
+		Proper place could be <misc_reverse_thrust> tag in engine outfit XML
+			(pilot.h)
+	(C code) Fix reverse thrust use by AI issue
+		AI ship would not brake if using reverse thrust, due to acceleration clamping to [0,1] instead of [-1,1]
+			(ai.c)
+	(C code) Make NAEV generate stderr.txt and stdout.txt, then if not empty, make timestamped copies
+		Eases debugging, as most text editors automatically reload changed files
+		Timestamped copies still allow to keep track of output files for each run
+			( nfile.h ; nfile.c ; log.c )
+	(C code) Add keyboard shortcuts to Small and Death menus
+	(C code) (Branch "trade_imagearray", NAEV Pull Request #568) Improve display of commodities with images like Bar, Outfits and Shipyard
+		Add icons to commodities, displayed in the Commodity Exchange Tab of the Landing Window
+			(land_trade.c ; economy.c ; economy.h)
+		Fix compilation warnings by taking land_takeoff static variable definition out of land.h
+			(land.h ; land_takeoff.h)
+		Take all commodity exchange-related functions to new C-H files
+			(land_trade.c ; land_trade.h) + declaration in Makefle.am
+		 (Branch "ImageWidget_2_Bugfixes", NAEV Pull Request #570) Fix 2 display bugs in Image Widget
+			(tk/widget/image.c)
+				Entire widget not displayed when image is NULL
+				Widget border takes image size instead of widget size
+	Upgrade to current NAEV vanilla data
+		Debug : solve warnings in stderr about cooldown key not existing
+			Change "cooldown" to "autobrake" and change tip wording to how new key works
+				( tips.lua )
+				Add then comment debug warnings in ( conf.c ; nlua_naev.c ; options.c )
+		Mandatory : replace all GUI scripts
+			Previous version GUI scripts cause display bugs when in space
+			Replace *.lua in /dat/gui
+		Mandatory : adapt standing scripts to new AI code
+			Replace /dat/factions/standing/_common/skel.lua by new NAEV-vanilla /dat/factions/standing/skel.lua
+		Mandatory : adapt AI scripts to new AI code
+			Replace removed ai. functions by access to the standard APIs
+		Mandatory : move AI profiles from /dat/ai/_profiles/ to /dat/ai/
+			Works but with much warnings on both stderr and stdout
+		Mandatory : adapt fuel_consumption to new usage
+			Add <fuel_consumption> tag within ships' <characteristics> tag
+			Remove <fuel_consumption> tag within ships' <stats> tag
+			Remove <fuel_consumption> tag within outsets' <specific type="modification"> tag
+		Mandatory : clear obsolete tags
+			Remove <energy_regen_flat> tag from Shield Boosters
+		Mandatory : modify pilot hooks form land and jump
+			New C code added an extra call parameter for jump system or land planet
+	(C code) Upgrade to current NAEV vanilla code
+		Reference on 2015/11/05 is GitHub naev/naev Commit e574791b09d389f59a14f56d328d312df141a28c
+		Merge SoC-specific code into NAEV-vanilla
+			Minor : change startup stages from 12 to 14
+				naev.c
+			Major : merge Map Outfit Editor as is
+				Add
+					(dev_mapedit.c ; dev_mapedit.h) + reference in src/makefile.am
+				Modify
+					(menu.c ; menu.h)
+						Transform the "Editor" submenu in "Editors" and call submenu
+						Take into account arguments change in menu_main()
+				Modify
+					(dev_mapedit.c)
+						Take ito account arguments change in function map_renderNames
+						Take into account dsys_saveMap extra parameter
+						Take ito account rendering changes to be merged from dev_uniedit.c
+						Bugfix : crash after saving a map file : commented out "free(save)" at end of mapedit_saveMapMenu_save()
+					(dev_system.c ; dev_system.h)
+						Changed dsys_saveMap to accept an extra mapDescription parameter
+					(dev_uniedit.c)
+						Remove "Save Map" button
+						Comment out the use of dsys_saveMap
+			Minor : improve Editors menu with key-operated buttons
+				Modify
+					(menu.c)
+						Replace window_addButton by window_addButtonKey with addition of an extra SDLK_<letter> argument
+			Minor : improve Map Outfit Editor with key-operated buttons
+					(dev_mapedit.c)
+						Replace window_addButton by window_addButtonKey with addition of an extra SDLK_<letter> argument
+			Minor : make map file names use "_" character
+				Modify
+					(dev_uniedit.c)
+						Changed uniedit_nameFilter() to keep "_" characters
+	Scripts
+		Cleaned all scripts from debug printouts (commented only...)
+		Split the news event script to chunks : one definitions script + one content script per faction : it's much more manageable this way...
+		Modified the cargo rush script so it sometimes can be taken by a fighter with a cargo pod
+	Map
+		Added extensive background story and data elements to all 254 landable asset
+			Description and Bar text data
+			Commodities and Techs
+		Fitted Sigma and Theta Sectors as a background for the 2nd Hoshikaze novel, currently in writing by Philippe Halvick
+			Mentioned purgatorian artefacts in the Sigma sector
+			Refined the Long Link between Baartish and Arythem spaces
+			Adjusted jump distances between waypoints according to the novel
+		Cleaned up all maps so that no warning is reported in stderr
+		Added elements from the upcoming short stories from Patrick Cialf
+	Start
+		Adjusted startup ships for Pupeteer player character
+	Ships
+		Added the Fast Shell, a small freighter from the 13 Planets
+		Converted the Faithful from Freighter to Courier
+		Bugfix : properly renamed "Pirates Ion Cannon" in Stinger
+	Outfits
+		Adjusted Main Route maps to include border routes, so that 2 adjacent maps always connect
+		Adjusted between the variants of ions cannons and laser cannons
+		Cleaned up outfits dplicates :
+			"Hardpoint Standard Jammer" was still "Standard Jammer", renamed it properly and referenced it in tech.xml
+			"1x Akk'Ti'Makkt Bay" and "Price Map" duplicates were caused by wrongly copied files : removed duplicates files
+		Added new graphics from current NAEV release
+	NPCs
+		Added new portraits from current NAEV release
+	Commodities
+		Added store graphics from Vega Strike (http://vegastrike.sourceforge.net/), converted from DDS to PNG
+			Added proper lines in artwork license file
+		Added default image representing a container, used when <gfx_store> tag is absent or when an error occurs loading the file
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155g (15/08/2015)																				|
+|===============================================================================================================================|
+|																																|
+	Start
+		Adjusted startup ships with only disabling weapons
+			Fighter : 2 ion cannons
+			Freighter : 2 ion flak turrets
+			Courier : no weapon at all
+		Freighter : replaced Caravelle with Eresslih, slower and less resiliant but with more cargo space
+	Ships
+		Adjusted ship prices so that startup ships can't be exchanged too easily
+	Events
+		Fixed issue with Free Adrims ghost ship event : ship didn't move after boarding and unique event was not marked as passed
+	Missions
+		Added two pirate bounty missions, directly taken from vanilla NAEV
+		Fixed blocking issue with smuggling mission : 2nd ship didn't show up if player talked to 1st ship after boarding
+		Fixed small issue with smuggling mission : reward was not explicitely stated in the mission proposal text
+		Decreased the bounties for pirates to balance bounty hunting missions against other missions
+	Outfits
+		Adjusted fighter weapons prices up
+		Adjusted core extensions prices down
+		Added a stealth enhancement device
+		Rebuild several Main Routes maps to facilitate startup
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155f (08/08/2015)																				|
+|===============================================================================================================================|
+|																																|
+	Balance
+		Balanced beginning of game by adjusting missions, outfits and faction presence
+		Adjusted balance on the Aan Jump Route between pirates, lone ships and convoys
+			A new player's ship can not succeed in traversing the Aan route, except a fast fighter
+		Balanced outfit prices to be consistent, but there are still issues with beginning ships
+	Spawning
+		Fixed bug in spawn functions, that caused only independent ships to be generated
+	Tutorials
+		Fixed combat Tutorials
+			Captain T. Practice AI was not correct (baddie_norun)
+			In heat tuto, fighter type was incorrect and Ripper cannon was not properly implemented
+	Missions
+		Created a reco mission for fast debut fighters and couriers
+			The goal is to recon a pirate base, unknown from the player
+			Layout
+				Available when there is noticeable pirate presence and an unknown pirate asset in nearby systems
+				Price determined by target base's presence and # of jumps
+				Goals
+					Get to the base's system
+					Find and approach the target base
+					Keep near the target base for enough time for a complete scan run
+					Return to the origin system with the information
+					Land at the origin base
+		Fixed an issue with standard cargo mission, that prevented the mission to appears
+			Search for a suitable target system always failed
+			The bug made the beginning very difficult, as there was too few missions to gain money on
+			Now that it's fixed, it tends to be too easy...
+	AI
+		Fixed issue causing a refueling ship to break refuelling after being attacked
+			generic.lua : Added a new test for task "refuel"
+			There is still a risk of the refuelling ship following an attacker into hyperspace
+	Maps
+		Added new uncharted sectors linked to ex-Purgatorian territory
+		Configured the Aan sector to give purgatorian artefacts with a heavy pirates danger
+		Added a new Theta sector fit for one of the two novels currently in writing
+		Gave to landable assets the proper maps complement, dependant on their faction and place
+		Renamed Main Routes maps to get better display on Outfits tab
+	Ships and outfits
+		Added an afterburner acting on the warp drive
+		Fixed issue with some maps, which were not included in tech.xml, ans as such, never available
+	Convoy events
+		Created convoy for Instrumentality Company
+		Added a USAGE section to the comments on the convoys system
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155e (08/05/2015)																				|
+|===============================================================================================================================|
+|																																|
+	(C code) Map display
+		Impacted files : map.c
+		Extended the vertical space for Prices from 100 to 300
+		Allows to display all current commodities
+	Added living ships for Puppeteers characters :
+		Valiant lineage : Drone, Fighter, Bomber
+	Added some 1-st Generation HnH Fortresses using NAEV Za'lek graphics
+	Factions
+		Added Stellar Police, the joint L&O force on the border between Core League and Planetarist Alliance
+			Added specific spawn and standing scripts
+			Needs a specific patrol AI:
+				Probability to pick a waypoint
+				Else will either land if there is a friendly planet, or jump out
+				If within a given radius of an ennemy ship, will attack it
+				Upon armor hit, will disengage until shield is replenished
+		Added the Daneb Anarchs, a typically shaad faction based on the villages ("daneb") and their ancestral near-anarchy, and opposing the Masters' power that grew during the Industrial Age.
+	Map
+		Swapped various systems within the Planetarist Alliance and Irilia Clan, mainly to conform to the setting in the Irilia-17 "Sara Seynberg diaries" series of short stories
+		Expanded background text for many planets and stations
+		Added a variety of planets and stations to improve the fit between SoC and our in-dev paperback RPG
+	Map Outfits
+		Added map for the Long Link between Arythem Space and the Sshaad Sphere
+		Added the Irilia-4 and nearby systems to the Gham Garri map
+	Restructured the tech tree
+		Removed entirely all NAEV vanilla outfits
+		Sorted folders according to outfit slot types
+		Added "Low-tech", "Regular" and "Hi-tech" techgroups for civilian technologies
+		Gave "Low-tech" and "Regular" techs at all stations and planets, and "Hi-tech" to capitols
+	Split "Warp Drive" and "Verniers Array" slots into Small, Medium and Large versions
+		Previously, fitting a smaller sized Warp Drive and/or Verniers Array into a ship would vastly improve its performances
+		This is caused by the Thrust (meaning acceleration), Speed and Turn attributes directly setting the ship's performances
+		instead of a physical value in regard to the ship's mass
+		Now a ship can only fit properly sized Warp Drive and Verniers Array
+	(C code) Map Editor
+		Commented most debug printout
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155d (16/08/2014)																				|
+|===============================================================================================================================|
+|																																|
+	Fixed bug in K'Rinn Council map
+		System K'Tel'Kin had not been included
+		System KT 105 was thus not linked to the bulk of the map
+	Added 4 maps from the "Space Pariahs" novel by Philippe Halvick
+		Course of each of the 3 main characters on their way to the old Eeraniinal station
+		Route followed by Vole and her motley crew to escape their pursuers
+	Added the map for the independant/pirate Gamma Sector
+	Structured the Maps in tech.xml
+		Split in "Special" / "Main routes" / "Border sectors" / "Space Pariahs"
+	(C code) Map Editor
+		Display presence for the last clicked system only
+		File name, map name and map description can now be changed in the Save Map window
+		Refined tab order on the Map Editor for Main, Load and Save windows
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155c (09/08/2014)																				|
+|===============================================================================================================================|
+|																																|
+	Completed the maps of all major organisations
+		Arythem Clan
+		Ashioto Cluster
+		Baartish Intersystems (map in 2 parts)
+		Candidate Systems
+		Complementarist Protectorate
+		Core League
+		Hoshi no Hekka
+		Instrumentality Company
+		Irilia Clan (map in 3 parts)
+		Irmothem Clan
+		Ka'Ralt Secession
+		K'Rinn Council
+		Planetarist Alliance
+		Proteous Resistance
+		Purple Trail
+		Red Quadrant League
+		Rithai Kemae
+		Shadow Complex
+		Shoden Clusters
+		Thirteen Planets League (map in 2 parts)
+	(C code) [BUG] When about 110+ systems are selected, game crashes when selecting another system
+		Not linked to the modified code between uniedit.c and mapedit.c :
+			First detected in Map Editor, when editing large maps
+			Then confirmed in Universe Editor
+		Seems to be linked to the memory reallocation
+			mapedit_sys    = realloc( mapedit_sys, sizeof(StarSystem*) * mapedit_msys );
+		Supposed cause :
+			Allocated memory overlaps another memory zone, causing crash
+		Current workaround :
+			Limit editable maps to 100 systems
+			Implemented into Map Editor and Universe Editor
+	(C code) Added a "Clear" button to deselect everything
+	(C code) Added mostly functionnal Save Map button to Map Editor
+		Can only save to an existing file, not to a new file
+			No warning when overwriting a file
+			Do not change the description already set in the file
+	(C code) Replaced "Save" button by "Save As" button
+		Removed mapedit_saveMap function
+	(C code) Removed unused "Rename" button
+		Removed mapedit_btnRename function
+	(C code) Display last loaded map information
+		File name
+		Map name
+		Description
+		# of systems
+	(C code) Display current map information
+		# of systems
+		Presence if only 1 system is selected
+	(C code) dev_uniedit.c has been modifed as well :
+		Changed conditions in uniedit_nameFilter to keep "_" characters intact in the file name
+		Removed "Save Map" button and function uniedit_saveMap
+	(C code) dev_system.c has been modified as well :
+		Changed dsys_saveMap to accept an extra mapDescription parameter
+			Declared in dev_system.h
+	Scripting framework :
+		Added a mechanism for managing one-use landing passes
+			The landing script checks the presence of a pass to authorize landing
+			An event is triggered to remove one pass when landing
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155b (19/06/2014)																				|
+|===============================================================================================================================|
+|																																|
+	Map :
+		Adapted map to the scenario of a short story being written
+			Changed routes in the Candidate Systems and Thirteen Planets League
+		Adapted map to the scenario of the pre-existing short story "L'amour du risque"
+			Added systems and planets Mir and Inferno
+		Enriched system Engelstadt
+			Added a planet
+	AI scripting framework :
+		Tested a way to pass parameters between event/mission and AI scripts
+			Use the pilot.memory() and pilot.memoryCheck() function on the event/mission side
+			Translates to the mem. table on the AI side
+			Works also for passing commands and parameters
+			WARNING : works only for strings and vec2 variables
+		Split the basic.lua file into several subfiles
+			Mandatory functions for a valid AI
+			Base functions already used in several scripts
+			Split base functions into one file per category
+	(C code) moved folder for AI profiles from /dat/ai to /dat/ai/_profiles
+		Moved the actual Lua scripts to that folder
+		Makes up for a cleaner structure of the /dat/ai folder
+	(C code) management of visibility in distress messages
+		Moved define SENSOR_DEFAULT_RANGE from pilot_ew.c to pilot_ew.h
+			This makes this objects available to all modules
+		Replaced a hardcoded 7500. by SENSOR_DEFAULT_RANGE in pilot.c as base range for distress messages
+			Not satisfactory : we should check if receiving ship sees distressed ship and not the opposite
+		Added a pilot_inRangeDistress function in pilot_ew.c not to keep using pilot_inRangePilot
+			The function checks the visibility of the pilot sending he signal from the pilot receiving it
+			Distress beacons use specific signals, more powerful than usual comm broadcasts
+				Introduced a DISTRESS_MULT factor to simulate that
+	Scripting framework :
+		Converted events and missions to using ship name selection :
+			Event	: "Smugglers rendez-vous"
+			Event	: "Pirates Raid"
+			Mission	: "Standard Cargo Escort"
+	AI Scripting :
+		Explored the AI scripting system
+		Refactored the base includes to split between mandatory and utility functions
+		Added a specific debug facility
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155a (26/04/2014)																				|
+|			Not committed to SourceForge, just uploaded the file, hence the "a"													|
+|===============================================================================================================================|
+|																																|
+	Mission Editor (C code) :
+		Added an "Open Map" button
+	Outfits :
+		Added fighter bays for Akk'Ti'Makkt and Nelk'Tan
+	Factions :
+		Added "Jenac nah Ikar" : rith anti-k'rinn organization, outlawed from the Arythem Clan
+	Opening Screens :
+		Made screens, NAEV-style, from each ship present in the game
+	Map :
+		Kept on balancing presence between factions
+		Determined the location of the wreckage of liner "Anna Karenine", narrated in the short stories
+		and used in the paperback RPG scenario "Caviar and little spies"
+		Added Vigma system, where the paperback RPG scenario "Asteroïd Encounter" takes place
+		Added various lawless territories
+	Scripting framework :
+		Coded a framework for selecting values based on keywords
+		Began converting events and missions to this framework, first by using the ship type selection :
+			Event	: "Smugglers rendez-vous"
+			Event	: "Pirates Raid"
+			Mission	: "Smugglers Rendez-vous"
+			Mission	: "Standard Cargo Escort"
+	Events :
+		"Pirates Raid"
+			Added branch and hook for when the pirate mothership is destroyed
+			Fixed several bugs
+	Missions :
+		"Smugglers rendez-vous" :
+			Completed main sequence
+	AI :
+		Began debugging escort attack AI :
+			Escorts follow their target through hyperspace
+	Finished fixing the tutorials
+		01 - 05
+			OK
+		06 - Missile Combat
+			OK
+			Issue with ship's weapons, needs a ship with missiles hardpoints : fixed
+			Target drone could not be created, due to a bad fleet name : fixed
+		07 - Heat
+			Launch issues with stellar system, ships and outfits : fixed
+			Issue when completing, due to bad hook settings : fixed
+		08 - Activated outfits
+			Launch issues with stellar system, player ship and outfits : fixed
+		09 - Disabling
+			Launch issues with stellar system, ships and outfits : fixed
+			Various issues with ship spawning and equipping : fixed
+			Balance issue with disable weapons : fixed
+			Pushed message about time compression and disable damage repair befor ship
+		10 - The Planetary Screen
+			OK
+		11 - Missions and Events
+			Launch issues with stellar system and player ship spawning : fixed
+			Added system "Crossover" and asset "Abandoned Station"
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r155																							|
+|===============================================================================================================================|
+|																																|
+	Balanced presence map
+		Stronger presence inside states borders
+		Numerous Border Stations
+		Interstate routes with little presence
+		All factions were addressed, partially or totally, in 3 steps
+			General lessening of existing assets' presence range
+			Addition of border stations on interstate routes
+			Fine presence adjustment on each route
+		Still work to do to finalise Steps 2-3 on some routes
+
+	Improved status of tutorials
+		01 - Basic Operation
+			OK
+			Fixed an issue with core outfits that prevented taking off after landing to end the tutorial
+		02 - Exploration and Discovery
+			OK
+		03 - Interstellar Flight
+			OK
+		04 - Communications
+			OK
+		05 - Basic Combat
+			OK
+			Fixed issue with ship's weapons by using 2 lasers and 2 railguns
+			Note : you need to give first the railguns, then the lasers, I don't know why...
+		06 - Missile Combat
+			Issue with ship's weapons, needs a ship with missiles hardpoints
+		07 - Heat
+			Doesn't launch properly
+		08 - Activated outfits
+			Doesn't launch properly
+		09 - Disabling
+			Doesn't launch properly
+		10 - The Planetary Screen
+			OK
+		11 - Missions and Events
+			Doesn't launch properly
+
+	Improved intro
+		Made explicit the fact that you now own the old Spacer's ship, to add up to ambiance.
+
+	Modified the slim GUI
+		Always display all equipped weapons
+		A classical capital ship configuration in Hoshikaze 2250 is the following :
+			One forward-firing spinal gun or guns cluster as primary weapon
+			Point-defense turrets as secondary weapons
+			Fighter bays, as instant weapon sets
+		This was not displayed properly if bays were not part of the current weapon set
+		Used pp:weapset(true) instead of pp:weapset() in update_wset() in slim.lua
+		Could also use proposal for marking a weapon as auto-fire for point-defense turrets
+
+	Fixed some issues in brushed GUI
+		Still faulty and unuseable
+
+	Added a Carrier-Cruiser from the Core League :
+		Carrier-Cruiser : Vikramaditya
+
+	Added a Carrier and Fighter from the Shoden Clusters :
+		Carrier : Shilaan
+		Fighter : Eeshlan, available as pilotable craft or as escort
+
+	Added fighter bays in various sizes for Angry Bee Drone and Eeshlan :
+		Small  :  1x,  2x,  3x
+		Medium :  5x, 10x
+		Large  : 20x, 25x
+
+	Added asteroids fields in the Sol system for test
+		Works OK as ambiance and non-landable
+		When landable, issues with landing scripts logic
+		For now, keep them non-landable
+
+	Integrated extra C code from Tomas "toams" Nackaerts
+		Add a Lua call to limit a pilot's speed
+		Tested it in the Escort Mission
+			It seems to work OK as for practically limiting the speed
+			However it's not reported on stats
+
+	Modified Escort Mission
+		Added non-nominal events paths
+		Amount is escortee's full cargo space
+		Pay is divided in 10% in advance, 60% upon safe landing and 30% if not looted
+
+	Modified Pirate Raid Event
+		Pirates actually loots their target's cargo, up to their freighter's cargo capacity
+
+	Drafted Smugglers Mission
+		Player must rendez-vous and transfer cargo between 2 successive smuggler ships
+
+	Initialized economy prices :
+		Adjusted base prices range between 10 and 500
+			Allows for price variations between 1 (no decimal place) and 999 (max displayed price)
+		Began setting prices for all systems with assets, by alphabetical order
+			Irilia-9					Irmothem-2				Irmothem-3				Irmothem-4
+			Irmothem-6					Irmothem-7				Irmothem
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r154																							|
+|===============================================================================================================================|
+|																																|
+	Added a Text+Image popup
+		Modified C source, first used popup in startup script
+		Give image path relative to /dat/gfx
+		For now, image is resized to fit 256x256 display zone
+
+	Modified startup event :
+		Add new menu :
+			Regular money (5kcr) or ridiculously high amount (100Mcr) for debug
+		If player is a Puppeteer, give them another freighter
+			This is the Traveller's Breath, it's larger than the regular Caravelle
+			For now we have no living ship strictly equivalent to the Caravelle
+		If player character is a K'Rinn, give them Ion weapons instead of Laser ones
+		Added explanations before every menu
+			Explain the Species, States and ShipTypes choices with text and images
+			Display a debug warning before the last two choices : map and money
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r153																							|
+|===============================================================================================================================|
+|																																|
+	Add a Editors menu :
+		Map Outfit Editor, still to be perfected, but functional
+		Other editors when needed
+
+	Add Escort Mission
+		Pre-requisites :
+			Add getRouteList(nowSystem, finalSystem) to create a list of the systems along a route
+			Add looting to pirate raid event
+			Add cargo to spawned cargo ships
+		Current state :
+			Works OK if player successfully follows escortee and escortee doesn't get looted or destroyed
+			Non-nominal situations not yet coded :
+				Escortee gets looted or destroyed : need modifications to add actual loot to Pirate Raid event
+				Player strays too much in the current system after escortee jumped out
+				Player jumps in a wrong system instead of following escortee
+			Sometimes a little hard to follow escortee through, but situation is reset at each jump :
+				Two possible solutions :
+					1/ Add a speed limit to escortee so player always moves faster than escortee
+					2/ If player trails behind, they get more and more behind until they loose escortee and mission aborts
+				Different approaches :
+					(1) is easier on player and easier to code
+					(2) incites player to care about their ship's capabilities before taking a mission
+
+	Extended map :
+		Added nearly 100 new systems
+		Adapted topology of the Candidate Systems, Shadow Complex, K'Rinn Council and Irilia Clan border zone
+		to the novel "Les Parias de l'espace" ("Space Pariahs") that is currently being written by Philippe Halvick
+		Balanced economy on core Commonwealth regions
+		Added States, for a grand total of 37 factions currently
+
+	Merged with latest version of bobbens' NAEV master branch
+		Various fixes and improvements : see NAEV revision log
+		Added map outfits creation to the universe editor
+
+	Added Map Outfits given to player at startup for all 3 startup States :
+		Core League
+		Planetarist Alliance
+		K'Rinn Council
+
+	Updated economy with Barium Blue's latest version :
+		Iterative rather than matrix prices resolution
+		Fixed the universe editor for saving prices on stellar systems
+		Ongoing : fix crash in the universe editor when creating a new stellar system
+
+	Initialized economy prices :
+		Adjusted base prices range between 10 and 500
+			Allows for price variations between 1 (no decimal place) and 999 (max displayed price)
+		Began setting prices for all systems with assets, by alphabetical order
+			Aan-Hilit					Aimaa				Aka Jigoku (Gl 268)			Arcadia
+			Arythem-5					Ashaan				Ashioto						Avenir
+			Baartish					Banthory			Biimis						Cartel
+			Colony 10					Colony 14			Colony 15					Drom
+			Dwarves' Tunnels (Gl 261)	Eden (Gl 304)		Ek'Dal						Engelstadt (Gl 327)
+			Enshiin						Erdil-1				Erdil						Ergal it Nel
+			Ernalthor					Ershiilt			Eshodal						Farlander
+			Flow of Life				ForestLight			Furlong Depth				Gamma 1
+			Gamma 8						Gham Dromae			Heaven (Delta Pavonis)		Hiban
+			High Reaches				Hirvaarn			Hope (Tau Ceti)				H'Rkann
+			Irilia-1					Irilia-10			Irilia-11					Irilia-12 (KT-134)
+			Irilia-13					Irilia-14			Irilia-15					Irilia-16
+			Irilia-17					Irilia-18			Irilia-2					Irilia-4
+			Irilia-5					Irilia-6			Irilia-7					Irilia-8
+			Irilia-9
+
+	At the same time, completed description and history on many assets
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r152																							|
+|===============================================================================================================================|
+|																																|
+	Fixed bug in spawning scripts :
+		In common script :
+			dat\factions\spawn\_common\common.lua
+		When called by independent spawning script :
+			dat\factions\spawn\independent.lua
+		Sometimes no pilot was generated and the script hung on an (stable==nil)
+		Added a check on that condition to gracefully return
+	Modified map :
+		Added pirate assets on Gamma Sector
+		Fixed consistency bugs on some planets, notably Arythem-5
+		Deleted all hidden attributes on jump points
+			Jump point accessibility will be managed with "hide" attributes only
+		Added the Tikk'Nal Cluster :
+			A corridor with independent and pirate presence
+			Set between Ashioto and K'Rinn Council, with links to the Hoshi no Hekka
+			Used for smuggling purgatorian artifacts from Ashioto to k'rinn space
+	Economy :
+		Added set prices for comodities on major systems
+		Currently running in static mode due to issue with economy events : see below
+		Added a "Ziffellan Minidragons" commodity for test
+	Added a "Running Demo" to Tutorials menu
+		Still in dvelopment, but will not progress further
+			There is no way to fire events while docked
+			Maybe make a space-only demo
+		Current scenario :
+			All control keys are disabled
+			Player ship appears near Mars and lands on Mars
+			Demo stops when landing
+		Scenario to develop :
+			Demonstrate all landing panels
+			Show autonav, map and overlay map
+			Navigate to a distant system with time compressing
+			Activate various events
+	Updated events :
+		DISABLED Economic event :
+			DO NOT RE-ENABLE : will freeze the game
+				Issue with matrix calculations when updating prices
+				Still under investigation
+				May require a fix in the economy system itself
+			Prices go back to their original value over multiple steps
+		Pirates Raid
+			Pirate ships now use disable-only weapons to prevent random player demise
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r151																							|
+|===============================================================================================================================|
+|																																|
+	Updated this file accordingly to actual revision contents
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r150																							|
+|===============================================================================================================================|
+|																																|
+	Deleted an old exe
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r149																							|
+|===============================================================================================================================|
+|																																|
+	Fixed error on space.c, made after latest Windows compile,
+	but that prevented further compiling and thus usage by Linux users
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r148																							|
+|===============================================================================================================================|
+|																																|
+	Updated NAEV version :
+		0.6.0 Economy by Barium Blue		commit db436073d958e74b63f12ef451bafa7be433e3d4
+		Fix for planet.commoditiesSold()	commit 0ca44c3cd20871e99891154c27371e712d4658ae
+	Reworked Barium Blue's Economy Event
+		Fixed issue with long computation time
+		Cleaned save variable by making other variables local
+		Reduced the event to one commodity
+	Activated and converged main cargo missions :
+		"Regular Cargo", "Rush Cargo", "Ship Cargo" (thanks to Westley)
+		Converged with same destination selection system
+		Added a presence-sensitive trigger to limit missions availability in presence-poor systems
+	Added Outfits :
+		Licenses
+			Still to test, not yet conclusive
+		Prices Map
+			Allows to see the prices in all systems
+		Pirates Sensor Suite
+			Tought to fit the Pirates Raid event
+			Were in fine not conclusive
+		Pirates Ion Cannon
+			A stronger ion cannon fit to disable a target ship
+			Used in the Pirates Raid event
+	Modified script :
+		Smugglers Rendez-Vous
+			Added names for the ships
+	Added Script :
+		Pirates Raid
+	Merged credits :
+		Original NAEV credits
+		Hoshikaze 2250 credits
+		Specific Stars of Call credits
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r147 on new SF repository																		|
+|===============================================================================================================================|
+|																																|
+	Fake revisions for updating the Sourceforge repository
+		Issues when updating forced to commit a few files at a time, and sometimes even one file at a time
+		r147 was a try, worked OK on first pass, so r148 only holds this file
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r146																							|
+|===============================================================================================================================|
+|																																|
+	Changed intro :
+		Dramatically shortened text
+		Put more emotions and empathy towards the Spacers' way of life
+	Added faction :
+		Akta Manniskor :
+			An extremist Human faction aiming at building übermenschen by eugenics,
+			but refusing AIs, cyber-implants, gengineering and nanobiotics,
+			and overtly xenophobic against any non-Human.
+	Added assets :
+		Asteroid stations using various models from solcommand at http://www.solcommand.com/
+		Surveyor buoys using a model from solcommand
+		Nya Jorden : home of the Akta Manniskor faction
+	Modified assets :
+		EWS buoys replacing the standard buoy model by a model from solcommand
+		Changed text on Tuskegee Training Academy
+	Added systems :
+		Nya Jorden
+	Added ships :
+		Eresslih	Cargo
+		StarJump	Cargo
+	Modifed ships :
+		Nelk'Tan		Enhanced propulsion, to be significantly faster than cargoes
+		Akk'Ti'Makkt	Enhanced propulsion, to be significantly faster than cargoes
+	Added event :
+		Smugglers Rendez-vous
+			Two ships jump in the current system,
+			they rendez-vous at a remote point, stop while they exchange some cargo,
+			then they jump away to separate systems
+			Active only in systems with minimal non-pirate presence
+	Improved scripting :
+		Added switches to the setPassThroughCourse function to disable selection of planets or jumppoints
+		Grouped several useful functions into _common folders
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r142-r145 on new SF repository																	|
+|===============================================================================================================================|
+|																																|
+	Fake revisions for updating the Sourceforge repository
+		Issues when updating forced to commit a few files at a time, and sometimes even one file at a time
+		So r142 to r145 are only partial commits and should not be used, they will likely not run
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r141																							|
+|===============================================================================================================================|
+|																																|
+	Added new asteroid station sprite
+		From solcommand's model "Kono Station" at http://www.solcommand.com/2011/11/kono-asteroid-station.html
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r086-r140 on new SF repository																	|
+|===============================================================================================================================|
+|																																|
+	Fake revisions for migrating the Sourceforge repository
+		Old repository had advanced up to r101
+		New repository was created at r85 and never updated
+		Issues when updating forced to commit a few files at a time, and sometimes even one file at a time
+		So r86 to r140 are only partial commits and should not be used, they will likely not run
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r101 (old numbering)																			|
+|===============================================================================================================================|
+|																																|
+	Added new ships:
+		"Keserlan"
+		"Arshiilan"
+	Fixed tutorial so they work OK with the SoC dataset:
+		OK up to Tutorial #06 : Missile combat
+		Still some things to adapt, but fixed tutorials work OK
+	Added startup options:
+		Player Character species
+			"Human"
+			"K'Rinn"
+			"Pupeteer"
+			"Rith"
+			"Shapeshifter"
+			"Sshaad"
+		Type of ship
+			"Fighter"
+			"Freighter"
+			"Courier"
+		Startup state:
+			Currently:
+				"Core League"
+				"Planetarist Alliance"
+				"K'Rinn Council"
+			To be done:
+				Add other main states
+				Give the player a map of the startup state
+	Added persisted variable:
+		"pc_species"
+			Player Character species
+			In some missions, messages and even the course of the mission depend on that variable
+			In future releases, will be used for selectng NPC dialogs, events and missions
+	Added events:
+		"Shipwreck"
+			From vanilla NAEV "Shipwreck" event
+			Gives the player an incentive to explore the map
+		"Adrim Shipwreck"
+			Introduces the Free Adrims faction
+			Depends on the Player Character species
+		"Duel between Adrim and Gham Garri"
+			Introduces the Free Adrim and Gham Garri factions
+				A FA ship is pursued by a squadron of GG fighters
+				In early encounters, the GG squadron is weak and easily defeated
+				In subsequent occurences, the FA ship is more at risk of being destroyed
+			Current statut:
+				Only the base duel itself is scripted
+				No other ship takes part in the battle
+				No strong incentive for player implication, and no reward for player choosing a side
+			In future releases, player will be incited to take a side
+|																																|
+|===============================================================================================================================|
+
+
+|===============================================================================================================================|
+|								r098																							|
+|===============================================================================================================================|
+|																																|
+	Added these 3 Readme files :
+		SOC-NAEV-TC-CREDITS.txt
+		SOC-NAEV-TC-README.txt
+		SOC-NAEV-TC-REVISIONS.txt
+|																																|
+|===============================================================================================================================|
+

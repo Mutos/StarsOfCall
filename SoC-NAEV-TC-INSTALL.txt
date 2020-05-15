@@ -1,0 +1,100 @@
+|===============================================================|
+|						Windows Installation					|
+|===============================================================|
+|																|
+	Copy the release folder wherever it suits you
+		You can delete the lin64 folder if you want
+		However, it's better to always keep the release as is
+	Use shortcut "NAEV-Win32" or "NAEV-Win64"
+		Links to <release_folder>\bin\win<xx>\naev.exe
+|																|
+|===============================================================|
+
+
+|===============================================================|
+|						Linux Installation						|
+|===============================================================|
+|																|
+	Copy the release folder wherever it suits you
+	Open a terminal and go to the release folder
+		cd <release_folder>
+	Configure compilation options
+		./autogen.sh
+	Go to the Linux folder
+		cd bin/lin64
+	Generate makefiles
+		../../configure
+	Compile the executable
+		make
+	Run naev from the link in the release folder
+		cd ../..
+		./SoC-NAEV-lin64
+|																|
+|===============================================================|
+
+
+|===============================================================|
+|					Compiling under win32/win64					|
+|===============================================================|
+|																|
+	Copy the release folder wherever it suits you
+		- You have to have a suitable compiler installed
+		- A recommanded package is MSYS2/MinGW
+		- For further precisions, see:
+			http://wiki.naev.org/wiki/Compiling_Win
+	Open a terminal and go to the release folder
+		cd <release_folder>
+	Configure compilation options
+		./autogen.sh
+	Go to the Windows folder
+		cd bin/win32
+			or
+		cd bin/win64
+	Generate makefilesc
+		../../configure
+	Compile the executable
+		make
+	If need be, copy the executable to the win32 folder
+		File
+			naev.exe
+		From
+			./bin/win32/src/
+				or
+			./bin/win64/src/
+		To
+			./bin/win32/
+	Run naev from the batch in the release folder
+		Soc-NAEV-win32.bat
+			or
+		Soc-NAEV-win64.bat
+|																|
+|===============================================================|
+
+
+|===============================================================|
+|						Data configuration						|
+|===============================================================|
+|																|
+	SoC release folder is configured with
+		- ./naev-data
+			All local data
+			Contains :
+				Configuration file
+					conf.lua
+				Logs
+					logs/
+				Temp files
+					collisions/
+					nebula/
+				Saved games
+					saves/
+				Screenshots
+					screenshots/
+			Referenced by the game from :
+				./datapath.lua
+		- ./dat
+			Universe data
+			Referenced by the game by default
+|																|
+|===============================================================|
+
