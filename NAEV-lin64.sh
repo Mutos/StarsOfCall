@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ClearIntegration folder
-rm -f Integration/*
+rm -f -r Integration/*
 
 # Create links to all files and folders in naev repository
 cd Repositories/naev
