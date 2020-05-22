@@ -1,19 +1,24 @@
 #!/bin/sh
 
+# set paths
+OutputPath=../../../appdata-SoC/starmap
+StarmapPath=../../naev/utils/starmap
+StarmapOriginalPath=Repositories/utils/starmap
+
 # Clear starmap files in Repositories folder
 rm -f -r Repositories/dat
 ln -s SoC-dat Repositories/dat
 
-rm -f -r Repositories/utils/starmap/dataloader.py
-ln -s ../../naev/utils/starmap/dataloader.py Repositories/utils/starmap/dataloader.py
+rm -f -r $StarmapOriginalPath/dataloader.py
+ln -s $StarmapPath/dataloader.py $StarmapOriginalPath/dataloader.py
 
-rm -f -r Repositories/utils/starmap/naevdata.py
-ln -s ../../naev/utils/starmap/naevdata.py Repositories/utils/starmap/naevdata.py
+rm -f -r $StarmapOriginalPath/naevdata.py
+ln -s $StarmapPath/naevdata.py $StarmapOriginalPath/naevdata.py
 
-rm -f -r Repositories/utils/starmap/starmap.py
-ln -s ../../naev/utils/starmap/starmap.py Repositories/utils/starmap/starmap.py
+rm -f -r $StarmapOriginalPath/starmap.py
+ln -s $StarmapPath/starmap.py $StarmapOriginalPath/starmap.py
 
 # Actually launch python starmap
-cd Repositories/utils/starmap/
-python starmap.py 1>starmap.svg 2>starmap.log
+cd $StarmapOriginalPath/
+python starmap.py 1>$OutputPath/starmap.svg 2>$OutputPath/starmap.log
 cd ../../..

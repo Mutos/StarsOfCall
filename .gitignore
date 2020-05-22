@@ -7,10 +7,12 @@ appdata-SoC/collisions
 appdata-SoC/nebula
 appdata-SoC/saves
 appdata-SoC/logs
+appdata-SoC/starmap
 appdata-SoC/conf.lua.backup
 
 appdata-NAEV/collisions
 appdata-NAEV/nebula
 appdata-NAEV/saves
 appdata-NAEV/logs
+appdata-SoC/starmap
 appdata-NAEV/conf.lua.backup
