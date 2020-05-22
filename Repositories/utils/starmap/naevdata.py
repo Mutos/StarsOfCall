@@ -1,1 +1,0 @@
-../../naev/utils/starmap/naevdata.py
