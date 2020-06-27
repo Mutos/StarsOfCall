@@ -28,8 +28,14 @@ REM Links dat to the SoC-dat repository itelf
 RMDIR dat
 MKLINK /J .\dat ..\Repositories\SoC-dat
 
+REM Issue #1087 Workaround 1/2
+COPY /Y ..\appdata-SoC\conf-REF.lua ..\appdata-SoC\conf.lua
+
 REM Actually launch NAEV in SoC-lin64 configuration
 .\bin\win32\naev.exe
+
+REM Issue #1087 Workaround 2/2
+COPY /Y ..\appdata-SoC\conf-REF.lua ..\appdata-SoC\conf.lua
 
 REM restore current folder
 CD %CurrentDir%
