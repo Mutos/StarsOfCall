@@ -19,7 +19,13 @@ echo "datapath=\"../appdata-NAEV\"" > Integration/datapath.lua
 rm Integration/dat
 ln -s ../Repositories/naev/dat Integration/dat
 
+# Issue #1087 Workaround 1/2
+# cp -f ./appdata-NAEV/conf-REF.lua ./appdata-NAEV/conf.lua
+
 # Actually launch NAEV in SoC-lin64 configuration
 cd Integration
 ./bin/lin64/naev
 cd ..
+
+# Issue #1087 Workaround 2/2
+# cp -f ./appdata-NAEV/conf-REF.lua ./appdata-NAEV/conf.lua

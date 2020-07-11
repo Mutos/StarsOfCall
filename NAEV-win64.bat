@@ -29,13 +29,13 @@ RMDIR dat
 MKLINK /J .\dat ..\Repositories\naev\dat
 
 REM Issue #1087 Workaround 1/2
-COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
+REM COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
 
 REM Actually launch NAEV in SoC-lin64 configuration
 .\bin\win64\naev.exe
 
 REM Issue #1087 Workaround 2/2
-COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
+REM COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
 
 REM restore current folder
 CD %CurrentDir%
