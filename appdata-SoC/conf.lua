@@ -1,4 +1,3 @@
-conf_nosave = true
 -- START GENERATED SECTION
 -- The contents of this section will be rewritten by Naev!
 
@@ -30,12 +29,12 @@ engineglow = true
 
 -- The window size or screen resolution
 -- Set both of these to 0 to make Naev try the desktop resolution
-width = 0
-height = 0
+width = 1920
+height = 1080
 
 -- Factor used to divide the above resolution with
 -- This is used to lower the rendering resolution, and scale to the above
-scalefactor = 1.000000
+scalefactor = 1,000000
 
 -- Run Naev in full-screen mode
 fullscreen = true
@@ -67,15 +66,15 @@ snd_pilotrel = true
 -- Enables EFX extension for OpenAL backend.
 al_efx = true
 
--- Size of the OpenAL music buffer (in kilobytes).
+-- Size of the OpenAL music buffer (in kibibytes).
 al_bufsize = 128
 
 -- Disable all sound
 nosound = true
 
 -- Volume of sound effects and music, between 0.0 and 1.0
-sound = 0.400000
-music = 0.800000
+sound = 0,000000
+music = 0,000000
 
 -- The name or numeric index of the joystick to use
 -- Setting this to nil disables the joystick support
@@ -93,16 +92,16 @@ repeat_freq = 30
 -- At 1.0, no sprites are scaled
 -- zoom_far should be less then zoom_near
 zoom_manual = false
-zoom_far = 0.500000
-zoom_near = 1.000000
+zoom_far = 0,000000
+zoom_near = 1,000000
 
 -- Zooming speed in factor increments per second
-zoom_speed = 0.250000
+zoom_speed = 0,000000
 
 -- Zooming modulation factor for the starry background
-zoom_stars = 1.000000
+zoom_stars = 1,000000
 
--- Font sizes (in pixels) for NAEV
+-- Font sizes (in pixels) for Naev
 -- Warning, setting to other than the default can cause visual glitches!
 -- Console default: 10
 font_size_console = 10
@@ -118,10 +117,10 @@ font_size_small = 10
 -- font_name_monospace = "/path/to/file.ttf"
 
 -- Sets the velocity (px/s) to compress up to when time compression is enabled.
-compression_velocity = 5000.000000
+compression_velocity = 5000,000000
 
 -- Sets the multiplier to compress up to when time compression is enabled.
-compression_mult = 200.000000
+compression_mult = 200,000000
 
 -- Redirects log and error output to files
 redirect_file = true
@@ -136,10 +135,10 @@ afterburn_sensitivity = 250
 mouse_thrust = 1
 
 -- Maximum interval to count as a double-click (0 disables).
-mouse_doubleclick = 0.500000
+mouse_doubleclick = 0,000000
 
 -- Condition under which the autonav aborts.
-autonav_abort = 0.900000
+autonav_abort = 0,000000
 
 -- Enables developer mode (universe editor and the likes)
 devmode = true
