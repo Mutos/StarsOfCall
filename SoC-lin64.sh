@@ -24,8 +24,11 @@ ln -s ../Repositories/SoC-dat Integration/dat
 
 # Actually launch NAEV in SoC-lin64 configuration
 cd Integration
-./bin/lin64/naev
+DRI_PRIME=1 ./bin/lin64/naev
 cd ..
+
+# Clear Integration folder
+rm -f -r Integration/*
 
 # Issue #1087 Workaround 2/2
 # cp -f ./appdata-SoC/conf-REF.lua ./appdata-SoC/conf.lua

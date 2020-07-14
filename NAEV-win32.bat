@@ -1,14 +1,21 @@
 @ECHO OFF 
 REM Change to the integration folder
 SET CurrentDir=%~dp0
+
+REM Change to Integration folder
 CD Integration
 
-REM Create links to naev repository's folders
+REM Clean Integration folder
 FOR /D %%F in (*) do (
 	IF NOT "%%~nF"=="" (
-		RMDIR .\%%~nF
+		RMDIR %%~nF
 	)
 )
+FOR %%F in (*.*) do (
+	DEL %%F
+)
+
+REM Create links to naev repository's folders
 FOR /D %%F in (..\Repositories\naev\?*) do (
 	IF NOT "%%~nF"=="" (
 		MKLINK /J  .\%%~nF ..\Repositories\naev\%%~nF
@@ -36,6 +43,17 @@ REM Actually launch NAEV in SoC-lin64 configuration
 
 REM Issue #1087 Workaround 2/2
 REM COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
+
+REM Clean Integration folder
+FOR /D %%F in (*) do (
+	IF NOT "%%~nF"=="" (
+		RMDIR .\%%~nF
+	)
+)
+FOR %%F in (*.*) do (
+	DEL %%F
+)
+PAUSE
 
 REM restore current folder
 CD %CurrentDir%
