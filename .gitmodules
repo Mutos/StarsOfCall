@@ -1,9 +1,9 @@
 [submodule "Repositories/naev"]
 	path = Repositories/naev
-	url = https://Mutos:Lisounette2303!@github.com/Mutos/naev.git
+	url = https://github.com/Mutos/naev.git
 [submodule "Repositories/SoC-dat"]
 	path = Repositories/SoC-dat
-	url = https://Mutos:Lisounette2303!@github.com/Mutos/SoC-dat.git
+	url = https://github.com/Mutos/SoC-dat.git
 [submodule "Repositories/check"]
 	path = Repositories/check
-	url = https://Mutos:Lisounette2303!@github.com/Mutos/naev.git
+	url = https://github.com/Mutos/naev.git
