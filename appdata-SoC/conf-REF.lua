@@ -1,4 +1,4 @@
-conf_nosave = true
+conf_nosave = 1
 -- START GENERATED SECTION
 -- The contents of this section will be rewritten by Naev!
 
@@ -67,7 +67,7 @@ snd_pilotrel = true
 -- Enables EFX extension for OpenAL backend.
 al_efx = true
 
--- Size of the OpenAL music buffer (in kilobytes).
+-- Size of the OpenAL music buffer (in kibibytes).
 al_bufsize = 128
 
 -- Disable all sound
@@ -102,7 +102,7 @@ zoom_speed = 0.250000
 -- Zooming modulation factor for the starry background
 zoom_stars = 1.000000
 
--- Font sizes (in pixels) for NAEV
+-- Font sizes (in pixels) for Naev
 -- Warning, setting to other than the default can cause visual glitches!
 -- Console default: 10
 font_size_console = 10
@@ -148,7 +148,7 @@ devmode = true
 devautosave = true
 
 -- Save the config everytime game exits (rewriting this bit)
-conf_nosave = 0
+conf_nosave = 1
 
 -- Enables FPU exceptions - only works on DEBUG builds
 fpu_except = false
