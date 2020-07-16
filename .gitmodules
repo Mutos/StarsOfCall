@@ -6,4 +6,4 @@
 	url = https://github.com/Mutos/SoC-dat.git
 [submodule "Repositories/check"]
 	path = Repositories/check
-	url = https://github.com/Mutos/naev.git
+	url = https://github.com/naev/naev.git
