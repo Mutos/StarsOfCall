@@ -41,6 +41,9 @@ REM COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
 REM Actually launch NAEV in SoC-lin64 configuration
 .\bin\win64\naev.exe
 
+REM pause
+REM exit
+
 REM Issue #1087 Workaround 2/2
 REM COPY /Y ..\appdata-NAEV\conf-REF.lua ..\appdata-NAEV\conf.lua
 
