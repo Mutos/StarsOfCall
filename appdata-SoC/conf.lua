@@ -1,4 +1,3 @@
-conf_nosave = 1
 -- START GENERATED SECTION
 -- The contents of this section will be rewritten by Naev!
 
@@ -38,7 +37,7 @@ height = 0
 scalefactor = 1.000000
 
 -- Run Naev in full-screen mode
-fullscreen = true
+fullscreen = false
 
 -- Use video modesetting when fullscreen is enabled (SDL2-only)
 modesetting = false
