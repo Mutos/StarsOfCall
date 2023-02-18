@@ -4,7 +4,7 @@
   <naev>0.10.4+dev</naev>
   <data>Sea of Darkness</data>
  </version>
- <last_played>1676714534</last_played>
+ <last_played>1676748420</last_played>
  <plugins/>
  <diffs/>
  <player name="Mutos">
@@ -62,9 +62,9 @@
     <outfit slot="0">Laser Cannon MK1</outfit>
    </outfits_weapon>
    <commodities>
-    <commodity quantity="1">Olivine</commodity>
-    <commodity quantity="1">Generic Food</commodity>
     <commodity quantity="1">Human Food</commodity>
+    <commodity quantity="1">Generic Food</commodity>
+    <commodity quantity="1">Olivine</commodity>
    </commodities>
    <weaponsets autoweap="1" active_set="0" aim_lines="0">
     <weaponset inrange="0" manual="0" id="0"/>
@@ -95,9 +95,9 @@
  <events_done/>
  <escorts/>
  <metadata>
-  <last_played>1676714534</last_played>
+  <last_played>1676748420</last_played>
   <date_created>1676392336</date_created>
-  <time_played>848.000000</time_played>
+  <time_played>875.000000</time_played>
   <dmg_done_shield>0.000000</dmg_done_shield>
   <dmg_done_armour>0.000000</dmg_done_armour>
   <dmg_taken_shield>100.000000</dmg_taken_shield>
@@ -150,13 +150,13 @@
  </missions>
  <events/>
  <news>
-  <article title="Welcome to Universal News Feed." desc="All the headlines all the time." faction="Independent" date="0" date_to_rm="30187335819577" id="84" priority="-1" tag="header"/>
-  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Luxury Goods on Tenal-P is now 241 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187311380577" date_to_rm="30187381754577" id="85" priority="6"/>
-  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two decaperiods floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Independent" date="30187311158875" date_to_rm="30187411954875" id="54" priority="6" tag="Amazing Survival Story"/>
-  <article title="Emperor's Aid Gets Hitched" desc="Imperial secretary Karil Lorenze married long time fiancee Rachid Baouda in the future palace gardens on Emperor's Fist. His Eminence the Bishop of Bao performed the ceremony." faction="Empire" date="30187288808050" date_to_rm="30187387336050" id="33" priority="6" tag="Emperor's Aid Gets Hitched"/>
-  <article title="Commodity Trading Likened to Gambling" desc="In a controversial statement, one activist has likened commodity trading to gambling. &quot;It's legalized gambling, plain and simple! Right now the price of Diamond on Tenal-P is 181 ¤ per tonne, for example, but everyone knows the price fluctuates. Tomorrow it could be lower, or it could be higher. Who knows? Frankly, it is my firm opinion that this 'commodity trading' is self-destructive and needs to stop.&quot;" faction="Generic" date="30187269033875" date_to_rm="30187362033875" id="45" priority="6"/>
-  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Luxury Goods on Dolmen to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 590 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187255330050" date_to_rm="30187338791050" id="34" priority="6"/>
-  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 192&#10;Food: 129&#10;Gold: 519&#10;Industrial Goods: 363&#10;Luxury Goods: 595&#10;Medicine: 642&#10;Ore: 183&#10;Water: 196&#10;Ziffelan Minidragons: 9,817&#10;&#10;Jupiter Station in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 485&#10;Industrial Goods: 375&#10;Luxury Goods: 555&#10;Medicine: 580&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,263&#10;&#10;Mars in Sol&#10;Diamond: 197&#10;Food: 142&#10;Gold: 515&#10;Industrial Goods: 363&#10;Luxury Goods: 590&#10;Medicine: 643&#10;Ore: 185&#10;Water: 204&#10;Ziffelan Minidragons: 10,191&#10;&#10;New Taxaco in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 486&#10;Industrial Goods: 377&#10;Luxury Goods: 557&#10;Medicine: 580&#10;Ore: 194&#10;Water: 186&#10;Ziffelan Minidragons: 9,282&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 373&#10;Luxury Goods: 554&#10;Medicine: 578&#10;Ore: 192&#10;Water: 185&#10;Ziffelan Minidragons: 9,235" faction="Generic" date="30187335818577" date_to_rm="30187335819577" id="86" priority="11" tag="econ"/>
+  <article title="Welcome to Universal News Feed." desc="Fair and unbiased news." faction="Independent" date="0" date_to_rm="30187335819577" id="88" priority="-1" tag="header"/>
+  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Luxury Goods on Tenal-P is now 241 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187311380577" date_to_rm="30187381754577" id="86" priority="6"/>
+  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two decaperiods floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Independent" date="30187311158875" date_to_rm="30187411954875" id="55" priority="6" tag="Amazing Survival Story"/>
+  <article title="Emperor's Aid Gets Hitched" desc="Imperial secretary Karil Lorenze married long time fiancee Rachid Baouda in the future palace gardens on Emperor's Fist. His Eminence the Bishop of Bao performed the ceremony." faction="Empire" date="30187288808050" date_to_rm="30187387336050" id="34" priority="6" tag="Emperor's Aid Gets Hitched"/>
+  <article title="Commodity Trading Likened to Gambling" desc="In a controversial statement, one activist has likened commodity trading to gambling. &quot;It's legalized gambling, plain and simple! Right now the price of Diamond on Tenal-P is 181 ¤ per tonne, for example, but everyone knows the price fluctuates. Tomorrow it could be lower, or it could be higher. Who knows? Frankly, it is my firm opinion that this 'commodity trading' is self-destructive and needs to stop.&quot;" faction="Generic" date="30187269033875" date_to_rm="30187362033875" id="46" priority="6"/>
+  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Luxury Goods on Dolmen to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 590 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187255330050" date_to_rm="30187338791050" id="35" priority="6"/>
+  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 192&#10;Food: 129&#10;Gold: 519&#10;Industrial Goods: 363&#10;Luxury Goods: 595&#10;Medicine: 642&#10;Ore: 183&#10;Water: 196&#10;Ziffelan Minidragons: 9,817&#10;&#10;Jupiter Station in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 485&#10;Industrial Goods: 375&#10;Luxury Goods: 555&#10;Medicine: 580&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,263&#10;&#10;Mars in Sol&#10;Diamond: 197&#10;Food: 142&#10;Gold: 515&#10;Industrial Goods: 363&#10;Luxury Goods: 590&#10;Medicine: 643&#10;Ore: 185&#10;Water: 204&#10;Ziffelan Minidragons: 10,191&#10;&#10;New Taxaco in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 486&#10;Industrial Goods: 377&#10;Luxury Goods: 557&#10;Medicine: 580&#10;Ore: 194&#10;Water: 186&#10;Ziffelan Minidragons: 9,282&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 373&#10;Luxury Goods: 554&#10;Medicine: 578&#10;Ore: 192&#10;Water: 185&#10;Ziffelan Minidragons: 9,235" faction="Generic" date="30187335818577" date_to_rm="30187335819577" id="89" priority="11" tag="econ"/>
  </news>
  <vars>
   <var name="_fcap_dvaered" type="num">40.000000</var>
@@ -181,6 +181,10 @@
   </faction>
   <faction name="Collective">
    <standing>-100.000000</standing>
+  </faction>
+  <faction name="Core League">
+   <standing>20.000000</standing>
+   <known/>
   </faction>
   <faction name="Dreamer Clan">
    <standing>-10.000000</standing>
@@ -249,9 +253,9 @@
  <hooks>
   <hook type="misn">
    <parent>1</parent>
-   <func>enter</func>
-   <id>22</id>
-   <stack>enter</stack>
+   <func>land</func>
+   <id>20</id>
+   <stack>land</stack>
   </hook>
   <hook type="misn">
    <parent>1</parent>
@@ -261,9 +265,9 @@
   </hook>
   <hook type="misn">
    <parent>1</parent>
-   <func>land</func>
-   <id>20</id>
-   <stack>land</stack>
+   <func>enter</func>
+   <id>22</id>
+   <stack>enter</stack>
   </hook>
  </hooks>
  <space>
