@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="BI 0050">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3891.368000</x>
+  <y>-160.080000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="Aimaa">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="BI 0048">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="BI 0049">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="BI 0051">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

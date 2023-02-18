@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aan-Neel Border Station">
+ <pos>
+  <x>-1192.452708</x>
+  <y>-7287.210994</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>450.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>12500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Guarding the Instrumentality side of the jump route to the Baartish, this station is sshaaded by the Instrumentality's elite squadrons. Both States agreed on a peaceful division of influence, but that does not absolutely guarantee that no smuggler or pirate will ever try to make profit out of the border zone.
+  </description>
+  <bar>Proud sshaad pilots with Instrumentality badges on them.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

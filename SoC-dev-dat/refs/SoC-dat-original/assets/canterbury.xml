@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Canterbury">
+ <pos>
+  <x>-1752.702774</x>
+  <y>5147.177768</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007b-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>25.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This is the scavenged hull of the Canterbury, the third Zheng-He-class Deep Space Explorer, commissionned in 2135 with its sistership the Tantra to investigate the presumed loss of the Persephone. The Canterbury suffered the same fate as the Persephone, but the outcome was different : the hull was transformed by its crew into a makeshift station.
+
+The Zheng He-class ships used high-energy warp engines, optimized for high acceleration over long runs and fast burns for evasive maneuvers in the face of unforeseen dangers. Ironically, this caused the demise of the Persephone and Canterbury, as this configuration was similar to that of a highly unstable slingshot stations. Used in the vicinity of a jump point, they made the spacetime around a maelstrom of gravitational and electromagnetic anomalies, then ultimately short-circuited the jump point with another remote one, acting like a seemingly random slingshot jump.
+
+As the two vessels reached the location of the Persephone's disappearance in Gliese 667, the Canterbury investigated the sector and became stuck in the same phenomenom as the Persephone, unknowing that it was of its own making and that any attempt to escape was strenghtening the trap. The Tantra had orders to not intervene and its crew witnessed with broken hearts their sistership vanish apparently into nothing. They didn't approach, but sent drones and shuttles to cautiously study the spacetime anomaly. Their results would eventually lead to the discovery of the jump theory and jump network.
+
+The Canterbury random-jumped to a remote system, with crew casualties and failing system. It somehow found a ringed gas giant in the star's life zone to orbit around and try to heal their wounds, using the hydrogen and ore they could collect around the planet. In the process, the crew decided to turn the hull into a makeshift station in the hope that, using the data recorded by the Tantra, Earth would be able to come to their rescue.
+
+Their descendants were discovered nearly a hundred years later, by an independant k'rinn mining ship routinely scooping hydrogen in what they thought was an uninhabited system. The small hull indeed escaped the sensors of many scooping ships for decades and was only spotted by sheer chance. The contact with the K'Rinns was a shock to the crew, as well as the revelation of the history meanwhile, with the Fringe Wars and the founding of the Commonwealth.
+
+It is of notice, that following the presumed loss of the EDSE Canterbury and later another namesake belonging to the Better Worlds, no Human Spacer would ever name a ship "Canterbury", as under an enduring myth, the name is said to be cursed.
+  </description>
+  <bar>(null)</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

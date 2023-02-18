@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Savage Lands Border Station">
+ <pos>
+  <x>3838.197215</x>
+  <y>4415.036102</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-003-Military-100px.png</space>
+  <exterior>Outpost-PurrSphere-003-Military-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>100.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>29500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>None</description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

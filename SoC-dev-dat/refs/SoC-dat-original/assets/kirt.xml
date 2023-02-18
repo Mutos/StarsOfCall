@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Kirt">
+ <pos>
+  <x>4673.428604</x>
+  <y>-4645.481473</y>
+ </pos>
+ <GFX>
+  <space>M06.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1850000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Kirt is the second colonized planet of the E'Kin system. In usual k'rinn fashion, it has been first thoroughly h'rkannformed during many decades before the first domed city could be built. Since that first city, many more have developped and over time, they have grown outside their domes.
+
+Kirt is still somewhat eclipsed by the H'Rkann. Despite its importance as a trade hub and its recent cultural explosion, it still lags behind the cradleworld and Council capitol.
+
+However, in recent years, some major concerns have established strong representation on Kirt and native organizations are becoming powerful enough to rival their h'rkannian concurrents. It is rumored that the tide is turning and that now, Kirt will soon become the new beacon of the K'Rinns.
+
+But this point of view is mostly spread by Humans, Sshaads and Rithai, who find it hard to understand the k'rinns' cooperative mindset. Pupeteers rather use to say that the twin planets are slowly reaching a balance and that ultimately, it will benefit both.
+  </description>
+  <bar>A large crowd of Kirters and Spacers, mostly K'Rinns, but people from all known sentient species can also be seen</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

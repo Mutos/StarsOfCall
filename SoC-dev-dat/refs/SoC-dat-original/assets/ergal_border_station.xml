@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ergal Border Station">
+ <pos>
+  <x>8804.065152</x>
+  <y>-333.284691</y>
+ </pos>
+ <GFX>
+  <space>Station-SSY004.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>300.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>67000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This station is the Arythem outpost in the last system held by the Clan on routes going to Shoden and Hoshi no Hekka spaces, and the Arythem side of the Long Link to Instrumentality and Baartish spaces.
+
+Given the potential aggressiveness of both neighboring States, Ergal is considered vital. It is thus fitted with up-to-date hardware, rithed by elite crew and equipped with 4 large berths able to dock and service the largest units in the Arythem fleet, be they heavy transports or capital ships.
+  </description>
+  <bar>Rithai and Sshaad pilots and merchants, mostly bearing either Arythem or Baartish markings</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

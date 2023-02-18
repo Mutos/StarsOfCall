@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Generic Food</name>
+ <description>Certified generic food is engineered to be biocompatible with all sentient species and their common ecosystems. So it is more expensive than species-specific food or non-species-certified food.</description>
+ <gfx_store>ration_mealpacks.png</gfx_store>
+ <price_mod>2.3</price_mod>
+ <price_ref>Food</price_ref>
+ <always_can_sell/>
+</commodity>

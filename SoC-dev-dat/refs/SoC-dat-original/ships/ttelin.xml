@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="T'Telin">
+ <base_type>Akk'Ti'Makkt</base_type>
+ <GFX sx="6" sy="6">akktimakkt</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>150000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Uktalm Staryards</fabricator>
+ <description>The T'Telin is the Nelk'Tan successor, adding a Small Missiles Launcher hardpoint to its parent's already impressive arsenal, and replacing the Ions by more powerful railguns.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>15</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>1</crew>
+  <mass>7</mass>
+  <fuel_consumption>95</fuel_consumption>
+  <cargo>2</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small" prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small" prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small" prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small" prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small" prop="Ftr Jump Drive">Std Ftr Jump Drive</structure>
+  <structure size="small" prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small" prop="Ftr Shield Generator">Std Ftr Shield</structure>
+  <utility   size="small" prop="Core Systems Extension"></utility>
+  <utility   size="small" prop="Hardpoint"></utility>
+  <utility   size="small" prop="Hardpoint"></utility>
+  <weapon    size="small" prop="Swivel Gun"    x="+5"  y="+3" h="+3">Fighter Railgun Cannon</weapon>
+  <weapon    size="small" prop="Swivel Gun"    x="+5"  y="-3" h="+3">Fighter Railgun Cannon</weapon>
+  <weapon    size="small" prop="Swivel Gun"    x="+5"  y="+3" h="-3">Fighter Railgun Cannon</weapon>
+  <weapon    size="small" prop="Swivel Gun"    x="+5"  y="-3" h="-3">Fighter Railgun Cannon</weapon>
+  <weapon    size="small" prop="Missiles Rack" x=" 0"  y=" 0" h="+4">DFM Launcher</weapon>
+ </slots>
+ <stats>
+  <speed_mod>+30</speed_mod>
+  <thrust_mod>+15</thrust_mod>
+  <turn_mod>+10</turn_mod>
+  <cpu_mod>0</cpu_mod>
+  <armour_mod>-10</armour_mod>
+  <shield_mod>-10</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>+20</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

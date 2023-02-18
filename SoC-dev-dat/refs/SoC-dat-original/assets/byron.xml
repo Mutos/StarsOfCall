@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Byron">
+ <pos>
+  <x>-8216.231814</x>
+  <y>2623.458331</y>
+ </pos>
+ <GFX>
+  <space>J02.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

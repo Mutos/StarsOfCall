@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irmothem-7">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>4547.423680</x>
+  <y>-265.902720</y>
+ </pos>
+ <assets>
+  <asset>Elirth</asset>
+  <asset>Irmothem-7</asset>
+  <asset>Lanith</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Irm 0145">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irm 0149">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 482015">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-905.932869" y="2089.192126"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 541208">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3827.104159" y="-2717.798606"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

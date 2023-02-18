@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual CotS Local">
+ <virtual/>
+ <presence>
+  <faction>Children of the Stars</faction>
+  <value>450.000000</value>
+  <range>0</range>
+ </presence>
+</asset>

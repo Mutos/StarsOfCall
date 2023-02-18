@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Fehnouil">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>2870.296000</x>
+  <y>-1442.256000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Drom">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Norma">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 151138">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="463.17737" y="-9987.352531"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 209709">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2059.860289" y="4371.239703"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 291993">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6740.024134" y="-6028.16838"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 589109">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4022.341937" y="4696.060176"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 680524">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3528.207941" y="-4129.081782"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 918216">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2403.495366" y="-816.572143"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 939218">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4942.171422" y="5336.550402"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 951862">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3113.626515" y="-3776.100242"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

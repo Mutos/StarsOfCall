@@ -1,0 +1,31 @@
+# For Windows only, not functionnal in my env, so not shared
+MinGW/
+
+# Several versions of NAEV vanilla, for ref only
+NAEV-Vanilla/
+
+# Work folder only, where are saved editor-modified files
+run/dat/
+
+# Runtime data folders for NAEV
+naev-data/NAEV/conf.lua.backup
+naev-data/NAEV/collisions/*
+naev-data/NAEV/logs/*
+naev-data/NAEV/saves/*/backup.ns
+
+# Runtime data folders for SoC
+naev-data/SoC/conf.lua.backup
+naev-data/SoC/collisions/*
+naev-data/SoC/logs/*
+naev-data/SoC/saves/*/backup.ns
+
+# The NAEV vanilla dat reference, is a copy of the "dat" folder from the NAEV 0.10.4 release
+# https://github.com/naev/naev/releases/download/v0.10.4/naev-0.10.4-win64.exe
+SoC-dev-dat/refs/NAEV-vanilla-dat-0.10.4
+
+# "build" folder contains builds for your system
+# Windows : naev-0.10.4-win64 from the release
+# Linux   : compile from the commit tagged 0.10.4 to build/naev-0.10.4-lin64-yy.mm, where yy.mm are your Linux release (ex 20.04)
+build/naev-0.10.4-win64
+build/naev-0.10.4-lin64-20.04
+build/naev-0.10.4-lin64-22.04

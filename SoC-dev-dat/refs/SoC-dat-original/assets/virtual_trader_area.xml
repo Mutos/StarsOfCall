@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual Trader Area">
+ <virtual/>
+ <presence>
+  <faction>Trader</faction>
+  <value>550.000000</value>
+  <range>3</range>
+ </presence>
+</asset>

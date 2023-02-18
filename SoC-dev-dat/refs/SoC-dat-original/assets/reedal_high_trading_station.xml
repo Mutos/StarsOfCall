@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Reedal High Trading Station">
+ <pos>
+  <x>-2736.747499</x>
+  <y>-1027.828246</y>
+ </pos>
+ <GFX>
+  <space>003.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ren'sh Planetary Council</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>97500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Reedal was the original station built as a staging ground for Ren'sh planetfall. It has since expanded into a prosperous trading station, selling Ren'sh specialties and importing supplies from the outside.
+  </description>
+  <bar>A host merchantsshaads and a few non-Sshaads, including small groups of Shapeshifters, share the lounge, chattering heartily.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

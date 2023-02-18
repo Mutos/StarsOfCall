@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>K'Rinn Food</name>
+ <description>Food, generally vegetable, produced on k'rinn-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+ <gfx_store>seaweed.webp</gfx_store>
+ <price_mod>1.9</price_mod>
+ <price_ref>Food</price_ref>
+ <always_can_sell/>
+</commodity>

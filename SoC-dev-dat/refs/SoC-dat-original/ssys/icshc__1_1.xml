@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IC-ShC - 1 -1">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3841.256000</x>
+  <y>615.792000</y>
+ </pos>
+ <assets>
+  <asset>Aans Border Station</asset>
+  <asset>Anniin es Losth</asset>
+  <asset>Eshell</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="IC 0001">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0002">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="ShC 0043">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 256408">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3778.793464" y="-7446.646433"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 450124">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5513.817046" y="787.770172"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 587264">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4789.244023" y="-7189.048639"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 642180">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-343.316276" y="-5122.609817"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 642879">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-662.796275" y="-4643.389818"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 832706">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4397.967107" y="-7762.42499"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 972050">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4741.740381" y="1426.73017"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

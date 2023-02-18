@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Le Manege">
+ <pos>
+  <x>-222.902511</x>
+  <y>1266.086264</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>950</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>A no-fuss miners' station, despite its name that sounds like a joke, because it is indeed a joke on the classical surname of wheel-shaped stations.</description>
+  <bar>Sullen miners and busy traders</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps</item>
+ </tech>
+</asset>

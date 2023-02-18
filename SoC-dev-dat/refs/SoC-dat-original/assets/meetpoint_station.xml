@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Meetpoint Station">
+ <pos>
+  <x>2216.253897</x>
+  <y>-4470.715630</y>
+ </pos>
+ <GFX>
+  <space>Station-SCV002.png</space>
+  <exterior>station01.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Meetpoint lives by its name : it's the place where Spacers meet...
+
+It has been built by an association of nomad spacers in the asteroids belt of a remote system, near the beginning of the Planetarist Wars. During the war, more jump points were discovered in the system, but the station was not a major concern for the Policorpos. In fact, it gave them a "grey zone" where smuggled items could be exchanged and secret negociations with their opponents could be conducted.
+
+The station thus thrived on the war and after it ended, its reputation was well established, so it kept to attract Spacers from all the Human Sphere, then gradually from the K'Rinn and Rith Spheres.
+  </description>
+  <bar>A few Spacers stand at the bar, most of them Humans, with a fair number of K'Rinns and Rithai and a few occasional visitor from the other species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

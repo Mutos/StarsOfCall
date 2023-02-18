@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sshiinan Base">
+ <pos>
+  <x>-7635.719892</x>
+  <y>6175.134247</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>200.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25400</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Posing as a seemingly abandoned station, this pirate base is the mainstay of smugglers presence in Instrumentality space. It orbits along with a large asteroids cloud, so its precise position is difficult to locate.
+  </description>
+  <bar>The bar is filled with mean-looking sshaad pirates and smugglers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shoden Clusters</item>
+ </tech>
+</asset>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Runners' Station">
+ <pos>
+  <x>-4504.821342</x>
+  <y>2053.668553</y>
+ </pos>
+ <GFX>
+  <space>Station-SSY004.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>87700</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This station is a base for all smugglers, pirates, corsairs and blockade runners in the Human Sphere.
+
+It is of common knowledge, that almost every cargo can be traded there, albeit for a price that can greatly vary, and depends mostly on luck and random arrivals.
+  </description>
+  <bar>Mean-looking Spacers, mostly Humans, with a few Rithai and K'Rinns and an occassional Sshaad</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

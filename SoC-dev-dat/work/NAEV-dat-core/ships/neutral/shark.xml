@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Shark">
+ <points>30</points>
+ <base_type>Shark</base_type>
+ <GFX size="54">shark</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Interceptor</class>
+ <price>250000</price>
+ <time_mod>0.9</time_mod>
+ <trail_generator x="-14" y="12" h="0">nebula</trail_generator>
+ <trail_generator x="-14" y="-12" h="0">nebula</trail_generator>
+ <trail_generator x="-15" y="7" h="7" />
+ <trail_generator x="-15" y="-7" h="7" />
+ <trail_generator x="-15" y="0" h="-5" always_under="1" />
+ <fabricator>Nexus Shipyards</fabricator>
+ <license>Light Combat Vessel</license>
+ <description>A newer Nexus Shipyards design, the Shark is an agile, light fighter designed for in-system patrolling. While it's not as capable as its larger relative, the Lancelot, it's still an effective addition to any fleet.</description>
+ <health>
+  <armour>30</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>2</crew>
+  <mass>45</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>10</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="small" x="12" y="0" h="0" />
+  <weapon size="small" x="-3" y="0" h="2" />
+  <weapon size="small" x="3" y="0" h="2" />
+  <utility size="small" prop="systems">Unicorp PT-16 Core System</utility>
+  <utility size="small" prop="accessory" />
+  <utility size="small" />
+  <utility size="small" />
+  <structure size="small" prop="engines">Nexus Dart 150 Engine</structure>
+  <structure size="small" prop="hull">Unicorp D-2 Light Plating</structure>
+  <structure size="small" />
+  <structure size="small" />
+ </slots>
+ <stats>
+  <shield_mod>10</shield_mod>
+  <shield_regen_mod>15</shield_regen_mod>
+  <heat_dissipation>10</heat_dissipation>
+ </stats>
+ <tags>
+  <tag>standard</tag>
+ </tags>
+</ship>

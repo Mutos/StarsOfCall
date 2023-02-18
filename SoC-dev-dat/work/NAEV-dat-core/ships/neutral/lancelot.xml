@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Lancelot">
+ <points>40</points>
+ <base_type>Lancelot</base_type>
+ <GFX size="56">lancelot</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>450000</price>
+ <time_mod>0.9</time_mod>
+ <trail_generator x="-13" y="-17" h="-6">nebula</trail_generator>
+ <trail_generator x="-13" y="17" h="-6">nebula</trail_generator>
+ <trail_generator x="-20" y="5" h="0" />
+ <trail_generator x="-20" y="-5" h="0" />
+ <fabricator>Nexus Shipyards</fabricator>
+ <license>Light Combat Vessel</license>
+ <description>One of the prized heavy fighters of Nexus Shipyards. The Lancelot was originally a classified design for the Empire military but its existence was revealed during an aborted test flight. Now, a modified version is available for civilians, though it doesn't quite match the original specifications. It is used by security agencies all over the galaxy for its reliability and availability.</description>
+ <health>
+  <armour>60</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>4</crew>
+  <mass>80</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>15</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="medium" x="-3" y="0" h="-2" />
+  <weapon size="small" x="-3" y="3" h="5" />
+  <weapon size="small" x="-3" y="-3" h="5" />
+  <weapon size="small" x="-5" y="0" h="5" />
+  <utility size="small" prop="systems">Unicorp PT-68 Core System</utility>
+  <utility size="small" prop="accessory" />
+  <utility size="small" />
+  <utility size="small" />
+  <utility size="small" />
+  <structure size="small" prop="engines">Unicorp Hawk 350 Engine</structure>
+  <structure size="small" prop="hull">Unicorp D-4 Light Plating</structure>
+  <structure size="small" />
+  <structure size="small" />
+ </slots>
+ <stats>
+  <shield_mod>10</shield_mod>
+  <shield_regen_mod>15</shield_regen_mod>
+  <heat_dissipation>10</heat_dissipation>
+ </stats>
+ <tags>
+  <tag>frontier</tag>
+  <tag>goddard</tag><!--Used by the faction.-->
+  <tag>standard</tag>
+ </tags>
+</ship>

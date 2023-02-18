@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Garri ud Skarae">
+ <pos>
+  <x>-12567.964915</x>
+  <y>-11790.213673</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Gham Garri</faction>
+  <value>650.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>230000</population>
+  <hide>5.000000</hide>
+  <services>
+   <land>land_garri_ud_skarae</land>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The "Land of the Watchdogs" is the Gham Garri's main base, it controls the Gham Dromae system and a few adjacent systems.
+
+From this base, the "Watchdogs of Honor" launch regular attacks on the Free Adrimai exfiltration lanes, mainly those leading to Son of the Eclipse.
+  </description>
+  <bar>You stand among fierce-looking Rithai, each of which would easily kill any being who would come in the path of the Gham Garri.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Purchase Licenses</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

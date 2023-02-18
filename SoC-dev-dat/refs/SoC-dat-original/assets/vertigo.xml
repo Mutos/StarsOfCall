@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Vertigo">
+ <pos>
+  <x>-12654.384109</x>
+  <y>5947.026474</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

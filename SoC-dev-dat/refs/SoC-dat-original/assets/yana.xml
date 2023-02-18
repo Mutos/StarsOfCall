@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Yana">
+ <pos>
+  <x>-3179.873888</x>
+  <y>-6955.974130</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>103</population>
+  <hide>5.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Yana is Captain Salomon's secret hideout. Its bays excavated from an asteroid are large enough to hold the Corda, Salomon's corvette, and often one or two friendly independent ships.
+  </description>
+  <bar>Some people from Salomon's ground crew, mostly Humans, with a few K'Rinns and Rithai, and an occasional Sshaad.</bar>
+ </general>
+ <tech>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps</item>
+ </tech>
+</asset>

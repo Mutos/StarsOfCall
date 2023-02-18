@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CS 0075">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-4198.952000</x>
+  <y>-2981.904000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="CS 0073">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CS 0077">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Amarynn">
+ <pos>
+  <x>-2517.400161</x>
+  <y>1788.679062</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Aragwedyr Clan</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15243000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Amarynn, also known as Woodsfield, the famous forest-world ! Its human population of survivors from a Better Worlds expedition, gengineered to the likeness of legendary Elves ! Its lush woods and marshes and their ferocious fauna well-known to safari amateurs, that few have fought and fewer have returned alive to tell the tale ! Its famous Aragwedyr Rith-Human Clan of long-told courage, known among the Adrimai as "The Path from Eclipse to Sunlight" ! Its Complementarist danebs, born from the first ever Hive to have journeyed to a non-sshaad planet !
+
+If ever a planet is entitled to a legend of its own, Amarynn is that one. But beware, only the most courageous dare to struggle with this world, and only the most enduring survive the ordeal ! So, dear Spacer, let your ship only touch and go, and while the ground crew is working on it, DO NOT, repeat, DO NOT stray anywhere away from the landing field and surrounding buildings without due escort !
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Bao Zheng">
+ <base_type>Bao Zheng</base_type>
+ <GFX sx="6" sy="6">baozheng</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Corvette</class>
+ <price>280000</price>
+ <time_mod>1.0</time_mod>
+ <time_mod>1.0</time_mod>
+ <fabricator>Mars Orbital Yards</fabricator>
+ <description>
+This nimble ship for its size was intended to bring justice to the confines of Central space. Most Bao Zheng are commanded by a Justice, with mandate to arrest and judge any criminal. Some has given the Bao Zheng the surname of "Dredd class". A few Bao Zheng have been captured by outlaws, who usually cherish them as a proof of their value and protect them at all cost.
+ </description>
+ <health>
+  <absorb>0</absorb>
+  <armour>60</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>5</crew>
+  <mass>75</mass>
+  <fuel_consumption>500</fuel_consumption>
+  <fuel>2500</fuel>
+  <cargo>10</cargo>
+ </characteristics>
+ <slots>
+  <structure size="Medium"  prop="Hull Plating">Std Med Hull Plating</structure>
+  <structure size="Medium"  prop="Power Core">Std Med Powerplant</structure>
+  <structure size="Medium"  prop="Computer Core">Std Med Computer</structure>
+  <structure size="medium"  prop="Warp Engine - Medium">Std Med Warp Engine</structure>
+  <structure size="Medium"  prop="Jump Drive">Std Med Jump Drive</structure>
+  <structure size="medium"  prop="Verniers Array - Medium">Std Med Verniers</structure>
+  <structure size="Medium"  prop="Shield Generator">Std Med Shield</structure>
+  <utility size="medium"  prop="Core Systems Extension"></utility>
+  <utility size="medium"  prop="Core Systems Extension"></utility>
+  <utility size="medium"  prop="Core Systems Extension"></utility>
+  <utility   size="Medium"  prop="Internal Holds"></utility>
+  <weapon    size="Small"   prop="Missiles Rack" x="+8"  y="+3" h="+3">ASM Launcher</weapon>
+  <weapon    size="Medium"  prop="Missiles Rack" x="+8"  y="-3" h="+3">MIM Launcher</weapon>
+  <weapon    size="Small"  prop="Flak Turret" x="+10"  y="0" h="0">Small Ion Flak Turret</weapon>
+  <weapon    size="Small"  prop="Flak Turret" x="+10"  y="0" h="0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>0</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

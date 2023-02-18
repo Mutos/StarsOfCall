@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dumbach Meetpoint">
+ <pos>
+  <x>-1993.739128</x>
+  <y>2625.296243</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>230.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>16200</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>The station was originally a small outpost established by an independant trader for storing goods. It was vastly expanded when Vigma-4's rings were put into exploitation. However, and despite the rings' continued mining, the so-called "Vigma gold rush" didn't last long. The small asteroid fell from most memories, exept those of spacers who have in the meantime come to use it as a relay between Alliance, Core and HnH. That's what it still is now.
+  </description>
+  <bar>Tradesbeings, mostly Humans and some K'Rinns and Rithai, gathering around a few roulette, holochess and spiraxy tables.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

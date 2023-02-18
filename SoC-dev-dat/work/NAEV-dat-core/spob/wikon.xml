@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wikon">
+ <lua>spob/lua/highclass.lua</lua>
+ <pos x="-7993.567073" y="1973.321463"/>
+ <GFX>
+  <space>M02.webp</space>
+  <exterior>forest.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Sirius</faction>
+  <base>66.666667</base>
+  <bonus>33.333333</bonus>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>5e+09</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Wikon is a high-profile Sirian world, one of the driving economic forces in the core of Sirius space. With planetary characteristics fairly close to ideal Class M, it is both attractive for habitation and industry. Land values are rather high, and the population tends toward the Serra class.</description>
+  <bar>A better name for the spaceport bar would be "spaceport lounge". The establishment is luxurious even by non-spaceport standards, offering various recreational facilities in addition to the standard ones. It is possible to dine here too, and the menu is far from modest. Of course all this comes with a considerable price tag, but the economic climate allows for that.</bar>
+ </general>
+ <tech>
+  <item>Engines Cargo</item>
+  <item>Hulls Cargo</item>
+  <item>Systems Low</item>
+  <item>Laser 1</item>
+  <item>Ion 1</item>
+  <item>Ion 2</item>
+  <item>Basic Outfits 2</item>
+  <item>Star Maps</item>
+  <item>Heavy Weapons 1</item>
+  <item>Low Tech Upgrades</item>
+  <item>High Tech Upgrades 1</item>
+  <item>Missiles 1</item>
+  <item>Missiles 2</item>
+  <item>Bulk Trade Ships</item>
+  <item>Heavy Civilian Combat Ships</item>
+  <item>Engines High</item>
+  <item>Sirius Elite Outfits</item>
+ </tech>
+ <tags>
+  <tag>rich</tag>
+  <tag>trade</tag>
+  <tag>industrial</tag>
+ </tags>
+</spob>

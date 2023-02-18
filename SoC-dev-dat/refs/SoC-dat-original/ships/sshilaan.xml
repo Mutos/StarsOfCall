@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Sshilaan">
+ <base_type>Sshilaan</base_type>
+ <GFX sx="6" sy="6">sshilaan</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Cruiser</class>
+ <price>280000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Shoden Shipyards</fabricator>
+ <description>
+This relatively nimble capital ship is the mainstay of Shoden forces. It is a powerful cruiser, built for naval combat but featuring long-range capabilities. Its main weapons are its pair of spinal guns, complemented by missiles and relatively small fighter bays, split up for fast deployment. It stands out for the variety of system extensions that can be field-mounted to adapt it to varied needs.
+ </description>
+ <health>
+  <absorb>0</absorb>
+  <armour>100</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>15</crew>
+  <mass>1375</mass>
+  <fuel_consumption>1200</fuel_consumption>
+  <fuel>1500</fuel>
+  <cargo>10</cargo>
+ </characteristics>
+ <slots>
+  <structure size="large"   prop="Hull Plating">Std Lrg Hull Plating</structure>
+  <structure size="large"   prop="Power Core">Std Lrg Powerplant</structure>
+  <structure size="large"   prop="Computer Core">Std Lrg Computer</structure>
+  <structure size="large"   prop="Warp Engine - Large">Std Lrg Warp Engine</structure>
+  <structure size="large"   prop="Jump Drive">Std Lrg Jump Drive</structure>
+  <structure size="large"   prop="Verniers Array - Large">Std Lrg Verniers</structure>
+  <structure size="large"   prop="Shield Generator">Std Lrg Shield</structure>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="medium"  prop="Internal Holds"></utility>
+  <utility   size="medium"  prop="Internal Holds"></utility>
+  <utility   size="medium"  prop="Internal Holds"></utility>
+  <utility   size="medium"  prop="Hardpoint"></utility>
+  <utility   size="medium"  prop="Hardpoint"></utility>
+  <utility   size="medium"  prop="Hardpoint"></utility>
+  <weapon    size="large"   prop="Spinal Gun"     x="+20" y="-50" h="  0">Spinal Railgun</weapon>
+  <weapon    size="large"   prop="Spinal Gun"     x="+20" y="+50" h="  0">Spinal Railgun</weapon>
+  <weapon    size="large"   prop="Missiles Rack"  x="+10" y="  0" h="  0">HIM Launcher</weapon>
+  <weapon    size="medium"  prop="Craft Bay"      x="  0" y="  0" h="-20">10x Eershlan Bay</weapon>
+  <weapon    size="medium"  prop="Craft Bay"      x="  0" y="  0" h="+20">10x Eershlan Bay</weapon>
+  <weapon    size="medium"  prop="Craft Bay"      x="  0" y="  0" h="-20">10x Eershlan Bay</weapon>
+  <weapon    size="medium"  prop="Craft Bay"      x="  0" y="  0" h="+20">10x Eershlan Bay</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="+40" y="+20" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="+40" y="-20" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="-40" y="+20" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="-40" y="-20" h="  0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>-30</speed_mod>
+  <cpu_mod>+10</cpu_mod>
+  <turn_mod>-20</turn_mod>
+  <thrust_mod>-20</thrust_mod>
+  <armour_mod>+20</armour_mod>
+  <shield_mod>+20</shield_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>+20</ew_detect>
+  <ew_hide>+20</ew_hide>
+ </stats>
+</ship>

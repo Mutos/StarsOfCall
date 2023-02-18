@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Eresslih">
+ <base_type>Eresslih</base_type>
+ <GFX sx="6" sy="6">eresslih</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Freighter</class>
+ <price>80000</price>
+ <time_mod>1.0</time_mod>
+ <price>120000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Baartish and Instrumentality</fabricator>
+ <description>The 3rd generation of this ship from the beginning of the Sshaad space age is still a common sight after centuries. Original models were built for quasi-orbital transfer with acceleration only at startup and arrival, hence the centrifuge. It's been long since all Eresslihs were converted to warp engines, but centrifuges remained, often used by smugglers as a comfort when drifting warpless among asteroids, waiting for a shadowy contact. It is commonly known that the ship's slow but cheap propulsion is offset by its builtin stealth capabilities and quite large cargo space.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>30</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>2</crew>
+  <mass>75</mass>
+  <fuel_consumption>180</fuel_consumption>
+  <fuel>0</fuel>
+  <cargo>40</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small"  prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small"  prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small"  prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small"  prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small"  prop="Jump Drive">Std Sml Jump Drive</structure>
+  <structure size="small"  prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small"  prop="Shield Generator">Std Sml Shield</structure>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility   size="small"  prop="Hardpoint"></utility>
+  <utility   size="small"  prop="Hardpoint"></utility>
+  <weapon    size="small"  prop="Flak Turret" x="+25"  y="0" h="0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"  prop="Flak Turret" x="-25"  y="0" h="0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>-20</speed_mod>
+  <thrust_mod>-20</thrust_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cargo_mod>+20</cargo_mod>
+  <ew_detect>-10</ew_detect>
+  <ew_hide>+20</ew_hide>
+ </stats>
+</ship>

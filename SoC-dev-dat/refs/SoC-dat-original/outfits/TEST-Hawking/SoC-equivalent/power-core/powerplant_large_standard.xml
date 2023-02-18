@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Powerplant">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Power Core">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>Bare-bones fusion reactor, outputting a reasonnable power, but unfit for any sort of serious duty.</description>
+  <gfx_store>hk2250/PowerCore-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy>3000</energy>				<!-- Main purpose	: defines maximum available energy -->
+  <energy_regen>140</energy_regen>	<!-- Main purpose	: defines energy regeneration -->
+ </specific>
+</outfit>

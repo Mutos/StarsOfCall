@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Brinn Border Station">
+ <pos>
+  <x>8134.907391</x>
+  <y>369.768518</y>
+ </pos>
+ <GFX>
+  <space>Station-009-Outpost.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Purple Trail</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>6590</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Brinn is the outer limit of the Purple Trail into the infamous Gamma Sector. Its garrison is here to stand against possible pirate attacks.
+  </description>
+  <bar>Mainly Purple Trail soldiers and pilots, plus a few techs.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Border Sectors</item>
+ </tech>
+</asset>

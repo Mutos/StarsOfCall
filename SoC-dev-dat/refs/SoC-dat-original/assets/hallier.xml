@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hallier">
+ <pos>
+  <x>-6041.382780</x>
+  <y>4398.635484</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>mining6.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20340400</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>System and planet Hallier were named for Jean-Baptiste Hallier, the independant explorer who charted them. the system was exploited for hydrogen and ore from both the planet and the nearby asteroids.
+
+When Urs Schreiber decided to built Engelstadt, Hallier was still only a mining outpost, albeit quite large. With Hallier's mines and Smernya's hydrogen collectors nearby, Schreiber had all the resources he needed for his project. So he renamed the system "Engelstadt" and became manning the project.
+
+As the original colonists' goals were never to extend human presence further on the planet, and despite the presence of water and a limited ecosystem with good biocompatibility with human life, the settlement held at that time less than half a million inhabitants, mainly grouped around the mining fields. Workforce for the Engelstadt project and the new trade traffic prompted a population rise and the colony extended. However, it stayed backwater, out of major trade routes and surrounded by essentially mining systems.
+
+Hallier never developped like Eden and for many people, it is not seen as a true colony, despite its now quite large population. General HnH policy is also part of the problem. The Captains' Council wants to keep the state a Spacers' place and frowns on developping true planetary colonies for fear of spreading a "gravvies attitude" within the HnH population.
+  </description>
+  <bar>Tradesbeings and spacers, mostly Humans as we are in the core of the Human Sphere</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

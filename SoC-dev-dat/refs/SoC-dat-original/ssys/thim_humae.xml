@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thim Humae">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>452.824000</x>
+  <y>-1521.648000</y>
+ </pos>
+ <assets>
+  <asset>Thim Humae</asset>
+  <asset>Thim ud Aragwedyr</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Althaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0018">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0020">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0021">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 029831">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7097.876654" y="4033.541328"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 576872">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6462.215789" y="3966.772102"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 619012">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6866.771331" y="3709.993875"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

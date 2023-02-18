@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Iri 0138">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>3486.616000</x>
+  <y>-2335.920000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="Ary-Iri - 1 - 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0141">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0144">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0180">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Kerloth">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

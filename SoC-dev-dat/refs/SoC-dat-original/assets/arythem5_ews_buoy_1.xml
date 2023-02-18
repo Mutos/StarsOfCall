@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Arythem-5 EWS Buoy #1">
+ <pos>
+  <x>1716.940800</x>
+  <y>-694.241280</y>
+ </pos>
+ <GFX>
+  <space>jumpbuoy.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

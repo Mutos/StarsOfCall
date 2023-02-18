@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Doranthex Secundus">
+ <pos x="-6012.936081" y="-8361.449225"/>
+ <GFX>
+  <space>I03.webp</space>
+  <exterior>methane.webp</exterior>
+ </GFX>
+ <general>
+  <class>I</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

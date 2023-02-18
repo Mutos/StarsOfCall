@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Budiharto Asteroids Cluster">
+ <pos>
+  <x>-19018.503333</x>
+  <y>-30696.017545</y>
+ </pos>
+ <GFX>
+  <space>asteroids-001.png</space>
+  <exterior>asteroids-001.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Asteroids</faction>
+  <value>0.000001</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>Z</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

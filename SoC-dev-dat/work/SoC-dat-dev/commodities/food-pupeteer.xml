@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Pupeteer Food</name>
+ <description>Food for pupeteer symbiotes, generaly grains, produced from pupeteer-biocompatible ecosystems. Warning : high risk of not being edible for other species.</description>
+ <gfx_store>grains.png</gfx_store>
+ <price_mod>1.5</price_mod>
+ <price_ref>Food</price_ref>
+ <always_can_sell/>
+</commodity>

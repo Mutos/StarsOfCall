@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gentle Light">
+ <pos>
+  <x>3594.149993</x>
+  <y>-3372.288882</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Blue-100px.png</space>
+  <exterior>Outpost-LifeShell-Blue-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>35</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station is of a class known as "Life Shell", roughly the equivalent to the k'rinn K'Til'n outposts, but with a small crew.
+
+It features a fuel depot refilled by several asteroids-mining drones, and a mission computer. A small bar entertains the crew and the passing travellers.
+  </description>
+  <bar>A few Spacers kill time by discussing with the crew while their ships is being refuelled.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Cargo and Fuel</item>
+ </tech>
+</asset>

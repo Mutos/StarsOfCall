@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Medium Cargo Hold">
+ <general>
+  <typename>Cargo Expansion</typename>
+  <slot prop="Internal Holds">utility</slot>
+  <size>medium</size>
+  <mass>27</mass>
+  <price>108000</price>
+  <description>Cargo pods are large containers that increase a ship's cargo capacity.</description>
+  <gfx_store>cargo_pod</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>25</cargo>
+ </specific>
+</outfit>

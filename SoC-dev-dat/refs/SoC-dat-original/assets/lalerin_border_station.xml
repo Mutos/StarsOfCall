@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lalerin Border Station">
+ <pos>
+  <x>-7192.079842</x>
+  <y>4312.035027</y>
+ </pos>
+ <GFX>
+  <space>Station-001-Comm-Hub.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>600.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>143000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Orbiting around the same gas giant as the jump point itself, this Border Station was originally a mere refuelling outpost for exploration beyond the Lalerin system. When the route to the Instrumentality Company was discovered, it was hastily extended to become both a trading station and a military base.
+  </description>
+  <bar>Sshaads from all the species' States, some Shapeshifters and a few non-Complementarists, mainly Humans and Pupeteers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

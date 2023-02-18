@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Void's Expanse">
+ <pos>
+  <x>-1442.097219</x>
+  <y>-2462.658328</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Orange-100px.png</space>
+  <exterior>Outpost-LifeShell-Orange-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>95</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>This station is a link between the Core Pupeteer Sphere and the Svenia Sector.</description>
+  <bar>Spacers, mostly Pupeteers, but also representatives of all species.</bar>
+ </general>
+</asset>

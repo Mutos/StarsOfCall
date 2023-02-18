@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Baatal Border Station">
+ <pos>
+  <x>4107.337106</x>
+  <y>2053.668553</y>
+ </pos>
+ <GFX>
+  <space>004.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shoden Clusters</faction>
+  <value>200.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>When an advance party from the Shoden Northern Cluster discovered Bamara Station after an extended exploration, they never returned and were presumed lost. It was only a few weeks after, that Rarilash intelligence in the Human Sphere border became to speak of fleet movements towards a system beyond Nyotekundu. Hints were crossed and an armed exploration squad was launched, which came back after destroying human explorers in the buffer systems. A new border with the Human Sphere was being discovered. Stealth drones were sent to investigate the other end of the jump route.
+
+The local sector commander took on her beak to conquer the small station and rich asteroids field that had been detected by the drones. Unfortunately, her intel drones jumped out of the system just before a Core Navy Fleet came in. The operation was an utter failure. A human retaliation fleet came back on the heels of the fleeing ships, only to be broken by the strong Northern Fleet, that had been summoned from Shoden Aan in the meantime.
+
+Each side soon understood the fleet protecting the other side was too hard a nut to break. The former sector commander was dismissed and local High Masters sent a diplomatic envoy. They finally agreed to a truce with the League Admiral, then met in person and negociated a non-aggression treaty over the route.
+
+The border station itself was already been built. It quickly became known as Baatal, an old Baartish term for the palisades protecting traditionnal taiga danebs.
+
+The Station's main duty is now to protect the Northern Shoden Cluster from any tentative Core League aggression. Patrols from Baatal and its League shadow, Bamara Station, routinely cruise the two buffer systems between them. They normally exchange greetings only, but cases has been seen of actual limited engagements, as sometimes, misunderstandings occur.
+
+Recently, daring human and sshaad captains have come to seek profit from the border. So the station is slowly becoming a trading outpost, and a small smuggling flow has even been reported, despite the heavy patrol presence from both sides of the border.
+  </description>
+  <bar>Sshaad pilots and merchants, the latter screening an occasional Human partner from the former.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Core League</item>
+ </tech>
+</asset>

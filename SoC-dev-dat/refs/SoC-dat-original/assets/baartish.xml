@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Baartish">
+ <pos>
+  <x>1390.923889</x>
+  <y>1322.148854</y>
+ </pos>
+ <GFX>
+  <space>moon-M00.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>258642000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Home of the Baartish Intersystem Corporation-State, this lush moon orbiting around a gaz giant is one of the oldest sshaad colonies. It is ideal for sshaad life, with its continental masses nearly all covered with forests, with abundant oceanic and soft water, small polar caps and equatorial deserts just large enough to stabilize the climate. Moreover, their biocompatibility with the esshiinan ecosystems was found to be near 90%, with lots of bridge species to help integrate esshiinan species into the biotopes.
+
+The Baartish CorpState has been originally founded to settle Baartish, then it specialized in colonizing new worlds. At this time, it could have been compared to the former human Better Worlds Company, except that, when they colonized a world, settlers knew they would have no further support expedition, except if they could afford it. Nearly all new Baartish worlds actually kept ties with the home planet and this further evolved into an informal alliance of worlds, in the common sshaad manner.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

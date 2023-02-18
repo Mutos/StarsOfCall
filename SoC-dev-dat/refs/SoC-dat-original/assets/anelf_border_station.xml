@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Anel'f Border Station">
+ <pos>
+  <x>266.233333</x>
+  <y>-9264.919982</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>300.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>17700</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Carved out of a large asteroid, that station secures the main trade lane between Human and K'Rinn Spheres.
+  </description>
+  <bar>A number of K'Rinns and Humans, many of them playing Spiraxy.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

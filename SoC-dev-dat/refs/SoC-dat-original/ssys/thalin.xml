@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Thalin">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-45.099200</x>
+  <y>-1265.052800</y>
+ </pos>
+ <assets>
+  <asset>Thalin</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Althaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Inferno">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Nouvelle-Hong-Kong">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Rith no Doa">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 145841">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7097.876654" y="4033.541328"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 157901">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7934.194875" y="-3886.331239"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 187523">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5521.314878" y="1935.40321"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 465118">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7582.103616" y="-3593.553843"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 475108">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="16833.233618" y="-3995.093132"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 483644">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5467.909655" y="1899.609617"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 517845">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4755.003999" y="3323.000928"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 518600">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6822.459387" y="-3832.861979"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 540104">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8148.426839" y="4438.573969"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 621628">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5854.327577" y="3474.38759"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 645443">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5332.159409" y="4423.104905"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 719851">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7744.312595" y="-3889.413226"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 722349">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5187.07727" y="4034.870522"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 777288">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1863.63333" y="-9957.126647"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 833540">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3767.941196" y="1046.444905"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 843193">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8338.427984" y="-5399.211989"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 866851">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6500.530543" y="1442.097219"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 963476">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9446.200033" y="4480.804965"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

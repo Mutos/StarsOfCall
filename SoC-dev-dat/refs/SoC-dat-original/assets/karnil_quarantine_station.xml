@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Karnil Quarantine Station">
+ <pos>
+  <x>1919.163332</x>
+  <y>-1073.180078</y>
+ </pos>
+ <GFX>
+  <space>Station-SCO004.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>150.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>284000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This quarantine station ensures only authorized personnel gets to the ground of Arythem-5 and moreover, that not one Na'imsh egg can ever leave the planet.
+
+It had originally been established as a full staging habitat, allowing the colonists to live several weeks before planetfall, and ready to become a trade asset on the then-quickly growing network of Arythem systems.
+
+After the tragedy struck the planetside settlements, the station was hastily converted into the quarantine facility it is still now. It has since grown a little, but the embargo will prevent it forever from becoming a major trade point.
+  </description>
+  <bar>A number of biologists with a few merchants and spacers, most of them Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

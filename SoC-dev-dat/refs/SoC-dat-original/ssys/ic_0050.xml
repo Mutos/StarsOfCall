@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IC 0050">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-4800.296000</x>
+  <y>951.024000</y>
+ </pos>
+ <assets>
+  <asset>Aan-in-Mali</asset>
+  <asset>Irsh-Mal</asset>
+  <asset>Mali</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="IC 0049">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0051">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0053">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0054">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

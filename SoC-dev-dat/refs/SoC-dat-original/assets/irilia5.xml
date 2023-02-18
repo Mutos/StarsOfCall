@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-5">
+ <pos>
+  <x>-6823.479385</x>
+  <y>-4438.573969</y>
+ </pos>
+ <GFX>
+  <space>M01.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>12358000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The fifth Irilia colony is considered as both the last of the rithai sublight colonies or the first of the jump colonies. Its sleeper-ship was launched just before the hyperspace breakthrough. When it arrived at destination, the planet was already occupied by a small party of forward explorers, who had prepared infrastructure for the colonists.
+
+The planet was the first real water-rich world colonized by the Irilia Clan, a departure from traditional sand-and-forest planets targeting. It's made of multiple oceanias linking five small well-defined continents. As such, island-borne habitats are scattered and nomad ships ensure an extensive tramping service between the usually small settlements.
+
+As a result of that history, the population is still split between the descendents of the first jumpship settlers, the sleeper-ship passengers and the subsequent settlers from other worlds. The three communities have mixed over time, but still stay socially segregated, with a unique casts system reflecting that difference.
+
+In a totally unanticipated way, contrasting with the communities segregation, Irilia-5 people totally left out the notion of adrimness and treat Adrimai just as any free individual. This is explained by several factors, including the mix of influences and the fact they dropped many traditional Irilia ways to adapt to their new environment.
+
+Another decisive event was the heroic deeds of a couple of ex-Adrimai smuggled from Irilia-17 at the time of the Fringe Wars. They first travelled to Skarae with an old and influential healer, Kladaway ud Pokkar, who became an assistant to the Irilia-17 emissary to the Rithai Kemae. Influenced by her human friend Sara Seinberg, she progressively rejected the old taboos about Adrimai and, while on Skarae, she let them reveal themselves to her. She then helped them to erase their dri'h markings and pose as live Rithai. They followed her when she moved to Irilia-5, found work on a ship and a few years later, saved the lives of an entire island's population. Kladaway, wounded to death in the event, publicly revealed the heroes' former adrimness on her death couche, in a way that could not be ignored.
+  </description>
+  <bar>A crowd of natives in their peculiar sea-dweller attire, with a few Thiskai and Idrimarai wearing distinctive Irilia markings</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

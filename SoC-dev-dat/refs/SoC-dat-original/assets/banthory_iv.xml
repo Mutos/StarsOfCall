@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Banthory IV">
+ <pos>
+  <x>4041.089733</x>
+  <y>3113.626515</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Banthory Autarcy</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1985000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Banthory IV was sold by the Better Worlds Company to a group dreaming to create a pastoral colony far away from the industrialized and polluted Earth and Mars. But, as with too many Better Worlds surveys, the planet's idyllic depictions were highly optimistic on both biocompatibility and peacefulness of the local fauna. In the first years, many settlers fell prey to predators that could not even use them as food. Further on, only one supply convoy found its way to the colony before the Better Worlds deal with the Chiffonniers kicked in and the convoys routinely became hijacked to supplement the pirate group.
+
+After some hard years when the colonists were heading for starvation without supplies from Sol, the few gengineers they brought with them managed to adapt varieties of Terran crops to the local ecosystems. These new bridge species provided them with a highly nutrient-rich food source tapping into the local biosphere. This feat allowed them to reach self-sufficience.
+
+From then on, the Banthory IV population resolved to stay away from the interstellar civilisation, and never used their remaining starships to send any news back to Sol. They were rediscovered 50 years later by planetarist explorers using maps from the Better Worlds archives. They expressed their wish to remain in isolation and stayed this way until recently, only establishing a token membership to the Alliance, which was later transferred to the Core League.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+ </tech>
+</asset>

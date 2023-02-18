@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PA 0017">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-999.211840</x>
+  <y>-1570.487040</y>
+ </pos>
+ <assets>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="PA 0004">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0018">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Spider's Web">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 700218">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="463.17737" y="-9987.352531"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 809217">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-158.594368" y="-9630.407468"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 817922">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="332.338951" y="-9381.141599"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 968267">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-831.979165" y="-10094.680536"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

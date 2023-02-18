@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Shadow Grave">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1856.168640</x>
+  <y>-2097.744000</y>
+ </pos>
+ <assets>
+  <asset>Freeport 3</asset>
+  <asset>Shadow Grave</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Al-Wahid's Bluff">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="HnH-SC - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0024">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Teufelfeuer">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 086411">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="771.943502" y="6061.358634"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 087545">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1436.026037" y="5296.23682"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 154454">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4236.016266" y="5541.977357"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 287623">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1456.674562" y="5756.988465"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 457888">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4942.171422" y="5336.550402"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 466578">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5032.045714" y="5875.796158"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 487654">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4852.297129" y="4797.304647"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 642781">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1910.824167" y="7083.067693"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 804508">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1439.126034" y="6777.840001"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 873140">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2427.895431" y="5427.841261"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 987130">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="674.746311" y="5498.681835"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

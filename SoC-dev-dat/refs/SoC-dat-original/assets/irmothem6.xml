@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irmothem-6">
+ <pos>
+  <x>6425.995149</x>
+  <y>-9208.384801</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>150.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>725185000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Irmothem-6 is an apparently harsh and barren planet, where life seems to concentrate on a few mountains, canyons and great lakes, the rest of the planet being covered in arid deserts. But actually, there is a whole network of underground rivers, totalling at least thrice the visible living surface.
+
+The water cycle begins at the mountains' top, where abundant rain and snow feed rivers descending to the mainland. Then, they separate into vast, deep canyons harbouring dense woods populated by many animal species, and underground waterways feeding a specialized cavernicolous life independent from light. Both flows finally end up in the lakes, where moisture is pumped by the hot and arid atmosphere, then channeled into high-altitude winds and transported back to the mountainous regions.
+
+Indigenous life has a good biocompatibility with skaraean life, which decided the Irmothem authorities to settle the planet. They tried to skaraform some parts of the world, but failed to alter the peculiar water cycle enough to bring life to the planet's deep deserts. Colonisation has now stalled and stays mainly concentrated around the canyon network.
+  </description>
+  <bar>Desert-dwellers and woodrunners talking with a few spacer merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

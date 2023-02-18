@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ohashi Border Station">
+ <pos>
+  <x>4041.089733</x>
+  <y>4041.089733</y>
+ </pos>
+ <GFX>
+  <space>002.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Any ship pretending to enter the Ashioto Cluster from the Core League must dock at Ohashi Border Station and submit to a thorough search. Security is strict and any attempt at smuggling a Purgatorian relic from the Inner Cluster is very likely to be detected.
+  </description>
+  <bar>Spacers, Ashioto Research Board policepeople and scientists, that's the only patrons you'll find here.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Ashioto Cluster</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

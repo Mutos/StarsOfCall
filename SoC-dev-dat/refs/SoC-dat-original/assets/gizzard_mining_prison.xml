@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gizzard Mining Prison">
+ <pos>
+  <x>7155.464542</x>
+  <y>12172.187976</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Joint Peacekeepers Corps</faction>
+  <value>150.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>45000</population>
+  <hide>0.750000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>This station was built by the Arythem Clan to exploit the system's rich asteroids fields. With the opening of the Long Link, it was given to the Joint Peacekeepers Corps to be used as a prison, making the prisoners work in the extraction teams. It was at this time, that it was renamed the "Gizzard". It also doubles as a patrol base for the JPC, covering the nearby systems, and particularly Heart of The Long Link, which is the Gham Garri entry point to threaten the trade route.
+
+The name derives from the rith gizzard, garnished with stones, which gives Rithai the ability to digest all but the hardest food. The system, full of asteroids, is seen as a gizzard full of stones. But it is also a joke on a common rith expression, "to have stones in one's gizzard", meaning to have a solid and reliable practical mind. Prisoners are said to get stones in their gizzards by amending from their former mistakes.
+
+The JPC uses all prisoners from the Long Link, Rithai, Sshaads or from any other species, and also has agreements with nearby planets and stations. A small number of prisoners is made of Shoden, Gham Garri or Jenac supporters, sentenced for trying to extend their factions' grounds on the Long Link.
+  </description>
+  <bar>Peacekeepers, both Sshaads and Rithai, and some mercenaries exhibiting their company's logo alongside the Peacekeepers' blazon</bar>
+ </general>
+</asset>

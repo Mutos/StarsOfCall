@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Skaasht Base">
+ <pos>
+  <x>-10716.370155</x>
+  <y>1847.355468</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>27000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This base was established by explorers, former survivors of the prison ship incident. They never found the purgatorian artefacts they were searching for, but established instead a smuggling route between Arythem and Baartish, going around the patrolled Long Link and the Joint Peacekeeper Corps.
+  </description>
+  <bar>Mostly sshaad and rithai Spacers, celebrating freedom and free traders with large gulps of various intoxicants, probably smuggled in by passing ships !</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - The Long Link</item>
+ </tech>
+</asset>

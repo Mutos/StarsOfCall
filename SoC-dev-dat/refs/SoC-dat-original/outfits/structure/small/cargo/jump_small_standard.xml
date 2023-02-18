@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Std Sml Jump Drive">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Jump Drive">structure</slot>
+  <size>small</size>
+  <price>10000</price>
+  <description>The simplest jump drive in the market, able to activate any reasonably massive jump tunnel.</description>
+  <gfx_store>hk2250/Jump-Drive-003</gfx_store>
+ </general>
+ <specific type="modification">
+  <fuel>750</fuel>							<!-- Main purpose	: internal fuel storage for 5 jumps with default consumption of 150 units -->
+  <mass_rel>40</mass_rel>					<!-- Mass cost		: being an array of several warp generators, a jump drive is always quite heavy -->
+  <ew_hide>-10</ew_hide>					<!-- Stealth cost	: detectable high energy charge stays in the jump engine hours after jumps -->
+ </specific>
+</outfit>

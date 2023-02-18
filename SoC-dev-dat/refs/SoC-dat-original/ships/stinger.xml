@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Stinger">
+ <base_type>Angry Bee</base_type>
+ <GFX sx="6" sy="6">angrybee</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>105000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Skull and Bones Shipyards</fabricator>
+ <description>As Robosys' leaked blueprints were used by the Skull and Bones network of small hidden shipyards, they were adapted for piracy needs. The new Stinger was faster, better armed and boasted extra mounts for field modding. For keeping mass and energy consumption within reasonable limits, already weak armour and shield were reduced, but that couldn't keep the ship from becoming more fuel-hungry than the Angry Bee. As extra range was in the specs, this led the ship to boast a very large fuel tank fr its size.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>5</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>1</crew>
+  <mass>4</mass>
+  <fuel_consumption>80</fuel_consumption>
+  <fuel>150</fuel>
+  <cargo>3</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small" prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small" prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small" prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small" prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small" prop="Ftr Jump Drive">Std Ftr Jump Drive</structure>
+  <structure size="small" prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small" prop="Ftr Shield Generator">Std Ftr Shield</structure>
+  <utility   size="small" prop="Core Systems Extension"></utility>
+  <utility   size="small" prop="Core Systems Extension"></utility>
+  <utility   size="small" prop="Hardpoint"></utility>
+  <utility   size="small" prop="Hardpoint"></utility>
+  <weapon    size="small" prop="Swivel Gun"    x="+8"  y="0" h="+1">Pirates Ion Cannon</weapon>
+  <weapon    size="small" prop="Missiles Rack" x="+8"  y="0" h="-1">ASM Launcher</weapon>
+ </slots>
+ <stats>
+  <speed_mod>+10</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>+10</turn_mod>
+  <thrust_mod>+10</thrust_mod>
+  <armour_mod>-20</armour_mod>
+  <shield_mod>-10</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>+10</ew_detect>
+  <ew_hide>+10</ew_hide>
+ </stats>
+</ship>

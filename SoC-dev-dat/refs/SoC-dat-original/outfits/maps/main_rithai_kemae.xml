@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Rithai Kemae - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Rithai Kemae worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Drom">
+   <jump>Duran</jump>
+   <jump>Fehnouil</jump>
+   <jump>Firdal</jump>
+   <jump>Irali</jump>
+   <asset>Asteroids Cluster 348702</asset>
+   <asset>Asteroids Cluster 620879</asset>
+   <asset>Asteroids Cluster 824019</asset>
+   <asset>Ermel</asset>
+   <asset>Irilia</asset>
+   <asset>Irnalth</asset>
+   <asset>Kerithal</asset>
+   <asset>Ortir</asset>
+   <asset>Raltir</asset>
+   <asset>Skarae</asset>
+  </sys>
+  <sys name="Iralii">
+   <asset>Asteroids Cluster 710241</asset>
+   <asset>Asteroids Cluster 720132</asset>
+   <asset>Asteroids Cluster 916201</asset>
+   <asset>Iralii Border Station</asset>
+  </sys>
+  <sys name="Ythin">
+   <jump>Eebiru</jump>
+   <jump>Irali</jump>
+  </sys>
+  <sys name="Eebiru">
+   <jump>Malgari</jump>
+   <jump>Otheli</jump>
+   <jump>Ythin</jump>
+  </sys>
+  <sys name="Malgari">
+   <jump>Eebiru</jump>
+   <jump>Estan</jump>
+   <jump>Otheli</jump>
+  </sys>
+  <sys name="Otheli">
+   <jump>Eebiru</jump>
+   <jump>Erde</jump>
+   <jump>Estan</jump>
+   <jump>Malgari</jump>
+  </sys>
+  <sys name="Alethai">
+   <jump>Firdal</jump>
+   <asset>Alethai Core Guard</asset>
+  </sys>
+  <sys name="Firdal">
+   <jump>Alethai</jump>
+   <jump>Drom</jump>
+   <asset>Asteroids Cluster 176648</asset>
+   <asset>Asteroids Cluster 262700</asset>
+   <asset>Asteroids Cluster 300010</asset>
+   <asset>Asteroids Cluster 314626</asset>
+   <asset>Asteroids Cluster 393062</asset>
+   <asset>Asteroids Cluster 656594</asset>
+   <asset>Asteroids Cluster 691504</asset>
+   <asset>Asteroids Cluster 848056</asset>
+  </sys>
+  <sys name="Irali">
+   <jump>Drom</jump>
+   <jump>Maeva</jump>
+   <jump>Ythin</jump>
+   <asset>Asteroids Cluster 149072</asset>
+   <asset>Asteroids Cluster 189670</asset>
+   <asset>Asteroids Cluster 291365</asset>
+   <asset>Asteroids Cluster 539636</asset>
+   <asset>Asteroids Cluster 623183</asset>
+   <asset>Asteroids Cluster 666039</asset>
+   <asset>Asteroids Cluster 672698</asset>
+   <asset>Asteroids Cluster 734662</asset>
+   <asset>Asteroids Cluster 829604</asset>
+   <asset>Asteroids Cluster 983601</asset>
+   <asset>Gadhonex</asset>
+   <asset>Irali</asset>
+   <asset>Irali Core Guard</asset>
+  </sys>
+  <sys name="Maeva">
+   <jump>Irali</jump>
+   <asset>Asteroids Cluster 128501</asset>
+   <asset>Asteroids Cluster 180176</asset>
+   <asset>Asteroids Cluster 223661</asset>
+   <asset>Asteroids Cluster 586864</asset>
+   <asset>Asteroids Cluster 665381</asset>
+   <asset>Asteroids Cluster 685638</asset>
+   <asset>Asteroids Cluster 905972</asset>
+   <asset>Asteroids Cluster 996503</asset>
+  </sys>
+  <sys name="Duran">
+   <jump>Drom</jump>
+   <jump>Hythin</jump>
+  </sys>
+  <sys name="Hythin">
+   <jump>Duran</jump>
+   <asset>Asteroids Cluster 130920</asset>
+   <asset>Asteroids Cluster 152160</asset>
+   <asset>Asteroids Cluster 258915</asset>
+   <asset>Asteroids Cluster 315291</asset>
+   <asset>Asteroids Cluster 454452</asset>
+   <asset>Asteroids Cluster 459276</asset>
+   <asset>Asteroids Cluster 544021</asset>
+   <asset>Asteroids Cluster 780238</asset>
+   <asset>Hythin</asset>
+   <asset>Hythin Core Guard</asset>
+  </sys>
+  <sys name="Norma">
+   <jump>Fehnouil</jump>
+   <asset>Norma Core Guard</asset>
+  </sys>
+  <sys name="Fehnouil">
+   <jump>Drom</jump>
+   <jump>Norma</jump>
+   <asset>Asteroids Cluster 151138</asset>
+   <asset>Asteroids Cluster 209709</asset>
+   <asset>Asteroids Cluster 291993</asset>
+   <asset>Asteroids Cluster 589109</asset>
+   <asset>Asteroids Cluster 680524</asset>
+   <asset>Asteroids Cluster 918216</asset>
+   <asset>Asteroids Cluster 939218</asset>
+   <asset>Asteroids Cluster 951862</asset>
+  </sys>
+  <sys name="Erde">
+   <jump>Otheli</jump>
+  </sys>
+  <sys name="Estan">
+   <jump>Malgari</jump>
+   <jump>Otheli</jump>
+  </sys>
+ </specific>
+</outfit>

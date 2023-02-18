@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Koralis">
+ <general>
+  <radius>14000.000000</radius>
+  <stars>500</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-340.200000" y="-313.800000"/>
+ <spobs>
+  <spob>Aillis</spob>
+  <spob>Fuzka</spob>
+  <spob>Koralis IV</spob>
+  <spob>Koralis VI</spob>
+  <spob>Luxsor</spob>
+  <spob>Paxsor</spob>
+  <spob_virtual>Miner Small</spob_virtual>
+  <spob_virtual>Trade Lane (Empire)</spob_virtual>
+ </spobs>
+ <jumps>
+  <jump target="Gamma Polaris">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Pastor">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Qex">
+   <pos x="-8810.152489" y="-15443.708459"/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <group>typeA-poor</group>
+   <radius>2500.000000</radius>
+   <pos x="-2040.575073" y="-1975.507063"/>
+  </asteroid>
+  <exclusion>
+   <radius>1000.000000</radius>
+   <pos x="-2014.776172" y="-1960.027722"/>
+  </exclusion>
+ </asteroids>
+</ssys>

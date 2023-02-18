@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-12">
+ <pos>
+  <x>3246.121261</x>
+  <y>-1324.947453</y>
+ </pos>
+ <GFX>
+  <space>moon-H02.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>124385000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>Irilia-12 is the world over which dispute arose, which spawned the 1st Fringe War between Clans Irilia and Arythem.
+
+The colony had been originally established at different times by two independent crews, who didn't implement a global satellite system. So, they settled two different lands, nearly opposite from one another, and only fortuitously came into contact. This however was quickly reported to the core worlds and the Clans engaged into a settling race, in the midst of which several border skirmishes erupted.
+
+The K'Rinn Council, having diplomatic relations with both parties, was authorized to built a station, KT-134, which served as a neutral place. But as the Arythem political climate became more and more hostile to the K'Rinns, the station's neutral status was challenged.
+
+The truce suddenly ended when a large tilkath deposit was discovered on a border region. The Arythem swiftly moved in, blockaded the system and called for reinforcements. When the Irilia core worlds got the news and sent an answer force, it as too late. Emerging in the system, the Irilia fleet recorded official broadcats saying that, after a fierce battle, the Irilia colony had surrendered in honor and declared itself an Arythem feud.
+
+But the Arythem didn't stop there. They took the k'rinn station by force and killed several envoys from the Council. They did not anticipate, however, that the K'Rinns would retaliate. Upon the unexpected arrival of the Council fleet from the same jump point only hours after his own, Grand Admiral Enalth ud Irilia id Leinth quickly took contact. In a swift lightning strike, the joint fleet drove the Arythem out, from not only the planet, but the system and the whole sector. The 1st Fringe War had just begun.
+
+Nowadays, the planet still has a mixed population of Arythem and Irilia ascent and has developped a specific culture, after several very hard periods where it was feared a local war would break once more. Several groups of Rithai seeking a life far from core worlds control have arrived along the years and acted as buffer between the original communities, helping them to merge harmoniously. They are now known as the "bridge cultures of Irilia-12". K'Rinns have also established themselves planetside and complement the population. Recently, several multi-species settlements had flourished upon that inherent diversity.
+
+Only the tilkath mining regions remains strictly under Irilia control, especially after the recent ka'raltian attempt at seizing ore on the joint k'rinn-rith mining settlement at Sikt, in system Ek'Dal, only two jumps away.
+  </description>
+  <bar>A joyous, mixed crowd of sentients, mainly Rithai and K'Rinns, eagerly chatting</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

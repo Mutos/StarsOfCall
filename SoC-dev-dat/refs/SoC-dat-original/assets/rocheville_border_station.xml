@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Rocheville Border Station">
+ <pos>
+  <x>-7322.481586</x>
+  <y>1878.542396</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>400.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>90000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This station lies on the main border between the Human and Rith Spheres, between the Planetarist Alliance and Irilia Clan. Built as a joint military outpost during the last phases of the war, it thrived in peace on the trade between the two winning States. However, with the development of the Three-Jumps-Route, it is slowly becoming obsolescent and is more and more used as a backdoor to its border States. 
+  </description>
+  <bar>Mostly human patrons, either hailing from the Alliance or Independent Spacers, drinking mild intoxicants with Irilia merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

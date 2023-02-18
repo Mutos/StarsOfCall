@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Medium Ion Flak Turret">
+ <general>
+  <slot prop="Flak Turret">weapon</slot>
+  <size>medium</size>
+  <mass>8</mass>
+  <price>5000</price>
+  <description>A pair of powerful ion cannons mounted on a rotating turret, aiming at non-lethal protection.</description>
+  <gfx_store>ionturret</gfx_store>
+  <cpu>-4</cpu>
+  </general>
+ <specific type="turret bolt">
+  <gfx>ionM</gfx>
+  <sound>ion</sound>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <delay>0.7</delay>
+  <speed>1000</speed>
+  <range>650</range>
+  <falloff>500</falloff>
+  <gfx_end>ionM-end</gfx_end>
+  <energy>40</energy>
+  <heatup>35</heatup>
+  <track>3</track>
+  <damage>
+   <type>ion</type>
+   <penetrate>6</penetrate>
+   <physical>8</physical>
+   <disable>24</disable>
+  </damage>
+ </specific>
+</outfit>

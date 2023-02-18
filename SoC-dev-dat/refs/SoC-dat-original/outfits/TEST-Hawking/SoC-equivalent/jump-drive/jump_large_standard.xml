@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Jump Drive">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Jump Drive">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>The simplest jump drive in the market, able to activate any reasonably massive jump tunnel.</description>
+  <gfx_store>hk2250/Jump-Drive-003</gfx_store>
+ </general>
+ <specific type="modification">
+  <fuel>1200</fuel>							<!-- Main purpose	: internal fuel storage for 5 jumps with default consumption -->
+ </specific>
+</outfit>

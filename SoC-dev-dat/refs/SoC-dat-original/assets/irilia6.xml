@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-6">
+ <pos>
+  <x>-1630.576450</x>
+  <y>-1104.169880</y>
+ </pos>
+ <GFX>
+  <space>O00.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>235985000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>The sixth Irilia colony links the first two arms of Irilia extension. It's another water-rich world, colonized by an expedition comprised of nearly only Irilia-5 natives, it has always maintained strong ties with its parent world.
+
+As native pseudo-whales were discovered to be semi-sentient, Pupeteer help was asked for to communicate with them. That's how a small settlement was installed by 13-Planets League people from Colony 10. Located in a subtropical oceania, it is becoming the planet's main touristic asset, but its access is severely restricted to protect it, as it is also the main habitat of the pseudo-whales.
+  </description>
+  <bar>A crowd of richly-clad Irilia people and a few Pupeteers looking at marine life around their underwater facilities</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Convulsion Launcher">
+ <general>
+  <slot>weapon</slot>
+  <size>medium</size>
+  <license>Medium Weapon</license>
+  <rarity>3</rarity>
+  <mass>16</mass>
+  <price>110000</price>
+  <description>The Thurion interceptor class missile focus on high agility rather than destructive power. While it does little damage to physical objects it is quite effective at disrupting shields.</description>
+  <gfx_store>convulsion_launcher.webp</gfx_store>
+  <cpu>-8</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <delay>4</delay>
+  <reload_time>160</reload_time>
+  <amount>10</amount>
+  <lockon>2</lockon>
+  <iflockon>1</iflockon>
+  <arc>60</arc>
+  <trackmin>0</trackmin>
+  <trackmax>5000</trackmax>
+  <ammo_mass>0.4</ammo_mass>
+  <gfx>convulsion.png</gfx>
+  <sound>seeker</sound>
+  <sound_hit>medexp0</sound_hit>
+  <spfx_shield>ExpM</spfx_shield>
+  <spfx_armour>ExpM</spfx_armour>
+  <trail_generator x="-5">missile</trail_generator>
+  <duration blowup="armour">7</duration>
+  <thrust>700</thrust>
+  <turn>35</turn>
+  <speed_max>850</speed_max>
+  <resist>50</resist>
+  <damage>
+   <type>ion</type>
+   <penetrate>12</penetrate>
+   <physical>150</physical>
+  </damage>
+  <ai>smart</ai>
+ </specific>
+</outfit>

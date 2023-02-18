@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freedom Portal">
+ <pos>
+  <x>3395.802803</x>
+  <y>-1781.294918</y>
+ </pos>
+ <GFX>
+  <space>Station-SCO004.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Adrimai</faction>
+  <value>250.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>235000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land>land_freeAdrimai_restrict</land>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This station is the door to Son of the Eclipse for Free Adrimai aspiring to relocate on the friendly pupeteer planet.
+  </description>
+  <bar>(null)</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

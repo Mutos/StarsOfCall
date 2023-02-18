@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <decorator>
+    <image>starmap-2020-04-01-008-RB7P</image>
+    <x>-1047.080000</x>
+    <y>-198.096000</y>
+    <detection_radius>300</detection_radius>
+  </decorator>
+</map>

@@ -1,0 +1,357 @@
+- Vega Strike:
+    license: GPLv2+
+    music:
+    - agriculture.ogg
+    - cosmostation.ogg
+    - galacticbattle.ogg
+    - launch2.ogg
+    - launch3chatstart.ogg
+    - liftoff.ogg
+    - machina.ogg
+    - mission.ogg
+    - ocean.ogg
+    - peace1.ogg
+    - peace2.ogg
+    - peace4.ogg
+    - peace6.ogg
+    - snow.ogg
+    sounds:
+    - afterburner.wav
+    - beam0.wav
+    - beam_off0.wav
+    - engine.wav
+    - explosion0.wav
+    - explosion1.wav
+    - explosion2.wav
+    - ion.wav
+    - jump.wav
+    - laser.wav
+    - mass.wav
+    - missile.wav
+    - nav.wav
+    - neutron.wav
+    - target.wav
+- Nikola Whallon <6.saturn.6@gmail.com>:
+    license: GPLv3 / CC-by 3
+    music:
+    - ambient1.ogg
+    - ambient2.ogg
+    - ambient2_5.ogg
+    - ambient3.ogg
+    - collective1.ogg
+    - collective2.ogg
+    - landing_sinister.ogg
+    - tension.ogg
+    - intro.ogg
+    - empire1.ogg
+    - empire2.ogg
+    - nebu_battle1.ogg
+    - nebu_battle2.ogg
+    - upbeat.ogg
+    - flf_battle1.ogg
+    - sirius1.ogg
+    - battlesomething1.ogg
+    - battlesomething2.ogg
+    - zalek1.ogg
+    - zalek2.ogg
+    - intrigue.ogg
+    - automat.ogg
+    sounds:
+    - grenade.wav
+- junggle:
+    license: GPLv3
+    sounds:
+    - plasma.wav
+- Tenshihan <http://tenshihan.nexuizninjaz.com/>:
+    license: GPLv3
+    sounds:
+    - ripper.ogg
+    - autocannon.ogg
+    - medexp0.ogg
+    - medexp1.ogg
+    - grenadefire.ogg
+    - empexplode.ogg
+    - lrgexp0.ogg
+    - bansheeexp.ogg
+- inferno:
+    license: GPLv3
+    sounds:
+    - mace.wav
+    - seeker.wav
+- MrTLikesRobots?:
+    license: GPLv3
+    sounds:
+    - hyperspace_engine.ogg
+    - hyperspace_jump.ogg
+    - hyperspace_powerdown.ogg
+    - hyperspace_powerup.ogg
+    - hyperspace_powerupjump.ogg
+- Zeropage:
+    license: CC-by 3
+    music:
+    - void_sensor.ogg
+    - ambiphonic.ogg
+- Destructavator:
+    license: CC-by 3
+    sounds:
+    - hail.ogg
+- Askyel:
+    license: CC-by-sa 3.0
+    music:
+    - ambient4.ogg
+    - combat1.ogg
+    - combat2.ogg
+    - combat3.ogg
+    - dvaered1.ogg
+    - dvaered2.ogg
+    - sirius2.ogg
+    - eureka.ogg
+    - terminal.ogg
+- Sean Hildebrand:
+    license: PD
+    sounds:
+    - compression.ogg
+- pengo_au:
+    license: PD
+    sounds:
+    - afb_disengage.wav
+- Jonathon Trumbo:
+    license: GPLv2+
+    sounds:
+    - 1-second-attachment.ogg
+    - 1-second-detachment.ogg
+    - computer_jam.ogg
+    - computer_lock.ogg
+    - mouse_click.ogg
+    - outfit-activation.ogg
+    - outfit-deactivation.ogg
+- iamoneabe <https://opengameart.org/users/iamoneabe>:
+    license: CC-by-sa 4.0
+    music:
+    - motherload.ogg
+- Olivier Bérubé <https://opengameart.org/users/loliver1814>:
+    license: CC0
+    music:
+    - pirate1_theme1.ogg
+- Dizzy Crow <https://opengameart.org/users/dizzy-crow>:
+    license: CC0
+    music:
+    - pirates_orchestra.ogg
+- Alexandr Zhelanov <https://opengameart.org/users/alexandr-zhelanov>:
+    license: CC-by 3.0
+    music:
+    - heartofmachine.ogg
+- Muncheybobo <https://opengameart.org/users/muncheybobo>:
+    license: CC-by 3.0
+    music:
+    - dark_city.ogg
+- Matthew Pablo <http://www.matthewpablo.com>:
+    license: CC-by 3.0
+    music:
+    - blackmoor_tides.ogg
+    - imminent_threat.ogg
+- BoxCat Games <https://soundcloud.com/boxcatllc/meeting-mtfox>:
+    license: CC-by 3.0
+    music:
+    - meeting_mtfox.ogg
+- Kenny.nl <https://www.kenney.nl/assets/casino-audio>:
+    license: CC0
+    sounds:
+    - gambling:
+      - cardSlide[1-8].ogg
+      - chipsStack[1-6].ogg
+      - dieThrow[1-3].ogg
+- jonhtrap:
+    license: CC0
+    sounds:
+    - loops:
+      - creepy_guitar.ogg (https://freesound.org/people/johntrap/sounds/528143/)
+      - riviere.ogg (https://freesound.org/people/johntrap/sounds/528301/)
+    - jingles:
+      - eerie.ogg (https://freesound.org/people/johntrap/sounds/527757/)
+- Zott820:
+    license: CC0
+    sounds:
+    - jingles:
+      - money.ogg (https://freesound.org/people/Zott820/sounds/209578/)
+- fisch12345:
+    license: CC0
+    sounds:
+    - jingles:
+      - success.ogg (https://freesound.org/people/fisch12345/sounds/325112/)
+- Silverillusionist:
+    license: CC-by 3.0
+    sounds:
+    - jingles:
+      - victory.ogg (https://freesound.org/people/SilverIllusionist/sounds/462249/)
+- LittleRobotSoundFactory:
+    license: CC-by 3.0
+    sounds:
+    - hypergate.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270554/)
+    - ui:
+      - happy.wav (https://freesound.org/people/LittleRobotSoundFactory/sounds/274203/)
+    - loops:
+      - alienplanet.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270527/)
+      - alarm.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270523/)
+      - wormhole.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270526/)
+    - songs:
+      - feeling-good-05.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320956/)
+      - feeling-good-08.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320970/)
+      - run-for-your-life-00.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320981/)
+      - space-exploration-08.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320959/)
+- Carlos Carty:
+    license: CC-by 3.0
+    sounds:
+    - songs:
+      - inca-spa.ogg (https://freesound.org/people/CarlosCarty/sounds/390879/)
+- Sunsai:
+    license: CC-by 3.0
+    sounds:
+    - songs:
+      - mushroom-background.ogg (https://freesound.org/people/Sunsai/sounds/415804/)
+- Frankum:
+    license: CC-by 3.0
+    sounds:
+    - songs:
+      - hip-hop-background.ogg (https://freesound.org/people/frankum/sounds/404027/)
+- copyc4t:
+    license: CC-by 3.0
+    sounds:
+    - songs:
+      - news.ogg (https://freesound.org/people/copyc4t/sounds/218372/)
+- Areze (made from works by Vega Strike and Jonathon Trumbo):
+    license: GPLv2+
+    sounds:
+    - torpedo.ogg
+- Areze:
+    license: GPLv2+
+    sounds:
+    - tesla.ogg
+    - beam_fuzzy.ogg
+    - beam_fuzzy_off.ogg
+    - beam_wave.ogg
+    - beam_wave_off.ogg
+- jacksonacademyashmore:
+    license: CC0
+    sounds:
+    - alarm_warning.ogg (https://freesound.org/people/jacksonacademyashmore/sounds/563775/)
+- Mafon2:
+    license: CC0
+    sounds:
+    - meow.ogg (https://freesound.org/people/Mafon2/sounds/436541/)
+- newlocknew:
+    license: CC-by 3.0
+    sounds:
+    - spaceship_door_open.ogg (https://freesound.org/people/newlocknew/sounds/546922/)
+    - spaceship_door_close.ogg (https://freesound.org/people/newlocknew/sounds/546922/)
+- MATRIXXX_:
+    license: CC-by 3.0
+    sounds:
+    - loops:
+      - derelict.ogg (https://freesound.org/people/MATRIXXX_/sounds/396542/)
+- Tissman:
+    license: CC0
+    sounds:
+    - sokoban:
+      - invalid.ogg (https://freesound.org/people/Tissman/sounds/535060/)
+      - goal.ogg (https://freesound.org/people/Tissman/sounds/534815/)
+      - level.ogg (https://freesound.org/people/Tissman/sounds/521849/)
+- Lunardrive (modified by bobbens):
+    license: CC0
+    sounds:
+    - heartbeat_single.ogg (https://freesound.org/people/Lunardrive/sounds/21911/)
+    - heartbeat_long.ogg (https://freesound.org/people/Lunardrive/sounds/21911/)
+- J.R.Mythical:
+    license: CC0
+    sounds:
+    - spacewhale1.ogg (https://freesound.org/people/J.R.Mythical/sounds/563690/)
+    - spacewhale2.ogg (https://freesound.org/people/J.R.Mythical/sounds/563693/)
+- sandyrb:
+    license: CC-by 3.0
+    sounds:
+    - crash1.ogg (https://freesound.org/people/sandyrb/sounds/95078/)
+- neezen.:
+    license: CC0
+    sounds:
+    - growl1.ogg (https://freesound.org/people/neezen./sounds/482149/)
+- strangehorizon:
+    license: CC0
+    sounds:
+    - engine_zalek.ogg (https://freesound.org/people/strangehorizon/sounds/582875/)
+- steaq:
+    license: CC0
+    sounds:
+    - engine_soromid.ogg (https://freesound.org/people/steaq/sounds/509249/)
+- "Kjartan Abel\nBio and contact info: https://kjartan-abel.com\nFree download: https://freesound.org/people/kjartan_abel/":
+    license: CC-by-sa 3.0
+    music:
+    - 78pulse.ogg (https://freesound.org/people/kjartan_abel/sounds/541944/)
+    - therewillbestars.ogg (https://freesound.org/people/kjartan_abel/sounds/532343/)
+- russscott1:
+    license: CC0
+    sounds:
+    - activate1.ogg (https://freesound.org/people/russscott1/sounds/455341/)
+- terminallynerdy:
+    license: CC-by 3.0
+    sounds:
+    - activate2.ogg (https://freesound.org/people/terminallynerdy/sounds/381822/)
+- DWOBoyle:
+    license: CC-by 3.0
+    sounds:
+    - blink.ogg (https://freesound.org/people/DWOBoyle/sounds/474180/)
+- Daleonfire (https://www.daleaudio.com/):
+    license: CC0
+    sounds:
+    - activate3.ogg (https://freesound.org/people/Daleonfire/sounds/513739/)
+    - activate5.ogg (https://freesound.org/people/Daleonfire/sounds/411617/)
+- qubodup:
+    license: CC-by 3.0
+    sounds:
+    - activate4.ogg (https://freesound.org/people/qubodup/sounds/219570/)
+- CeebFrak:
+    license: CC0
+    sounds:
+    - wormhole.ogg (https://freesound.org/people/CeebFrack/sounds/132593/)
+- Uzbazur:
+    license: CC-by 3.0
+    sounds:
+    - hypergate_turnon.ogg (https://freesound.org/people/Uzbazur/sounds/458582/)
+- KIZILSUNGUR:
+    license: CC0
+    sounds:
+    - ping.ogg (https://freesound.org/people/KIZILSUNGUR/sounds/70299/)
+- LJ_Dude <https://soundcloud.com/lj_dude>:
+    license: CC-BY-SA 4.0
+    music:
+    - approach.ogg
+    - vendetta.ogg
+- FusionWolf3740:
+    license: CC0
+    sounds:
+    - detonation_alarm.ogg (https://freesound.org/people/FusionWolf3740/sounds/570462/)
+- SoundFlakes:
+    license: CC-by 4.0
+    sounds:
+    - songs:
+      - sad_drama.ogg (https://freesound.org/people/SoundFlakes/sounds/413732/)
+- OptronTeam:
+    license: CC-by 4.0
+    sounds:
+    - equipment_failure.ogg (https://freesound.org/people/OptronTeam/sounds/551174/)
+- michael_grinnell:
+    license: CC0
+    sounds:
+    - electric_zap.ogg (https://freesound.org/people/michael_grinnell/sounds/512471/)
+- Bertsz (pitch modified by bobbens):
+    license: CC0
+    sounds:
+    - bioplasma.ogg (https://freesound.org/people/Bertsz/sounds/524305/)
+    - bioplasma_large.ogg (https://freesound.org/people/Bertsz/sounds/524305/)
+- DiscoveryME:
+    license: CC-by 4.0
+    sounds:
+    - plasma_burst.ogg (https://freesound.org/people/DiscoveryME/sounds/275608/)
+- JustInvoke:
+    license: CC-by 3.0
+    sounds:
+    - race_start.ogg (https://freesound.org/people/JustInvoke/sounds/446130/)

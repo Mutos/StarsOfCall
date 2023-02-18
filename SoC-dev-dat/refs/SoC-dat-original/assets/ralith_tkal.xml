@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ralith T'Kal">
+ <pos>
+  <x>26233.959577</x>
+  <y>2716.142279</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-005-Trapped-Ship.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>300.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15700</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A pirate station preying on smuggling convoys from the Ashioto Cluster to K'Rinn space.
+
+The station was originally established by renegade k'rinn defenders and human pirates, who were evicted from the purgatorian relics traffic. They found by sheer chance a large purgatorian vessel embedded within an asteroid. It provided them with enough artefacts to start a thriving traffic. Once thoroughly explored and ridden of all valuable material, it was converted into a mobile station.
+
+Despite efforts by other smugglers groups to get rid of them, they stuck and became a port of call for freelancers and pirates in the sector. The station's orbit is sometimes, unpredictably, altered by firing thrusters, so it can escape all detection attempts. Vessels passing though the system must broadcast a password to be accepted and given an approach vector. If they do not comply, they are likely to be attacked by the station's fighters and corvettes complement.
+  </description>
+  <bar>Pirate-type spacers, mainly Humans, K'Rinns and some Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

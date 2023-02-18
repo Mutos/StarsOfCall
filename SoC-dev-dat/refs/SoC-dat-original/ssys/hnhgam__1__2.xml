@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="HnH-Gam - 1 - 2">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2353.448000</x>
+  <y>-1604.688000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Gl 250 A">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="HnH-Gam - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 422363">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3616.336104" y="3438.847215"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 468500">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5746.202766" y="-2728.891661"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 600531">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2210.298947" y="-943.513893"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 722501">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="463.17737" y="-9987.352531"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 735168">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="771.943502" y="6061.358634"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 934794">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3113.626515" y="-3776.100242"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

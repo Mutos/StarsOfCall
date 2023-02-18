@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Map: Dvaered Core">
+ <general>
+  <mass>0</mass>
+  <price>25000</price>
+  <description>This map lists the locations of all Dvaered worlds and stations close to the Dvaered capital.</description>
+  <gfx_store>map_sector_04.webp</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Dvaer">
+   <jump>Beeklo</jump>
+   <jump>Gremlin</jump>
+   <jump>Radix</jump>
+   <jump>Urbanus</jump>
+   <spob>Dvaer II</spob>
+   <spob>Dvaer III</spob>
+   <spob>Dvaer IIIa</spob>
+   <spob>Dvaer IV</spob>
+   <spob>Dvaer Prime</spob>
+   <spob>Dvaered High Command</spob>
+   <spob>Eist Shipyard</spob>
+   <spob>Laarss</spob>
+  </sys>
+  <sys name="Gremlin">
+   <jump>Daravon</jump>
+   <jump>Dvaer</jump>
+  </sys>
+  <sys name="Radix">
+   <jump>Dvaer</jump>
+   <spob>Myuirr Station</spob>
+   <spob>Radix I</spob>
+   <spob>Radix II</spob>
+   <spob>Radix III</spob>
+   <spob>Stutee</spob>
+  </sys>
+  <sys name="Beeklo">
+   <jump>Awowa</jump>
+   <jump>Baf</jump>
+   <jump>Darkstone</jump>
+   <jump>Dvaer</jump>
+   <spob>Adham</spob>
+   <spob>Beeklo II</spob>
+   <spob>Diabolos</spob>
+   <spob>Icarus</spob>
+   <spob>Totoran</spob>
+  </sys>
+  <sys name="Baf">
+   <jump>Beeklo</jump>
+   <spob>BGG-1356</spob>
+   <spob>Baf I</spob>
+   <spob>Baf IV</spob>
+   <spob>Dumas Station</spob>
+   <spob>MGG-1294</spob>
+  </sys>
+  <sys name="Daravon">
+   <jump>Gremlin</jump>
+   <spob>Daravon I</spob>
+   <spob>Daravon III</spob>
+   <spob>Eclipse Station</spob>
+   <spob>Vilati Vilata</spob>
+  </sys>
+  <sys name="Awowa">
+   <jump>Beeklo</jump>
+   <spob>Awowa IV</spob>
+   <spob>Awowa V</spob>
+   <spob>Odonga</spob>
+   <spob>Odonga m1</spob>
+  </sys>
+  <sys name="Urbanus">
+   <jump>Dvaer</jump>
+   <spob>Onyx Shipyard</spob>
+   <spob>Trincea</spob>
+   <spob>Urbanus Crops</spob>
+   <spob>Urbanus II</spob>
+   <spob>Urbanus III</spob>
+  </sys>
+  <sys name="Darkstone">
+   <jump>Beeklo</jump>
+   <spob>Darkstone IV</spob>
+   <spob>Darkstone V</spob>
+   <spob>Sheik Hall</spob>
+   <spob>Stalwart Station</spob>
+   <spob>Varia</spob>
+  </sys>
+ </specific>
+</outfit>

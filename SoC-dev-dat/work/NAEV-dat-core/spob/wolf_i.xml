@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Wolf I">
+ <pos x="-989.152184" y="-1058.162801"/>
+ <GFX>
+  <space>moon-A00.webp</space>
+  <exterior>lava.webp</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</spob>

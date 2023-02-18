@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dlanhergh Toll imh Derr">
+ <pos>
+  <x>9818.158850</x>
+  <y>2278.740033</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Adrimai</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>7500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Founded by exfiltrated Adrim Thrull dri'h Dlanhergh, one of the first to use "dri'h" as a honorific, the station is a small spaceship repair dock where many outfits ("toll" in Irilia) and weapons ("derr" in Irilia) are available. It is also a stopping point for Free Adrimai ships travelling through Planetarist space from the Irilia sector.
+
+From time to time, a daring Free Adrim passes by the station on their route to join the Aragwedyr Clan on Amarynn-Woodsfield, only 2 jumps away. These ones get discount prices on personnal equipment and an introduction for Clan officials, as Thrull's heirs are always ready to help a fellow Adrim regain honor.
+
+The station is considered by the Free Adrimai as a tribe of its own, but most official Clans in the Rith Sphere frown on its existence.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

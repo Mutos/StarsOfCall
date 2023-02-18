@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Howling Comets">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-12.008000</x>
+  <y>-3223.824000</y>
+ </pos>
+ <assets>
+  <asset>Howling Comets</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="RQL 0034">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RQL 0057">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 231211">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5391.224989" y="-3638.522215"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 235879">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5746.202766" y="-2728.891661"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 456781">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8142.302762" y="4903.130546"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564888">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4681.269435" y="8918.816649"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 565421">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5014.061101" y="-3106.055549"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 899845">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1686.144441" y="-2662.333328"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

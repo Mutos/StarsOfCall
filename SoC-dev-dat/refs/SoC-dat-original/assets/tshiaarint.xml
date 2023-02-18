@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tshiaa'rint">
+ <pos>
+  <x>612.336665</x>
+  <y>-4366.226658</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Complementarist Protectorate</faction>
+  <value>600.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1872000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This planet is very special, being the Shapeshifters' cradleworld. It had been settled by a joint effort between Baartish Intersystem and Hash'riss Colonisation Corporation, but elements had been kept secret from the colonists by the exploration compagny that discovered the planet : satellites had been found and destroyed, and places showed signs of civilisation, seemingly hidden or destroyed on purpose.
+
+First contact occurred in several places with very different outcomes, ranging from the first seeds of Complementarism to burned-down shapeshifter hives. However, planetside Baartish officials, quickly groking the benefits that Complementarism had to offer to both species, did support the new ideology nearly from the start.
+
+Then, as the hived danebs began to come out, the Shoden, then only a Hash'riss-related mercenary force, moved in on their own, to "secure the settlements". They tied down Baartish planetary officials and during some years, the Shapeshifters' cradleworld was kept under an iron heel. At last, off-planet Baartish authorities sided with Complementarism and Tshiaa'rint was retaken, but before being expelled, desperate Shoden fanatics chased down and slaughtered many of the remaining hived danebs.
+
+With the Sshaad Sphere now split between anti- and pro-complementarists, hived danebs were exfiltrated to other Baartish planets and founded in new colonies in the next seven years, allowing the long-awaited dream of co-colonies to come true.
+
+Soon, having enough proof of Complementarism value for sshaaddom, Baartish finally took side and forcibly expulsed the Shodens from Tshiaa'rint. However, in a last act of defiance, rogue Shoden forces mercilessly tortured several Hive-spirits and destroyed their hived danebs and killing Shapeshifters and Sshaads alike, before Baartish commandos were able to neutralize them.
+
+Now, Tshiaa'rint is split between a generally Complementarist population, a number of Daneb Anarchs-related settlements and a small minority of Shapeshifter Hives wanting to get totally rid of any sshaad influence, calling themselves the Proteous Resistance.
+  </description>
+  <bar>You see numerous Sshaads... or are they Shapeshifters ? You know they often indulge in sshaad shape. Several ones are recognizable, either only partially transformed or in their plain natural shape.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

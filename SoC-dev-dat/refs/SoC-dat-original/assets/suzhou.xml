@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Suzhou">
+ <pos>
+  <x>8684.580619</x>
+  <y>6930.571329</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

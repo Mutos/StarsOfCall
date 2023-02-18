@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RkL 2836">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>14.416000</x>
+  <y>129.720000</y>
+ </pos>
+ <assets>
+  <asset>K'Til'n 0004</asset>
+  <asset>T'Tamen</asset>
+  <asset>T'Timor</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Ek'In">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 23">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RkL 1825">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 200542">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-931.816665" y="9650.958314"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 238421">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3375.986567" y="-2367.134795"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 335241">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2862.008328" y="3350.102771"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 335604">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5036.247212" y="1962.238268"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 364111">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3616.336104" y="3039.497216"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 626452">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7032.997208" y="6611.461098"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 628854">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2972.938883" y="2728.891661"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 641205">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3949.12777" y="2529.216662"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 648554">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-798.699998" y="-9761.88887"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

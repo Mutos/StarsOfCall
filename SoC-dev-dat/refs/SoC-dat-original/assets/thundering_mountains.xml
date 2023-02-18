@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Thundering Mountains">
+ <pos>
+  <x>2403.495366</x>
+  <y>-4011.988418</y>
+ </pos>
+ <GFX>
+  <space>M00.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>560.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>645823000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This green and blue planet, equally split between oceans and verdant continents, takes its name from its many active volcanoes. It have been bestowed quite recently, after decades of being only known as Colony 9.
+
+It is 13-Planets-League custom to name a colony after a major feature of the planetary surface. Settlers often discuss their planet's name for years or even decades before they reach a decision, and proposed names can be very diverse. Before being officially named, the planet is only known as the nth colony.
+  </description>
+  <bar>Small groups of locals and an occasional Spacer</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

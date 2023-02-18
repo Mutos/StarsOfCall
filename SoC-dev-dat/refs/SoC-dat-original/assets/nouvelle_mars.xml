@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nouvelle Mars">
+ <pos>
+  <x>2583.647534</x>
+  <y>-2252.410671</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>650.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>354621000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Nouvelle Mars was one of the thriving Better Worlds colonies which were initially contacted by the Planetarist Alliance. During the Corporate Wars, several battles were fought in the system, but the planet, although it forcibly shifted sides for each battle's victor, was left relatively unharmed. It even became a major smuggling base, taking advantage of the planetside population's general hostility towards the war.
+
+When the conflict was over, the small world found itself on a short path from Sanctuary to Sol, which was a very favorable position for trade, and thrived again in peace as it had in war. But as tension climbed between the old cradleworld and the new capitol, the planetside government resumed its undercover smugglers-helping role. It finally aligned itself with Sanctuary after long negociations when the Core League seceded from the Alliance.
+
+Nowadays, Nouvelle Mars shows the classical League-Alliance border ambiance, with a mix of cooperation and defiance. The planet is a major base of the League-Alliance joint Stellar Police and small Core League military ships are a common sight, even if The Alliance maintains a fleet in the system, for trade lanes protection and border patrols. The economy is thriving as never, as Nouvelle Mars is port of call for large and small freight compagnies alike, and many independent Free Traders hail from its numerous commercial starports. However, the planet's wealth is very unevenly distributed, with a few merchants owning the starport, the continent-wide agricultural lands and the large fishing platforms, and the general population living in poverty by common Alliance standards.
+  </description>
+  <bar>Mostly Human merchants talking business, some K'Rinns playing cargoes on Spiraxy</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

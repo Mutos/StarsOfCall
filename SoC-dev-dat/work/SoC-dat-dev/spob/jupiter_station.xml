@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Jupiter Station">
+ <pos x="25830.256130" y="24317.139217"/>
+ <GFX>
+  <space>station-commerce.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>180.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>564000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Jupiter Station is one of the main trade hubs in Sol, humankind's cradle system.
+It is thus a place of influence in the Human Sphere.
+  </description>
+  <bar>An undending flux of spacers and gravs, mainly merchants.</bar>
+ </general>
+ <tech>
+  <item>Low Tech Upgrades</item>
+ </tech>
+</spob>

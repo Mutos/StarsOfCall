@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Divers' Beach">
+ <pos>
+  <x>2751.077772</x>
+  <y>2418.286106</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Red-100px.png</space>
+  <exterior>Outpost-LifeShell-Red-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>45</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Roughly half-way from New Light to Furlong Depth, this small relay outpost is on the route from the core Red Quadrant to the Pupeteer Sphere's outer reaches and further to the Human and Rith Spheres.
+
+It has been named from the habit free-flying scoop-fitted ships have to dive from it to the upper atmosphere of the nearby hydrogen-rich gas giant, which is itself known as Savory Clouds for this reason.
+  </description>
+  <bar>(null)</bar>
+ </general>
+</asset>

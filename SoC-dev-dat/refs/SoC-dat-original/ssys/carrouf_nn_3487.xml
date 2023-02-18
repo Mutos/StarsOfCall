@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Carrouf (NN 3487)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2077.684480</x>
+  <y>-1477.162880</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Dwarves' Tunnels (Gl 261)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 1093">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 1097">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Meetpoint (Gl 291)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 262736">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2372.681322" y="-4067.453696"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 313686">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3301.293327" y="-3035.059994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 433736">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="21520.77622" y="2666.273581"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 860492">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3856.10395" y="-4134.985141"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

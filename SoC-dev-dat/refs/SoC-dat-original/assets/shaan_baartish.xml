@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shaan Baartish">
+ <pos>
+  <x>1059.957963</x>
+  <y>-1258.700081</y>
+ </pos>
+ <GFX>
+  <space>M00.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1875654000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This planet covered with woodlands and oceans was viewed by the Baartish people as a paradise and named "New Baartish" for its similarities to their capitol planet.
+
+Its reputation has since soared even higher as it is becoming a successful Complementarist co-colony and now counts more permanent residents from other species than Baartish itself. This success has given rise to an intense trade flow and you can now find most commodities there.
+  </description>
+  <bar>Proud and wealthy locals of all species talking with a few high-class merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

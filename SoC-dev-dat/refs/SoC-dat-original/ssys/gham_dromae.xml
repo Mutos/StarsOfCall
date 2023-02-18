@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gham Dromae">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>1372.096000</x>
+  <y>-3324.256000</y>
+ </pos>
+ <assets>
+  <asset>Garri ud Skarae</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="GG 0001">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GG 0003">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GG 0007">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 055781">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-12412.200034" y="-12009.300296"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 058641">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-740.956473" y="4064.519686"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 087564">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3210.738496" y="17801.958032"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 087640">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="22151.181254" y="3143.150727"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 089456">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9072.62852" y="-3544.417606"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 097554">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-754.327776" y="4525.966658"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 256400">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6635.575731" y="-7789.016493"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 256497">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7848.833239" y="-6943.111503"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 456054">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-12212.434263" y="-11380.373688"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564287">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7282.73147" y="-7501.757689"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 587124">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-12647.686133" y="-11765.883437"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 845667">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1131.491664" y="3638.522215"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 854523">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="21520.77622" y="2666.273581"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 870234">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7962.246036" y="-7596.483344"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 872649">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4912.927933" y="8554.92893"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 942720">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-12080.731306" y="-11842.38474"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

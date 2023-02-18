@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="El'Tinal">
+ <pos>
+  <x>1023.095184</x>
+  <y>3350.554045</y>
+ </pos>
+ <GFX>
+  <space>moon-P00.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

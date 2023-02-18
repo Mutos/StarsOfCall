@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sirou VI">
+ <pos x="28264.232318" y="5317.606564"/>
+ <GFX>
+  <space>C01.webp</space>
+  <exterior>mining4.webp</exterior>
+ </GFX>
+ <general>
+  <class>D</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

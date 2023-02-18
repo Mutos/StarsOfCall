@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sora no Shikyuu">
+ <pos>
+  <x>-2186.163298</x>
+  <y>-861.215845</y>
+ </pos>
+ <GFX>
+  <space>moon-P03.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>350.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>26250000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Sora no Shikyuu is the farthest Sublight Colony from Sol by the jump network, although its star, 82 Eridani, is only 19 LY from Sol. It is an aquatic world with  several oceanias and three small continents. Its life's biocompatibility is quite good to Human, Sshaad and Shapeshifter ecosystems. this prompted the installation of a few Complementarist Hives, as part of an agreement with the Baartish.
+
+Sorans pretend the planet is the birthplace of the Planetarist Alliance. Of course, actually, the Treaty of Planetarist Movements was signed on a ship in deep space, so no planet could lay claim on the newly-founded state. It is now a key Planetarist trading place and a biological research place, and a fair number of paradise islands house multiplanetary compagnies' headquarters.
+
+Among the famous planetside places stands the old town of Kitsunemachi, near Mount Yamatsuki. Founded as a Godin-inspired familistere by Odette Legoupil, a terraformation entrepreneur, Legoupil City became known as Kitsunemachi from a wordplay among french- and japanese-speaking workers.
+
+After the SnS terraformation effort, Legoupil successors failed to keep success and the company was sold many times, ending as one of the Wurth Group's crown jewels. After the Raumbahn Sieben affair and the dismantling of the Wurth Group by the Stellar Police, it was bought back by an alliance of worker unionists, executives and Legoupil family members. Nowaday, the Legoupil Estate itself is a prestige resort, operated as a subsidiary from the main company.
+  </description>
+  <bar>Proud locals boasting about the Birthplace of Planetarism and tourists, mostly Humans, attracted by the historic treasures, paradisiac vista and opportunity to meet celebrities.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

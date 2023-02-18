@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-6">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1632.960000</x>
+  <y>176.256000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="RS-5">
+   <pos x="5757.738293" y="5692.733160"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-7 - Delta Lock">
+   <pos x="-7960.345978" y="3120.473028"/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 170010">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4668.246303" y="3645.697839"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 181410">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7582.103616" y="-3593.553843"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 262751">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3528.207941" y="-4129.081782"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 323775">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4309.590781" y="4345.143228"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 378261">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5892.039469" y="5527.743526"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 567073">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-18741.343048" y="-30492.976736"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 627073">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4947.502768" y="4082.244436"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 895939">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9740.681634" y="1122.537869"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 958853">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8018.947984" y="3098.955994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 973851">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9974.426336" y="761.438059"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

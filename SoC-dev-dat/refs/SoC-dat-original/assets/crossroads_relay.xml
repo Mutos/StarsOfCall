@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Crossroads Relay">
+ <pos>
+  <x>-8064.651373</x>
+  <y>-3357.498142</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Base-100px.png</space>
+  <exterior>Outpost-LifeShell-Base-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>48</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Crossroads Relay was built at the first times of the Pupeteers' expansion outside the Cradle. Of the oldest known lineage of Life Shells, it lacks the colored docking markers decorating the hull of recent stations.
+
+However, the current station is indeed quite young, as it is a clone of its predecessor, who died of old age after more than one century of faithful service. When it showed that their years were counted, delibarations were held to know if a modern relay was to be grown, but it was chosen to take a clone seed in honor of the First Relay. It was grown alongside in a temporary life support sphere. When years after, the station passed away, both habitats were already fully operating in parallel. Weeks-long mourning ceremonies were held, then the lifeless hulk of the deceased habitat was sunk into the local sun.
+  </description>
+  <bar>Passing-by Spacers of any species never forget to pay hommage to the First Relay memorial</bar>
+ </general>
+</asset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Til'n 0004">
+ <pos>
+  <x>4215.361103</x>
+  <y>-3727.266659</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</asset>

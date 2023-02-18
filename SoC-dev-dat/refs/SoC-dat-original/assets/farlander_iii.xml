@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Farlander III">
+ <pos>
+  <x>2053.668553</x>
+  <y>-1656.184317</y>
+ </pos>
+ <GFX>
+  <space>M00.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>3180000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Farlander III was a far away Planetarist colony, that thrived in relative isolation until it was found to be between the main two jump routes to Irilia space. It then became a trade nexus on the Planetarist side of these routes.
+
+Not long after the end of the Fringe Wars, a diplomatic ship from New Light, headed for Krasnoia to meet a joint Irilia-Planetarist delegation, experienced a warp engines malfunction and survivors crashed on the planet. As the diplomatic envoy was to stay secret, local Planetarist authorities hid the truth while exfiltrating the survivors. One of them, however, had to get help from a local boy and his dog. The boy was Alain Ghedifa and that encounter prompted him to seek a career in space. The first Human to join the Wandering Domains, he became famous as one of the first theoricians of Spacers' Culture.
+  </description>
+  <bar>A chattering crowd of tradesbeings, mostly Humans and Rithai, with a some Pupeteers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

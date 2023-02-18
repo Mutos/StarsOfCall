@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Std Lrg Hull Plating">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Hull Plating">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>The manufacturer spec hull configuration. Certainly spaceworthy, but miserably fails to tap the hull's full potential.</description>
+  <gfx_store>nanobond</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>70</cargo>
+  <absorb>27</absorb>
+  <armour>600</armour>				<!-- Main purpose	: armour thickness -->
+  <armour_regen>0</armour_regen>	<!-- Main purpose	: capability to regenerate the armour  -->
+  <mass_rel>100</mass_rel>			<!-- Mass cost		: hull armour amounts to a significant part of the ship's mass -->
+ </specific>
+</outfit>

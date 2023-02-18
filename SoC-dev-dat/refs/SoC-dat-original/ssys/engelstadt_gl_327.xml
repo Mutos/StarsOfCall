@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Engelstadt (Gl 327)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2284.220480</x>
+  <y>-1377.026880</y>
+ </pos>
+ <assets>
+  <asset>Engelstadt</asset>
+  <asset>Hallier</asset>
+  <asset>Krasnoia Station</asset>
+  <asset>Smernya</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="GJ 1097">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 334">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 158794">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4190.709868" y="1170.93364"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 176830">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3913.38348" y="970.642359"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 218723">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4098.267739" y="-3820.94135"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 548795">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3528.207941" y="-4129.081782"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 698706">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3444.863379" y="1258.700081"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 921709">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3248.006276" y="1025.118267"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

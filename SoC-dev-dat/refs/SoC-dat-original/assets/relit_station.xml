@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Relit Station">
+ <pos>
+  <x>-1597.399997</x>
+  <y>-1629.347997</y>
+ </pos>
+ <GFX>
+  <space>Station-SCV002.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>250.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>3686000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This system previously held only a border station guarding barely explored systems where sshaad scouts have been sighted. Then, new systems beyond this border were explored, and the Emalthor and Ergal systems were settled, Arythem officially claimed the sector and the Long Route was opened towards Shoden and Hoshi no Hekka territories. So the initial station was replaced by a far larger terrarium-type habitat.
+
+Nowadays, the station has become a full-fledged habitat, home to more than 3 millions people. It is now considered part the inner Arythem territory, but is still a trading point with the Hoshi no hekka and Shoden Clusters. Official trade with these States being somewhat limited, it has developped extensive "underground" fencing facilities, well-known of the authorities, but protected by honor alliances with various influential Arythem tribes. So Relit is now one of the places in the known universe where absolutely everything can be found, albeit not always for cheap.
+  </description>
+  <bar>Tradesrithai with markings of various tribes, most of them Arythem, often talking business with their human and sshaad partners, protected by secrecy fields</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

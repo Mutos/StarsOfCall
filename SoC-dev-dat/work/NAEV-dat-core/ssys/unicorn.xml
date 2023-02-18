@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Unicorn">
+ <general>
+  <background>stellarwind</background>
+  <map_shader>stellarwind_map.frag</map_shader>
+  <features>#bStellar Wind (1 fuel regen)#0</features>
+  <radius>17500.000000</radius>
+  <stars>400</stars>
+  <interference>23.809524</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-165.826389" y="-1054.354167"/>
+ <spobs>
+  <spob>Unicorn I</spob>
+  <spob>Unicorn II</spob>
+ </spobs>
+ <jumps>
+  <jump target="Kretogg">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Marat">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Nunavut">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Volus">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <group>typeC-rich</group>
+   <radius>3000.000000</radius>
+   <pos x="-8918.816649" y="-1730.516663"/>
+   <density>0.200000</density>
+  </asteroid>
+  <asteroid>
+   <group>typeC-poor</group>
+   <radius>6000.000000</radius>
+   <pos x="15127.836154" y="89.510112"/>
+   <density>0.500000</density>
+  </asteroid>
+  <exclusion>
+   <radius>2000.000000</radius>
+   <pos x="-8895.397976" y="-1751.346956"/>
+  </exclusion>
+ </asteroids>
+ <stats>
+  <fuel_regen>1.000000</fuel_regen>
+ </stats>
+ <tags>
+  <tag>southstellarwind</tag>
+  <tag>stellarwind</tag>
+ </tags>
+</ssys>

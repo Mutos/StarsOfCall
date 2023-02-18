@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Jor'Nilka">
+ <pos>
+  <x>12191.522666</x>
+  <y>11523.406225</y>
+ </pos>
+ <GFX>
+  <space>J04.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

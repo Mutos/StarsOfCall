@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Thalin">
+ <pos>
+  <x>7879.597431</x>
+  <y>-3824.123408</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D30.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>900</population>
+  <hide>0.100000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Thalin Station is a carved-out asteroid, once home of the pirate Clan of the same name during the Fringe Wars. Back then, it was a stronghold of pirate incursions in both Alliance and Irilia space. It was first officiously but notoriously backed by Cartel Sol through the Avenir-Woodsfield-Inferno route, then passed under direct Solar control.
+
+The Thalin Clan was involved in the famous Skull Valley Incident on Irilia-17. During this episode, human Alliance exoethnologist Sara Seynberg averted the kidnapping of a whole Leinth tribe by Thalin slave traders. Based on a controversial interpretation of the Sara Seynberg Diaries, it was afterwards rumored that the whole raid was under Cartel Sol orders, but that was eventually revealed to be false. On that raid, the Thalin Clan lost a reentry freighter, its bridge crippled by explosives while landed in the valley. The ship was then salvaged and reused by the nearest Irilia-17 mining settlement.
+
+Near the end of the war, the system was found to be only 5 jumps from Sanctuary. It was swiftly invaded by a joint Planetarist-Irilia fleet, to cut Cartel Sol from any possible path to the Alliance capitol. It was also set up as the ultimate fallback position for Operation Poseidon. Would the invasion of Sol have failed, the 12-jumps route was secured on its Planetarist half, from Avenir to Thalin. Orders were to harass any pursuing fleet relentlessly, breaking any protracted engagement and avoiding at all cost to reveal any clue on the Sanctuary route. The pursuers were to be drawn right into the jaws of an Alliance-Irilia joint fleet waiting in ambush in the Thalin system's numerous asteroids belts.
+
+Since the Council-Irilia-Alliance victory and the founding of the Commonwealth, the station's position has been widely disclosed, along with the trade route to Sanctuary. It has become a major trade stop on the Alliance-Irilia famous "Three-doors-road" comprising of systems Thalin, Althaim and Thim Humae.
+  </description>
+  <bar>The bar is filled with a diverse crowd of mainly Humans and Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

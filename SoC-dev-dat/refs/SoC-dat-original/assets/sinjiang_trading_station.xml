@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sinjiang Trading Station">
+ <pos>
+  <x>-1788.679062</x>
+  <y>-7220.963621</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>52600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Sinjiang station was first opened as a mining outpost jointly operated by the K'Rinn Council and the Pei Clan-Family. It was then converted to a trading station when the route from Planetarist Alliance to K'Rinn Council was discovered. In fact, the system's most common name is still its RkL catalog number, of k'rinn origin.
+
+The station was saved in 2232 by the sacrifice of Vladimir Demeniev, then Second-in-command of the Stellar Police Terrain Investigations Department. Years later, it was proved, then publicly revealed, that the whole affair was a trap aimed at Demeniev, but that he survived it, albeit barely.
+
+SinJiang was also instrumental in the Raumbahn Sieben affair. A jump route to Villera was used by a Human private concern to try to create a new State. This venture, backed by several local mafias, would have destabilized the whole sector, including the Irilia Clan, K'Rinn Council, Planetarist Alliance and Core League. The Stellar Police finally thwarted that plan on behalf of the League and Alliance, with help from the nearby States. The Pei, who were allies to the concern, were inducted out of the plan by diplomatic pressure. In the course of the events, the route itself became widely known as Raumbahn Sieben. The station, seized by the Stellar Police, was then given in protectorate to the Planetarist Alliance.
+  </description>
+  <bar>A crowd of k'rinn and human patrons, mainly merchants and spacers talking business talk</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

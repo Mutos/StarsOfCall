@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irmothem-7">
+ <pos>
+  <x>-1690.634510</x>
+  <y>-3188.804490</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1542000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>Irmothem-7 is one of the last settled worlds of the Clan. It has a barren surface with some seas and great deserts. Just as Irmothem-6, it possesses an underground water cycle, but it is fuelled by a rich waterbed coming directly from the seas rather than rivers flowing from moutains.
+
+Many colonists indeed come from Irmothem-6 and, as the new world is quite ore-rich, it is viewed as a valuable asset in Irmothem's pouch. However, as it is near Arythem space, there is always concern about a possible border conflict.
+  </description>
+  <bar>A largely Irmothem crowd, along with a few merchants of mixed Irmothem and Arythem origin</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

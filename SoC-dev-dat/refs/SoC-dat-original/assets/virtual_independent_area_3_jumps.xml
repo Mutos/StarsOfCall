@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual Independent Area 3 Jumps">
+ <virtual/>
+ <presence>
+  <faction>Independent</faction>
+  <value>30.000000</value>
+  <range>3</range>
+ </presence>
+</asset>

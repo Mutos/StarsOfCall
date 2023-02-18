@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shin Yokosuka">
+ <pos>
+  <x>1052.144633</x>
+  <y>-2815.091589</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>mining2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>470.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>76300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>On the shortest route from Sol to Eden, this station is, along with Hermes, one of the only two Hoshi no Hekka exchange points officially endorsed by the Core League.
+
+It has been built at the middle of the Harushita period as an EWS against piracy and smuggling. However, it has never been very effective, mainly due to lack of funding for long-range sensors and last-generation patrol ships.
+
+When the news broke that the Pocket was to be abandonned, the station's orbit was altered to position it in the middle of a large asteroids field and 2 Fortresses headed for the Gl 293.2 system. When the PoliCorpos launched their attack, they elected instead to come by the Hermes-Eldorado back route, they thought would be less hardened.
+
+With the invasion fleet being routed from Eldorado, the deterrant was strong enough to discourage any further Solar attack. Gl 293.2, however, stayed heavily patrolled with no less than 3 Fortresses insystem during most of the Corporate and Planetarist Wars.
+
+With the conquest of the Solar system by the Planetarists and the subsequent peace, the station thrived as an official trade post between Sol and the HnH. It was confirmed in its role when the Sol system and several colonies seceded from the Alliance to form the Core League.
+  </description>
+  <bar>The bar is full of patrons, most of them Humans and most of them merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

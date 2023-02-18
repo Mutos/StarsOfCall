@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="ShC 0042">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3668.456000</x>
+  <y>356.592000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="ShC 0010">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="ShC 0011">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="ShC 0043">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

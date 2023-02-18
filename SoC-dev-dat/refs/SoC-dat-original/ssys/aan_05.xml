@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Aan 05">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-6072.104000</x>
+  <y>-1100.112000</y>
+ </pos>
+ <assets>
+  <asset>Eetin Alshaan</asset>
+  <asset>Lalth ish Eeris</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Aan 04">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Aan 06">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Aan 92">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 156478">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6375.314959" y="1760.05713"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 164789">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3696.500327" y="2928.030744"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 185423">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5106.4877" y="887.422714"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 246872">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6049.360168" y="2123.105009"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 546781">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5458.151889" y="2922.834686"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564687">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6086.510586" y="1318.179274"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 697542">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4185.647505" y="990.017244"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 788451">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3498.364762" y="2172.6389"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 854127">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3616.503093" y="1580.708898"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 875316">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4510.838883" y="3240.889108"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

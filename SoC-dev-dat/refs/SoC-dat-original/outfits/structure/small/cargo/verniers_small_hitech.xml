@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hi-tech Sml Verniers">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Verniers Array - Small">structure</slot>
+  <size>small</size>
+  <price>20000</price>
+  <description>More powerful ion thrusters for making your ship nimbler.</description>
+  <gfx_store>hk2250/Verniers-002</gfx_store>
+ </general>
+ <specific type="modification">
+  <turn>150</turn>					<!-- Main purpose	: gives ship a mean to turn -->
+  <mass_rel>10</mass_rel>			<!-- Mass cost		: The verniers array is not the heaviest outfit, but it certainly adds to a ship's mass -->
+  <ew_hide>0</ew_hide>				<!-- Stealth cost	: thrusters are near invisible among the ship's other signals -->
+ </specific>
+</outfit>

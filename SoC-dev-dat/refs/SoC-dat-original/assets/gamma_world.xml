@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gamma World">
+ <pos>
+  <x>3035.059994</x>
+  <y>1182.075998</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>550.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>259760</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>A small barren, desolate planet, first colonized by marrooned pirates, then expanded as a refuel point on the main alternate road from Purple Trail to Hoshi no Hekka.
+
+The small survival outpost where pirate renegades were left out surprinsingly developped a life of itself by adapting local flora to human needs. They soon discovered that the atmosphere's rotten egg odour was given by high hydrogen sulfide content, from which some local plants extracted hydrogen, making it easy to harvest.
+
+Extracting this resource and selling it for fuel to passing vessels became a way to enhance the small settlement's finances. As Purple Trail explorers discovered a road to the Hoshi no Hekka passing through the sytem, the planet quickly became known as a refuel point. Its economy slowly rose and its newly acquired wealth allowed it to become a rallying point for independent Spacers, despite, let's say, its odorful natural disadvantage.
+
+Fallen Sun, a gas giant lying in the same system, is now exploited for hydrogen, expanding tenfold the modest output of the so-called "stinking world". A station has been built in its rings, jokingly named Cloudy Resort. It provides the planet's economy with a high income, allowing it to thrive and expand beyond what has been thought possible.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Border Sectors</item>
+ </tech>
+</asset>

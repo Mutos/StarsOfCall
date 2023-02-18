@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Jaltha">
+ <pos>
+  <x>745.453332</x>
+  <y>-4978.563324</y>
+ </pos>
+ <GFX>
+  <space>Planet-005-redWater.png</space>
+  <exterior>mining5.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>300.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>964265000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>This planet evenly split between water and barren deserts has next to no ground life, but its small native ecosystems mostly grow on the oceans. It was colonized as a mining resource and has since grown far above the outpost status. Despite the proximity to the Long Link, a once proposed plan for a rith-shaad co-colony has been discouraged by the planetside authorities.
+
+Among Long Link travellers, Jaltha is rumored to be a staging ground for xenophobic and anti-Adrim movements inside the Arythem Clan. The planet is under scrutiny by the Joint Peacekeeper Force and, as a result, traffic in the system is heavily scanned for Jenac or Gham Garri smugglers or activists.
+  </description>
+  <bar>Hardened miners, looking down on non-Rithai with contempt</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

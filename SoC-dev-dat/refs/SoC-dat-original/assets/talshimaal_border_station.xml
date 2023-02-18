@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Talshimaal Border Station">
+ <pos>
+  <x>5994.711349</x>
+  <y>-6125.029370</y>
+ </pos>
+ <GFX>
+  <space>Station-SR002.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>300.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>78000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This station guards the Baartish side of the border with the Shoden Clusters, opposite the Eshodal Border Station. As it is quite near the Shoden research facility at Rarilash, where new weapon systems and ships are continually designed and tested, the station is equipped with the most up-to-date sensors and AI packages and sshaaded by the elitemost patrol and fighter pilots.
+  </description>
+  <bar>Elite Baartish pilots wondering and betting on the next doomsday weapon Rarilash Station could well spawn</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

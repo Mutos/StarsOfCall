@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ghilan">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-8.552000</x>
+  <y>-2463.504000</y>
+ </pos>
+ <assets>
+  <asset>Ghilan's Pride</asset>
+  <asset>Light of Dawn</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="PA 0091">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0093">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0094">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 226501">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8719.141649" y="5169.363879"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 266641">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2396.099995" y="-4148.80277"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 602151">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1819.261108" y="-4481.594436"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 854012">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7654.208318" y="6500.530543"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

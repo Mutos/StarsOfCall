@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fleets>
+ <!--===================================-->
+ <!-- One fleet per ship for spawning   -->
+ <!--===================================-->
+ <!---->
+ <fleet name="Akk'Ti'Makkt">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Akk'Ti'Makkt" ship="Akk'Ti'Makkt"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Alaith">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Alaith" ship="Alaith"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Angry Bee Fighter">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Angry Bee Fighter" ship="Angry Bee Fighter"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Angry Bee Drone">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Angry Bee Drone" ship="Angry Bee Drone"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Arshiilan">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Arshiilan" ship="Arshiilan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Bao Zheng">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Bao Zheng" ship="Bao Zheng"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Caravelle">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Caravelle" ship="Caravelle"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Slower Caravelle">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Caravelle" ship="Slower Caravelle"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Miner Caravelle">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Caravelle" ship="Caravelle"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Diwali">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Diwali" ship="Diwali"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Eclair d'Etoiles">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Eclair d'Etoiles" ship="Eclair d'Etoiles"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Eershlan">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Eershlan" ship="Eershlan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Eresslih">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Eresslih" ship="Eresslih"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Miner Eresslih">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Eresslih" ship="Eresslih"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Erlith">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Erlith" ship="Erlith"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Faithful">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Faithful" ship="Faithful"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Fast Shell">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Fast Shell" ship="Fast Shell"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Irali">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Irali" ship="Irali"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Iserlohn">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Iserlohn" ship="Iserlohn"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Keserlan">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Keserlan" ship="Keserlan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="L'Lintir">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="L'Lintir" ship="L'Lintir"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Ma'Tang">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Ma'Tang" ship="Ma'Tang"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Mosquito">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Mosquito" ship="Mosquito"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Miner Mosquito">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Mosquito" ship="Mosquito"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Nelk'Tan">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Nelk'Tan" ship="Nelk'Tan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Percheron Mk1">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Percheron Mk1" ship="Percheron Mk1"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Percheron Mk2 Containers">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Percheron Mk2 Containers" ship="Percheron Mk2 Containers"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Percheron Mk2 Holds">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Percheron Mk2 Holds" ship="Percheron Mk2 Holds"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Percheron Mk2 Tanker">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Percheron Mk2 Tanker" ship="Percheron Mk2 Tanker"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Shire">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Shire" ship="Shire"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Sshilaan">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Sshilaan" ship="Sshilaan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="StarJump">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="StarJump" ship="StarJump"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Stinger">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Stinger" ship="Stinger"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="SunFlower">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="SunFlower" ship="SunFlower"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="T'Kalt Cargo">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="T'Kalt Cargo" ship="T'Kalt Cargo"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="T'Kalt Patrol">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="T'Kalt Patrol" ship="T'Kalt Patrol"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Travellers' Breath">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Travellers' Breath" ship="Travellers' Breath"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="T'Telin">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="T'Telin" ship="T'Telin"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Valiant Drone">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Valiant Drone" ship="Valiant Drone"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Valiant Fighter">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Valiant Fighter" ship="Valiant Fighter"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Valiant Bomber">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Valiant Bomber" ship="Valiant Bomber"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Vikramaditya">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Vikramaditya" ship="Vikramaditya"></pilot>
+  </pilots>
+ </fleet>
+ <!---->
+ <!--===================================-->
+
+ 
+ <!--===================================-->
+ <!-- Other single ship fleets          -->
+ <!--===================================-->
+ <!---->
+ <fleet name="Pirate Nelk'Tan">
+  <ai>pirate</ai>
+  <faction>Pirate</faction>
+  <pilots>
+   <pilot name="Pirate Nelk'Tan" ship="Nelk'Tan"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Bao Zheng">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Bao Zheng" ship="Bao Zheng"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Alaith">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Alaith" ship="Alaith"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent T'Kalt">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent T'Kalt" ship="T'Kalt Cargo"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Erlith">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Erlith" ship="Erlith"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Caravelle">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Caravelle" ship="Caravelle"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Irali">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Irali" ship="Irali"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Eclair d'Etoiles">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Eclair d'Etoiles" ship="Eclair d'Etoiles"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="K'Rinn Council T'Kalt">
+  <ai>independent</ai>
+  <faction>K'Rinn Council</faction>
+  <pilots>
+   <pilot name="K'Rinn Council T'Kalt" ship="T'Kalt Cargo"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="K'Rinn Council Irali">
+  <ai>independent</ai>
+  <faction>K'Rinn Council</faction>
+  <pilots>
+   <pilot name="K'Rinn Council Irali" ship="Irali"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Ka'Ralt Council T'Kalt">
+  <ai>independent</ai>
+  <faction>Ka'Ralt Secession</faction>
+  <pilots>
+   <pilot name="Ka'Ralt T'Kalt" ship="T'Kalt Cargo"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Ka'Ralt Irali">
+  <ai>independent</ai>
+  <faction>Ka'Ralt Secession</faction>
+  <pilots>
+   <pilot name="Ka'Ralt Irali" ship="Irali"></pilot>
+  </pilots>
+ </fleet>
+ <!---->
+ <!--===================================-->
+
+ 
+ <!--===================================-->
+ <!-- Patrols, used for spawn           -->
+ <!--===================================-->
+ <!---->
+ <fleet name="Small Patrol 001">
+  <ai>patrol</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Patrol Leader" ship="T'Telin"></pilot>
+   <pilot name="Wingman 1" ship="Angry Bee Fighter"></pilot>
+   <pilot name="Wingman 2" ship="Angry Bee Fighter"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Medium Patrol 001">
+  <ai>patrol</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Patrol Leader" ship="T'Telin"></pilot>
+   <pilot name="Wingman 1" ship="Angry Bee Fighter"></pilot>
+   <pilot name="Wingman 2" ship="Angry Bee Fighter"></pilot>
+   <pilot name="Wingman 3" ship="Angry Bee Fighter"></pilot>
+   <pilot name="Wingman 4" ship="Angry Bee Fighter"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Large Patrol 001">
+  <ai>patrol</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Patrol Base" ship="Percheron Mk2 Holds"></pilot>
+   <pilot name="Wingman 1" ship="T'Telin"></pilot>
+   <pilot name="Wingman 2" ship="T'Telin"></pilot>
+   <pilot name="Wingman 3" ship="T'Telin"></pilot>
+   <pilot name="Wingman 4" ship="T'Telin"></pilot>
+  </pilots>
+ </fleet>
+ <!---->
+ <!--===================================-->
+
+ 
+ <!--===================================-->
+ <!-- Convoys, used by Convoy Event     -->
+ <!--===================================-->
+ <!---->
+ <fleet name="Pirates Convoy">
+  <ai>pirate</ai>
+  <faction>Pirate</faction>
+  <pilots>
+   <pilot name="Pirate T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Pirate T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Pirate T'Kalt Patrol" ship="T'Kalt Patrol"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Independent Convoy">
+  <ai>independent</ai>
+  <faction>Independent</faction>
+  <pilots>
+   <pilot name="Independent Irali" ship="Irali"></pilot>
+   <pilot name="Independent Caravelle" ship="Caravelle"></pilot>
+   <pilot name="Independent Caravelle" ship="Caravelle"></pilot>
+   <pilot name="Independent T'Kalt" ship="T'Kalt Cargo"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="K'Rinn Council Convoy">
+  <ai>independent</ai>
+  <faction>K'Rinn Council</faction>
+  <pilots>
+   <pilot name="Council T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Council T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Council T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Council T'Kalt" ship="T'Kalt Cargo"></pilot>
+   <pilot name="Council Escort" ship="T'Kalt Patrol"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Instrumentality Company Convoy">
+  <ai>independent</ai>
+  <faction>Instrumentality Company</faction>
+  <pilots>
+   <pilot name="IC Arshiilan" ship="Arshiilan"></pilot>
+   <pilot name="IC Arshiilan" ship="Arshiilan"></pilot>
+   <pilot name="IC Eresslih" ship="Eresslih"></pilot>
+   <pilot name="IC Eresslih" ship="Eresslih"></pilot>
+   <pilot name="IC Escort" ship="Eershlan"></pilot>
+  </pilots>
+ </fleet>
+</Fleets>
+ <!---->
+ <!--===================================-->
+ 

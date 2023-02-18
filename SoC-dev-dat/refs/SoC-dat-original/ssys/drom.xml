@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Drom">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>2920.408000</x>
+  <y>-1340.304000</y>
+ </pos>
+ <assets>
+  <asset>Ermel</asset>
+  <asset>Irilia</asset>
+  <asset>Irnalth</asset>
+  <asset>Kerithal</asset>
+  <asset>Ortir</asset>
+  <asset>Raltir</asset>
+  <asset>Skarae</asset>
+  <asset>Virtual Arythem Area</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Irmothem Area</asset>
+ </assets>
+ <jumps>
+  <jump target="Duran">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Fehnouil">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Firdal">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irali">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 348702">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2067.108728" y="-2452.284267"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 620879">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2811.781437" y="-2991.530022"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 824019">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3325.348823" y="-2388.088344"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

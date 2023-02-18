@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rith no Doa">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-300.752960</x>
+  <y>-1379.816000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="PA 0012">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0031">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA-Iri - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sora no Shikyuu">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thalin">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 138610">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6729.787024" y="-1257.21296"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 171573">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9006.97905" y="3508.435596"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 200359">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8719.141649" y="5169.363879"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 222059">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3527.59166" y="4570.33888"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 579447">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7940.254565" y="-4763.306893"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 711729">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2388.088344" y="1278.782791"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 757260">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3301.293327" y="-3035.059994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 971484">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2372.681322" y="-4067.453696"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

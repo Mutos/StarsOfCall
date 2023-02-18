@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Riinshal Border Station">
+ <pos>
+  <x>4637.316087</x>
+  <y>4107.337106</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shoden Clusters</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>68000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Entry into Shoden space is always guarded by armed stations. This is no exception, even if the nearby Core League worlds, Ziffel and Banthory, are not much of a threat. The station doubles up, as many border stations, as a small trade platform, dealing with raid bounty as well as legal commerce.
+  </description>
+  <bar>The mess is filled by proud Shoden pilots ready to scramble and a few mean-looking sshaad merchants, looking down on an occasional human visitor</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Core League</item>
+ </tech>
+</asset>

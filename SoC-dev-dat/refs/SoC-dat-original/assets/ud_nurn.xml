@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ud Nurn">
+ <pos>
+  <x>4102.576259</x>
+  <y>-3170.125754</y>
+ </pos>
+ <GFX>
+  <space>moon-M01.png</space>
+  <exterior>aquatic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>128451000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>The second Arythem planetary colony is a water-covered moon, in the line of the first. It has been settled by sublight ships and civilisation was maintained by regular support convoys from the homeworld.
+
+The three planets Hathil, Ud Nurn and ... are called "The three fingers".
+
+When hyperspace was explored, the colonists waited for decades for their system to be brought back into the network of space routes. But that day was very long to come, for Ud Nurn lies very far from other Arythem colonies on the hyperspace network.
+
+Still now, while the planet is naturally a rich agricultural world thanks to its flourishing ecosystems, its late hyperspace linking and its isolated position in the jump network had always kept it at a somewhat backyard status.
+  </description>
+  <bar>Typical marine-dweller local Arythem, with only a few visitors from off-planet</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

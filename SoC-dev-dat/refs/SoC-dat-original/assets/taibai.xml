@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Taibai">
+ <pos>
+  <x>-4764.729401</x>
+  <y>-3825.856561</y>
+ </pos>
+ <GFX>
+  <space>I06.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

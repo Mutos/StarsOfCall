@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-4">
+ <pos>
+  <x>-2907.267994</x>
+  <y>-2236.359996</y>
+ </pos>
+ <GFX>
+  <space>H03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>26854000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>A barren, desolate planet, save for an equatorial oceanic ring, it was among the first colonization targets to be found by rithkind, but was turned down by Arythem and Irmothem for not having enough indigenous lifeforms to support a sizeable colony.
+
+In the wake of the successful Great Irilia settlement, the newly formed Irilia clan decided to step into several exoskarae colonization projects. They found the planet well suited for traditional nomad desert-dwellers. However, due to political dissent among the Rithai Kemae, it took longer than expected for Irilia to secure its claim and the sleeper-ship was only the 4th to launch, hence the system's numbering.
+
+To their good fortune, the settlers discovered with time that their new home's biosphere, albeit seemingly desertic, was ripe with life, with a near-perfect biocompatibility allowing most species from the skaraen deserts to successfully blend with indigenous ecosystems.
+
+With only a noria of sublight ships to link it with Great Irilia, the colony built its own way of life in near-isolation. It modelled itself after the old pre-Irilia sand-dwelling ways, adapted to the new planet's specific conditions. Ironically enough, the heirs to Irilia's daring skaraformers have now turned into low-tech traditionalists. They are even the most active support of the Gham Garri among the Irilia, who otherwise are generally more outward-oriented.
+  </description>
+  <bar>Proud people in traditional Irilia sand-dweller attire</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Matholn">
+ <pos>
+  <x>5147.177768</x>
+  <y>-4170.988881</y>
+ </pos>
+ <GFX>
+  <space>J06.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nouvelle-Hong-Kong">
+ <pos>
+  <x>-1386.948959</x>
+  <y>-1071.170401</y>
+ </pos>
+ <GFX>
+  <space>Station-SCV002.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pei Clan-Family</faction>
+  <value>450.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>155000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Home of the human Pei clan, that dates back from the Planetarist Wars, this station is a major smugglers' route between the Planetarist Alliance, the Core League, the K'Rinn Council and the Irilia Clan. The Pei Clan is immensely proud of its home station and its display of wealth and power is always notable, although it has been seriously lessened by the Raumbahn Sieben affair, where it has lost the nearby Sinjiang Trading Station.
+  </description>
+  <bar>A mix of Humans, Rithai and K'Rinns always arguing and talking business, among which some wealthy people proudly exhibiting Ziffelan Minidragons</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

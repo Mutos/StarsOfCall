@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hoshi no Hekka - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Hoshi no Hekka worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Gl 293.2">
+   <jump>CL-HnH - 2 - 2</jump>
+   <jump>Delanney's Freezer (NN 3523)</jump>
+   <jump>NN 3500</jump>
+   <asset>Asteroid Cluster 812956</asset>
+   <asset>Asteroids Cluster 420671</asset>
+   <asset>Asteroids Cluster 576189</asset>
+   <asset>Asteroids Cluster 613702</asset>
+   <asset>Asteroids Cluster 680787</asset>
+   <asset>Asteroids Cluster 701782</asset>
+   <asset>Asteroids Cluster 981620</asset>
+   <asset>Shin Yokosuka</asset>
+  </sys>
+  <sys name="Engelstadt (Gl 327)">
+   <jump>GJ 1097</jump>
+   <jump>Gl 334</jump>
+   <asset>Asteroids Cluster 158794</asset>
+   <asset>Asteroids Cluster 176830</asset>
+   <asset>Asteroids Cluster 218723</asset>
+   <asset>Asteroids Cluster 548795</asset>
+   <asset>Asteroids Cluster 698706</asset>
+   <asset>Asteroids Cluster 921709</asset>
+   <asset>Engelstadt</asset>
+   <asset>Hallier</asset>
+   <asset>Krasnoia Station</asset>
+   <asset>Smernya</asset>
+  </sys>
+  <sys name="Gl 250 A">
+   <jump>GJ 1097</jump>
+   <jump>GJ 1103</jump>
+   <jump>HnH-Gam - 1 - 2</jump>
+   <jump>HnH-SC - 1 - 1</jump>
+   <asset>Cerberus Fortress</asset>
+  </sys>
+  <sys name="Aka Jigoku (Gl 268)">
+   <jump>GL 283 A</jump>
+   <asset>Asteroids Cluster 245687</asset>
+   <asset>Asteroids Cluster 245784</asset>
+   <asset>Asteroids Cluster 246558</asset>
+   <asset>Asteroids Cluster 284575</asset>
+   <asset>Asteroids Cluster 289745</asset>
+   <asset>Asteroids Cluster 456548</asset>
+   <asset>Nemesis</asset>
+   <asset>Tempest</asset>
+   <asset>Tempest LRS</asset>
+   <asset>Typhoon</asset>
+  </sys>
+  <sys name="Dwarves' Tunnels (Gl 261)">
+   <jump>Carrouf (NN 3487)</jump>
+   <jump>GL 283 A</jump>
+   <jump>Meetpoint (Gl 291)</jump>
+   <jump>NN 3466</jump>
+   <asset>Asteroids Cluster 145621</asset>
+   <asset>Dwarves' Tunnels</asset>
+   <asset>Godjaveri Staryards</asset>
+   <asset>Runners' Station</asset>
+  </sys>
+  <sys name="Hermes">
+   <jump>Eldorado</jump>
+   <jump>Tripoint</jump>
+   <asset>Hephaistos</asset>
+   <asset>Hermes Border Station</asset>
+   <asset>Zeus</asset>
+  </sys>
+  <sys name="Eldorado">
+   <jump>GL 283 A</jump>
+   <jump>Hermes</jump>
+   <asset>Asteroids Cluster 254874</asset>
+   <asset>Asteroids Cluster 254877</asset>
+   <asset>Asteroids Cluster 256487</asset>
+   <asset>Asteroids Cluster 264325</asset>
+   <asset>Asteroids Cluster 564187</asset>
+   <asset>Banshee War Museum</asset>
+  </sys>
+  <sys name="NN 3500">
+   <jump>Eden (Gl 304)</jump>
+   <jump>Gl 293.2</jump>
+  </sys>
+  <sys name="Delanney's Freezer (NN 3523)">
+   <jump>Gl 293.2</jump>
+   <jump>Gl 334</jump>
+   <jump>Meetpoint (Gl 291)</jump>
+   <asset>Asteroids Cluster 204506</asset>
+   <asset>Asteroids Cluster 450157</asset>
+   <asset>Asteroids Cluster 455970</asset>
+   <asset>Asteroids Cluster 457820</asset>
+   <asset>Asteroids Cluster 502487</asset>
+  </sys>
+  <sys name="Gl 334">
+   <jump>Delanney's Freezer (NN 3523)</jump>
+   <jump>Engelstadt (Gl 327)</jump>
+   <jump>Gl 314 B</jump>
+  </sys>
+  <sys name="Gl 314 B">
+   <jump>GJ 1097</jump>
+   <jump>Gl 334</jump>
+   <jump>Meetpoint (Gl 291)</jump>
+  </sys>
+  <sys name="Meetpoint (Gl 291)">
+   <jump>Carrouf (NN 3487)</jump>
+   <jump>Delanney's Freezer (NN 3523)</jump>
+   <jump>Dwarves' Tunnels (Gl 261)</jump>
+   <jump>Eden (Gl 304)</jump>
+   <jump>Gl 314 B</jump>
+  </sys>
+  <sys name="Eden (Gl 304)">
+   <jump>Meetpoint (Gl 291)</jump>
+   <jump>NN 3466</jump>
+   <jump>NN 3500</jump>
+   <asset>Asteroid Cluster 617465</asset>
+   <asset>Asteroids Cluster 175768</asset>
+   <asset>Asteroids Cluster 267811</asset>
+   <asset>Asteroids Cluster 514352</asset>
+   <asset>Asteroids Cluster 687159</asset>
+   <asset>Asteroids Cluster 761663</asset>
+   <asset>Asteroids Cluster 817201</asset>
+   <asset>Eden</asset>
+   <asset>Eden High</asset>
+   <asset>Tanuki</asset>
+   <asset>Utsukushi</asset>
+  </sys>
+  <sys name="NN 3466">
+   <jump>Dwarves' Tunnels (Gl 261)</jump>
+   <jump>Eden (Gl 304)</jump>
+   <jump>KC-HnH - 1 - 1</jump>
+  </sys>
+  <sys name="Carrouf (NN 3487)">
+   <jump>Dwarves' Tunnels (Gl 261)</jump>
+   <jump>GJ 1093</jump>
+   <jump>GJ 1097</jump>
+   <jump>Meetpoint (Gl 291)</jump>
+   <asset>Asteroids Cluster 262736</asset>
+   <asset>Asteroids Cluster 313686</asset>
+   <asset>Asteroids Cluster 433736</asset>
+   <asset>Asteroids Cluster 860492</asset>
+  </sys>
+  <sys name="GJ 1093">
+   <jump>Carrouf (NN 3487)</jump>
+   <jump>GJ 1103</jump>
+   <asset>Asteroids Cluster 652127</asset>
+   <asset>Asteroids Cluster 671507</asset>
+   <asset>Asteroids Cluster 782669</asset>
+  </sys>
+  <sys name="GJ 1097">
+   <jump>Carrouf (NN 3487)</jump>
+   <jump>Engelstadt (Gl 327)</jump>
+   <jump>Gl 250 A</jump>
+   <jump>Gl 314 B</jump>
+   <jump>SC-PT - 1 - 3</jump>
+   <asset>Asteroids Cluster 666750</asset>
+   <asset>Asteroids Cluster 689087</asset>
+   <asset>Asteroids Cluster 709804</asset>
+   <asset>Asteroids Cluster 795384</asset>
+   <asset>Asteroids Cluster 908397</asset>
+  </sys>
+  <sys name="GJ 1103">
+   <jump>GJ 1093</jump>
+   <jump>Gl 250 A</jump>
+  </sys>
+  <sys name="GL 283 A">
+   <jump>Aka Jigoku (Gl 268)</jump>
+   <jump>Dwarves' Tunnels (Gl 261)</jump>
+   <jump>Eldorado</jump>
+  </sys>
+  <sys name="HnH-SC - 1 - 1">
+   <jump>Gl 250 A</jump>
+  </sys>
+  <sys name="CL-HnH - 2 - 2">
+   <jump>Gl 293.2</jump>
+  </sys>
+  <sys name="KC-HnH - 1 - 1">
+   <jump>NN 3466</jump>
+  </sys>
+  <sys name="HnH-Gam - 1 - 2">
+   <jump>Gl 250 A</jump>
+   <asset>Asteroids Cluster 422363</asset>
+   <asset>Asteroids Cluster 468500</asset>
+   <asset>Asteroids Cluster 600531</asset>
+   <asset>Asteroids Cluster 722501</asset>
+   <asset>Asteroids Cluster 735168</asset>
+   <asset>Asteroids Cluster 934794</asset>
+  </sys>
+  <sys name="SC-PT - 1 - 3">
+   <jump>GJ 1097</jump>
+  </sys>
+  <sys name="Tripoint">
+   <jump>Hermes</jump>
+  </sys>
+ </specific>
+</outfit>

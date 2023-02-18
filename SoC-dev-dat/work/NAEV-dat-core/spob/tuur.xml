@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tuur">
+ <pos x="8100.000000" y="12042.000000"/>
+ <GFX>
+  <space>moon-O00.webp</space>
+  <exterior>forest.webp</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</spob>

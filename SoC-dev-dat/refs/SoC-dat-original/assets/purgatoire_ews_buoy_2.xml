@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Purgatoire EWS Buoy #2">
+ <pos>
+  <x>1429.156510</x>
+  <y>-2096.408229</y>
+ </pos>
+ <GFX>
+  <space>Shield-Emitter-001.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

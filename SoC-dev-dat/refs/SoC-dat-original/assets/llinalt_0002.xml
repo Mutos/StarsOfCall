@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="L'Linal't 0002">
+ <pos>
+  <x>10024.424517</x>
+  <y>-1094.514813</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This unk'rinned station is one of the L'Linal't outposts, built by sublight nanoships before k'rinnkind discovered the jump drive.
+
+However, lying on a dead end of the jump network with no trade route or inhabited system in the vicinity, this one has never been used so much. It only became famous during the G'Taklin incident, when a passenger ship's jump drive malfunctioned and stranded the ship in a nearby system. The presence of the station actually saved the crew and passengers' lives.
+  </description>
+ </general>
+</asset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Hull Plating">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Hull Plating">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>The manufacturer spec hull configuration. Certainly spaceworthy, but miserably fails to tap the hull's full potential.</description>
+  <gfx_store>nanobond</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>70</cargo>
+  <absorb>27</absorb>
+  <armour>1200</armour>
+  <armour_regen>0</armour_regen>
+ </specific>
+</outfit>

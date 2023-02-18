@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Verniers">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Verniers Array - Large">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>A set of small ion thrusters fitted in the hull.</description>
+  <gfx_store>hk2250/Verniers-002</gfx_store>
+ </general>
+ <specific type="modification">
+  <turn>55</turn>					<!-- Main purpose	: gives ship a mean to turn -->
+ </specific>
+</outfit>

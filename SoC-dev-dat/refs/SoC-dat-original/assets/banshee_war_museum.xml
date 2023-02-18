@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Banshee War Museum">
+ <pos>
+  <x>-3850.037025</x>
+  <y>1944.298440</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Grey.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>150.000000</value>
+  <range>7</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2780</population>
+  <hide>0.100000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Here lay the remnants of the Banshee, the Fortress that stopped the Policorporate invasion fleet dead in its tracks during the Hoshi no Hekka Independance War, but was mercilessly nuked in the battle.
+
+When Planetarism began to threaten PoliCorpos rule over the human extrasolar colonies, Corporate Boards arranged to abandon barely profitable mining operations on the Harushita Pocket, that was too close to the rebellious area. The plan was to evacuate the miners to colonies and sun-sink the Ore Collector Ships, that had no jump capability. That way, the Planetarists could not salvage anything. But the plan leaked to the miners, who contacted the Alliance and hastily converted the OCS into jump-capable Fortresses. It took 3 months to the PoliCorpos to assemble their fleet on New Earth and send it to the Hermes system, on the pocket's border. By the time it was ready for battle, so were a few Fortresses...
+
+Delegations from the miners, led by the Commanders of the ex-OCS, colloquially known as the Hekka, assembled in Eden orbit and decided to create a Spacers' State, on Alliance side but independent from it. They named it the "Hoshi no Hekka", meaning "Lords of the Stars". By that time, the newly-built Fortresses headed to their assigned positions on the 3 then-known border routes. The Banshee was already waiting in the Eldorado system, posing as a helpless OCS in an asteroids field near the Gl 283 A jump point. It was to be joined by the ex-Shimonoseki-Maru, upon which was bestowed a more martial name : Ame no Nuhoko.
+
+When the PoliCorpos fleet jumped into Eldorado, it immediately spotted the Banshee on conventional sensors, but mistook it for a defenceless OCS. Admiral Li Sien Chong decided to pass it by at high velocity and leave a few units behind to board it. But when the Banshee and its escorts were spotted on warp sensors as they powered up their engines, it became clear that the massive ship was far from being the expected sitting duck. Forced into extended engagement, the Corporate fleet managed to destroy the Banshee, but only by using tactical nukes after a 2-days-long struggle where it lost 1/3 of its forces.
+
+After the battle, it was clear that the fleet was not setup to face several such converted OCS of unknown capabilities. Chong and her staff were still pondering their options, while the fleet tenders fixed the wounded ships, when the Ame no Nuhoko jumped in and immediately deployed an array of fighters. Realizing the Fortress' power, Chong ordered at once to retreat to New Earth and only the Fortress' low acceleration allowed the Corporate ships to escape.
+
+Once the radiations decayed to a secure level, the Banshee's battered hulk was transformed into a museum. It still stands a haunting guard over Eldorado, showing everyone that the Lords of the Stars will die rather than surrender their systems.
+  </description>
+  <bar>Many veteran HnHers, along with some tourists from other states.</bar>
+ </general>
+</asset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="FeuerRing">
+ <pos>
+  <x>5999.211697</x>
+  <y>-5165.021522</y>
+ </pos>
+ <GFX>
+  <space>I07.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

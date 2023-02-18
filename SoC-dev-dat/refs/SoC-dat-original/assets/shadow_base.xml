@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shadow Base">
+ <pos>
+  <x>6161.005658</x>
+  <y>2914.884397</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-003-Outpost.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>150.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>27500</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This excavated asteroid is the first and main base of the Shadow Complex. Its history dates back to the Corporatist Wars.
+
+A little after the FeuerRing battle, in an effort to find a flanking route from Sol to Sanctuary, Cartel Sol sent the Shadow Company, a stealth fleet consisting of two flakship transports and one fast corvette. The transports crew would build a hidden asteroid base on any suitable systems, while the corvette pressed forth on the supposed Sanctuary route and was to call them when next base-building position was secure.
+
+While the transports were digging Shadow Base, the corvette crossed TeufelFeuer, passing by the battle remnants, and captured an empty smuggling base in the next system. However, the Hoshi no Hekka Fortress "Mirai" jumped in and deployed its own base-building assets. The Cartelists, unable to move undetected, launched a salvo of stealth data missiles to Shadow Base, then enforced strict radio silence. As soon as the rescue ships jumped in, they dashed for them. But a few minutes only after the transports, a data missile also jumped in, broadcasting a High Admiralty recall order to the Barnard system. Obeying orders, the convoy sped back and was soon out of range of the Mirai.
+
+Left to die in hostile space, the Shadow Company corvette forced its way through the Mirai escorts, suffering heavy damage and losing most of its personel. If finally managed to jump out and reach Shadow Base, with the Fortress in hot pursuit. The cartelist survivors could resist in the well-armed and armored base, but all of them did hear the recall order and mutiny was brewing. Not willing to remain faithful to the authorities that abandoned his Company, Commander Corneille Dessaudiere entered negotiations with Urs Schreiber, then Hekka of the Mirai. They reached a gentlemen's agreement, under which the ex-soldiers elected to resign and remain at Shadow Base, along with the crew of HnH Spacers who took over the base.
+
+Over time, the left-over cartelist soldiers and the station crew got accustomed to each other. At the end of the war, they established a port of call for renegades from all armed forces, which was quickly recognized by the Hoshi no Hekka and Planetarist Alliance as a State on its own. Since them, Shadow Base has always remained a place where shattered war veterans can hope to live in peace and heal their grievous memories.
+  </description>
+  <bar>Civilians and ex-soldiers of all species, many of them with replacement implants.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps</item>
+ </tech>
+</asset>

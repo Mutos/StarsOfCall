@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="R'itlel Border Station">
+ <pos>
+  <x>-7485.953112</x>
+  <y>-2451.152789</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008a-Derelict-Mining-Station.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>400.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>An old outpost converted to border station, R'itll has been extended over time with multiple modules, giving it a ragtag look. This is quite deceptive, as the station is k'rinned by some of the best squadrons of the Council Fleet. A few merchants hail from the station, mainly trading in raw minerals.
+  </description>
+  <bar>A small complement of pilots and a crowd of merchants, mainly regular K'Rinns and Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

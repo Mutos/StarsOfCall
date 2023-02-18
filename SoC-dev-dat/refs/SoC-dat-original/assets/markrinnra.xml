@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mar'K'Rinn'Ra">
+ <pos>
+  <x>-1238.508945</x>
+  <y>2752.793025</y>
+ </pos>
+ <GFX>
+  <space>moon-H02.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>543879000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Mar'K'Rinn'Ra was the first k'rinn colony and is a local capitol, renowned for its sandy smaller continent. Many Irilia Rithai have made the months-long space voyage to settle it, establishing a de facto k'rinn-rith co-colony. It is however still under Council jurisdiction and will stay so under the agreement between Council and Irilia Clan.
+  </description>
+  <bar>A crowd of K'Rinns mixed with a sizeable number of Rithai and a few other sentients from all the known universe</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

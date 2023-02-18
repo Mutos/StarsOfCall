@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0019">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-744.196160</x>
+  <y>-3674.071680</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Miners' Crossroad">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RQL-TPL - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0024">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0208">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 138891">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9562.21387" y="-2751.077772"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 414877">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10282.064476" y="2323.442641"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 466825">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1446.503204" y="-4586.812689"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 587998">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3770.120337" y="-409.103214"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 699809">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="22.186111" y="5524.341656"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 769109">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9713.518505" y="2277.336572"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

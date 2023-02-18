@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="McLeod Border Station">
+ <pos>
+  <x>-1921.173807</x>
+  <y>4504.821342</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-003-Outpost.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Named after Rear Admiral Kenji McLeod, former commander of the Core Projection Force, this station is the door to the Core League from the Purple Trail and the Shadow Complex. As the first two States are locked in a protracted cold war, the station, key to the shortest route between Sol and Cartel, is rather a military outpost than a classical trading station.
+  </description>
+  <bar>Core pilots and a few traders, most of them Human.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

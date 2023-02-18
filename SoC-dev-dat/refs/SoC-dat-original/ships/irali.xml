@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Irali">
+ <base_type>Irali</base_type>
+ <GFX sx="6" sy="6">irali</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Freighter</class>
+ <price>1100000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Rith Core</fabricator>
+ <description>
+The original freighter that built the Rith Sphere. Used by all three Major Clans in the Expansion era, before they came up with their own designs. Its reliability and heavy load allowed it to last with little changes throughout the Expansion Era, the Fringe Wars and the building of the Commonwealth. Current-time Irali are either fifth or sixth generation, depending on the contractor shipyard.
+ </description>
+ <health>
+  <absorb>0</absorb>
+  <armour>120</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>15</crew>
+  <mass>375</mass>
+  <fuel_consumption>850</fuel_consumption>
+  <fuel>600</fuel>
+  <cargo>100</cargo>  <!-- In-hull capabilities, most cargo fits in external holds -->
+ </characteristics>
+ <slots>
+  <structure size="large"  prop="Hull Plating">Std Lrg Hull Plating</structure>
+  <structure size="large"  prop="Power Core">Std Lrg Powerplant</structure>
+  <structure size="large"  prop="Computer Core">Std Lrg Computer</structure>
+  <structure size="large"  prop="Warp Engine - Large">Std Lrg Warp Engine</structure>
+  <structure size="large"  prop="Jump Drive">Std Lrg Jump Drive</structure>
+  <structure size="large"  prop="Verniers Array - Large">Std Lrg Verniers</structure>
+  <structure size="large"  prop="Shield Generator">Std Lrg Shield</structure>
+  <utility   size="large"  prop="Core Systems Extension"></utility>
+  <utility   size="medium" prop="Core Systems Extension"></utility>
+  <utility   size="small"  prop="Internal Holds"></utility>
+  <utility   size="small"  prop="Internal Holds"></utility>
+  <utility   size="large"  prop="Containers Ring">Large Cargo Containers Ring</utility>
+  <weapon    size="small"  prop="Flak Turret" x="+50"  y="0" h="0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"  prop="Flak Turret" x="-50"  y="0" h="0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"  prop="Craft Bay"   x="0"    y="0" h="0"></weapon>
+  <weapon    size="small"  prop="Craft Bay"   x="0"    y="0" h="0"></weapon>
+ </slots>
+ <stats>
+  <speed_mod>0</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

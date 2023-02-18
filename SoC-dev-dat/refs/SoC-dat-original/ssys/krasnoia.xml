@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Krasnoia">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>319.768000</x>
+  <y>-2639.760000</y>
+ </pos>
+ <assets>
+  <asset>Al Nour</asset>
+  <asset>Haasen</asset>
+  <asset>Musashi Border Station</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="PA 0096">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA-Iri - 3 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 097871">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9688.070531" y="-913.876088"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 157641">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4984.614985" y="9469.223892"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 168741">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4696.195541" y="8914.571115"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 168797">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5376.19617" y="-1114.989076"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 871519">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7173.37388" y="6474.098897"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 970810">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4208.101097" y="9092.060003"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 986651">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="8734.067755" y="-1024.806643"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

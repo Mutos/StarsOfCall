@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 253">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-148.520000</x>
+  <y>57.648000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="KT 241">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 52">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 162380">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4947.502768" y="4082.244436"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 665046">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4810.966123" y="4336.49881"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 733439">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9552.451981" y="-1245.971998"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 936231">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2451.152789" y="2186.163298"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

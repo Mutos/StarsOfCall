@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Isshaanal">
+ <pos>
+  <x>4036.639653</x>
+  <y>2126.168977</y>
+ </pos>
+ <GFX>
+  <space>moon-I00.png</space>
+  <exterior>oceanic2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</asset>

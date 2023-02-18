@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Phalanx">
+ <points>60</points>
+ <base_type>Phalanx</base_type>
+ <GFX size="95" sx="10" sy="10">phalanx</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Corvette</class>
+ <price>850000</price>
+ <time_mod>1</time_mod>
+ <trail_generator x="-10" y="-3" h="0" always_under="1">fire</trail_generator>
+ <trail_generator x="-10" y="3" h="0" always_under="1">fire</trail_generator>
+ <trail_generator x="-12" y="40" h="0">nebula</trail_generator>
+ <trail_generator x="-12" y="-40" h="0">nebula</trail_generator>
+ <fabricator>House Dvaered</fabricator>
+ <license>Medium Combat Vessel</license>
+ <description>The Phalanx is, by Dvaered standards, a fast corvette that can be used as a missile platform, that it also maneuvers poorly is standard Dvaered construction. Its high armor makes it a capable corvette provided one equips it with turrets.</description>
+ <health>
+  <armour>250</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>15</crew>
+  <mass>210</mass>
+  <fuel_consumption>200</fuel_consumption>
+  <cargo>20</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="medium" x="8" y="0" h="2" />
+  <weapon size="medium" x="4" y="5" h="-2" />
+  <weapon size="medium" x="4" y="-5" h="-2" />
+  <weapon size="small" x="0" y="10" h="-2" />
+  <weapon size="small" x="0" y="-10" h="-2" />
+  <utility size="medium" prop="systems">Unicorp PT-200 Core System</utility>
+  <utility size="medium" prop="accessory" />
+  <utility size="medium" />
+  <utility size="medium" />
+  <utility size="small" />
+  <structure size="medium" prop="engines">Nexus Arrow 700 Engine</structure>
+  <structure size="medium" prop="hull">Unicorp D-12 Medium Plating</structure>
+  <structure size="medium" />
+  <structure size="medium" />
+  <structure size="medium" />
+  <structure size="medium" />
+ </slots>
+ <stats>
+  <cpu_mod>-15</cpu_mod>
+  <speed_mod>5</speed_mod>
+  <thrust_mod>-20</thrust_mod>
+  <turn_mod>-20</turn_mod>
+  <armour_mod>15</armour_mod>
+  <energy_regen_mod>-15</energy_regen_mod>
+  <launch_range>20</launch_range>
+  <ammo_capacity>10</ammo_capacity>
+ </stats>
+ <tags>
+  <tag>frontier</tag>
+  <tag>standard</tag>
+ </tags>
+</ship>

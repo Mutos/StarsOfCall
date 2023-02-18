@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Elathon">
+ <pos>
+  <x>2640.147217</x>
+  <y>-3239.172216</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station, named after an Arythem word describing an outpost on a distant island, is spacers' declination of the K'Til'n concept, implemented by the Shadow Complex.
+
+It features regular, paying services like fuel and a mission computer, but also an "offerings hold" for visiting ships to leave non-perishable supplies for further use by crews in dire need.
+  </description>
+ </general>
+</asset>

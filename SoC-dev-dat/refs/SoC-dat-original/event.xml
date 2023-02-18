@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+	<!-- Base game events - Needed for the game to run properly -->
+	<event name="reputation">
+		<lua>reputation</lua>
+		<trigger>load</trigger>
+		<chance>100</chance>
+	</event>
+	<event name="start_event">
+		<lua>start</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Spaceport Bar NPC">
+		<lua>npc/npc</lua>
+		<trigger>land</trigger>
+		<chance>100</chance>
+	</event>
+	<event name="Generic News">
+		<lua>news/news</lua>
+		<trigger>land</trigger>
+		<chance>100</chance>
+	</event>
+	<event name="Landed Test Event">
+		<lua>_test/test_landed</lua>
+		<trigger>land</trigger>
+		<chance>100</chance>
+	</event>
+	<!-- Landing events for managing standard Landing Passes -->
+	<event name="Disable Landing Pass checks">
+		<lua>landing/pass_onLoad_disablePassRemoval</lua>
+		<trigger>load</trigger>
+		<chance>100</chance>
+	</event>
+	<event name="Disable Landing Pass checks">
+		<lua>landing/pass_onLand_removePass</lua>
+		<trigger>land</trigger>
+		<chance>100</chance>
+	</event>
+	<!-- A running demo for Convention - A SoC mod -->
+	<event name="Running Demo">
+		<lua>demo/running-demo</lua>
+		<trigger>none</trigger>
+	</event>
+	<!-- Tutorial events - Needed for running tutos from the menu -->
+	<event name="Tutorial">
+		<lua>tutorial/tutorial</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Basic Operation">
+		<lua>tutorial/tutorial-01-basic</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Exploration and Discovery">
+		<lua>tutorial/tutorial-02-discovery</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Interstellar Flight">
+		<lua>tutorial/tutorial-03-interstellar</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Communications">
+		<lua>tutorial/tutorial-04-comms</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Basic Combat">
+		<lua>tutorial/tutorial-05-combat1</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Missile Combat">
+		<lua>tutorial/tutorial-06-combat2</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Heat">
+		<lua>tutorial/tutorial-07-heat</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Activated Outfits">
+		<lua>tutorial/tutorial-08-aoutfits</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Disabling">
+		<lua>tutorial/tutorial-09-disabling</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: The Planetary Screen">
+		<lua>tutorial/tutorial-10-planet</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Tutorial: Missions and Events">
+		<lua>tutorial/tutorial-11-missions</lua>
+		<trigger>none</trigger>
+	</event>
+	<!-- General events - Not needed per se -->
+	<event name="Animal trouble">
+		<lua>neutral/animaltrouble</lua>
+		<trigger>enter</trigger>
+		<chance>40</chance>
+		<cond>var.peek("shipinfested") == true</cond>
+		<flags>
+			<unique />
+		</flags>
+	</event>
+	<!-- Spawning  events - Not needed per se, but add ambiance -->
+	<event name="Spawn Fleets">
+		<lua>fleets/mainevent</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+	</event>
+	<event name="Independent Convoy">
+		<lua>fleets/convoy/independent</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="K'Rinn Council Convoy">
+		<lua>fleets/convoy/council</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Instrumentality Company Convoy">
+		<lua>fleets/convoy/instrumentality</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Pirate Convoy">
+		<lua>fleets/convoy/pirate</lua>
+		<trigger>none</trigger>
+	</event>
+	<event name="Shipwreck">
+		<lua>neutral/shipwreck</lua>
+		<trigger>enter</trigger>
+		<chance>5</chance>
+		<flags>
+			<unique />
+		</flags>
+	</event>
+	<event name="Adrim Shipwreck">
+		<lua>factions/freeadrimai/shipwreck</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+		<!--<chance>3</chance>
+		<cond>
+			system.cur():presence(faction.get("Free Adrimai")) &gt; 50
+				and
+			system.cur():presence(faction.get("Free Adrimai")) &lt; 200
+		</cond>
+		<flags>
+			<unique />
+		</flags>-->
+	</event>
+	<event name="Duel between Adrim and Gham Garri">
+		<lua>factions/freeadrimai/duel</lua>
+		<trigger>enter</trigger>
+		<chance>3</chance>
+		<cond>
+			system.cur():presence(faction.get("Free Adrimai")) &gt; 20
+				and
+			system.cur():presence(faction.get("Free Adrimai")) &lt; 200
+				and
+			system.cur():presence(faction.get("Gham Garri")) &gt; 20
+				and
+			system.cur():presence(faction.get("Gham Garri")) &lt; 150
+		</cond>
+		<flags>
+			<unique />
+		</flags>
+	</event>
+	<event name="Smugglers rendez-vous">
+		<lua>neutral/smugglers</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+		<cond>
+			system.cur():presence("all") - system.cur():presence(faction.get("Pirate")) &lt; 600
+		</cond>
+	</event>
+	<event name="Pirates Raid">
+		<lua>factions/pirates/raid</lua>
+		<trigger>enter</trigger>
+		<cond>
+			system.cur():presence(faction.get("Pirate")) &gt; 50
+				and
+			system.cur():presence(faction.get("Pirate")) &lt; 400
+		</cond>
+		<chance>30</chance>
+	</event>
+	<event name="Spawn mining ships">
+		<lua>neutral/miners</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+	</event>
+	<!-- DEBUG events -->
+	<event name="ShipsStats">
+		<lua>utils/exportShips</lua>
+		<trigger>none</trigger>
+	</event>
+	<!--
+	<event name="DEBUG Print System Paramaters">
+		<lua>_test/checkSystemParameters</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+	</event>
+	-->
+	<!--
+	<event name="DEBUG Test ship AI">
+		<lua>_test/testAIEvent</lua>
+		<trigger>enter</trigger>
+		<chance>100</chance>
+	</event>
+	-->
+	<!--
+	-->
+</Events>

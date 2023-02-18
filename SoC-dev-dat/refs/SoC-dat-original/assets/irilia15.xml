@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-15">
+ <pos>
+  <x>-1004.207093</x>
+  <y>1240.723010</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>250.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1286350000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>One of the recent Irilia colonies, Irilia-15 is a desert world quite akin to Irilia itself, with a remarkable well-moonedness. Thus, its three moons have been named for their Great Irilia counterparts.
+
+Still quite a backyards place, it nonetheless keeps attracting a growing pool of confident settlers, sure that a well-mooned planet such as this is a promise of fortune.
+  </description>
+  <bar>Eager settlers and hardened desert-dwelling natives, with quite a large number of Thiskai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

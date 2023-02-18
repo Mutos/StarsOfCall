@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freeport 6">
+ <pos>
+  <x>16893.080031</x>
+  <y>-3444.863379</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>Station-SR001.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>63500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This independant station is the entry point for the dangerous Delta Sector. In the past, it had a protection contract with the Wurth Interstellar Concern. When it was revealed the Concern used this contract to cover up preparation for creating a new state along with local mafias, the contract was replaced by a force made up of independant mercenary squadrons.</description>
+  <bar>Fighter pilots and traders, mainly Humans, but some RIthai and Sshaads.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

@@ -1,0 +1,1079 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+phrase "civilian"
+	word
+		"Shockwave"
+		"Cloud"
+		"Nebula"
+		"Rain"
+		"Star"
+		"Sun"
+		"Sky"
+		"Moon"
+		"Space"
+		"Nova"
+		"Atmosphere"
+		"Corona"
+	word
+		" Jumper"
+		" Rider"
+		" Chaser"
+		" Dancer"
+		" Seeker"
+		" Explorer"
+		" Lover"
+		" Hunter"
+		" Beater"
+		" Racer"
+
+phrase "civilian"
+	word
+		"Alan's"
+		"Logan's"
+		"Eric's"
+		"Xena's"
+		"Zoe's"
+		"Malcolm's"
+		"Jane's"
+		"River's"
+		"Aletheia's"
+		"Monty's"
+		"Sara's"
+	word
+		" Folly"
+		" Baby"
+		" Money Pit"
+		" Beauty"
+		" Mule"
+		" Work Horse"
+		" Moneymaker"
+		" Destiny"
+		" Wings"
+		" Starship"
+
+phrase "civilian"
+	word
+		"Heart"
+		"Ring"
+		"Blade"
+		"Sword"
+		"Light"
+		"Flash"
+		"Dance"
+		"Wings"
+		"Flood"
+	word
+		" of "
+	word
+		"Gold"
+		"Fire"
+		"Darkness"
+		"Ice"
+		"Silver"
+		"Dragons"
+		"the Future"
+		"the Morning"
+
+phrase "republic capital"
+	word
+		"R.N.S. "
+	word
+		"Everest"
+		"Kilimanjaro"
+		"Massif"
+		"McKinley"
+		"Aconcagua"
+		"Denali"
+		"Kenya"
+		"Logan"
+		"Cathkin"
+		"Elgon"
+		"Sinai"
+		"Erebus"
+		"Kirkpatrick"
+		"Markham"
+		"McClintock"
+		"McMaster"
+		"Annapurna"
+		"Kamet"
+		"Lhotse"
+		"Makalu"
+		"Shivling"
+		"Kangri"
+		"Laila"
+		"Mitre"
+		"Ultar"
+		"Jade"
+		"Fuji"
+		"Korbu"
+		"Victoria"
+		"Ararat"
+		"Hermon"
+		"Hebron"
+		"Breithorn"
+		"Eiger"
+		"Paradiso"
+		"Olympus"
+		"Matterhorn"
+		"Nordend"
+		"Weisshorn"
+		"Etna"
+		"Parnassus"
+		"Vesuvius"
+		"Telemark"
+		"Oppland"
+		"Snowdon"
+		"Scafell"
+		"Vancouver"
+		"Hubbard"
+		"Walsh"
+		"Augusta"
+		"Strickland"
+		"Cook"
+		"Columbia"
+		"Wood"
+		"Douglas"
+		"Hector"
+		"Razorback"
+		"Raleigh"
+		"Blackcomb"
+		"Thor"
+		"Sierra"
+		"Adams"
+		"Baker"
+		"Baxter"
+		"Clark"
+		"Cleveland"
+		"Evans"
+		"Foraker"
+		"Gannett"
+		"Greylock"
+		"Helen"
+		"Hood"
+		"Jackson"
+		"Monadnock"
+		"Rainier"
+		"Sacagawea"
+		"Tabor"
+		"Washington"
+		"Haleakala"
+
+phrase "deep"
+	word
+		"D.S.S. "
+	word
+		Aristotle
+		Aristarchus
+		Archimedes
+		Avogadro
+		Abbe
+		Alcubierre
+		Abbott
+		Alvarez
+		Angstrom
+		Anderson
+		Bell
+		Becquerel
+		Bernoulli
+		Bohr
+		Brahe
+		Cherenkov
+		Coriolis
+		Coulomb
+		Curie
+		Dalton
+		Democritus
+		Dewar
+		Dirac
+		Doppler
+		Einstein
+		Englert
+		Euler
+		Edison
+		Fahrenheit
+		Faraday
+		Fermi
+		Feynman
+		Fourier
+		Franklin
+		Fresnel
+		Galvani
+		Geiger
+		Hall
+		Hawking
+		Heisenberg
+		Hertz
+		Higgs
+		Hooke
+		Hubble
+		Huygens
+		Joule
+		Kepler
+		Lagrange
+		Lebedev
+		Leibniz
+		Lyapunov
+		Mach
+		Marconi
+		Maxwell
+		Neumann
+		Newcomb
+		Newton
+		Ohm
+		Oppenheimer
+		Pascal
+		Penrose
+		Planck
+		Poincare
+		Poisson
+		Rayleigh
+		Richter
+		Roentgen
+		Sagan
+		Schroedinger
+		Schwarzschild
+		Tesla
+		Watson
+		Watt
+		Weber
+
+phrase "militia"
+	word
+		"I.M.S. "
+	word
+		"Terebinth"
+		"Tamarack"
+		"Juniper"
+		"Maple"
+		"Willow"
+		"Cedar"
+		"Ponderosa"
+		"Douglas"
+		"Elm"
+		"Cork"
+		"Hemlock"
+		"Larch"
+		"Sequoia"
+		"Redwood"
+		"Ginko"
+		"Dogwood"
+		"Bartlett"
+		"Magnolia"
+		"Baobab"
+		"Banyan"
+		"Cypress"
+		"Teak"
+		"Hawthorn"
+		"Hophorn"
+		"Poplar"
+		"Sycamore"
+		"Aspen"
+		"Holly"
+		"Ebony"
+		"Birch"
+		"Borage"
+		"Asphodel"
+		"Heath"
+		"Beech"
+		"Laurel"
+		"Myrtle"
+		"Buckthorn"
+		"Nightshade"
+		"Tamarisk"
+		"Pinyon"
+		"Eucalyptus"
+		"Joshua"
+		"Yucca"
+		"Torrey"
+		"Sumac"
+		"Aloe"
+		"Alder"
+		"Hazel"
+		"Ironwood"
+		"Elder"
+		"Mangrove"
+		"Persimmon"
+		"Crabwood"
+		"Tallow"
+		"Winterthorn"
+		"Senna"
+		"Carob"
+		"Redbud"
+		"Coral"
+		"Locust"
+		"Hickory"
+		"Lancewood"
+		"Sassafras"
+		"Primrose"
+		"Brisbane"
+		"Ash"
+		"Privet"
+		"Raywood"
+		"Quince"
+		"Medlar"
+		"Balsam"
+		"Traveler"
+		"Spurge"
+		"Linden"
+
+phrase "free worlds capital"
+	word
+		"F.S. "
+	word
+		"Terebinth"
+		"Tamarack"
+		"Juniper"
+		"Maple"
+		"Willow"
+		"Cedar"
+		"Ponderosa"
+		"Douglas"
+		"Elm"
+		"Cork"
+		"Hemlock"
+		"Larch"
+		"Sequoia"
+		"Redwood"
+		"Ginko"
+		"Dogwood"
+		"Bartlett"
+		"Magnolia"
+		"Baobab"
+		"Banyan"
+		"Cypress"
+		"Teak"
+		"Hawthorn"
+		"Hophorn"
+		"Poplar"
+		"Sycamore"
+		"Aspen"
+		"Holly"
+		"Ebony"
+		"Birch"
+		"Borage"
+		"Asphodel"
+		"Heath"
+		"Beech"
+		"Laurel"
+		"Myrtle"
+		"Buckthorn"
+		"Nightshade"
+		"Tamarisk"
+		"Pinyon"
+		"Eucalyptus"
+		"Joshua"
+		"Yucca"
+		"Torrey"
+		"Sumac"
+		"Aloe"
+		"Alder"
+		"Hazel"
+		"Ironwood"
+		"Elder"
+		"Mangrove"
+		"Persimmon"
+		"Crabwood"
+		"Tallow"
+		"Winterthorn"
+		"Senna"
+		"Carob"
+		"Redbud"
+		"Coral"
+		"Locust"
+		"Hickory"
+		"Lancewood"
+		"Sassafras"
+		"Primrose"
+		"Brisbane"
+		"Ash"
+		"Privet"
+		"Raywood"
+		"Quince"
+		"Medlar"
+		"Balsam"
+		"Traveler"
+		"Spurge"
+		"Linden"
+
+phrase "syndicate capital"
+	word
+		"S.S. "
+	word
+		Africanus
+		Agrippa
+		Varus
+		Antonius
+		Diogenes
+		Aquila
+		Atticus
+		Augustus
+		Aurelius
+		Brutus
+		Caesar
+		Julius
+		Calpurnia
+		Cassius
+		Catilina
+		Cato
+		Catullus
+		Cicero
+		Cincinnatus
+		Claudius
+		Clemens
+		Commodus
+		Coriolanus
+		Metella
+		Crassus
+		Diocletian
+		Domitian
+		Fabius
+		Felix
+		Festus
+		Flaccus
+		Horace
+		Caligula
+		Gracchus
+		Hadrian
+		Lucretia
+		Lucretius
+		Licinius
+		Metellus
+		Milo
+		Nero
+		Nerva
+		Flavian
+		Ovid
+		Paullus
+		Petronius
+		Piso
+		Placidus
+		Plautus
+		Pliny
+		Trajan
+		Plutarch
+		Pompeius
+		Pompilius
+		Porcia
+		Porsenna
+		Remus
+		Romulus
+		Roscius
+		Rufus
+		Sabinus
+		Sallust
+		Octavian
+		Scaevola
+		Scipio
+		Severus
+		Suetonius
+		Sulla
+		Tacitus
+		Tarquin
+		Tiberius
+		Trajan
+		Valerian
+		Varus
+		Vespasian
+		Virgil
+
+phrase "republic small"
+	word
+		"R.N.S. "
+	word
+		Nile
+		Amazon
+		Mississippi
+		Yangtze
+		Zaire
+		Mackenzie
+		Niger
+		Mekong
+		Volga
+		Madeira
+		Yukon
+		Rio
+		Indus
+		Danube
+		Euphrates
+		Darling
+		Zambezi
+		Murray
+		Nelson
+		Paraguay
+		Ural
+		Ganges
+		Oxus
+		Salween
+		Arkansas
+		Colorado
+		Dnieper
+		Allegheny
+		Irawaddy
+		Orange
+		Orinoco
+		Pilcomayo
+		Columbia
+		Don
+		Sungari
+		Saskatchewan
+		Peace
+		Tigris
+		Breede
+		Modder
+		Ohlanga
+		Palala
+		Alph
+		Onyx
+		Amur
+		Angara
+		Dongjiang
+		Pearl
+		Daly
+		Flinders
+		Cooper
+		Barwon
+		Lachlan
+		Macquarie
+		Waikato
+		Yarra
+		Avon
+		Boyne
+		Clwyd
+		Hayle
+		Lagan
+		Mersey
+		Narva
+		Rhine
+		Severn
+		Thames
+		Tyne
+		Hiwassee
+		Loup
+		Platte
+		Potomac
+		Schuylkill
+		Susquehanna
+		Wabash
+
+phrase "free worlds small"
+	word
+		"F.S. "
+	word
+		Lily
+		Thistle
+		Amaryllis
+		Daisy
+		Bell
+		Bergamot
+		Buttercup
+		Chrysanthemum
+		Banksia
+		Carnation
+		Aster
+		Columbine
+		Orchid
+		Daffodil
+		Primrose
+		Cherry
+		Foxglove
+		Foxtail
+		Gentian
+		Ginger
+		Gillyflower
+		Amaranth
+		Goldenrod
+		Viburnum
+		Hyacinth
+		Larkspur
+		Lavender
+		Lilac
+		Loosestrife
+		Marigold
+		Mimosa
+		Mum
+		Peony
+		Rose
+		Safflower
+		Scarlet
+		Slipper
+		Snapdragon
+		Berry
+		Snowdrop
+		Spurge
+		Sedum
+		Stonecrop
+		Sunflower
+		Tulip
+		Yarrow
+		Ambrosia
+		Bittersweet
+		Brier
+		Clover
+		Nettle
+		Holly
+		Ivy
+		Morel
+		Nightshade
+		Poke
+		Rye
+		Saffron
+		Sorrel
+		Sage
+		Rosemary
+		Thyme
+		Trillium
+		Violet
+		Purslane
+		Vetch
+		Burdock
+
+phrase "syndicate small"
+	word
+		"S-"
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+	word
+		A
+		B
+		C
+		D
+		E
+		F
+		G
+		H
+		I
+		J
+		K
+		L
+		M
+		N
+		O
+		P
+		Q
+		R
+		S
+		T
+		U
+		V
+		W
+		X
+		Y
+		Z
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+
+phrase "republic fighter"
+	word
+		"Red "
+		"Orange "
+		"Yellow "
+		"Alpha "
+		"Beta "
+		"Gamma "
+		"Delta "
+		"Epsilon "
+	word
+		"One"
+		"Two"
+		"Three"
+		"Four"
+		"Five"
+		"Six"
+		"Seven"
+		"Eight"
+		"Nine"
+		"Ten"
+		"Eleven"
+		"Twelve"
+
+phrase "deep fighter"
+	word
+		"Alpha "
+		"Beta "
+		"Gamma "
+		"Delta "
+		"Epsilon "
+	word
+		"One"
+		"Two"
+		"Three"
+		"Four"
+		"Five"
+		"Six"
+		"Seven"
+		"Eight"
+		"Nine"
+		"Ten"
+		"Eleven"
+		"Twelve"
+
+phrase "free worlds fighter"
+	word
+		"Wolf "
+		"Hound "
+		"Fox "
+	word
+		"One"
+		"Two"
+		"Three"
+		"Four"
+		"Five"
+		"Six"
+		"Seven"
+		"Eight"
+		"Nine"
+		"Ten"
+		"Eleven"
+		"Twelve"
+
+phrase "syndicate fighter"
+	word
+		"F-"
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+	word
+		0
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+
+phrase "pirate"
+	word
+		"Caleuche"
+		"Lady Lovibond"
+		"Flying Dutchman"
+		"Princess Augusta"
+		"Eliza Battle"
+		"Iron Mountain"
+		"Eurydice"
+		"Valencia"
+		"Octavius"
+		"Jenny"
+		"Ourang Medan"
+		"Sea Bird"
+		"Resolute"
+		"Mary Celeste"
+		"Resolven"
+		"Zebrina"
+		"Deering"
+		"Bavchimo"
+		"Governor Parr"
+		"Joyita"
+		"Teignmouth Electron"
+		"Ocean Wave"
+		"High Aim"
+		"Jian Seng"
+		"Bel Amica"
+		"Kaz II"
+		"Tai Ching"
+		"Lunatic"
+		"Ryou-Un Maru"
+		"T. T. Zion"
+		"Lyubov Orlova"
+		"Skeleton Key"
+		"Ampoliros"
+		"Demeter"
+		"William Kidd"
+		"Adventure Gallery"
+		"Adventure Prize"
+		"Blackbeard"
+		"Queen Anne's Revenge"
+		"Adventure"
+		"Good Fortune"
+		"Scowerer"
+		"Wyndham Galley"
+		"Speakwell"
+		"Sultana"
+		"Whydah"
+		"Ranger"
+		"Lark"
+		"Flying Dragon"
+		"Golden Fleece"
+		"Trompeuse"
+		"La Nouvelle Trompeuse"
+		"Sea Nymph"
+		"Rising Sun"
+		"Postillion"
+		"Indian Queen"
+		"Marianne"
+		"Revenge"
+		"Happy Return"
+		"Night Rambler"
+		"Flying King"
+		"Delight"
+		"Amity"
+		"Liberty"
+		"Royal James"
+		"Fancy Dutch"
+		"Pembroke"
+		"Margaret"
+		"Prosperous"
+		"Rose Pink"
+		"Squirrel"
+		"Merry Christmas"
+		"Roebuck"
+		"Katherine"
+		"Defiance"
+		"Rover"
+		"Diamond Grey"
+		"Barsheba"
+		"St. Marie"
+		"Grey Wolf"
+		"Sea Wolf"
+		"Morning Star"
+		"Antelope"
+
+phrase "pirate"
+	word
+		"Sea "
+		"Grey "
+		"Morning "
+		"Night "
+		"Evening "
+		"Midnight "
+		"Black "
+		"Dead "
+		"Golden "
+		"Silver "
+		"Flying "
+		"Dark "
+		"Sky "
+		"Sunset "
+		"Shadow "
+	word
+		"Star"
+		"Nymph"
+		"Queen"
+		"Wolf"
+		"Rover"
+		"Rambler"
+		"King"
+		"Prince"
+		"Princess"
+		"Dragon"
+		"Galley"
+		"Hunter"
+		"Kill"
+		"Killer"
+		"Bandit"
+		"Thief"
+		"Chain"
+		"Falcon"
+		"Raptor"
+		"Hawk"
+		"Stag"
+		"Fog"
+
+phrase "pirate"
+	word
+		"Blood"
+		"Night"
+		"Death"
+		"Doom"
+		"Dark"
+		"Free"
+		"Hate"
+		"Mad"
+		"Mind"
+		"Gut"
+	word
+		"oath"
+		"fire"
+		"spit"
+		"night"
+		"fury"
+		"rot"
+		"bat"
+		"bath"
+		"blade"
+		"flame"
+		"curse"
+		"scowl"
+		"wrench"
+		"wrought"
+		"corpse"
+		"fear"
+
+phrase "quarg"
+	word
+		"Quar"
+		"Mer"
+		"Ban"
+		"Koor"
+		"Plog"
+		"Flum"
+		"Krak"
+		"Grok"
+		"Merak"
+	word
+		"-"
+		"ala"
+		"gor"
+		"o"
+		"i"
+		"oni"
+		"lam"
+		"tim"
+		"ee"
+		"shee"
+	word
+		"lim"
+		"kor"
+		"far"
+		"mor"
+		"lup"
+		"plug"
+		"trum"
+		"ruk"
+		"rook"
+
+phrase "pug"
+	word
+		"Pak"
+		"Mug"
+		"Prot"
+		"Dor"
+		"Mek"
+		"Cam"
+		"Yot"
+		"Quim"
+		"Tsoop"
+		"Froid"
+		"Groip"
+		"Ploort"
+		"Schmar"
+		"Klar"
+		"Brek"
+	word
+		" "
+		" Kim "
+		" Wor "
+		" Moof "
+		" Plat "
+		" Del "
+		" Ben "
+		" Gred "
+		" Klort "
+		" Rep "
+		" For "
+		" a "
+		" io "
+		" el "
+		" "
+		" "
+	word
+		"Glorf"
+		"Florp"
+		"Marg"
+		"Graw"
+		"Ged"
+		"Peg"
+		"Plog"
+		"Hort"
+		"Noor"
+		"Joop"
+		"Drap"
+		"Loit"
+		"Sol"
+		"Wan"
+
+phrase "korath"
+	word
+		"At'"
+		"Mek'"
+		"Pugji"
+		"Vek'"
+		"Vai"
+		"Kor'"
+		"Kora"
+		"Koree"
+		"Korai"
+		"Choo"
+		"Dak'"
+		"Fal'"
+		"Fli"
+	word
+		"mena"
+		"tol'"
+		"mega"
+		"taloora"
+		"groo"
+		"havli"
+		"vik'"
+		"mok'"
+		"droo"
+		"nag'"
+	word
+		"ford"
+		"croup"
+		"floot"
+		"veshi"
+		"nai"
+		"korai"
+		"kori"
+		"craw"
+		"wark"
+		"sechee"

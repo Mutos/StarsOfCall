@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Svenia">
+ <pos>
+  <x>-2914.884397</x>
+  <y>-4306.079224</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>125000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This lush world on the border of Read Quadrant League and Thirteen Planets, originately settled by Pupeteers, has developed a multi-species colony with a Spacer-inspired culture. Its good if not excellent biocompatibility and the existence of many species well suited to become bearers earned it fame quite early.
+
+It is a favorite among Spacers as a haven of peace, as it willingly removed itself from the turmoil of interstellar politics. It is also known as a quite active local trade hub.
+  </description>
+  <bar>A diverse crowd of Spacers from all the known universe, no species, state of origin or culture is absent in Svenia's numerous bars</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

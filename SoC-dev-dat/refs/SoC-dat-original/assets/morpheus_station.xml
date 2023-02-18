@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Morpheus Station">
+ <pos>
+  <x>5508.441610</x>
+  <y>5536.198900</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Proteous Resistance</faction>
+  <value>500.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25650</population>
+  <hide>1.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This remote station is the first Resistance settlement outside Tshiaa'rint.
+
+It has been founded by a Hive that rebelled against the sshaad oppression after witnessing the destruction of nearby complementarist Hives.
+
+It is secretly conducting an ambitious exploration program to find a sshaads-free colonizable planet to terraform into a new capitol-world for an autonomous Shapeshifters State.
+  </description>
+  <bar>Lots of Shapeshifters from diverse Hives, nearly all of them in their natural shape</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

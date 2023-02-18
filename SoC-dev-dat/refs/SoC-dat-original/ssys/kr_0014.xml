@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KR 0014">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>1868.560000</x>
+  <y>-1038.408000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="KR 0009">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KR 0019">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

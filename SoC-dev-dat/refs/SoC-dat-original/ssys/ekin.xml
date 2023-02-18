@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ek'In">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>0.000000</x>
+  <y>0.000000</y>
+ </pos>
+ <assets>
+  <asset>H'Rkann</asset>
+  <asset>Hanil</asset>
+  <asset>Jor'Ka</asset>
+  <asset>Jor'Nilka</asset>
+  <asset>Jor'Nilom</asset>
+  <asset>Kirt</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="KT 145">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 258">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RkL 2836">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 243430">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3138.821247" y="-1276.841162"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 808884">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4182.081936" y="5228.526842"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 876576">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9311.924877" y="3749.933686"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 906650">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="8734.067755" y="-1024.806643"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

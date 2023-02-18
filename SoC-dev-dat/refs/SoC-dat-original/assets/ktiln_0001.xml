@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Til'n 0001">
+ <pos>
+  <x>2221.536017</x>
+  <y>3784.531027</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This automated station is the first of the K'Til'n class. They were built during the first steps of k'rinnkind into space, to ensure Council ships always had resources available in case of need.
+
+It is little more than a structure with four docking stations, a fuel hold and a mission computer, served by a semi-AI and using four large solar panels for providing the energy it needs.
+
+All first-generation stations also boast a small hold where passing ships leave and take free supplies. This extends the ancient custom of the desert outposts on the caravan roads, where travellers gave offerings to the Wandering Gods, in the form of non-perishable resources that lost travellers could later use. This custom is followed in most of the Inner K'Rinn Sphere stations. However, on the outer reaches, it is not always understood by non-K'Rinns travellers, who often take what they find witout leaving anything in return. However, the k'rinn influence on spacer culture makes that outposts on the same concept are being built in various Spacer States, even outside of the K'Rinn Sphere.
+  </description>
+ </general>
+</asset>

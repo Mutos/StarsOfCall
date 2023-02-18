@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Colony 14">
+ <pos>
+  <x>1589.936944</x>
+  <y>-3246.121261</y>
+ </pos>
+ <GFX>
+  <space>M08.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent Stars</faction>
+  <value>350.000000</value>
+  <range>8</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2654000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This pupeteer world has waited decades to be names, but it now seems, that one should be chosen shortly. The current prime choice could be roughly translated to "Marshlands", which describes well the planet's main temperate ecosystems.
+
+It has elected to stay out of the 13-Planets League for fear of being invaded by lawless non-Pupeteer sentients. One must say for its defence, that Stars-Strider-7, the first Pupeteer ever to encounter an alien species, lived most of his life there. Everyone here knows how he had been kept prisoner by Rithai and forced for years to commit Invasion of Conscience. After he managed to escape and reveal his whole story, he couldn't bear the culpability and finally committed suicide.
+
+The Independent Stars were founded shortly after Rithai took contact with Pupeteers, and it has always stayed out of the Community, letting non-Pupeteer traders enter its space and commerce with its settlements, but keeping them under a constant scrutiny. They have set defiance regarding any non-symbiotic sentient as the prime pillar of their policy.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

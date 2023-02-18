@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Naled VI.1">
+ <pos>
+  <x>-3830.362459</x>
+  <y>4174.093110</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

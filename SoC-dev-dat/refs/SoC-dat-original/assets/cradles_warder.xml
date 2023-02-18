@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Cradle's Warder">
+ <pos>
+  <x>6653.792128</x>
+  <y>4782.806225</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-003-Military-100px.png</space>
+  <exterior>Outpost-PurrSphere-003-Military-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>150</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>This station guards the sole jump point in the Cradle system, and doubles up as a trade relay. Basically an overgrown Purr Sphere, it is armed with an extensive defense array and boasts four large bays in lieu of the usual ring of eight docking ports.
+  </description>
+  <bar>Fierce combat crews mounted on fast and agile bearers, and a few merchants, some of them looking quite uneasy</bar>
+ </general>
+ <tech>
+  <item>All Outfits</item>
+ </tech>
+</asset>

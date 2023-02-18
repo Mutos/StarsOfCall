@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-9">
+ <pos>
+  <x>1679.433519</x>
+  <y>-2560.398331</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1346000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>While colder than most Irilia worlds, Irilia-9 has extensive forest lands and a large oceanic mass. It is famous for its polar caps and its exceptional, entirely natural well-moonedness.
+
+However, the appearances have proved deceptive and, with a low biocompatibility of the native ecosystems and only small ore deposits and no asteroids ring in-system, the planet has a hard time keeping its planned pace of development, and even staying autonomous. Even today, it is still dependant of the neighboring systems for its basic sustenance.
+  </description>
+  <bar>A small crowd of poorly-clad Rithai, with only few Thiskai and next to no Idrimar</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

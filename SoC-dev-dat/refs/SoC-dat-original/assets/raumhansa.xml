@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Raumhansa">
+ <pos>
+  <x>1345.957405</x>
+  <y>-1532.074226</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Stellar Police</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Raumhansa was originally to be the Frei Gericht's rear base. When the tentative state was disbanded by the Stellar Police, the station was not its current priority and only the shipyard was barely completed. It was swiftly conquered and its very existence was questionned. The Core League decided to complete it as a mere refuel and repair depot, but the shipyard workers insisted on opening the installation.
+
+After negociations wih the Stellar Police, the yard finally opened as a cooperative venture, which soon became renowned for its excellent standards of work. States and private ventures alike sought them for special works, providing them with a steady flow of contracts.
+
+Following these events, the Ashioto Board voted to built Jokers Patrol Base to guard the Ashioto side of the jump point, and the Stellar Police added a patrol base to the station, to guard the Raumbahn Sieben side. Now both stations work in synch to prevent smugglers from supplying the illegal smuggling stations or getting purgatorian artifacts out of the Cluster.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

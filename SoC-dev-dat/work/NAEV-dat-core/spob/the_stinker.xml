@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="The Stinker">
+ <lua>spob/lua/lowclass.lua</lua>
+ <pos x="-319.479999" y="-1022.335998"/>
+ <GFX>
+  <space>X01.webp</space>
+  <exterior>forest2.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Soromid</faction>
+  <base>20.000000</base>
+  <bonus>10.000000</bonus>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>X</class>
+  <population>200</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>In an impressive act of combined planetary engineering and irresponsibility, the Soromid have turned this backwater planet into a giant, globe-encompassing landfill. Some people prefer to use the term "worldfill" to describe it. Waste materials of all kinds are brought to this planet, usually delivered by simple means of a re-entry orbit. There's also a rudimentary spaceport on the surface in case something needs to be carried down aboard a ship for some reason. Otherwise, there is no real reason why anyone would want to land here.</description>
+ </general>
+ <tags>
+  <tag>garbage</tag>
+ </tags>
+</spob>

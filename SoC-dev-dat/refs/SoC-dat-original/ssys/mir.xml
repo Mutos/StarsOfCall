@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Mir">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1205.914000</x>
+  <y>-893.413333</y>
+ </pos>
+ <assets>
+  <asset>LiangXi Mechanics</asset>
+  <asset>Mir</asset>
+  <asset>Oryol</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Voronin</asset>
+ </assets>
+ <jumps>
+  <jump target="Nouvelle Mars">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Peschinka">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tripoint">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Vikra">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 133650">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3514.59682" y="-960.069845"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 138764">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4213.191677" y="-451.635756"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 182422">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3770.120337" y="-409.103214"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 531064">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2291.381551" y="8874.444427"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 556713">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1941.284718" y="-1035.35185"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 691007">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3767.941196" y="1046.444905"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 765100">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7722.668436" y="-4975.755948"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 784220">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4357.66904" y="237.980152"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 789102">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2130.433641" y="8226.659287"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 826539">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3985.205581" y="5094.166333"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 895119">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4917.921287" y="6840.717579"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

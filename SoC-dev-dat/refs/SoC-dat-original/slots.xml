@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slots>
+ <!-- Core Structure slots : needed for the ship to fly -->
+ <slot name="Hull Plating">
+  <display>Hull Plating</display>
+  <description>The ship's external plating, affecting the hull's mass, cargo space, strength and stealth capabilities.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Power Core">
+  <display>Power Core</display>
+  <description>The main fusion reactor that powers everything aboard the ship.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Computer Core">
+  <display>Computer Core</display>
+  <description>The semi-AI that controls all subsystems and manages ship handling.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Warp Engine - Small">
+  <display>Warp Engine (Sml)</display>
+  <description>The main engine that generates thrust by bending spacetime around the ship.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Warp Engine - Medium">
+  <display>Warp Engine (Med)</display>
+  <description>The main engine that generates thrust by bending spacetime around the ship.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Warp Engine - Large">
+  <display>Warp Engine (Lrg)</display>
+  <description>The main engine that generates thrust by bending spacetime around the ship.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Jump Drive">
+  <display>Jump Drive</display>
+  <description>The warp redirection system that allows a ship to activate a jump tunnel.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Ftr Jump Drive">
+  <display>Fighter Jump Drive</display>
+  <description>The warp redirection system that allows a ship to activate a jump tunnel. Fighters have miniaturized versions of the device, with far less fuel storage than regular small Jump Drives.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Verniers Array - Small">
+  <display>Verniers Array (Sml)</display>
+  <description>Thrusters scattered all around the hull to allow the ship to turn.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Verniers Array - Medium">
+  <display>Verniers Array (Med)</display>
+  <description>Thrusters scattered all around the hull to allow the ship to turn.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Verniers Array - Large">
+  <display>Verniers Array (Lrg)</display>
+  <description>Thrusters scattered all around the hull to allow the ship to turn.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Shield Generator">
+  <display>Shield Generator</display>
+  <description>The generator that protects the ship from incoming damage.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="Ftr Shield Generator">
+  <display>Shield Generator</display>
+  <description>The generator that protects the ship from incoming damage.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <!-- Slot for outfits that extend core systems -->
+ <slot name="Core Systems Extension">
+  <display>Core Systems Extension</display>
+  <description>Core systems can be improved in a number of ways, enhancing a vessel's efficiency in specialized fields.</description>
+  <exclusive/>
+ </slot>
+ <!-- Slots for payload and jury-rigged utilities -->
+ <slot name="Internal Holds">
+  <display>Internal Holds</display>
+  <description>Internal storage space, normally only used for payload, but often fitted with makeshift core extensions.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Hardpoint">
+  <display>Hardpoint</display>
+  <description>External mount for various utility extensions, mostly active systems or payload containers.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Containers Ring">
+  <display>Containers Ring</display>
+  <description>External mount for containers, arranged in circular rings.</description>
+  <exclusive/>
+ </slot>
+ <!-- Weapon slots -->
+ <slot name="Swivel Gun">
+  <display>Swivel Gun</display>
+  <description>External mount for swivel-mounted guns.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Missiles Rack">
+  <display>Missiles Rack</display>
+  <description>External mount for supporting missiles.</description>
+ </slot>
+ <slot name="Flak Turret">
+  <display>Flak Turret</display>
+  <description>Mount for a point-defense turret.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Main Turret">
+  <display>Main Turret</display>
+  <description>Mount for a main turret.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Spinal Gun">
+  <display>Spinal Gun</display>
+  <description>Cannon mount forming the ship's spine.</description>
+  <exclusive/>
+ </slot>
+ <slot name="Craft Bay">
+  <display>Craft Bay</display>
+  <description>Bay to hold a number of small auxiliary crafts, usually drones or fighters.</description>
+  <exclusive/>
+ </slot>
+ <!-- NAEV vanilla slot definitions, needed for testing against vanilla data -->
+ <slot name="systems">
+  <display>Core Systems</display>
+  <description>This slot is used for dedicated core systems of the ship. Other subsystems rely on this system to manage them, and the bulk of the ship's power and shield generation also happens here.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="hull">
+  <display>Hull Modifications</display>
+  <description>This slot is used for structural modifications to the ship's hull. This slot represents the base layer of armour plating, and also greatly affects mass, cargo space and available weapon slots.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="engines">
+  <display>Engines</display>
+  <description>This slot is used for engines. Engines propel the ship, which is kind of important. Engines require energy from the core system to function.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="bio_systems">
+  <display>Bioship Brain</display>
+  <description>This slot is used for the brain, the biological equivalent to Core Systems. The brain of an organism is responsible for managing the function of the rest of the organism and allocating energy reserves for the battery and shield.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="bio_hull">
+  <display>Bioship Shell</display>
+  <description>This slot is used for the shell, the biological equivalent to Hull Modifications. The shell is the last line of defense for the organism, protecting critical organs from damage. It is also helps determine the organism's cargo space.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="bio_engines">
+  <display>Bioship Fins</display>
+  <description>This slot is used for the fins, the biological equivalent to Engines. Fins propel the organism through space.</description>
+  <exclusive/>
+  <required/>
+ </slot>
+ <slot name="bio_weapon">
+  <display>Bioship Weapons</display>
+  <description>In addition to standard weapons, this slot can be used for special organic weapons which can only be equipped to bioships. Organic weapons are generally similar to their synthetic counterparts, but more efficient, which is important to compensate for the reduced CPU capacity of the brain in comparison to synthetic constructs.</description>
+ </slot>
+</Slots>

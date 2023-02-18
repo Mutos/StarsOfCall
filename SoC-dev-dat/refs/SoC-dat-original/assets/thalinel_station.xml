@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Thalinel Station">
+ <pos>
+  <x>-1597.399997</x>
+  <y>-2152.052774</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-001-Base.png</space>
+  <exterior>Outpost-Halisht-001-Base.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>45</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>A sister-station to Halisht, Thalinel was the second relay station to be built by the Irilia, when the Irilia-7 planet was discovered.
+  </description>
+  <bar>Several Rithai, mainly Irilia, and some Humans</bar>
+ </general>
+</asset>

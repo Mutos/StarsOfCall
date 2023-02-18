@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shadow Grave">
+ <pos>
+  <x>1059.957963</x>
+  <y>5691.284497</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>100.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+  </commodities>
+  <description>These are the remnants of the smuggling station where the Shadow Company was decimated while trying to discover the HnH-Alliance route for Cartel Sol.
+
+After the FeuerRing disaster, Cartel Sol intelligence ruled there had to be a reason for the stand-in of the 3rd Planetarist Fringe Fleet. So they sent a small infiltration force, made of two transports and one corvette, to discover the jump route to Sanctuary they suspected.
+
+While the transports were excavating Shadow Base, the corvette crossed TeufelFeuer, passing by the battle remnants. In the next system, it captured an empty smuggling base. But as the crew prepared to call the transports, a Hoshi no Hekka fleet led by the Mirai jumped in from the Gl 250 A route and deployed base-building assets. The Cartelists could not pass by it undetected and were no match in battle. So they launched a salvo of stealth data missiles to the transports, then enforced strict radio silence until their rescue jumped in. At the second they spotted it, they dashed for the jumpout. But it took some time for the corvette to power up, its energy emissions were detected and the base was battered by the nearest HnH units.
+
+However, a few minutes only after the transports, a data missile jumped in and broadcast a High Admiralty recall order to the Barnard system. Despite a tentative mutiny repressed in blood, the convoy sped back and was soon out of range of the Mirai.
+
+Left to die in hostile space, the Shadow Company had to cut through the Mirai escorts to jump out and reach Shadow Base, with the Fortress in hot pursuit. Able to resist in the well-armed and armored base, but facing probable mutiny and not willing to keep on fighting for the State that abandoned his Company, Commander Corneille Dessaudiere entered negotiations with Urs Schreiber, then Hekka of the Mirai. The ex-soldiers elected to remain at Shadow Base, along with the crew of Hoshi no Hekka Spacers who took over the base.
+
+Dessaudiere was to come back to the ex-smuggling station only years later, along with Central, HnH and Alliance diplomats, to claim the system as part of the newly formed Shadow Complex and turn the remnants into a memorial.
+  </description>
+  <bar>Civilians and ex-soldiers of all species, some in old ceremony uniforms.</bar>
+ </general>
+</asset>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Pastor">
+ <general>
+  <radius>21500.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-402.305351" y="-352.914213"/>
+ <spobs>
+  <spob>Dolmen</spob>
+  <spob>Finn</spob>
+  <spob>Gennus</spob>
+  <spob>Pastor II</spob>
+  <spob>Pastor IIX</spob>
+  <spob>Pastor VI</spob>
+  <spob_virtual>Trade Lane (Empire)</spob_virtual>
+ </spobs>
+ <jumps>
+  <jump target="Blackwell">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Koralis">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+  <jump target="Shinnok">
+   <autopos/>
+   <hide>0.000000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <group>typeA-poor</group>
+   <radius>2500.000000</radius>
+   <pos x="-11932.713940" y="-14697.796216"/>
+  </asteroid>
+  <exclusion>
+   <radius>1700.000000</radius>
+   <pos x="-11907.035570" y="-14709.690437"/>
+  </exclusion>
+ </asteroids>
+</ssys>

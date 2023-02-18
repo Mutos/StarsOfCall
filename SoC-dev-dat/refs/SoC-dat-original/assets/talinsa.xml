@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Talinsa">
+ <pos>
+  <x>3816.011104</x>
+  <y>-8852.258316</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-003-Military-100px.png</space>
+  <exterior>Outpost-PurrSphere-003-Military-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>65</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This military Purr Sphere is a part of the Doorkeeper Quintet, a set of five stations protecting the only system linking to The Cradle. This is the only example in the Pupeteer Sphere of a heavily militarized system. The stations have been built after the first official contact with the Rithai, when the Stars-Strider-7 incident and the general geopolitical situation became known. Faced with all these aggressive species, the Pupeteers decided to built a system-wide buffer zone to protect their only exit to the jump network.
+  </description>
+ </general>
+</asset>

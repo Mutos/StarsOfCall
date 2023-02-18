@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="New Earth">
+ <pos>
+  <x>-2451.152789</x>
+  <y>-2517.400161</y>
+ </pos>
+ <GFX>
+  <space>O03.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>450.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>170000000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The 3rd of the Sublight Colonies, New Earth sided with Earth and Mars during the Secession Crisis that finally gave birth to the Core League.
+  </description>
+  <bar>Mainly human patrons with a few representatives of the other species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

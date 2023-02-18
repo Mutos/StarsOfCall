@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Han'Tenelin">
+ <pos>
+  <x>2583.647534</x>
+  <y>5896.016168</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>lava.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>24500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>This station is one of the farthest outposts of the K'Rinn Council on the route to the Sshaad and Human Spheres. It acts as a border station between Council space and respectively the Baartish and Hoshi no Hekka.
+  </description>
+  <bar>Mostly K'Rinns and some Humans and Sshaads Spacers, chatting at the bar.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Red Skies">
+ <pos>
+  <x>-1101.472509</x>
+  <y>-2884.985903</y>
+ </pos>
+ <GFX>
+  <space>moon-P03.png</space>
+  <exterior>mining5.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>560.000000</value>
+  <range>7</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>28647000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Red Skies takes its name from the gas giant around which it revolves, which gives its sky a reddish color. It was colonized by New Light domains that associated with Spacers from the Wandering Domains. There is an effort to built co-colonies with other species, but it is hampered by the low biocompatibility of the local biosphere. However, gengineers from Read Skies are always creating new bridge species to mitigate the annoyance.
+  </description>
+  <bar>Many locals on various bearers and a few Spacers, most of the latest from the Wandering Domains</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

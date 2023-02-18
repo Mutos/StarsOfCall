@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Babylon IIa">
+ <pos x="-13380.000000" y="-3240.000000"/>
+ <GFX>
+  <space>moon-J00.webp</space>
+  <exterior>mining5.webp</exterior>
+ </GFX>
+ <general>
+  <class>J</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</spob>

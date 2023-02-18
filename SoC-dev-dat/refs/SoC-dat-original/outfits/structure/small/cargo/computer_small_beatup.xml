@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Beat-up Sml Computer">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Computer Core">structure</slot>
+  <size>small</size>
+  <price>0</price>
+  <description>If the computer core is the ship's brain, this one may well have Alzheimer's disease, but it still can help a ship's navigate, at least to a certain extent.</description>
+  <gfx_store>hk2250/Computer-Core-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>10</cpu_max>				<!-- Main purpose	: gives the ship its CPU value -->
+  <mass_rel>10</mass_rel>			<!-- Mass cost		: adds 10% to the ship's mass -->
+  <energy_regen>-15</energy_regen>	<!-- Energy cost	: modifies ship's available energy -->
+  <ew_hide>-25</ew_hide>			<!-- Stealth cost	: bad insulation gives away EM signals, making the ship more difficult to hide -->
+ </specific>
+</outfit>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mahavikra Flight School">
+ <pos>
+  <x>9647.950233</x>
+  <y>-1887.340402</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>62300</population>
+  <hide>0.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>One of the main Planetarist Fighter combat schools, this station's reputation is on a par with the Core League's Tuskegee Training Academy, with which it is in constant competition.
+  </description>
+  <bar>Fighter pilots, mainly Human, with a few K'Rinns and Rithai.</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

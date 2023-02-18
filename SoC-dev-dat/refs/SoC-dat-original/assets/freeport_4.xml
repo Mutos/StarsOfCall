@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freeport 4">
+ <pos>
+  <x>-2617.961106</x>
+  <y>1730.516663</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-003-Outpost.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>200.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>28000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A trading station built by independant merchants between the Villera, Banthory, Ziffel and Nyotekundu systems, and only 8 jumps from Sol. The original backers renamed the system "The Hub" for advertising and excavated a small asteroid to make a terrarium station. It offers ample zeegee docking space and one centrifuge ring at either end of its axis, to provide gravity quarters for travellers.
+
+When construction was under work, a Stellar Police enquiry led by Vladimir Igorovitch Demeniev revealed that behind the official backers stood a local mafia concern. The station was to be a cover for an organs traficking network in this remote sector of the Core League. Construction halted during one full year and resumed when funding was secured with a new round, this time heavily screened by the authorities.
+
+Freeport 4's position has indeed be well chosen and it thrived on commerce between the 3 colony worlds, the Nyotekundu mining system and Sol. Now it has become the meeting point in this sector of space. It is also used as a Stellar Police base and a Core League rear base near the Shoden border.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

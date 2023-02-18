@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<naev_save>
+ <version>
+  <naev>0.10.4</naev>
+  <data>Sea of Darkness</data>
+ </version>
+ <last_played>1676713547</last_played>
+ <plugins/>
+ <diffs/>
+ <player name="Mutos">
+  <credits>30000</credits>
+  <chapter>0</chapter>
+  <mapOverlay>0</mapOverlay>
+  <radar_res>50.000000</radar_res>
+  <eq_outfitMode>0</eq_outfitMode>
+  <map_minimal>0</map_minimal>
+  <fleet_capacity>0</fleet_capacity>
+  <time>
+   <SCU>603</SCU>
+   <STP>3726</STP>
+   <STU>3396</STU>
+   <Remainder>315.633978</Remainder>
+  </time>
+  <location>Bolero</location>
+  <ship name="Tuna Can" model="Llama" favourite="0" deployed="0">
+   <acquired>Your first space-worthy ship!</acquired>
+   <acquired_date>2232714712</acquired_date>
+   <time_played>0.000000</time_played>
+   <dmg_done_shield>0.000000</dmg_done_shield>
+   <dmg_done_armour>0.000000</dmg_done_armour>
+   <dmg_taken_shield>0.000000</dmg_taken_shield>
+   <dmg_taken_armour>0.000000</dmg_taken_armour>
+   <jumped_times>0</jumped_times>
+   <landed_times>1</landed_times>
+   <death_counter>0</death_counter>
+   <ships_destroyed>
+    <Yacht>0</Yacht>
+    <Courier>0</Courier>
+    <Freighter>0</Freighter>
+    <Armoured_Transport>0</Armoured_Transport>
+    <Bulk_Freighter>0</Bulk_Freighter>
+    <Scout>0</Scout>
+    <Interceptor>0</Interceptor>
+    <Fighter>0</Fighter>
+    <Bomber>0</Bomber>
+    <Corvette>0</Corvette>
+    <Destroyer>0</Destroyer>
+    <Cruiser>0</Cruiser>
+    <Battleship>0</Battleship>
+    <Carrier>0</Carrier>
+   </ships_destroyed>
+   <fuel>400.000000</fuel>
+   <outfits_intrinsic/>
+   <outfits_structure>
+    <outfit slot="0">Nexus Dart 150 Engine</outfit>
+    <outfit slot="1">Unicorp D-2 Light Plating</outfit>
+   </outfits_structure>
+   <outfits_utility>
+    <outfit slot="0">Unicorp PT-16 Core System</outfit>
+   </outfits_utility>
+   <outfits_weapon>
+    <outfit slot="0">Laser Cannon MK1</outfit>
+   </outfits_weapon>
+   <commodities/>
+   <weaponsets autoweap="1" active_set="0" aim_lines="0">
+    <weaponset inrange="0" manual="0" id="0"/>
+    <weaponset inrange="0" manual="0" id="1"/>
+    <weaponset inrange="0" manual="0" id="2"/>
+    <weaponset inrange="0" manual="0" id="3"/>
+    <weaponset inrange="0" manual="0" id="4"/>
+    <weaponset inrange="0" manual="0" id="5"/>
+    <weaponset inrange="0" manual="0" id="6"/>
+    <weaponset inrange="0" manual="0" id="7"/>
+    <weaponset inrange="0" manual="0" id="8"/>
+    <weaponset inrange="0" manual="0" id="9"/>
+   </weaponsets>
+   <vars/>
+  </ship>
+  <ships/>
+  <guis>
+   <gui>slim</gui>
+   <gui>brushed</gui>
+   <gui>slimv2</gui>
+   <gui>legacy</gui>
+  </guis>
+  <outfits/>
+  <licenses/>
+  <inventory/>
+ </player>
+ <missions_done>
+  <done>Tutorial</done>
+ </missions_done>
+ <events_done/>
+ <escorts/>
+ <metadata>
+  <last_played>1676713547</last_played>
+  <date_created>1676709187</date_created>
+  <time_played>93.000000</time_played>
+  <dmg_done_shield>0.000000</dmg_done_shield>
+  <dmg_done_armour>0.000000</dmg_done_armour>
+  <dmg_taken_shield>0.000000</dmg_taken_shield>
+  <dmg_taken_armour>0.000000</dmg_taken_armour>
+  <jumped_times>0</jumped_times>
+  <landed_times>1</landed_times>
+  <death_counter>0</death_counter>
+  <ships_destroyed>
+   <Yacht>0</Yacht>
+   <Courier>0</Courier>
+   <Freighter>0</Freighter>
+   <Armoured_Transport>0</Armoured_Transport>
+   <Bulk_Freighter>0</Bulk_Freighter>
+   <Scout>0</Scout>
+   <Interceptor>0</Interceptor>
+   <Fighter>0</Fighter>
+   <Bomber>0</Bomber>
+   <Corvette>0</Corvette>
+   <Destroyer>0</Destroyer>
+   <Cruiser>0</Cruiser>
+   <Battleship>0</Battleship>
+   <Carrier>0</Carrier>
+  </ships_destroyed>
+ </metadata>
+ <temporary_cargo/>
+ <missions/>
+ <events/>
+ <news>
+  <article title="Welcome to the Empire News Centre." desc="Keeping you informed." faction="Empire" date="0" date_to_rm="30187263397315" id="5" priority="-1" tag="header"/>
+  <article title="Large Orbital Constructions Spike Curiosity" desc="Throughout the Empire, large orbital constructions have spiked curiosity of passersby, citing difference with standard space station designs. Great Houses have stated they are routine constructions without need of alarm." faction="Empire" date="30187263396315" date_to_rm="30187360145315" id="3" priority="5" tag="Large Orbital Constructions Spike Curiosity"/>
+  <article title="Current Market Prices" desc="&#10;&#10;Benteen in Delta Polaris&#10;Diamond: 176&#10;Food: 47&#10;Gold: 351&#10;Industrial Goods: 398&#10;Luxury Goods: 393&#10;Medicine: 356&#10;Ore: 265&#10;Water: 60&#10;&#10;Bolero in Delta Polaris&#10;Diamond: 175&#10;Food: 44&#10;Gold: 340&#10;Industrial Goods: 404&#10;Luxury Goods: 381&#10;Medicine: 332&#10;Ore: 272&#10;Water: 57&#10;&#10;Stormgard in Jade&#10;Diamond: 164&#10;Food: 32&#10;Gold: 311&#10;Industrial Goods: 427&#10;Luxury Goods: 356&#10;Medicine: 242&#10;Ore: 279&#10;Water: 50&#10;&#10;Ruin in Zemur&#10;Diamond: 184&#10;Food: 57&#10;Gold: 318&#10;Industrial Goods: 516&#10;Luxury Goods: 335&#10;Medicine: 237&#10;Ore: 330&#10;Water: 85&#10;&#10;Turnpike Station in Zemur&#10;Diamond: 184&#10;Food: 56&#10;Gold: 318&#10;Industrial Goods: 527&#10;Luxury Goods: 329&#10;Medicine: 236&#10;Ore: 330&#10;Water: 85" faction="Generic" date="30187263396315" date_to_rm="30187263397315" id="6" priority="11" tag="econ"/>
+ </news>
+ <vars>
+  <var name="_fcap_dvaered" type="num">40.000000</var>
+  <var name="_fcap_empire" type="num">30.000000</var>
+  <var name="_fcap_frontier" type="num">30.000000</var>
+  <var name="_fcap_goddard" type="num">30.000000</var>
+  <var name="_fcap_proteron" type="num">30.000000</var>
+  <var name="_fcap_sirius" type="num">30.000000</var>
+  <var name="_fcap_soromid" type="num">30.000000</var>
+  <var name="_fcap_zalek" type="num">30.000000</var>
+  <var name="news_last_article" type="num">30187263396315.000000</var>
+  <var name="shipai_name" type="str">Gloria</var>
+  <var name="vn_autoscroll" type="bool">0</var>
+  <var name="vn_textspeed" type="num">0.001875</var>
+ </vars>
+ <factions>
+  <faction name="Black Lotus">
+   <standing>-20.000000</standing>
+  </faction>
+  <faction name="Collective">
+   <standing>-100.000000</standing>
+  </faction>
+  <faction name="Dreamer Clan">
+   <standing>-10.000000</standing>
+  </faction>
+  <faction name="Dvaered">
+   <standing>1.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Empire">
+   <standing>1.000000</standing>
+   <known/>
+  </faction>
+  <faction name="FLF">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Frontier">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Goddard">
+   <standing>2.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Marauder">
+   <standing>-50.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Nasin">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Pirate">
+   <standing>-20.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Player">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Proteron">
+   <standing>-50.000000</standing>
+  </faction>
+  <faction name="Raven Clan">
+   <standing>-20.000000</standing>
+  </faction>
+  <faction name="Sirius">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Soromid">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Thurion">
+   <standing>1.000000</standing>
+  </faction>
+  <faction name="Traders Guild">
+   <standing>3.000000</standing>
+  </faction>
+  <faction name="Wild Ones">
+   <standing>-40.000000</standing>
+  </faction>
+  <faction name="Za'lek">
+   <standing>2.000000</standing>
+   <known/>
+  </faction>
+ </factions>
+ <hooks/>
+ <space>
+  <known sys="Delta Polaris">
+   <spob>Bolero</spob>
+   <spob>Delta Polaris I</spob>
+   <spob>Delta Polaris II</spob>
+   <spob>Delta Polaris VI</spob>
+   <spob>Falas</spob>
+   <jump>Jade</jump>
+  </known>
+ </space>
+ <economy>
+  <system name="Delta Polaris">
+   <spob name="Benteen">
+    <commodity name="Diamond" sum="176.000000" sum2="30976.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Food" sum="47.000000" sum2="2209.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Gold" sum="351.000000" sum2="123201.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Industrial Goods" sum="398.000000" sum2="158404.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Luxury Goods" sum="393.000000" sum2="154449.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Medicine" sum="356.000000" sum2="126736.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Ore" sum="265.000000" sum2="70225.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Water" sum="60.000000" sum2="3600.000000" cnt="1" time="30187263396315"/>
+   </spob>
+   <spob name="Bolero">
+    <commodity name="Diamond" sum="175.000000" sum2="30625.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Food" sum="44.000000" sum2="1936.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Gold" sum="340.000000" sum2="115600.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Industrial Goods" sum="404.000000" sum2="163216.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Luxury Goods" sum="381.000000" sum2="145161.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Medicine" sum="332.000000" sum2="110224.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Ore" sum="272.000000" sum2="73984.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Water" sum="57.000000" sum2="3249.000000" cnt="1" time="30187263396315"/>
+   </spob>
+  </system>
+  <system name="Jade">
+   <spob name="Stormgard">
+    <commodity name="Diamond" sum="164.000000" sum2="26896.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Food" sum="32.000000" sum2="1024.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Gold" sum="311.000000" sum2="96721.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Industrial Goods" sum="427.000000" sum2="182329.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Luxury Goods" sum="356.000000" sum2="126736.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Medicine" sum="242.000000" sum2="58564.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Ore" sum="279.000000" sum2="77841.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Water" sum="50.000000" sum2="2500.000000" cnt="1" time="30187263396315"/>
+   </spob>
+  </system>
+  <system name="Zemur">
+   <spob name="Ruin">
+    <commodity name="Diamond" sum="184.000000" sum2="33856.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Food" sum="57.000000" sum2="3249.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Gold" sum="318.000000" sum2="101124.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Industrial Goods" sum="516.000000" sum2="266256.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Luxury Goods" sum="335.000000" sum2="112225.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Medicine" sum="237.000000" sum2="56169.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Ore" sum="330.000000" sum2="108900.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Water" sum="85.000000" sum2="7225.000000" cnt="1" time="30187263396315"/>
+   </spob>
+   <spob name="Turnpike Station">
+    <commodity name="Diamond" sum="184.000000" sum2="33856.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Food" sum="56.000000" sum2="3136.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Gold" sum="318.000000" sum2="101124.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Industrial Goods" sum="527.000000" sum2="277729.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Luxury Goods" sum="329.000000" sum2="108241.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Medicine" sum="236.000000" sum2="55696.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Ore" sum="330.000000" sum2="108900.000000" cnt="1" time="30187263396315"/>
+    <commodity name="Water" sum="85.000000" sum2="7225.000000" cnt="1" time="30187263396315"/>
+   </spob>
+  </system>
+ </economy>
+ <shiplog/>
+</naev_save>

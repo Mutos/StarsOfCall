@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Niishin Border Station">
+ <pos>
+  <x>7925.309107</x>
+  <y>620.481276</y>
+ </pos>
+ <GFX>
+  <space>003.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>53200</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Niishin means spaceship shield and the name is appropriate for the station guarding the border between the Baartish and the Purple Trail. It doubles as a trading station but, given the general hostility of Purple Trail towards Sshaads, there is less traffic than Baartish mrchants originally hoped for. With the independance of the highly xenophobic Akta Manniskor, the Shield Station has been reinforced and is now sshaaded by elite squadrons instead of regular pilots.
+  </description>
+  <bar>Proud pilots exhibiting Baartish markings, mainly Sshaads but including some Shapeshifters, and looking down on a few merchants, Sshaads and Humans alike</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

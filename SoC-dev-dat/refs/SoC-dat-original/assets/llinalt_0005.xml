@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="L'Linal't 0005">
+ <pos>
+  <x>2768.826661</x>
+  <y>-3168.176660</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station has been built by a L'Linal't expedition, made of nanobuilding ships. It was found by a human expedition from Ashioto and its presence was never explained before Humans came into contact with K'Rinns. It still serves its original purpose, should any ship become lost in its vicinity, but is monitored by the Ashioto Cluster forces to prevent its use by purgatorian artefacts smugglers.
+  </description>
+ </general>
+</asset>

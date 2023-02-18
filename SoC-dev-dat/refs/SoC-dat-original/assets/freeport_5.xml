@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freeport 5">
+ <pos>
+  <x>1660.868129</x>
+  <y>1327.555762</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-003-Outpost.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>300.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>6300</population>
+  <hide>0.100000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Given the numerous connections of the Al-Wahid's Bluff system, this station was first established by the Planetarists as part of its EWS network just after the FeuerRing battle. It was converted to a trading post when the system was given to the Shadow Complex.
+
+The system itself is named after Hassan Al-Wahid, the Planetarist Admiral of the 3rd Fringe Fleet, who decided there to confront in the TeufelFeuer system a Cartel Sol convoy on the brink of discovering the route to Sanctuary.
+
+With 1 cruiser, 5 destroyers and 3 corvettes, Al-Wahid knew his fleet was unable to fight head-on the 2-cruisers- and 15-corvettes-strong Cartelist formation they spotted when jumping in from the system that would later be known as Shadow Grave. But he did not want to let the incoming fleet split and either be able to keep moving towards Sanctuary, or retreat to Sol with precious astrogation data.
+
+Knowing his brand-new ships had never been sighted by Cartel Sol personel, he choose to pose as more powerful then he actually was. So he cut the road to the Shadow Grave and Shadow systems with a destroyer and interference mines on each direction, and pressed the rest of his force on an intercept course. As soon as the enemy fleet saw the daring move, they over-estimated the Planetarists' strength and blindly dashed for the only available jump point, without taking time to send a nav reco.
+
+Al-Wahid's bluff pressed the Cartelists into making a lightning jump to TeufelFeuer, while he ordered his own fleet to match speed with the jump point. He knew the jump exit led inside the gas giant's rings, meaning his opponants, emerging at a large relative speed, would suffer high asteroids collision hazards, while his own fleet would be relatively immune.
+
+The ensuing battle on the FeuerRing orbit allowed the Planetarists to keep secret the route from Sol to Sanctuary, but Hassan Al-Wahid was among the casualties, along with his brand-new destroyer, the Warden of Sanctuary, and 3 more ships.
+  </description>
+  <bar>A crowd of merchants and tourists of all species</bar>
+ </general>
+ <tech>
+  <item>Regular Generic</item>
+  <item>Low-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

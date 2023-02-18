@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eriin-Harsh Remnants">
+ <pos>
+  <x>20867.922391</x>
+  <y>-18615.511720</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-005-Trapped-Ship.png</space>
+  <exterior>mining4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>50.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1025</population>
+  <hide>2.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>No-one knows how this ages-old alien ship hull got encrusted into an asteroid, but it has been identified as a probable purgatorian remnant.
+
+It has long been scrapped of anything valuable and converted to an exploration base, in hope of discovering a second Ashioto, but only a few remnants have so far been found in the nearby systems.
+
+As currently the Aan sector is locked out by pirate presence, exploration has long dwindled to a stop and it unlikely to see it resume anytime soon. All that is left is a few scientists, mainly Sshaads and some K'Rinns, who still believe in the discoveries they could make there.
+  </description>
+  <bar>A few Sshaads and K'Rinns with scientific fervour in their eyes</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+  <item>Star Maps - Border Sectors</item>
+ </tech>
+</asset>

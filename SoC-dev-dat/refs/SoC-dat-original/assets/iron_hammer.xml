@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Iron Hammer">
+ <pos>
+  <x>-670.477655</x>
+  <y>-1724.649180</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Purple Trail</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>9500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The latest station built by the Purple Trail, this asteroid platform guards the State's side of the jump to the Candidate Systems border, completing a cluster of small outposts already scattered in the system.
+
+It is by this route that Humans and Sshaads came first into contact and it has long been a contended sector, before the Candidate Systems formed to enter the Commonwealth and came to a truce with the Purple Trail. Now the two States are allies and the station is manned by a mixed crew.
+
+Its basic role is to protect the route from piracy, along with Alshiinal station on the Candidate Systems side, as stated in the agreements between the two States.
+  </description>
+  <bar>Mean-looking and proud Purple Guard and Candidate Systems pilots, along with some merchants and an occasionnal Shapeshifters group.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

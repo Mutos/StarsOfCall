@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Iralii Border Station">
+ <pos>
+  <x>3343.323682</x>
+  <y>-2973.555164</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007b-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>300.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>21600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This old mining outpost was hastily converted to a border station when the Corridor link between Rith and Sshaad Spheres was discovered. The coincidence of its name with the Irali clan is a well-known joke among rithai Spacers.
+  </description>
+  <bar>Instrumentality Guard pilots and a mixed lot of sshaad and rith merchantbeings.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

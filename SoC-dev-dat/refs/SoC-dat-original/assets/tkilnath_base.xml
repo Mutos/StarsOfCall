@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="T'Kilnath Base">
+ <pos>
+  <x>19274.672084</x>
+  <y>-8117.158503</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>200.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15000</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This pirate base is the nearest to E'kin. It may seem surprising, that the Council never closed it down. In fact, they did so several times, but the base was ever rebuilt on a different asteroid, so at length, the Council gave up, prefering a known, mild threat to ever-spawning bases they could not easily locate.
+
+In fact, the pirate threat is quite low and the base could rather be described as the main smuggling fence on the heart of the K'Rinn Sphere.
+  </description>
+  <bar>Mean-looking K'Rinns, most of them visibly renegade Defenders, some even exhibiting their cyborg implants as a regular K'Rinn would never do</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

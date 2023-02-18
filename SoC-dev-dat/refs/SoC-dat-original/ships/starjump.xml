@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="StarJump">
+ <base_type>StarJump</base_type>
+ <GFX sx="6" sy="6">starjump</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Freighter</class>
+ <price>120000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Eden Ships</fabricator>
+ <description>
+The StarJump is far from being the most beautiful ship in the known universe, but it is a solid workhorse. Its large cargo space and armored hull allow it to be profitable in mildly unstable sectors and it is a favorite for smugglers-in-disguise, who bet on an old rustbucket for staying under the radar of the officials.
+ </description>
+ <health>
+  <absorb>0</absorb>
+  <armour>20</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>2</crew>
+  <mass>60</mass>
+  <fuel_consumption>200</fuel_consumption>
+  <fuel>50</fuel>
+  <cargo>30</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small"  prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small"  prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small"  prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small"  prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small"  prop="Jump Drive">Std Sml Jump Drive</structure>
+  <structure size="small"  prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small"  prop="Shield Generator">Std Sml Shield</structure>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility   size="small"  prop="Internal Holds"></utility>
+  <utility   size="small"  prop="Internal Holds"></utility>
+  <weapon    size="small"  prop="Flak Turret" x="+10"  y="0" h="0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>-10</speed_mod>
+  <thrust_mod>-10</thrust_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <armour_mod>+30</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

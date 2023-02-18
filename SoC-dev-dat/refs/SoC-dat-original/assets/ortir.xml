@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ortir">
+ <pos>
+  <x>-6425.298421</x>
+  <y>-4249.901252</y>
+ </pos>
+ <GFX>
+  <space>moon-L00.png</space>
+  <exterior>mining2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>Ortir hasa been settled mainly as a mining planetoid, but its small ecosystem allowed the miners to be comfortable and it became more successful than expected. It doubles up as an entry zone to Irilia and often as smugglers' fence.
+  </description>
+  <bar>Proud Irilia miners and spacers.</bar>
+ </general>
+</asset>

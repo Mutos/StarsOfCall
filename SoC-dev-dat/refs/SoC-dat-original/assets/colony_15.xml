@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Colony 15">
+ <pos>
+  <x>-1523.689571</x>
+  <y>-2252.410671</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>250.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>28635400</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The yet-unnamed Colony 15 was the latest world settled by the Pupeteers at the time it accepted to enter an alliance for establishing trade relations with the other species, which was the beginning of the 13-Planets League. Other worlds refused that alliance and stayed independant. When the Red Quadrant League was founded, it gathered most of them, the remaining ones formed the Independant Stars.
+
+The planet's main ecosystems are made of forest lands, with only small oceans, deserts and polar caps, but an extensive network of underground rivers and lakes. The Pupeteers mainly settled the so-called "canyon areas", where large rivers flow on the surface and provide an easy access to the underground waterways.
+
+A discussion is under way to name the colony, with proposals in the line of "Canyon" or "Waterflow".
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Delri Base">
+ <pos>
+  <x>-850.467591</x>
+  <y>-1867.331015</y>
+ </pos>
+ <GFX>
+  <space>station-fleetbase.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Adrimai</faction>
+  <value>220.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>63000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Delri Base serves as an escort staging point for Adrimai exfiltration convoys from Irilia space to the 13-Planets League. Convoys going this way must be heavily escorted due to Gham Garri threat, the main routes to the Pupeteer Sphere passing only 3 jumps away from their Gham Dromae stronghold.
+  </description>
+  <bar>Mainly Drih-marked pilots joking on their Gham Garri kills</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

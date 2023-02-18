@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="New Light">
+ <pos>
+  <x>3113.626515</x>
+  <y>-3577.358124</y>
+ </pos>
+ <GFX>
+  <space>M05.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>370.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>87935000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The initial settlement of the Red Quadrant, that seceded along with Furlong Depth and soon send expeditions to settle new colonies.
+
+The planet itself is quite classical but lush, boasting diverse ecosystems on a complete range of climates. Initial settlement was done on the equatorial zone, ideal for the people from Flow of Life, who didn't even have to use extensive gengineering, as the planet's lifeforms have a good biocompatibility with Pupeteer ecosystems. All the lush planet's continents were quickly inhabited and the settlements thrived with the arrival of colonists from other 13-Planets.
+
+Then, a controversy arose on the topic of extensive co-colonies with non-symbiotic sentients. New Light and Furlong Depth were eager to encourage them, but 13-Planets people were more reluctant. This ended by a peaceful secession and the founding of the Read Quadrant League. Both founding worlds are co-capitols of the new State, which is also associated with the Wandering Domains. Thus, sessions of the representative body, the Wisdom Council, is held in aternance on one of the planets and a Wandering Domains habitat-ship.
+  </description>
+  <bar>The bar is filled with natives on various kinds of bearers, along with a fair number of non-Pupeteers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

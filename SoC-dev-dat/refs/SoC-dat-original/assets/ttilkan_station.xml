@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="T'Tilkan Station">
+ <pos>
+  <x>7485.953112</x>
+  <y>-6161.005658</y>
+ </pos>
+ <GFX>
+  <space>station-commerce3.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>13800</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This small station was originally populated by ka'raltian renegades, defenderized against their will during the Fringe Wars. After the war, they left k'rinn space in search of a place to settle in peace and forget the horrors they lived. In Planetarist space, after having heard of the Shadow Complex, they choose to join the fledgling state and built their own station in an ore-rich stellar system.
+
+They form the core of the older generation, but now younger people are coming, mainly Defenders from both Council and Ka'Ralt, but also a few regular K'Rinns wanting to live in space, away from planetside civilizations.
+  </description>
+  <bar>Mostly Defenders, former soldiers of all species and Spacers hailing from the whole universe</bar>
+ </general>
+ <tech>
+  <item>Regular Generic</item>
+  <item>Low-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

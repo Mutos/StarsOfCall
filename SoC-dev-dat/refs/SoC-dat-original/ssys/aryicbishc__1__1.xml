@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ary-IC-BI-ShC - 1 - 1">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2560.808000</x>
+  <y>1270.704000</y>
+ </pos>
+ <assets>
+  <asset>Aareli Meeting Point</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Ary-IC-ShC - 1 - 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iralii">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Lanilt'sh">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="ShC 0062">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

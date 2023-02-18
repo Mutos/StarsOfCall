@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aareli Meeting Point">
+ <pos>
+  <x>7054.118386</x>
+  <y>-460.051199</y>
+ </pos>
+ <GFX>
+  <space>002.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Joint Peacekeepers Corps</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Despite its peaceful name evocative of a small trading post, this station is the main stronghold of the Joint Peacekeeper Corps, established on the Long Link jump route between Arythem Clan and Baartish Intersystem. Its very presence near Instrumentality and Shoden borders often leads to diplomatic issues.
+  </description>
+  <bar>Battle-hardened sshaad and rith veteran pilots play at the various wagame tables, along with a few visiting merchantbeings plotting complex Spiraxy, Chess or Sshaalin strategies.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Irmothem-4">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>3848.632000</x>
+  <y>-1423.248000</y>
+ </pos>
+ <assets>
+  <asset>Athorm</asset>
+  <asset>Irmothem-4</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Irm 0003">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irm 0006">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irm 0036">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irm 0042">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

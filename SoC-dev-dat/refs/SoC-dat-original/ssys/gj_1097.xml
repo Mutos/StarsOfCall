@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="GJ 1097">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2271.892480</x>
+  <y>-1485.106880</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Carrouf (NN 3487)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Engelstadt (Gl 327)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 250 A">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 314 B">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="SC-PT - 1 - 3">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 666750">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4581.431935" y="4829.176842"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 689087">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6822.459387" y="-3832.861979"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 709804">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="10738.76736" y="-778.034849"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 795384">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3985.205581" y="5094.166333"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 908397">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3616.336104" y="3438.847215"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

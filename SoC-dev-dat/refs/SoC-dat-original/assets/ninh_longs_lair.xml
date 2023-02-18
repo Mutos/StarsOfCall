@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ninh Long's Lair">
+ <pos>
+  <x>2516.694177</x>
+  <y>2942.669792</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D42.png</space>
+  <exterior>mining3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>300</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A hollow asteroid with a pirates' base within it, this base is so well hidden a regular ship could fly by it without detecting anything. The only way to locate it would be to follow pirate and smugglers traffic towards it.
+
+It was built by the well-known pirate Ninh Long during the Planetarist War and has since thrived on smuggling and preying on the nearby jump routes. Its orbit is often modified by ionic thrusters, so that it cannot be predicted. Ninh Long's heirs have taken over the station when her customized Niglo was blown to smithereens in 2213 during a Stellar Police ambush.
+
+Still now, the Lair is known as the prototype of the smuggling fence where anything in the known universe can be exchanged.
+  </description>
+  <bar>More than a few pirates and smugglers, mainly Humans, but with occasional representatives from all the other species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

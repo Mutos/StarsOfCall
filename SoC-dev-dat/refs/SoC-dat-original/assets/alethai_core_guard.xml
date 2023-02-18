@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Alethai Core Guard">
+ <pos>
+  <x>-8082.179466</x>
+  <y>-1324.947453</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Rithai Kemae</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>50000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>The Rith part of the border between the Rith Core and the Ka'Ralt Secession, this station is rithed by the elitemost pilots and shiprithai of the Kemae fleet. It conducts routine patrols on the nearby frontier system, as part of a border agreement with the Secession, in which every side tolerates the other's patrols.
+  </description>
+  <bar>Tense rith-only patrol crews, regarding any non-rith with defiance.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

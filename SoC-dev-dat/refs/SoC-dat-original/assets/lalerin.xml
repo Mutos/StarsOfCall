@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lalerin">
+ <pos>
+  <x>-2119.915925</x>
+  <y>-5631.026677</y>
+ </pos>
+ <GFX>
+  <space>moon-M03.png</space>
+  <exterior>aquatic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>978000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Lalerin is a small mainly oceanic moon around a gas giant. Its continents are green with vast forests suitable for sshaad life and its oceans are full of very lively ecosystems, all with a good biocompatibility to sshaad-like life.
+
+It has been colonized by a small party of Daneb Anarchs who choose to settle planetside. Their initially open-minded culture made them eager to join the Candidate Systems when the new State was born.
+
+The planet has always had contacts with other sentients and has evolved into a reputable leisure resort, despite poor biocompatibility to their nearest neighbours, the Humans and K'Rinns of the Shadow Complex.
+  </description>
+  <bar>Groups of Sshaads and Shapeshifters, most of the latter mimicing Sshaads but a few relaxed on their natural form, play along other sentients</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

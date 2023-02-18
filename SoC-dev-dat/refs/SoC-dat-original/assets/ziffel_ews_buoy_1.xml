@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ziffel EWS Buoy #1">
+ <pos>
+  <x>5664.819635</x>
+  <y>-5820.419692</y>
+ </pos>
+ <GFX>
+  <space>jumpbuoy.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Bob and Diego's">
+ <pos>
+  <x>-3600.454556</x>
+  <y>-4688.269242</y>
+ </pos>
+ <GFX>
+  <space>Station-SSY004.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5700</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This small independent shipyard was originally a trading station that got bankrupt, and whose hulk was left rotting for years. It finally happened to be bought by a pair of spaceship mechanics, who had travelled some years around known space and gathered a small, but gifted crew around them.
+
+In a few years, it became known as a must-go for anyone wanting a custom ship tailored to even the most extreme specifications. You can only find good quality material here, not the junk 'sold' in many other spaceyards.
+
+Due to the many connections of the station's owners, it is always well-stocked in anything that can be sold or bought in the known universe.
+  </description>
+  <bar>The viewports show crafts being refitted and customized and the patrons are mainly Spacers of all species.</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

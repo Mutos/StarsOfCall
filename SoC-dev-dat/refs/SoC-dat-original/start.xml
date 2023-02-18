@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Start>
+ <name>Hoshikaze 2250 - Stars of Call - NAEV Total Conversion</name>
+ <player>
+  <ship name="El Ego de Deiz">Eclair d'Etoiles</ship>
+  <credits>5000</credits>
+  <system>
+   <name>Ek'In</name>
+   <x>-5600</x>
+   <y>990</y>
+  </system>
+  <event>start_event</event>
+ </player>
+ <date>
+  <scu>2250</scu>
+  <stp>3726</stp>
+  <stu>2871</stu>
+ </date>
+ <tutorial>
+  <system>
+   <name>Sol</name>
+   <x>0</x>
+   <y>0</y>
+  </system>
+  <event>Tutorial</event>
+ </tutorial>
+</Start>

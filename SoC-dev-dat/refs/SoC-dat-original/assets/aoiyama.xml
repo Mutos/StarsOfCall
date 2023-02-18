@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aoiyama">
+ <pos>
+  <x>-1016.863424</x>
+  <y>1848.842589</y>
+ </pos>
+ <GFX>
+  <space>J02.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

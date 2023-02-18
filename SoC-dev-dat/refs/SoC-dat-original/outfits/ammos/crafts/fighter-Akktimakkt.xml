@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Akk'Ti'Makkt Bomber">
+ <general>
+  <license>Light Combat Vessel License</license>
+  <mass>15</mass>
+  <price>700000</price>
+  <gfx_store>hk2250/akktimakkt_escort</gfx_store>
+  <description>The Akk'Ti'Makkt is a bomber targeted at small and medium escorts. It boasts 4 small and 1 medium missiles mount. Its small frame allows it a greater jump autonomy. It has been named after the famous Council Sky Marshal of the First Fringe War, who was a bomber pilot in his early career.</description>
+ </general>
+ <specific type="fighter">
+  <ship>Akk'Ti'Makkt</ship>
+ </specific>
+</outfit>
+<!-- Licenses -->

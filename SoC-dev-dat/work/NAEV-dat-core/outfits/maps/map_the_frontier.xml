@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Map: The Frontier">
+ <general>
+  <mass>0</mass>
+  <price>50000</price>
+  <description>This map contains an east-west route through Frontier space, as well as the location of the Frontier Council.</description>
+  <gfx_store>map_sector_01.webp</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Theras">
+   <jump>Haleb</jump>
+   <jump>Gilligan's Light</jump>
+   <spob>Cetrat</spob>
+   <spob>Theras II</spob>
+   <spob>Theras III</spob>
+  </sys>
+  <sys name="Haleb">
+   <jump>Theras</jump>
+   <jump>Triap</jump>
+   <spob>Haleb IV</spob>
+   <spob>Jorlan</spob>
+   <spob>Raglan Outpost</spob>
+  </sys>
+  <sys name="Triap">
+   <jump>Brimstone</jump>
+   <jump>Haleb</jump>
+   <spob>Khelim</spob>
+   <spob>Megan Station</spob>
+   <spob>Triap I</spob>
+  </sys>
+  <sys name="Brimstone">
+   <jump>Shickhaw</jump>
+   <jump>Triap</jump>
+   <spob>Alleyway</spob>
+   <spob>Brimstone I</spob>
+   <spob>Brimstone II</spob>
+   <spob>Brimstone III</spob>
+   <spob>Brimstone Ia</spob>
+   <spob>Brimstone Ib</spob>
+   <spob>Nonuri</spob>
+  </sys>
+  <sys name="Shickhaw">
+   <jump>Atlantis</jump>
+   <jump>Brimstone</jump>
+   <spob>Avoss</spob>
+   <spob>Kotori</spob>
+   <spob>Shickhaw I</spob>
+   <spob>Shickhaw II</spob>
+   <spob>Shickhaw IV</spob>
+   <spob>Tori</spob>
+  </sys>
+  <sys name="Atlantis">
+   <jump>Shickhaw</jump>
+   <spob>Atlantis I</spob>
+  </sys>
+  <sys name="Gilligan's Light">
+   <jump>Theras</jump>
+   <spob>Dawn</spob>
+   <spob>Dusk</spob>
+   <spob>Gilligan's Light III</spob>
+   <spob>The Frontier Council</spob>
+  </sys>
+ </specific>
+</outfit>

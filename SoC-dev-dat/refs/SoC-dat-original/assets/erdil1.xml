@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Erdil-1">
+ <pos>
+  <x>2119.915925</x>
+  <y>-861.215845</y>
+ </pos>
+ <GFX>
+  <space>moon-M01.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Erdil Clan</faction>
+  <value>150.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>125364000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This aquatic moon, very near its parent gas giant, has been settled by Clan Erdil, using pupeteers-inspired biotechs. Its high-amplitude tides that daily wash hundreds of square kilometers spawned a variety of tideline animals and plants, whose biocompatibility with skaraen life is excellent. So Erdil-1 and its tidal fishing platforms have quickly become a major supplier of seafood, renowned throughout Irmothem space. The magnificent vista of planet Alarane also did help to make the small fishing moon a first-class tourist resort.
+
+However, being close to Irilia space and a byproduct of the progressive and rebellious Erdil culture, the planet is also known as a foothold of pro-Adrim movements in Irmothem space, and regarded with disdain, fear and sometimes hatred by the most traditionalist Idrimarai. Mainstream noblerithai see it as a lab, worthy of attention to bring up new ways to control the Free Adrimai, but expendable if it were to reveal itself a threat.
+  </description>
+  <bar>Many Rithai with Erdil markings, some Pupeteers and tradesbeings of various species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

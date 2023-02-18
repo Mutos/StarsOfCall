@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Sylph II">
+ <pos x="-7426.495754" y="-6432.418827"/>
+ <GFX>
+  <space>D02.webp</space>
+  <exterior>station04.webp</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Tilk'Elh">
+ <pos>
+  <x>-1523.689571</x>
+  <y>-4372.326596</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ka'Ralt Secession</faction>
+  <value>450.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>768000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A snowy world, recently settled by the Secession. There are discussions going on with the Rithai Kemae for allowing Rithai settlers on parts of the planet, where they would be able to thrive far easier than K'Rinns. That would be the first Ka'Raltian co-colony.
+  </description>
+  <bar>A mixed crowd of mainly K'Rinns and some Rithai, along with Spacers of diverse species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Holin Altham">
+ <pos>
+  <x>2307.355551</x>
+  <y>5768.388878</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-002-Series.png</space>
+  <exterior>Outpost-Halisht-002-Series.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>45</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Named "The Crescent's Center", this relay was the second to be built by the expedition from Irilia-6 that was to rediscover the Irilia-2 sublight colony.
+  </description>
+  <bar>A small crew of spacebeings, mainly irilia-marked Rithai.</bar>
+ </general>
+</asset>

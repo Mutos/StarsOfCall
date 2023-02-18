@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Skaeth Border Station">
+ <pos>
+  <x>-3527.591660</x>
+  <y>1486.469442</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>54000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This small asteroid station is formally under Irilia dominion, but is used by the Free Adrimai as the farthest waypoint on the road from Irilia space to Son of the Eclipse.
+
+It protects the 6-jumps so-called "Road of Perils" to Drih Skarae, bordering on Gham Garri space, where, despite heavy patrols from both stations, Adrim exfiltration ships often get attacked.
+  </description>
+  <bar>Mostly Pupeteers and Rithai, some of the latter ostensibly bearing dri'h markings.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

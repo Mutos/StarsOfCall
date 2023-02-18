@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Sshaad Food</name>
+ <description>Food, generally animal meat, produced on sshaad-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+ <gfx_store>sustipacks.png</gfx_store>
+ <price_mod>1.6</price_mod>
+ <price_ref>Food</price_ref>
+ <always_can_sell/>
+</commodity>

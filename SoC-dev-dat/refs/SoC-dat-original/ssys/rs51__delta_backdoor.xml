@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-5.1 - Delta Backdoor">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1413.504000</x>
+  <y>290.304000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Delta 15">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Delta 3">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-5">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 133473">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1442.097219" y="-4614.711102"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 203452">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="22151.181254" y="3143.150727"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 377865">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2747.527995" y="-3865.707992"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 521348">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1442.097219" y="-4614.711102"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 832576">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2018.936107" y="4326.291658"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 876336">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1686.144441" y="-2662.333328"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

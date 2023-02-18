@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unidiff name="flf_dead">
+ <system name="Sigur">
+  <spob_virtual name="Virtual Sindbad">remove</spob_virtual>
+  <spob_virtual name="Empire Unpresence">remove</spob_virtual>
+  <spob_virtual name="Soromid Unpresence">remove</spob_virtual>
+ </system>
+ <system name="Raelid">
+  <spob_virtual name="FLF Small">remove</spob_virtual>
+ </system>
+ <system name="Tuoladis">
+  <spob_virtual name="FLF Small">remove</spob_virtual>
+ </system>
+ <system name="Dakron">
+  <spob_virtual name="FLF Small">remove</spob_virtual>
+ </system>
+ <system name="Tarsus">
+  <spob_virtual name="FLF Small">remove</spob_virtual>
+ </system>
+ <system name="Torg">
+  <spob_virtual name="FLF Small">remove</spob_virtual>
+ </system>
+</unidiff>

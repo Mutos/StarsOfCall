@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Line Border Station">
+ <pos>
+  <x>7561.026652</x>
+  <y>2209.736662</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-003-Military-100px.png</space>
+  <exterior>Outpost-PurrSphere-003-Military-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>85</population>
+  <hide>0.750000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station is a small outpost guarding the entrance into the Pupeteer Sphere from Rith and Human space. It is maintained by the Red Quadrant League, with help from the other pupeteer States. Its name comes from its being the first line of entry into the Pupeteer Sphere.
+  </description>
+ </general>
+</asset>

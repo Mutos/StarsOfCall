@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-18">
+ <pos>
+  <x>2186.163298</x>
+  <y>-4041.089733</y>
+ </pos>
+ <GFX>
+  <space>G00.png</space>
+  <exterior>methane.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>125600</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Irilia-18 is a recent colony founded by Irilia-14 people, originally established as a surrogate mining settlement.
+
+Its living conditions are not excellent, even compared to Irilia-14, with an athmosphere smelling like rotten eggs and a low level of luminosity due to the air being of a steady yellow, but the honor reward is good and the world is ore-rich. So the colony, although quite recent, is thriving.
+  </description>
+  <bar>A gloomy ambiance with miners talking of their home planet</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tek'Kettet">
+ <pos>
+  <x>-4137.669726</x>
+  <y>-2696.559201</y>
+ </pos>
+ <GFX>
+  <space>moon-G01.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>100.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>852000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This cold world was only a backyards mining colony when the Fringe Wars broke out. It was rushingly converted into a major production center for the Council's Sky Defense Forces. Mining plants extracted ore and hydrocarbons, converted them and fed them by mass drivers into the orbital yards. The Council's strategists though the mere situation of the mining moon, well into the Council's space, was enough to prevent any attack. So, they stationed relatively few Defenders there.
+
+However, a plan was devised by the Arythem to maim the Council's industrial capabilities. They couldn't harm the orbital yards, for sneaking in a fleet with enough firepower to defeat the massive installations was near to impossible. So they choose to infiltrate small troop carriers to land commandos in the coldest regions of major industrial planets, where K'Rinns were less efficient to live and fight, and from where they could proceed towards the main industrial installations.
+
+This operation, known as "Snow Plan", took place in several worlds at once, but the main target was Tek'Kettet. Many brave Arythem warriors and Council Defenders were lost in the near-suicidal battle that raged on the icy moon. It was, however, successful at shutting down more than 70% of Tek'Kettet Shipyard's building capabilities. The lack of front-line ships was soon felt by Council forces and was near enough to give victory to Arythem. But the intrusion of Humans in the war turned the tide towards the Council-Irilia-Planetarist side.
+
+After the war, Tek'Kettet suffered a major crisis, its plants being too large and hard to convert to civilian duties. Parts of its population was evacuated to more k'rinn-friendly worlds. However, a handful of hard-boiled miners and industrial workers kept faith in the small icy moon's future. They formed a kind of Union and took back what was left of their workplaces. The Council easily agreed to let them try whatever plan they had to save the planet.
+
+Their plan turned out to be more ecological than industrial. They set to mend most of the war and industry's wounds. They even sent a delegation on Star Melodies as soon as new of official contact with the Pupeteers reached them, to hire a few gengineers and with their help, turn the planet into a paradise. They were actually among the few non-official Rithai to set foot on a pupeteer world. After a long battle to overome prejudice against the murderers of Stars-Strider-7, they finally succeeded. This enabled them to restore some of the ecological marvels that were nearly wiped out from entire regions during the war, like the snow butterflies, that were deemed to have been lost after the battles destroyed most of their habitat.
+
+The Planetary Union marketed Tek'Kettet as being at once a war historical place, an industrial relic and an ecological miracle. Now, tourism is now a fair part of the world's income.
+  </description>
+  <bar>Proud locals showing their planet's marvels to all visitors</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

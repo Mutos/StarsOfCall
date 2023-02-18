@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Tern">
+ <pos>
+  <x>-1430.285170</x>
+  <y>-7914.586983</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

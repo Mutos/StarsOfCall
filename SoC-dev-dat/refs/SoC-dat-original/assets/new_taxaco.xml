@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="New Taxaco">
+ <pos>
+  <x>-39123.674073</x>
+  <y>-29701.825516</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>284000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The station basically hosts asteroids and gaz miners. Despite its location in the Sol system, it is formally independant from the Core League.
+
+It was built by a successful asteroids mining company during the Planetarist Wars and progressively became the natural rendez-vous point for Spacers in the Sol system. When the Planetarist Alliance took over the system, the station remained neutral and ended up with an independent status, that was not modified when the Core League seceded from the Alliance.
+  </description>
+  <bar>A crowd of human Spacers, mainly miners and merchants, with an occasional visitor of other species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

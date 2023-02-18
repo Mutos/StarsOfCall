@@ -1,0 +1,733 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Factions>
+ <faction>
+  <name>Dummy</name>
+  <static />
+  <invisible />
+  <player>0</player>
+  <standing>static</standing>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
+  <name>Independent</name>
+  <static />
+  <invisible />
+  <known/>
+  <player>3</player>
+  <colour>blue</colour>
+  <spawn>independent</spawn>
+  <standing>static</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Civilian</name>
+  <static />
+  <invisible />
+  <known/>
+  <player>0</player>
+  <colour>black</colour>
+  <spawn>civilian</spawn>
+  <standing>static</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Miner</name>
+  <known/>
+  <logo>miner</logo>
+  <longname>Space Miners</longname>
+  <player>3</player>
+  <spawn>miner</spawn>
+  <standing>miner</standing>
+  <equip>miner</equip>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Asteroids</name>
+  <static />
+  <invisible />
+  <player>0</player>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
+  <name>Truce</name>
+  <static />
+  <invisible />
+  <player>0</player>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
+  <name>Pirate</name>
+  <known/>
+  <logo>pirate</logo>
+  <longname>Pirates</longname>
+  <player>-20</player>
+  <colour>red</colour>
+  <spawn>pirate</spawn>
+  <standing>pirate</standing>
+  <equip>pirate</equip>
+  <allies>
+   <ally>Gham Garri</ally>
+   <ally>JnI</ally>
+  </allies>
+  <enemies>
+   <enemy>Civilian</enemy>
+   <enemy>Trader</enemy>
+   <enemy>Free Traders</enemy>
+   <enemy>Miner</enemy>
+   <enemy>Innovari</enemy>
+   <enemy>Aragwedyr Clan</enemy>
+   <enemy>Independent</enemy>
+   <enemy>K'Rinn Council</enemy>
+   <enemy>Ka'Ralt Secession</enemy>
+   <enemy>Irilia Clan</enemy>
+   <enemy>Irmothem Clan</enemy>
+   <enemy>Erdil Clan</enemy>
+   <enemy>Arythem Clan</enemy>
+   <enemy>Alliance</enemy>
+   <enemy>Core League</enemy>
+   <enemy>Purple Trail</enemy>
+   <enemy>Ashioto Cluster</enemy>
+   <enemy>Thirteen Planets League</enemy>
+   <enemy>Red Quadrant League</enemy>
+   <enemy>Instrumentality Company</enemy>
+   <enemy>Shoden Clusters</enemy>
+   <enemy>Baartish Intersystems</enemy>
+   <enemy>Candidate Systems</enemy>
+   <enemy>Rithai Kemae</enemy>
+   <enemy>Joint Peacekeepers Corps</enemy>
+   <enemy>Ren'sh Planetary Council</enemy>
+   <enemy>Stellar Police</enemy>
+   <enemy>Children of the Stars</enemy>
+   <enemy>Wandering Domains</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Trader</name>
+  <known/>
+  <logo>trader</logo>
+  <longname>Space Traders Guild</longname>
+  <player>3</player>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Derelict</name>
+  <invisible />
+  <static />
+  <player>0</player>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
+  <name>Free Traders</name>
+  <known/>
+  <logo>trader</logo>
+  <longname>Free Traders</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Innovari</name>
+  <known/>
+  <logo>trader</logo>
+  <longname>Innovari</longname>
+  <player>3</player>
+  <spawn>independent</spawn>
+  <standing>independent</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Joint Peacekeepers Corps</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Joint Peacekeepers Corps</longname>
+  <player>0</player>
+  <colour>purple</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Alliance</ally>
+   <ally>Arythem Clan</ally>
+   <ally>Baartish Intersystems</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Akta Manniskor</enemy>
+   <enemy>JnI</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>K'Rinn Council</name>
+  <known/>
+  <logo>council</logo>
+  <longname>K'Rinn Council</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>council</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>JnI</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Ka'Ralt Secession</name>
+  <known/>
+  <logo>karalt</logo>
+  <longname>Ka'Ralt Secession</longname>
+  <player>0</player>
+  <colour>red</colour>
+  <spawn>karalt</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Rithai Kemae</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Rithai Kemae</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Irilia Clan</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Irilia Clan</longname>
+  <player>0</player>
+  <colour>purple</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Pei Clan-Family</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Free Adrimai</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Irmothem Clan</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Irmothem Clan</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Erdil Clan</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Free Adrimai</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Erdil Clan</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Erdil Clan</longname>
+  <player>0</player>
+  <colour>blue</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Irmothem Clan</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Arythem Clan</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Arythem Clan</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Baartish Intersystems</ally>
+   <ally>Joint Peacekeepers Corps</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Free Adrimai</enemy>
+   <enemy>JnI</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>JnI</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Jenac nah Ikar</longname>
+  <player>0</player>
+  <colour>red</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Gham Garri</ally>
+   <ally>Pirate</ally>
+  </allies>
+  <enemies>
+   <enemy>Arythem Clan</enemy>
+   <enemy>K'Rinn Council</enemy>
+   <enemy>Joint Peacekeepers Corps</enemy>
+   <enemy>Free Adrimai</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Free Adrimai</name>
+  <known/>
+  <logo>drih</logo>
+  <longname>Free Adrimai</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Irilia Clan</enemy>
+   <enemy>Irmothem Clan</enemy>
+   <enemy>Arythem Clan</enemy>
+   <enemy>Gham Garri</enemy>
+   <enemy>JnI</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Gham Garri</name>
+  <known/>
+  <logo>dvaered</logo>
+  <longname>Gham Garri</longname>
+  <player>0</player>
+  <colour>orange</colour>
+  <spawn>ghamgarri</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>JnI</ally>
+   <ally>Pirate</ally>
+  </allies>
+  <enemies>
+   <enemy>Free Adrimai</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Alliance</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Planetarist Alliance</longname>
+  <player>0</player>
+  <colour>yellow</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Joint Peacekeepers Corps</ally>
+   <ally>Aragwedyr Clan</ally>
+   <ally>Pei Clan-Family</ally>
+   <ally>Stellar Police</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Aragwedyr Clan</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Aragwedyr Clan</longname>
+  <player>0</player>
+  <colour>yellow</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Alliance</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Pei Clan-Family</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Pei Clan-Family</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Irilia Clan</ally>
+   <ally>Alliance</ally>
+   <ally>Core League</ally>
+  </allies>
+ </faction>
+ <faction>
+  <name>Stellar Police</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Stellar Police</longname>
+  <player>0</player>
+  <colour>blue</colour>
+  <spawn>stellarpolice</spawn>
+  <standing>stellarpolice</standing>
+  <allies>
+   <ally>Core League</ally>
+   <ally>Alliance</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Core League</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Core League</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>coreleague</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Ziffel Empire</ally>
+   <ally>Banthory Autarcy</ally>
+   <ally>Pei Clan-Family</ally>
+   <ally>Stellar Police</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Shoden Clusters</enemy>
+   <enemy>Purple Trail</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Ziffel Empire</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Ziffel Empire</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>independent</spawn>
+  <standing>independent</standing>
+  <allies>
+   <ally>Core League</ally>
+  </allies>
+ </faction>
+ <faction>
+  <name>Banthory Autarcy</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Banthory Autarcy</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>independent</spawn>
+  <standing>independent</standing>
+  <allies>
+   <ally>Core League</ally>
+  </allies>
+ </faction>
+ <faction>
+  <name>Purple Trail</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Purple Trail</longname>
+  <player>0</player>
+  <colour>purple</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Akta Manniskor</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Shadow Complex</enemy>
+   <enemy>Core League</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Akta Manniskor</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Akta Manniskor</longname>
+  <player>0</player>
+  <colour>purple</colour>
+  <spawn>independent</spawn>
+  <standing>independent</standing>
+  <allies>
+   <ally>Purple Trail</ally>
+  </allies>
+  <enemies>
+   <enemy>Shoden Clusters</enemy>
+   <enemy>Baartish Intersystems</enemy>
+   <enemy>Joint Peacekeepers Corps</enemy>
+  </enemies>
+</faction>
+ <faction>
+  <name>HnH</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Hoshi no Hekka</longname>
+  <player>0</player>
+  <colour>red</colour>
+  <spawn>independent</spawn>
+  <standing>independent</standing>
+ </faction>
+ <faction>
+  <name>Children of the Stars</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Children of the Stars</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Shadow Complex</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Shadow Complex</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Purple Trail</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Ashioto Cluster</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Ashioto Cluster</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Thirteen Planets League</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Thirteen Planets League</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Red Quadrant League</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Red Quadrant League</longname>
+  <player>0</player>
+  <colour>purple</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Wandering Domains</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Wandering Domains</longname>
+  <player>0</player>
+  <colour>green</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Instrumentality Company</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Instrumentality Company</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Shoden Clusters</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Shoden Clusters</longname>
+  <player>0</player>
+  <colour>red</colour>
+  <spawn>shoden</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Complementarist Protectorate</enemy>
+   <enemy>Pirate</enemy>
+   <enemy>Akta Manniskor</enemy>
+   <enemy>Proteous Resistance</enemy>
+   <enemy>Daneb Anarchs</enemy>
+   <enemy>Core League</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Baartish Intersystems</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Baartish Intersystems</longname>
+  <player>0</player>
+  <colour>orange</colour>
+  <spawn>baartish</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Arythem Clan</ally>
+   <ally>Joint Peacekeepers Corps</ally>
+   <ally>Complementarist Protectorate</ally>
+   <ally>Daneb Anarchs</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Akta Manniskor</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Daneb Anarchs</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Daneb Anarchs</longname>
+  <player>0</player>
+  <colour>silver</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Baartish Intersystems</ally>
+   <ally>Complementarist Protectorate</ally>
+  </allies>
+  <enemies>
+   <enemy>Shoden Clusters</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Complementarist Protectorate</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Complementarist Protectorate</longname>
+  <player>0</player>
+  <colour>orange</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+   <ally>Baartish Intersystems</ally>
+   <ally>Daneb Anarchs</ally>
+  </allies>
+  <enemies>
+   <enemy>Shoden Clusters</enemy>
+   <enemy>Proteous Resistance</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Candidate Systems</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Candidate Systems</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+  <allies>
+   <ally>Ren'sh Planetary Council</ally>
+  </allies>
+ </faction>
+ <faction>
+  <name>Ren'sh Planetary Council</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Ren'sh Planetary Council</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+  <allies>
+   <ally>Candidate Systems</ally>
+  </allies>
+ </faction>
+ <faction>
+  <name>Proteous Resistance</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Proteous Resistance</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <enemies>
+   <enemy>Complementarist Protectorate</enemy>
+   <enemy>Shoden Clusters</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Independent Stars</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Independent Stars</longname>
+  <player>0</player>
+  <colour>aqua</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+ </faction>
+</Factions>

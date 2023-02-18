@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Heart of the Long Link">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-160.616000</x>
+  <y>2037.936000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="BI-Ary-Shc - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gizzard">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaahm Arythem">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 141332">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5335.315989" y="-1948.827996"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 250512">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9073.58128" y="-3900.688922"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 321798">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-11277.643978" y="7539.727985"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 327599">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10547.073425" y="1934.106837"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 504404">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9648.295981" y="-1821.035996"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 741896">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10547.073425" y="1934.106837"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 836284">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7173.37388" y="6474.098897"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 944452">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3018.584003" y="5650.762676"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 975926">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6207.446691" y="-3036.800095"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shoosoln">
+ <pos>
+  <x>-5303.168155</x>
+  <y>2643.730776</y>
+ </pos>
+ <GFX>
+  <space>moon-P03.png</space>
+  <exterior>mining4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Daneb Anarchs</faction>
+  <value>400.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>184256000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Shoosoln is an ore-rich moon around a gas giant. Located in the local lifezone, it did already possess some lifeforms, up to amphibians.
+
+It was tshiaarshformed by the Baartish for its mining riches and the process worked well, quickly allowing Sshaad colonists to live outside the domes. The settlers being a traditionalist lot, the original charter upheld daneb independance and anarchism, and of course a masterless society.
+
+When the colony demanded to affiliate itself to the Daneb Anarchs, Baartish, not willing to disrupt ore production and confident of its alliance with the Anarchs, agreed without much ado.
+
+When Complementarism began to spread into the Baartish, the Anarchs were fervent supporters of the new ideology and naturally, Shoosoln hosted at first a few Hives exfltrated from their cradle world, then a growing number of hived danebs. Now it is seen as a model of a Complementarist world.
+  </description>
+  <bar>The bar is filled with Sshaads and Shapeshifters, many of them talking eagerly about Complementarism</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

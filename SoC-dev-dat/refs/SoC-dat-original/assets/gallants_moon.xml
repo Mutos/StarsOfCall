@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gallant's Moon">
+ <pos>
+  <x>-6424.371914</x>
+  <y>-2264.017734</y>
+ </pos>
+ <GFX>
+  <space>moon-M00.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Purple Trail</faction>
+  <value>560.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>230500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This lush forest world orbiting a spectacular gas giant named Paradiso has been colonized by the Purple Trail.
+
+Officials initially feared the planet would be a suitable target for invasion by Baartish, whose explorers had been sighted in the system. That prompted building of Neu Hamburg Border Station in the middle of the jump route between Niishin and Gallant systems.
+
+Now, the planet is still quite backwards, but has developped a trade niche of its own with the Baartish, providing to the Sshaad State Industrial Goods and Medecine, but also luxury woodcrafted objects.
+  </description>
+  <bar>Human natives with ostensible Purple Trail markings, and a few spacers, most of them Humans or Sshaads</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Baartish Intersystems</item>
+ </tech>
+</asset>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aans Border Station">
+ <pos>
+  <x>4358.007115</x>
+  <y>-7545.367777</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>300.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>84000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This brand-new border station has been built to defend the Instrumentality border against the Shoden threat. Despite some common views on the prominent role of sshaadkind in the universe, the two States are constantly vying for power in the Sshaad Sphere.
+  </description>
+  <bar>Mostly warlike Sshaads and some merchants, a few people from other species sit uneasy, ostensbly ignored by regular patrons.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

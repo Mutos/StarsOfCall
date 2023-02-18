@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aerolith">
+ <pos>
+  <x>1258.700081</x>
+  <y>-4372.326596</y>
+ </pos>
+ <GFX>
+  <space>I07.png</space>
+  <exterior>gas.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

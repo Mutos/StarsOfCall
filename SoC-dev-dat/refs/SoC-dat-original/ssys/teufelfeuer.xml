@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Teufelfeuer">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2075.072000</x>
+  <y>-2125.984000</y>
+ </pos>
+ <assets>
+  <asset>FeuerRing</asset>
+  <asset>FeuerRing Memorial</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Al-Wahid's Bluff">
+   <pos x="6684.784384" y="-5293.734994"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CS-SC - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Shadow">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Shadow Grave">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 168795">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5611.860386" y="-5080.504737"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 698721">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6529.969366" y="-5233.995193"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

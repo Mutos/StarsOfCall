@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="McNab">
+ <pos>
+  <x>-766.751998</x>
+  <y>-9239.361582</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>10.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>15000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This small Bernal Sphere marks a waypoint in Humankind's route to the stars. By the jump tunnel it orbits in synch with, journeyed the first human jumpship to ever emerge outside of the Sol system. It has been named from Jonah McNab, the human scientist whose team studied the first jump point discovered by humankind, the so-called "Jovian anomaly", in 2095. The station also serves as a customs post for entering the Sol system from the Alpha Corvis rute.</description>
+  <bar>Tourists, mostly Humans and Spacers of various species.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+ </tech>
+</asset>

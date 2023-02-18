@@ -1,0 +1,14 @@
+Remplacer
+<pos>\n  <x>
+Par
+<pos x="
+
+Remplacer
+</x>\n  <y>
+Par
+" y="
+
+Remplacer
+</y>\n </pos>
+Par
+"/>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ershell Border Station">
+ <pos>
+  <x>-8544.695434</x>
+  <y>1078.502791</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shoden Clusters</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>287000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This strongly armoreded station is facing Sshiinan Border Station, near a Baartish jump route linking the CorpState's main territory to newly colonized space on the sshaad side of the Long Link. Shoden forces from Ershell sometimes raid the rich supply road to the new colonies. As such, the base is sshaaded by elite Shoden raider squadrons and has a strong defense perimeter.
+  </description>
+  <bar>Shoden pilots joking on their Baartish counterparts</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="New Hope">
+ <pos>
+  <x>-3974.842360</x>
+  <y>-5564.779304</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Proteous Resistance</faction>
+  <value>550.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>258500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>New Hope is just the terranglo translation of how the Shapeshifters name that planet. The real name is much more musical and practically unsingable for most other species, except Pupeteers.
+
+The Proteous Resistance is trying to terraform this desert world into its new capitol, but tries to do so secretly from any sshaad interference. Given the low biocompatibility of the native ecology and the lack of contacts of the Resistance in non-sshaad space, the operations progress at a slow pace.
+
+The planet is currently littered with terraformation sites using various technologies borrowed through all possible Resistance connections. The lack of consistency between the diverse processes often product unpredictable results in border areas, making any wandering beyond the protected perimeters hazardous at the very least.
+  </description>
+  <bar>A joyous crowd of Shapeshifters exhibiting all-out confidence in the Resistance. Sentients of other species are accepted, but Sshaads are often looked down upon, despite the fact the ones who get that far are allies to the Resistance.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

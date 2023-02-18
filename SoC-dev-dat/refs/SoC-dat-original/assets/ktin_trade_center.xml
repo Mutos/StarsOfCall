@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'tin Trade Center">
+ <pos>
+  <x>9385.765777</x>
+  <y>-1361.437749</y>
+ </pos>
+ <GFX>
+  <space>Station-009-Outpost.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>750.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>187200</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This station is a big K'Rinn trading outpost near sshaad space.
+
+It has been founded as an asteroids exploitation in a rich system. Then a road was found from the K'Rinn Council to the Shadow Complex and the Planetarist Alliance, allowing for commerce to grow.  Then, another path was disovered to the Candidate Systems, the sole route between the two States, that also indirectly leads to the Pupeteer and Rith Spheres.
+
+Due to its unique situation, the formerly backyards outpost now attracts people of all species and had outgrown most other k'rinn stations.
+
+It has recently been refitted and far enlarged, some say rebuilt from ground to roof, to become a true space city. It has even been equipped with warp-based artificial gravity, a very energy-intensive way of giving grav visitors the comfort of their home planet, without the Coriolis effect of a centrifuge.
+  </description>
+  <bar>A mixed crowd of Spacers from all species, with slightly more K'Rinns than others</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

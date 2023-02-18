@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RS-7 - Delta Lock">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1833.120000</x>
+  <y>251.136000</y>
+ </pos>
+ <assets>
+  <asset>Delta Lock</asset>
+ </assets>
+ <jumps>
+  <jump target="Delta 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-6">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Savitri">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 408426">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7166.113875" y="8941.00276"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 459892">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="10204.434931" y="-2612.810142"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 688724">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7344.013617" y="1078.49151"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 765296">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1331.166664" y="-1198.049998"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 830009">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8906.799172" y="4724.071882"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 933063">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="13514.464025" y="9274.632174"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

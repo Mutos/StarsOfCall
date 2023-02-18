@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Shoden Clusters - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Shoden Clusters worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Eshodal">
+   <jump>BI-ShC - 1 - 1</jump>
+   <jump>Rarilash</jump>
+   <jump>ShC 0002</jump>
+   <asset>Eshodal Border Station</asset>
+  </sys>
+  <sys name="Rarilash">
+   <jump>Eshodal</jump>
+   <jump>ShC 0002</jump>
+   <jump>ShC 0004</jump>
+   <jump>ShC 0022</jump>
+   <asset>Rarilash Research Station</asset>
+  </sys>
+  <sys name="Riinshal">
+   <jump>CL-ShC - 1 - 1</jump>
+   <jump>ShC 0006</jump>
+   <asset>Asteroids Cluster 206045</asset>
+   <asset>Asteroids Cluster 310785</asset>
+   <asset>Riinshal Border Station</asset>
+  </sys>
+  <sys name="ShC 0002">
+   <jump>Eshodal</jump>
+   <jump>Rarilash</jump>
+   <jump>ShC 0005</jump>
+  </sys>
+  <sys name="ShC 0005">
+   <jump>ShC 0002</jump>
+   <jump>ShC 0006</jump>
+  </sys>
+  <sys name="ShC 0006">
+   <jump>Riinshal</jump>
+   <jump>ShC 0004</jump>
+   <jump>ShC 0005</jump>
+  </sys>
+  <sys name="ShC 0022">
+   <jump>Rarilash</jump>
+   <jump>ShC 0023</jump>
+  </sys>
+  <sys name="ShC 0023">
+   <jump>ShC 0020</jump>
+   <jump>ShC 0022</jump>
+  </sys>
+  <sys name="ShC 0020">
+   <jump>ShC 0015</jump>
+   <jump>ShC 0023</jump>
+   <jump>ShC 0039</jump>
+  </sys>
+  <sys name="Shoden Aan">
+   <jump>ShC 0013</jump>
+   <jump>ShC 0016</jump>
+   <asset>Shoden Station</asset>
+  </sys>
+  <sys name="Shoin">
+   <jump>BI-ShC - 2 - 1</jump>
+   <jump>ShC 0009</jump>
+   <jump>ShC 0010</jump>
+   <asset>Shoin Border Station</asset>
+  </sys>
+  <sys name="Ershell">
+   <jump>ShC 0024</jump>
+   <jump>ShC 0026</jump>
+   <asset>Asteroids Cluster 136421</asset>
+   <asset>Asteroids Cluster 187542</asset>
+   <asset>Asteroids Cluster 212542</asset>
+   <asset>Asteroids Cluster 264595</asset>
+   <asset>Asteroids Cluster 345621</asset>
+   <asset>Asteroids Cluster 875412</asset>
+   <asset>Ershell Border Station</asset>
+  </sys>
+  <sys name="Irniish">
+   <jump>ShC 0026</jump>
+   <jump>ShC 0031</jump>
+   <jump>ShC 0035</jump>
+   <asset>Irniish</asset>
+  </sys>
+  <sys name="ShC 0015">
+   <jump>ShC 0013</jump>
+   <jump>ShC 0016</jump>
+   <jump>ShC 0020</jump>
+  </sys>
+  <sys name="ShC 0013">
+   <jump>ShC 0012</jump>
+   <jump>ShC 0015</jump>
+   <jump>Shoden Aan</jump>
+  </sys>
+  <sys name="ShC 0012">
+   <jump>ShC 0009</jump>
+   <jump>ShC 0013</jump>
+  </sys>
+  <sys name="ShC 0009">
+   <jump>ShC 0012</jump>
+   <jump>Shoin</jump>
+  </sys>
+  <sys name="ShC 0010">
+   <jump>ShC 0011</jump>
+   <jump>Shoin</jump>
+  </sys>
+  <sys name="ShC 0011">
+   <jump>ShC 0010</jump>
+   <jump>ShC 0018</jump>
+  </sys>
+  <sys name="ShC 0018">
+   <jump>ShC 0011</jump>
+   <jump>ShC 0017</jump>
+  </sys>
+  <sys name="ShC 0017">
+   <jump>ShC 0016</jump>
+   <jump>ShC 0018</jump>
+   <jump>ShC 0024</jump>
+  </sys>
+  <sys name="ShC 0024">
+   <jump>Ershell</jump>
+   <jump>ShC 0017</jump>
+  </sys>
+  <sys name="ShC 0016">
+   <jump>ShC 0015</jump>
+   <jump>ShC 0017</jump>
+   <jump>Shoden Aan</jump>
+  </sys>
+  <sys name="ShC 0026">
+   <jump>Ershell</jump>
+   <jump>Irniish</jump>
+  </sys>
+  <sys name="ShC 0037">
+   <jump>ShC 0035</jump>
+   <jump>ShC 0039</jump>
+  </sys>
+  <sys name="ShC 0035">
+   <jump>Irniish</jump>
+   <jump>ShC 0037</jump>
+   <asset>Asteroids Cluster 232225</asset>
+   <asset>Asteroids Cluster 264128</asset>
+   <asset>Asteroids Cluster 562128</asset>
+  </sys>
+  <sys name="Enshiin">
+   <jump>Ary-ShC - 1 - 2</jump>
+   <jump>ShC 0056</jump>
+   <jump>ShC 0059</jump>
+   <asset>Enshiin Border Station</asset>
+  </sys>
+  <sys name="Lizzen">
+   <jump>ShC 0052</jump>
+   <jump>ShC 0055</jump>
+   <asset>Lizzen IV</asset>
+  </sys>
+  <sys name="ShC 0055">
+   <jump>Lizzen</jump>
+   <jump>ShC 0056</jump>
+  </sys>
+  <sys name="ShC 0056">
+   <jump>Enshiin</jump>
+   <jump>ShC 0054</jump>
+   <jump>ShC 0055</jump>
+   <jump>ShC 0059</jump>
+  </sys>
+  <sys name="ShC 0031">
+   <jump>Irniish</jump>
+   <jump>ShC 0060</jump>
+  </sys>
+  <sys name="ShC 0060">
+   <jump>ShC 0031</jump>
+   <jump>ShC 0059</jump>
+  </sys>
+  <sys name="ShC 0059">
+   <jump>Enshiin</jump>
+   <jump>ShC 0056</jump>
+   <jump>ShC 0060</jump>
+  </sys>
+  <sys name="ShC 0052">
+   <jump>Lizzen</jump>
+   <jump>ShC 0053</jump>
+   <jump>ShC 0062</jump>
+  </sys>
+  <sys name="ShC 0062">
+   <jump>Ary-IC-BI-ShC - 1 - 1</jump>
+   <jump>ShC 0052</jump>
+  </sys>
+  <sys name="ShC 0053">
+   <jump>ShC 0052</jump>
+   <jump>ShC 0054</jump>
+  </sys>
+  <sys name="ShC 0054">
+   <jump>ShC 0053</jump>
+   <jump>ShC 0056</jump>
+  </sys>
+  <sys name="ShC 0039">
+   <jump>ShC 0020</jump>
+   <jump>ShC 0037</jump>
+  </sys>
+  <sys name="BI-ShC - 1 - 1">
+   <jump>Eshodal</jump>
+  </sys>
+  <sys name="CL-ShC - 1 - 1">
+   <jump>Riinshal</jump>
+  </sys>
+  <sys name="BI-ShC - 2 - 1">
+   <jump>Shoin</jump>
+  </sys>
+  <sys name="ShC 0004">
+   <jump>Rarilash</jump>
+   <jump>ShC 0006</jump>
+  </sys>
+  <sys name="Ary-ShC - 1 - 2">
+   <jump>Enshiin</jump>
+  </sys>
+  <sys name="Ary-IC-BI-ShC - 1 - 1">
+   <jump>ShC 0062</jump>
+   <asset>Aareli Meeting Point</asset>
+  </sys>
+ </specific>
+</outfit>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Flow of Life">
+ <pos>
+  <x>1324.947453</x>
+  <y>-2649.894907</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>58725000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>An old settlement, on a lush world with vast biological wealth, but low biocompatibility with pupeteers life, this planet has been settled by able gengineers, who quickly developped proper bridge species to help fuse the two originally incompatible ecosystems.
+
+This endeavor has given one of the more paradise-like worlds one can dream of, with deep oceans and vast woodlands surrounding small deserts and just enough polar caps for athmospheric stability.
+
+Its role has become more important when a route to Irilia space has been discovered, that bypasses Son of the Eclipse. Flow of Life has become the passage for traditionalist Irilia people wanting to trade with the 13 Planets, but unwilling to land on an Adrim-populated world.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

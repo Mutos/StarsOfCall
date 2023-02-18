@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PR 0013">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-5736.872000</x>
+  <y>230.448000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="PR 0008">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PR 0014">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PR 0015">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

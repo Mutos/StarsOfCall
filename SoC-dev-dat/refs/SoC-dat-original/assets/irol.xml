@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irol">
+ <pos>
+  <x>3918.519154</x>
+  <y>-3206.098476</y>
+ </pos>
+ <GFX>
+  <space>J06.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

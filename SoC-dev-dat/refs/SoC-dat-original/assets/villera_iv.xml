@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Villera IV">
+ <pos>
+  <x>1457.753159</x>
+  <y>-4204.166524</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>540.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>22543000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Villera IV is a small colony, that has been abruptly taken to the front scene when a 4-jumps route was discovered, leading directly to Sol.
+
+This has prompted an immigration boom, but also a crime rise. Mafias have taken control over the colony and only the intervention of the Stellar Police could put an end to the activities of the infamous crime boss surnamed "Hook". It was Vladimir igorovitch Demeniev's first large mission, just before he formally entered the Stellar Police, in which he was later to become Special Forces commanding officer.
+  </description>
+  <bar>The bar is host to a bunch of locals, most of them Humans, feasting on some local event under the eyes of a few Spacers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

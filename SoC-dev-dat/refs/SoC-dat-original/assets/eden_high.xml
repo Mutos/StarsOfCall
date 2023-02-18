@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eden High">
+ <pos>
+  <x>-1282.849944</x>
+  <y>1709.171627</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Blue.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>250000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This Fortress-like station, built from an ore-processing ship like 1-st generation Fortresses, controls all landings on Eden. Its strict security is mirrored outside by elite fighter squadrons and supported by ne less than two Fortresses taking turns insystem.
+  </description>
+  <bar>Mostly Humans, some waiting to get planetside, some ranting about the marvels of the world they just visited</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

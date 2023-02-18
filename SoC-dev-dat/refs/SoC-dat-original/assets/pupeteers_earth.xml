@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Pupeteers' Earth">
+ <pos>
+  <x>2783.633494</x>
+  <y>-2738.950311</y>
+ </pos>
+ <GFX>
+  <space>M08.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>400.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2568278000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The Pupeteers' cradleworld is a lush world, which has been named with the local world meaning "soil". It is often designated as "Pupeteers' Earth" in whatever language the map you're reading is written - here, Terranglo. It is also colloquially known as "The Cradle", from its stellar system's most used name.
+
+The system itself is remarkable with its one-jump exit, that slowed the Pupeteers' initial access to the hyperspace technology, as its discovery occurred only centuries after the system was fully explored and colonized.
+  </description>
+  <bar>A crowd of well-off Pupeteers on bearers richly decorated from both gengineered and manufactured jewels, and an occasional non-Pupeteer visitor</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

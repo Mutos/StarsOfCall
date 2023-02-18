@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Calif High Shipyards">
+ <pos>
+  <x>-5183.720370</x>
+  <y>6008.673264</y>
+ </pos>
+ <GFX>
+  <space>Station-SSY004.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>8700</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>Calif High is the main shipyards in Earth orbit. It is named for the California region of the American continent.
+
+It was initially the headquarters of the Kreuzer-Malcolm Corporation, back in the first days of the Orbital era. When KMC became the first company to manufacture ionic spaceships for the Earth-Mars Colonization Noria, a shipyard extension was built. Little by little, it became larger, until it totally enclosed the HQ building.
+
+During the Cartel Sol era, it was one of the main military shipyard of Sol and, along with Jupiter Station and Olympus Yards, provided the bulk of the ships that fought the Planetarist War on the sides of the Policorpos. During Operation Poseidon, Calif High was a priority target of the Earthbound invasion fleet and the Planetarist High Command feared it might be sabotaged to prevent its capture. However, after the "Purple Flag" megacruiser fled outsystem with all Cartel Sol top hierarchy, Earth surrendered without battle, and so did all its orbital settlements.
+  </description>
+  <bar>All kinds and species of Spacers can be found here.</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

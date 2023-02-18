@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Explorers' Cabin">
+ <pos>
+  <x>-3407.786660</x>
+  <y>-8093.493317</y>
+ </pos>
+ <GFX>
+  <space>002.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>65000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>A small outpost for exploring the 3 recently discovered systems nearby.</description>
+  <bar>A small number of Spacers tending to their exploration ships</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

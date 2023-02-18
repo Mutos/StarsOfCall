@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freeport 2">
+ <pos>
+  <x>-3505.405549</x>
+  <y>3039.497216</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>mining3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Situated on the n-space route from Sol to New Earth, this station was the only one smuggling outpost established before Humans discovered hyperjump. It was abandoned, then rediscovered when the first hyperspace route passing thrugh the system was explored.
+  </description>
+  <bar>A host of Spacers, mostly Humans</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

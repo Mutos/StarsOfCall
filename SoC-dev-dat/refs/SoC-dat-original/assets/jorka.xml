@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Jor'Ka">
+ <pos>
+  <x>-14069.733282</x>
+  <y>7842.996633</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

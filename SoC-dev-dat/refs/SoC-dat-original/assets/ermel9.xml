@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ermel-9">
+ <pos>
+  <x>2115.432616</x>
+  <y>-2366.067260</y>
+ </pos>
+ <GFX>
+  <space>moon-H02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</asset>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 36">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>273.024000</x>
+  <y>-160.704000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="Canterbury">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 143">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 79">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 202584">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8719.141649" y="5169.363879"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 216531">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4022.341937" y="4696.060176"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 288924">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3696.206104" y="7867.194985"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 380650">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3350.102771" y="8341.977761"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 383128">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10063.61998" y="-1150.127998"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 432756">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="8734.067755" y="-1024.806643"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564164">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5014.061101" y="-3106.055549"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 801354">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1742.699501" y="-4067.081206"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 834360">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4728.7573" y="8430.054568"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 849426">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5611.860386" y="-5080.504737"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 939533">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2372.681322" y="-4067.453696"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

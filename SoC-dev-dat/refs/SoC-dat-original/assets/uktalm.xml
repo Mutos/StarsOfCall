@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Uktalm">
+ <pos>
+  <x>-2053.668553</x>
+  <y>-1921.173807</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>350.000000</value>
+  <range>7</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>450000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Uktalm is the second k'rinn colony. A quite verdant planet with all climates and a variety of ecosystems, it has been colonized by the K'Rinns only a few decades after Mar'K'Rinn'Ra.
+  
+When the route by KT64 to Planetarist space was discovered, the planet became a port of call for all kinds of merchant companies nd independant, Free Traders, plying the jump route with Nouvelle-Hong-Kong.
+  </description>
+  <bar>A diverse bunch of tradesbeings, mostly K'Rinns and Humans</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Til'n 0002">
+ <pos>
+  <x>5036.247212</x>
+  <y>-3638.522215</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This unk'rinned station, as all of the K'Til'n class, is little more than a structure with a few docking stations, a fuel hold and a mission computer, served by a semi-AI.
+
+As all traditionnal stations and most newer do, it has a "free offers hold" where passing ships leave and take free supplies. 
+  </description>
+ </general>
+</asset>

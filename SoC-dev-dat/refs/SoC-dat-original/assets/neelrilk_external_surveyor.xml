@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Neel'Rilk External Surveyor">
+ <pos>
+  <x>9778.061439</x>
+  <y>-950.154578</y>
+ </pos>
+ <GFX>
+  <space>Shield-Emitter-001.png</space>
+  <exterior>methane.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

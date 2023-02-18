@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Nya Jorden">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3672.776000</x>
+  <y>-828.240000</y>
+ </pos>
+ <assets>
+  <asset>Nya Jorden</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="PT 0044">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0049">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0050">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 403739">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="674.746311" y="5498.681835"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 708184">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4852.297129" y="4797.304647"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 947761">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4236.016266" y="5541.977357"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

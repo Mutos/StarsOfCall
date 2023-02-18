@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Halisht Relay">
+ <pos>
+  <x>3682.894437</x>
+  <y>1131.491664</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-001-Base.png</space>
+  <exterior>Outpost-Halisht-001-Base.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>43</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This relay is the prototype of the well-known Halisht-class stations. It was built as a staging place by Irilia explorers enroute to what would become the Irilia Core. When they eventually stumbled on Irilia-1 and discovered what would be Irilia-5 and Irilia-8, the relay became an obliged waypoint on Irilia space.
+
+The station's design is quite crude, being basically a large cube with docking ports, solar arrays and massive fuel tanks, fit for the spaceships of the time, that were much more fuel-hungry than today.
+  </description>
+  <bar>A few Irilia are there to see a landmark of space exploration, along with the usual motley crew of traders, Spacers and station personnel.</bar>
+ </general>
+</asset>

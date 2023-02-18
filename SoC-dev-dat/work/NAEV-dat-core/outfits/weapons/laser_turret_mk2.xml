@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Laser Turret MK2">
+ <general>
+  <slot>weapon</slot>
+  <size>medium</size>
+  <license>Medium Weapon</license>
+  <mass>30</mass>
+  <price>85000</price>
+  <description>The Laser Turret MK2 is often found on Imperial fast response fleets, for use against fleets of small to medium ships. This weapon is one of the mainstays in the Imperial space forces.</description>
+  <gfx_store>laserturret2.webp</gfx_store>
+  <cpu>-50</cpu>
+ </general>
+ <specific type="turret bolt">
+  <gfx>laser2M.png</gfx>
+  <sound>laser</sound>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <delay>1.0</delay>
+  <speed>1050</speed>
+  <range>1100</range>
+  <falloff>950</falloff>
+  <gfx_end>laser1M.png</gfx_end>
+  <energy>30</energy>
+  <heatup>50</heatup>
+  <trackmin>1200</trackmin>
+  <trackmax>4800</trackmax>
+  <damage>
+   <type>normal</type>
+   <penetrate>36</penetrate>
+   <physical>32</physical>
+  </damage>
+ </specific>
+</outfit>

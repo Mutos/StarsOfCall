@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Skamh">
+ <pos>
+  <x>5380.131934</x>
+  <y>-868.956017</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D15.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Gham Garri</faction>
+  <value>150.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>7500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Rith Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This carved-out asteroid is used by the Gham Garri as a staging ground for raids on the main Rith-Human roads between Irilia and Planetarist spaces.
+  </description>
+  <bar>Fiery-looking Gham Garri looking down on any non-Rith daring enough to enter the bar</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

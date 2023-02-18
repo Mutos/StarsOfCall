@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Heaven">
+ <pos>
+  <x>2649.894907</x>
+  <y>1722.431689</y>
+ </pos>
+ <GFX>
+  <space>Planet-002-rockWater.png</space>
+  <exterior>mining.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>50750000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>A strange planet with remnants of living creatures from divers biospheres. Several isolated ecosystems were found to be long-time descendents of similar lifeforms from many known planets, including at least 3 cradleworlds of Commonwealth species : Earth, Tshi'arsh and Skarae.
+
+It is hypothetized that an "engineers" species came to Heaven and heavily transformed it in a long-gone past, probably several hundred thousand years, well before even the Purgatorians rose to sentience. Nothing is known about what that species could have been.
+
+The planet's peculiar ecologic patchwork is exploited in two main ways, apart from being studied by scientists from all species, states and disciplines. Numerous bridge species were introduced by the mysterious "Engineers" or evolved from millenia of constant contact. So the planet is a trasure trove for exobiologists and terraformers seeking to make different ecospheres coexist in newly colonized worlds. Also, naturally occuring generic food is available in plenty, leading to the development of vast agricultural areas for exploiting it.
+
+The planet's perils include the well-known "organic lakes", vast areas of protoplasm-like colonies. These areas are lethal for anything organic, capture and digestion being performed by "tentacles" of protoplasm that spontaneously form near any moving object within a 10-meters-high zone over the lakes themselves. For that reason, transportation over the lakes exclude any floating or low-flying vehicle, and is done exclusively by planes, with strict safety regulations, because any incident can very quickly turn lethal. The lakes' similarity with some Shapeshifters non-sentient ancestors made the Shapeshifters wonder if they could have been brought from Tshiaa'rint and belong to an extinct branch of the Shapeshifters' ancestry, far before sentience. But they are the only organisms reminding of Tshiaa'rint fauna and DNA analysis is not very conclusive.
+  </description>
+  <bar>Scientists of all species and human colonists</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Explorers' Bench">
+ <pos>
+  <x>-455.675901</x>
+  <y>6263.322756</y>
+ </pos>
+ <GFX>
+  <space>Station-001-Comm-Hub.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent Stars</faction>
+  <value>200.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>86000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Orbiting a spectacular gas giant named The Eye, this aquarium station was once the main staging ground for exploration in the Independent Stars. Now that it's no more on the fringes of explored sectors, this role has waned somehow.
+
+It is still a breeding station for marine-derived exploration ships, famous for its vast aquaria and reconstituted ecosystems. It has even begun to become a popular touristic destination, despite its remote situation and the uncompromising Independent Stars policy towards non-symbiotic sentients.
+  </description>
+  <bar>Pupeteers on both ground and water bearers, along with a few other sentients, enjoying the station's vista on The Eye</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

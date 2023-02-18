@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="StarSling Station">
+ <pos>
+  <x>-1391.194826</x>
+  <y>1722.431689</y>
+ </pos>
+ <GFX>
+  <space>003.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>35200</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This slingshot station, the first of its kind in the Human Sphere, was built at the end of the Corporate and Fringe Wars, with the help of the K'Rinn Council in exchange for Planetarist support against the Arythem Clan. At the time, it was the main Planetarist asset and its location was even more secret than Sanctuary's. During its first two years, it allowed the Alliance to launch surprise raids on distant Cartel Sol systems, but was used sparsely, because after raiding, the ships would be alone to fly back to Planetarist space.
+
+Several such attacks were performed before Starsling was used to shoot into the Sol system itself an entire invasion force consisting of three full fleets. Operation Poseidon was a success and actually put an end to the war.
+
+After peace was signed and the Commonwealth was created, Starsling Station urned to more peaceful ways, shooting cargo ships instead of raiders into distant systems. It became more of a trading hub in Planetarist space. Many merchant ships use it to reduce travel time to distant systems and, unlike the old days, there are now singshot stations in each State's main systems, so they form a second-level, faster jump network.
+  </description>
+  <bar>The bar is host to a mixed crowd consisting mainly of Humans, K'Rinns and Rithai, with occasional visitors of all other species</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

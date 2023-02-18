@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hi-tech Med Jump Drive">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Jump Drive">structure</slot>
+  <size>medium</size>
+  <price>20000</price>
+  <description>An advanced jump drive, less fuel-hungry than standard models, allowing for an extended jump range.</description>
+  <gfx_store>hk2250/Jump-Drive-003</gfx_store>
+ </general>
+ <specific type="modification">
+  <fuel>1500</fuel>							<!-- Main purpose	: internal fuel storage for 3 jumps with default consumption -->
+  <mass_rel>40</mass_rel>					<!-- Mass cost		: being an array of several warp generators, a jump drive is always quite heavy -->
+  <ew_hide>-10</ew_hide>					<!-- Stealth cost	: detectable high energy charge stays in the jump engine hours after jumps -->
+ </specific>
+</outfit>

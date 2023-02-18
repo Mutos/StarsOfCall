@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Avenir">
+ <pos>
+  <x>1936.577017</x>
+  <y>-2632.032852</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Stellar Police</faction>
+  <value>600.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>287642500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Avenir is a seemingly barren world whose population, albeit small, is quite stable, split between self-sustaining farming communities and a few mining settlements. It boasts a dozain million-large cities with small starports. The closest to a capitol is Shantaabad, named from the planet's discoverer, Shanta Patel, flying on behalf of the Harushita Explorastro Corps.
+
+The landmasses are split into four medium-sized continents and two main oceanias, each being a state of its own, belonging to a planet-wide federation with a rotating presidency. The second level of administration is the city or settlement itself, where people exert a mix of direct and representative democracy.
+
+During the whole length of the Fringe Wars, the planet was disputed between Cartel Sol and the Planetarist Alliance. Antagonist underground movements formed to support both sides. The protracted Battle of Avenir, fought between 2172 and 2174, was initially aimed at shutting down the Thalin piracy route on the Irilia-Planetarist border. It was mainly a space battle, the planet itself was quite untouched, but its government switched allegiance 7 times on only 3 years.
+
+The Battle of Avenir finally turned into making the system a major waypoint of the Planetarist fallback route from Sol to Thalin for slingshot invasion of system Sol by the Triple Fleet. It also served as a diversion, drawing the Cartelist Space Navy away from Sol as the invasion neared. Should Operation Poseidon have failed, the retreat route woudl have led them to Thalin by Heaven, Avenir, Woodsfield and Inferno. In that event, Avenir would probably have ended under Cartel Sol control, and a delaying battle would have been fought on the Avenir-Thalin route.
+
+As the war lasted and the planet kept changing sides, the overall population lost interest in it. After the conflict ended, it happily welcomed peace and, when Core secession boiled, the general sentiment was a fear that a new war would erupt. The Avenir people narrowly voted to secede with the League when the frontier worlds were asked. The referendum never turned into much heated debate, as both sides agreed on making the former battleground system a link between the two States.
+
+The planet's most prominent feature is the Research Center of the Stellar Police, in the middle of the Misty Mountains. Formed as part of the secession agreement, this joint organization between the Core League and Planetarist Alliance is dedicated to ensuring the security of the trade lanes between the two States. Its other roles, less publicized, are to prevent any incursion of smugglers, pirates and other outlaws from the Hoshi no Hekka, and to chase down large interstellar mafious groups on the whole Human Sphere, sometimes even outside its two parent States.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps</item>
+ </tech>
+</asset>

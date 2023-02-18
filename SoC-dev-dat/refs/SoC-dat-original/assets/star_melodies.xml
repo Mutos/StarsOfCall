@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Star Melodies">
+ <pos>
+  <x>4968.552950</x>
+  <y>-4637.316087</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>256000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This planet was the one from which originated Stars-Strider-7, the explorer who made a dramatic first contact with the Rithai.
+
+He was captured by the Arythem when his exploration vessel died of their wounds after a jump drive catastrophic malfunction. He was then coerced into performing invasion of conscience on Irilia officials to dictate them treason on their Clan. He managed to escape and reveal the whole affair, then committed suicide, unable to bear the crimes he committed under duress.
+
+Upon the first official contact between the Rithai and Pupeteers, the rith public opinion was well aware of his ordeal and honor commanded to reveal it to the Pupeteers. Star Melodies people were at first abased by the suffering of their brother and the planet was banned to Rithai for quite a long time. Slowly, as time passed, Pupeteers began to better understand rith psychology and the ban was finally lifted.
+
+Now, the situation is nearly regular, but some locals still frown on rith presence. However, now-one would ever harm the pilgrims who go to Star-Strider-7's grave near the Four-Mountains Observatory, to offer their tribute of honor in the name of their Clan, even nearly a century since the tragic events.
+  </description>
+  <bar>The open-air bar is home to a large crowd of locals mounted on various bearers, among which a few Rithai can easily be spotted</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

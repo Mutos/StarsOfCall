@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Zethus">
+ <pos x="-1698.378416" y="6991.868884"/>
+ <GFX>
+  <space>I05.webp</space>
+  <exterior>gas.webp</exterior>
+ </GFX>
+ <general>
+  <class>I</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

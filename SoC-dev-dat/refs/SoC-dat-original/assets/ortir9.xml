@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ortir-9">
+ <pos>
+  <x>1272.149211</x>
+  <y>-2346.717638</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</asset>

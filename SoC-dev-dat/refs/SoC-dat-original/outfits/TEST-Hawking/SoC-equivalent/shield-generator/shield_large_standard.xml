@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Shield">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Shield Generator">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>Basic shield projector unable to deflect anything but micrometeorites, and certainly unfit for any combat.</description>
+  <gfx_store>hk2250/Shields-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <shield>700</shield>				<!-- Main purpose	: defines shield available energy -->
+  <shield_regen>12</shield_regen>	<!-- Main purpose	: defines shield regeneration -->
+ </specific>
+</outfit>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Kobopos">
+ <general>
+  <radius>20000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-548.590536" y="-239.429028"/>
+ <spobs>
+  <spob>Dun Hill</spob>
+  <spob>Kayel</spob>
+  <spob>Kobopos I</spob>
+  <spob>Kobopos II</spob>
+  <spob>Kobopos IV</spob>
+ </spobs>
+ <jumps>
+  <jump target="Jade">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Klintus">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Senara">
+   <autopos/>
+   <hide>0.500000</hide>
+  </jump>
+ </jumps>
+</ssys>

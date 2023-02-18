@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eldorado">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1672.620480</x>
+  <y>-1494.074880</y>
+ </pos>
+ <assets>
+  <asset>Banshee War Museum</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="GL 283 A">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Hermes">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 254874">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2995.124994" y="3594.149993"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 254877">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3993.499992" y="-2928.566661"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 256487">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3705.080548" y="7099.555542"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 264325">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5857.133322" y="3039.497216"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564187">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5435.597212" y="1198.049998"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

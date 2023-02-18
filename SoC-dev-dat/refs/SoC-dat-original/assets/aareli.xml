@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aareli">
+ <pos>
+  <x>2713.590767</x>
+  <y>-1879.126175</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>875000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Of the twin planets that give its name to the system, Aareli is the most adapted to complementarist life, with its forests covering most of the continents and good biocompatibility to sshaad life, even if shapeshifters must be wary of some chemically aggressive local fauna. Of course, the very sturdy Rithai do not have this problem. It has a population roughly 1/3 Sshaads, 1/3 Shapeshifters and 1/3 Rithai and is mainly administered by Baartish, with Arythem representatives.
+
+The co-colonies were designed from the start with cooperation in mind and are powerful examples of what complementarism can achieve. They work in unison to exploit the rich ores from the planet and a nearby asteroids field, and have yet to fully explore the potential of the local ecosystems.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dosal Relay">
+ <pos>
+  <x>-2995.124994</x>
+  <y>-554.652777</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-001-Base.png</space>
+  <exterior>Outpost-Halisht-001-Base.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>45</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>Dosal Station is the outermost relay enroute to the Planetarist Alliance from the Irilia Core.
+  </description>
+  <bar>A few passing-by Rithai exchanging news and greetings with the relay's small crew, in the Irilia over-polite way...</bar>
+ </general>
+</asset>

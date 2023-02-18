@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="FeuerRing Memorial">
+ <pos>
+  <x>6592.767245</x>
+  <y>-4986.698231</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>200.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>3750</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This small asteroid base is a memorial to all the fallen soldiers of the Battle of FeuerRing, be they Cartelists or Planetarists. It orbits the gas giant around which the battle was fought. The cloud of debris of the planetarist flagship, the Warden of Sanctuary, still lies nearby along with the shattered hulls of several Cartelist corvettes.
+
+The battle of FeuerRing actually began in the Al-Wahid's Bluff system. There, Hassan Al-Wahid, the Admiral in command of the Planetarist 3rd Fringe Fleet, used the fact his 2 brand-new destroyers have never been sighted by Cartelist Navy to pose as more powerful than he actually was. His daring move urged the Cartelist fleet to make a lightning jump to the FeuerRing system. He knew his ennemies will emerge in the midst of a gas giant's rings.
+
+Lured into jumping in at high velocity, the Cartel Sol fleet was immediately battered by the rings' dense micro-meteorites cloud. By the time the Planetarist fleet jumped in, the flag cruiser and 5 corvettes were already crippled and only a few fighters had been launched. The scans told Admiral Al-Wahid his bluff had worked: odds were now on his side.
+
+In the ensuing battle, all Cartelist ships were destroyed or captured, but 4 Planetarist ships, including the flag cruiser, were damaged beyond repair. Hoping to ensure the astrogation maps they gathered would reach Sol, the last two remaining Cartelist corvettes launched all their data missiles before being boarded. Admiral Al-Wahid ordered immediate evacuation of his already lost ship, by which the missiles had to fly on their escape course, then initiated auto-destruct by warp engines override. Warp interference destroyed all data missiles, ensuring final Planetarist victory. However, his escape pod struck by debris, the Admiral was unable to flee his doomed ship before it exploded.
+
+Upon news of the battle, the new atUrta class of 8 exploration destroyers being built in Sanctuary yards was renamed Al-Wahid class, with the 3 lead ships in the class named after the commanders fallen at the FeuerRing battle. The other ships in the class were named as intended, after Sanskrit adjectives denoting qualities or virtues. A few years later, the 3th ship in the class, the John E. Ryan, would be the first human ship to encounter the K'Rinns and Rithai.
+  </description>
+  <bar>The last living veterans of the war and their families, among a mostly human crowd of tourists</bar>
+ </general>
+ <tech>
+  <item>Regular Generic</item>
+  <item>Low-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ocean">
+ <pos>
+  <x>1523.689571</x>
+  <y>-1854.926435</y>
+ </pos>
+ <GFX>
+  <space>M01.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>250.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>12736000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>As its name implies, Ocean is a wet planet, with a temperate climate and lush ecosystems, a delight for Pupeteer settlers. It is the latest colony of the Thirteen Planets. Its major ecosystems are or course marine, but it is also known for its airborne creatures : gigantic medusae floating near the stratosphere amidst clouds of aerial plancton and manta-like flyers following the jetstreams using naturally occuring pulsoreactors.
+  </description>
+  <bar>The floating station's bar is crowded by Pupeteers and a few other sentients</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

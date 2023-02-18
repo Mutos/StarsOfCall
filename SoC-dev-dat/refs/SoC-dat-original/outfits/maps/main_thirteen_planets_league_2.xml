@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Thirteen Planets League - Main Routes 2/2">
+ <general>
+  <mass>0</mass>
+  <price>10000</price>
+  <description>Main trade routes between Thirteen Planets League worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Thundering Mountains">
+   <jump>TPL 0138</jump>
+   <jump>TPL 0147</jump>
+   <jump>TPL 0148</jump>
+   <asset>Thundering Mountains</asset>
+  </sys>
+  <sys name="The Ring">
+   <jump>TPL 0141</jump>
+   <jump>TPL 0159</jump>
+   <asset>Bubble</asset>
+   <asset>The Ring</asset>
+  </sys>
+  <sys name="Colony 10">
+   <jump>TPL 0154</jump>
+   <jump>TPL 0169</jump>
+   <jump>TPL 0170</jump>
+   <asset>Colony 10</asset>
+  </sys>
+  <sys name="Colony 15">
+   <jump>TPL 0185</jump>
+   <jump>TPL 0188</jump>
+   <asset>Colony 15</asset>
+  </sys>
+  <sys name="Roaming Herds">
+   <jump>TPL 0201</jump>
+   <jump>TPL 0206</jump>
+   <asset>Roaming Herds</asset>
+  </sys>
+  <sys name="TPL 0148">
+   <jump>TPL 0147</jump>
+   <jump>TPL 0149</jump>
+   <jump>Thundering Mountains</jump>
+  </sys>
+  <sys name="TPL 0149">
+   <jump>TPL 0148</jump>
+   <jump>TPL 0150</jump>
+  </sys>
+  <sys name="TPL 0150">
+   <jump>TPL 0145</jump>
+   <jump>TPL 0149</jump>
+   <jump>TPL 0153</jump>
+  </sys>
+  <sys name="TPL 0153">
+   <jump>TPL 0150</jump>
+   <jump>TPL 0154</jump>
+  </sys>
+  <sys name="TPL 0154">
+   <jump>Colony 10</jump>
+   <jump>TPL 0153</jump>
+  </sys>
+  <sys name="TPL 0145">
+   <jump>TPL 0138</jump>
+   <jump>TPL 0150</jump>
+   <jump>TPL 0160</jump>
+  </sys>
+  <sys name="TPL 0138">
+   <jump>TPL 0137</jump>
+   <jump>TPL 0145</jump>
+   <jump>Thundering Mountains</jump>
+  </sys>
+  <sys name="TPL 0141">
+   <jump>TPL 0139</jump>
+   <jump>The Ring</jump>
+  </sys>
+  <sys name="TPL 0139">
+   <jump>TPL 0136</jump>
+   <jump>TPL 0140</jump>
+   <jump>TPL 0141</jump>
+  </sys>
+  <sys name="TPL 0137">
+   <jump>TPL 0136</jump>
+   <jump>TPL 0138</jump>
+  </sys>
+  <sys name="TPL 0159">
+   <jump>TPL 0156</jump>
+   <jump>TPL 0158</jump>
+   <jump>The Ring</jump>
+  </sys>
+  <sys name="TPL 0156">
+   <jump>TPL 0140</jump>
+   <jump>TPL 0157</jump>
+   <jump>TPL 0158</jump>
+   <jump>TPL 0159</jump>
+  </sys>
+  <sys name="TPL 0157">
+   <jump>TPL 0140</jump>
+   <jump>TPL 0156</jump>
+   <jump>TPL 0160</jump>
+  </sys>
+  <sys name="TPL 0160">
+   <jump>TPL 0145</jump>
+   <jump>TPL 0157</jump>
+  </sys>
+  <sys name="TPL 0140">
+   <jump>TPL 0139</jump>
+   <jump>TPL 0156</jump>
+   <jump>TPL 0157</jump>
+  </sys>
+  <sys name="TPL 0169">
+   <jump>Colony 10</jump>
+   <jump>TPL 0168</jump>
+  </sys>
+  <sys name="TPL 0168">
+   <jump>TPL 0167</jump>
+   <jump>TPL 0169</jump>
+  </sys>
+  <sys name="TPL 0167">
+   <jump>TPL 0166</jump>
+   <jump>TPL 0168</jump>
+  </sys>
+  <sys name="TPL 0166">
+   <jump>TPL 0167</jump>
+   <jump>TPL 0199</jump>
+  </sys>
+  <sys name="TPL 0199">
+   <jump>TPL 0166</jump>
+   <jump>TPL 0200</jump>
+  </sys>
+  <sys name="TPL 0200">
+   <jump>TPL 0199</jump>
+   <jump>TPL 0201</jump>
+  </sys>
+  <sys name="TPL 0201">
+   <jump>Roaming Herds</jump>
+   <jump>TPL 0200</jump>
+  </sys>
+  <sys name="TPL 0206">
+   <jump>Roaming Herds</jump>
+   <jump>TPL 0207</jump>
+  </sys>
+  <sys name="TPL 0207">
+   <jump>TPL 0197</jump>
+   <jump>TPL 0206</jump>
+  </sys>
+  <sys name="TPL 0197">
+   <jump>TPL 0195</jump>
+   <jump>TPL 0196</jump>
+   <jump>TPL 0207</jump>
+  </sys>
+  <sys name="TPL 0195">
+   <jump>TPL 0194</jump>
+   <jump>TPL 0196</jump>
+   <jump>TPL 0197</jump>
+  </sys>
+  <sys name="TPL 0194">
+   <jump>TPL 0188</jump>
+   <jump>TPL 0195</jump>
+  </sys>
+  <sys name="TPL 0188">
+   <jump>Colony 15</jump>
+   <jump>TPL 0194</jump>
+  </sys>
+  <sys name="TPL 0161">
+   <jump>TPL 0158</jump>
+   <jump>TPL 0162</jump>
+  </sys>
+  <sys name="TPL 0158">
+   <jump>TPL 0156</jump>
+   <jump>TPL 0159</jump>
+   <jump>TPL 0161</jump>
+  </sys>
+  <sys name="TPL 0162">
+   <jump>TPL 0161</jump>
+   <jump>TPL 0163</jump>
+  </sys>
+  <sys name="TPL 0163">
+   <jump>TPL 0162</jump>
+  </sys>
+  <sys name="TPL 0170">
+   <jump>Colony 10</jump>
+   <jump>TPL 0171</jump>
+   <jump>TPL 0175</jump>
+  </sys>
+  <sys name="TPL 0171">
+   <jump>TPL 0170</jump>
+   <jump>TPL 0172</jump>
+   <jump>TPL 0173</jump>
+  </sys>
+  <sys name="TPL 0173">
+   <jump>TPL 0171</jump>
+   <jump>TPL 0182</jump>
+  </sys>
+  <sys name="TPL 0182">
+   <jump>TPL 0173</jump>
+   <jump>TPL 0183</jump>
+   <jump>TPL 0185</jump>
+  </sys>
+  <sys name="TPL 0185">
+   <jump>Colony 15</jump>
+   <jump>TPL 0182</jump>
+   <jump>TPL 0183</jump>
+  </sys>
+  <sys name="TPL 0172">
+   <jump>TPL 0171</jump>
+   <jump>TPL 0184</jump>
+  </sys>
+  <sys name="TPL 0184">
+   <jump>TPL 0172</jump>
+   <jump>TPL 0196</jump>
+  </sys>
+  <sys name="TPL 0196">
+   <jump>TPL 0184</jump>
+   <jump>TPL 0195</jump>
+   <jump>TPL 0197</jump>
+  </sys>
+  <sys name="TPL 0183">
+   <jump>TPL 0182</jump>
+   <jump>TPL 0185</jump>
+  </sys>
+  <sys name="TPL 0175">
+   <jump>TPL 0170</jump>
+   <jump>TPL 0176</jump>
+  </sys>
+  <sys name="TPL 0176">
+   <jump>TPL 0175</jump>
+   <jump>TPL 0178</jump>
+  </sys>
+  <sys name="TPL 0178">
+   <jump>TPL 0176</jump>
+   <jump>TPL 0181</jump>
+  </sys>
+  <sys name="TPL 0181">
+   <jump>TPL 0178</jump>
+  </sys>
+  <sys name="TPL 0147">
+   <jump>TPL 0077</jump>
+   <jump>TPL 0148</jump>
+   <jump>Thundering Mountains</jump>
+  </sys>
+  <sys name="TPL 0136">
+   <jump>TPL 0135</jump>
+   <jump>TPL 0137</jump>
+   <jump>TPL 0139</jump>
+  </sys>
+  <sys name="TPL 0135">
+   <jump>TPL 0136</jump>
+  </sys>
+  <sys name="TPL 0077">
+   <jump>TPL 0147</jump>
+  </sys>
+ </specific>
+</outfit>

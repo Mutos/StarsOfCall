@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ershell">
+ <pos>
+  <x>4567.964144</x>
+  <y>-3955.882208</y>
+ </pos>
+ <GFX>
+  <space>J00.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

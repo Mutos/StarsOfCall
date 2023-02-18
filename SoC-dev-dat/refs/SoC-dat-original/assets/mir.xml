@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mir">
+ <pos>
+  <x>-3919.410924</x>
+  <y>4144.347798</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>164185000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Mir is an old human colony that never really thrived. Even in the worst days of the secession, the League and Alliance never bothered to seriously contend for it, only sending diplomats to try to get the colony's ruling body to their respective sides. The planetary senate finally decided to join the Alliance, despite its being on the Sol side of Vikra, in hope that the planet's border situation would attract juicy trade. This worked to some extent, but while Mir is no more a god-forsaken hole, it still can't be described as wealthy.
+
+The planet now hosts no overly large conurbation, but rather a mere hundred cities in the million range and thousands of isolated settlements. The 3 main cities, located on a small oceania, are well-known as leisure resort for middle-class retired people from the entire Human Sphere.
+
+Its other prominent feature is the Stellar Police Pan-Kohl High Security Prison Facility, that holds many of the worst prisoners from both the League and Alliance. The state-of-the-art security perimeter is naturally complemented by the swamp area that surrounds the prison. Known as the Leterrier Bayou, this large wet jungle extends to the size of Earth's Amazonia and hosts some of the most aggressive ecosystems in the Human Sphere.
+  </description>
+  <bar>A mix of aged middle-class people along with some natives and Stellar Police officers on leave, all of them mainly Humans, with only a few Rithai and K'Rinns</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Matholn Relay">
+ <pos>
+  <x>5790.574989</x>
+  <y>-3816.011104</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-002-Series.png</space>
+  <exterior>Outpost-Halisht-002-Series.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>55</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This relay was built when Irilia-4 and Irilia-8 were discovered through the jump network from Halisht. It was not known then, that Irilia-4 was the planet to which a sublight ship had already been built.
+  </description>
+  <bar>A few Irilia spacepeople boasting on their Clan's pride</bar>
+ </general>
+</asset>

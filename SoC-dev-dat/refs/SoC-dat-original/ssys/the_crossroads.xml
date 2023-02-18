@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="The Crossroads">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>604.888000</x>
+  <y>-4051.536000</y>
+ </pos>
+ <assets>
+  <asset>Crossroads Relay</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="TPL 0071">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0074">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0080">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0081">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 265641">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5380.131934" y="6526.414339"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 323540">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4936.409712" y="7561.766189"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 562158">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4806.990731" y="6933.159709"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 687565">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5823.854155" y="6711.298598"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

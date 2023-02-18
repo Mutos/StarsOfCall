@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<naev_save>
+ <version>
+  <naev>0.10.4+dev</naev>
+  <data>Sea of Darkness</data>
+ </version>
+ <last_played>1676714534</last_played>
+ <plugins/>
+ <diffs/>
+ <player name="Mutos">
+  <credits>30000</credits>
+  <chapter>0</chapter>
+  <mapOverlay>1</mapOverlay>
+  <radar_res>50.000000</radar_res>
+  <eq_outfitMode>0</eq_outfitMode>
+  <map_minimal>0</map_minimal>
+  <fleet_capacity>0</fleet_capacity>
+  <time>
+   <SCU>603</SCU>
+   <STP>3733</STP>
+   <STU>5818</STU>
+   <Remainder>577.647774</Remainder>
+  </time>
+  <location>Earth</location>
+  <ship name="Outward Bound" model="Llama" favourite="0" deployed="0">
+   <acquired>Your first space-worthy ship!</acquired>
+   <acquired_date>2232714712</acquired_date>
+   <time_played>279.000000</time_played>
+   <dmg_done_shield>0.000000</dmg_done_shield>
+   <dmg_done_armour>0.000000</dmg_done_armour>
+   <dmg_taken_shield>100.000000</dmg_taken_shield>
+   <dmg_taken_armour>0.000000</dmg_taken_armour>
+   <jumped_times>0</jumped_times>
+   <landed_times>7</landed_times>
+   <death_counter>0</death_counter>
+   <ships_destroyed>
+    <Yacht>0</Yacht>
+    <Courier>0</Courier>
+    <Freighter>0</Freighter>
+    <Armoured_Transport>0</Armoured_Transport>
+    <Bulk_Freighter>0</Bulk_Freighter>
+    <Scout>0</Scout>
+    <Interceptor>0</Interceptor>
+    <Fighter>0</Fighter>
+    <Bomber>0</Bomber>
+    <Corvette>0</Corvette>
+    <Destroyer>0</Destroyer>
+    <Cruiser>0</Cruiser>
+    <Battleship>0</Battleship>
+    <Carrier>0</Carrier>
+   </ships_destroyed>
+   <fuel>400.000000</fuel>
+   <outfits_intrinsic/>
+   <outfits_structure>
+    <outfit slot="0">Nexus Dart 150 Engine</outfit>
+    <outfit slot="1">Unicorp D-2 Light Plating</outfit>
+   </outfits_structure>
+   <outfits_utility>
+    <outfit slot="0">Unicorp PT-16 Core System</outfit>
+   </outfits_utility>
+   <outfits_weapon>
+    <outfit slot="0">Laser Cannon MK1</outfit>
+   </outfits_weapon>
+   <commodities>
+    <commodity quantity="1">Olivine</commodity>
+    <commodity quantity="1">Generic Food</commodity>
+    <commodity quantity="1">Human Food</commodity>
+   </commodities>
+   <weaponsets autoweap="1" active_set="0" aim_lines="0">
+    <weaponset inrange="0" manual="0" id="0"/>
+    <weaponset inrange="0" manual="0" id="1"/>
+    <weaponset inrange="0" manual="0" id="2"/>
+    <weaponset inrange="0" manual="0" id="3"/>
+    <weaponset inrange="0" manual="0" id="4"/>
+    <weaponset inrange="0" manual="0" id="5"/>
+    <weaponset inrange="0" manual="0" id="6"/>
+    <weaponset inrange="0" manual="0" id="7"/>
+    <weaponset inrange="0" manual="0" id="8"/>
+    <weaponset inrange="0" manual="0" id="9"/>
+   </weaponsets>
+   <vars/>
+  </ship>
+  <ships/>
+  <guis>
+   <gui>slim</gui>
+   <gui>brushed</gui>
+   <gui>slimv2</gui>
+   <gui>legacy</gui>
+  </guis>
+  <outfits/>
+  <licenses/>
+  <inventory/>
+ </player>
+ <missions_done/>
+ <events_done/>
+ <escorts/>
+ <metadata>
+  <last_played>1676714534</last_played>
+  <date_created>1676392336</date_created>
+  <time_played>848.000000</time_played>
+  <dmg_done_shield>0.000000</dmg_done_shield>
+  <dmg_done_armour>0.000000</dmg_done_armour>
+  <dmg_taken_shield>100.000000</dmg_taken_shield>
+  <dmg_taken_armour>0.000000</dmg_taken_armour>
+  <jumped_times>0</jumped_times>
+  <landed_times>7</landed_times>
+  <death_counter>0</death_counter>
+  <ships_destroyed>
+   <Yacht>0</Yacht>
+   <Courier>0</Courier>
+   <Freighter>0</Freighter>
+   <Armoured_Transport>0</Armoured_Transport>
+   <Bulk_Freighter>0</Bulk_Freighter>
+   <Scout>0</Scout>
+   <Interceptor>0</Interceptor>
+   <Fighter>0</Fighter>
+   <Bomber>0</Bomber>
+   <Corvette>0</Corvette>
+   <Destroyer>0</Destroyer>
+   <Cruiser>0</Cruiser>
+   <Battleship>0</Battleship>
+   <Carrier>0</Carrier>
+  </ships_destroyed>
+ </metadata>
+ <temporary_cargo/>
+ <missions>
+  <mission data="Tutorial" id="1">
+   <title>Tutorial</title>
+   <desc>Your Ship AI has offered to teach you how to fly your ship.</desc>
+   <reward>Skills to play the game!</reward>
+   <markers>
+    <marker id="0" type="6">Benteen</marker>
+   </markers>
+   <cargos/>
+   <osd title="Tutorial" nitems="5" active="2">
+    <msg>Fly to Bolero in the Delta Polaris system with the movement keys</msg>
+    <msg>Land on Bolero in the Delta Polaris system by double-clicking on it</msg>
+    <msg>Go to Benteen in the Delta Polaris system by right-clicking it on the overview map</msg>
+    <msg>Destroy the practice drone near Benteen in the Delta Polaris system</msg>
+    <msg>Jump to a nearby system by using your starmap</msg>
+   </osd>
+   <claims exclusive="1">
+    <sys>Delta Polaris</sys>
+   </claims>
+   <lua>
+    <data type="number" name="misnmarker">0</data>
+    <data type="number" name="stage">4</data>
+   </lua>
+  </mission>
+ </missions>
+ <events/>
+ <news>
+  <article title="Welcome to Universal News Feed." desc="All the headlines all the time." faction="Independent" date="0" date_to_rm="30187335819577" id="84" priority="-1" tag="header"/>
+  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Luxury Goods on Tenal-P is now 241 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187311380577" date_to_rm="30187381754577" id="85" priority="6"/>
+  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two decaperiods floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Independent" date="30187311158875" date_to_rm="30187411954875" id="54" priority="6" tag="Amazing Survival Story"/>
+  <article title="Emperor's Aid Gets Hitched" desc="Imperial secretary Karil Lorenze married long time fiancee Rachid Baouda in the future palace gardens on Emperor's Fist. His Eminence the Bishop of Bao performed the ceremony." faction="Empire" date="30187288808050" date_to_rm="30187387336050" id="33" priority="6" tag="Emperor's Aid Gets Hitched"/>
+  <article title="Commodity Trading Likened to Gambling" desc="In a controversial statement, one activist has likened commodity trading to gambling. &quot;It's legalized gambling, plain and simple! Right now the price of Diamond on Tenal-P is 181 ¤ per tonne, for example, but everyone knows the price fluctuates. Tomorrow it could be lower, or it could be higher. Who knows? Frankly, it is my firm opinion that this 'commodity trading' is self-destructive and needs to stop.&quot;" faction="Generic" date="30187269033875" date_to_rm="30187362033875" id="45" priority="6"/>
+  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Luxury Goods on Dolmen to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 590 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187255330050" date_to_rm="30187338791050" id="34" priority="6"/>
+  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 192&#10;Food: 129&#10;Gold: 519&#10;Industrial Goods: 363&#10;Luxury Goods: 595&#10;Medicine: 642&#10;Ore: 183&#10;Water: 196&#10;Ziffelan Minidragons: 9,817&#10;&#10;Jupiter Station in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 485&#10;Industrial Goods: 375&#10;Luxury Goods: 555&#10;Medicine: 580&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,263&#10;&#10;Mars in Sol&#10;Diamond: 197&#10;Food: 142&#10;Gold: 515&#10;Industrial Goods: 363&#10;Luxury Goods: 590&#10;Medicine: 643&#10;Ore: 185&#10;Water: 204&#10;Ziffelan Minidragons: 10,191&#10;&#10;New Taxaco in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 486&#10;Industrial Goods: 377&#10;Luxury Goods: 557&#10;Medicine: 580&#10;Ore: 194&#10;Water: 186&#10;Ziffelan Minidragons: 9,282&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 373&#10;Luxury Goods: 554&#10;Medicine: 578&#10;Ore: 192&#10;Water: 185&#10;Ziffelan Minidragons: 9,235" faction="Generic" date="30187335818577" date_to_rm="30187335819577" id="86" priority="11" tag="econ"/>
+ </news>
+ <vars>
+  <var name="_fcap_dvaered" type="num">40.000000</var>
+  <var name="_fcap_empire" type="num">30.000000</var>
+  <var name="_fcap_frontier" type="num">30.000000</var>
+  <var name="_fcap_goddard" type="num">30.000000</var>
+  <var name="_fcap_proteron" type="num">30.000000</var>
+  <var name="_fcap_sirius" type="num">30.000000</var>
+  <var name="_fcap_soromid" type="num">30.000000</var>
+  <var name="_fcap_zalek" type="num">30.000000</var>
+  <var name="disc_sol" type="bool">1</var>
+  <var name="news_last_article" type="num">30187311158875.000000</var>
+  <var name="news_last_econ_article" type="num">30187335818577.000000</var>
+  <var name="shipai_name" type="str">Gloria</var>
+  <var name="shiplover_lastplayed" type="num">30187299519149.000000</var>
+  <var name="vn_autoscroll" type="bool">0</var>
+  <var name="vn_textspeed" type="num">0.000000</var>
+ </vars>
+ <factions>
+  <faction name="Black Lotus">
+   <standing>-20.000000</standing>
+  </faction>
+  <faction name="Collective">
+   <standing>-100.000000</standing>
+  </faction>
+  <faction name="Dreamer Clan">
+   <standing>-10.000000</standing>
+  </faction>
+  <faction name="Dvaered">
+   <standing>1.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Empire">
+   <standing>1.000000</standing>
+   <known/>
+  </faction>
+  <faction name="FLF">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Frontier">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Goddard">
+   <standing>2.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Marauder">
+   <standing>-50.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Nasin">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Pirate">
+   <standing>-30.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Player">
+   <standing>0.000000</standing>
+  </faction>
+  <faction name="Proteron">
+   <standing>-50.000000</standing>
+  </faction>
+  <faction name="Raven Clan">
+   <standing>-20.000000</standing>
+  </faction>
+  <faction name="Sirius">
+   <standing>3.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Soromid">
+   <standing>0.000000</standing>
+   <known/>
+  </faction>
+  <faction name="Thurion">
+   <standing>1.000000</standing>
+  </faction>
+  <faction name="Traders Guild">
+   <standing>3.000000</standing>
+  </faction>
+  <faction name="Wild Ones">
+   <standing>-40.000000</standing>
+  </faction>
+  <faction name="Za'lek">
+   <standing>2.000000</standing>
+   <known/>
+  </faction>
+ </factions>
+ <hooks>
+  <hook type="misn">
+   <parent>1</parent>
+   <func>enter</func>
+   <id>22</id>
+   <stack>enter</stack>
+  </hook>
+  <hook type="misn">
+   <parent>1</parent>
+   <func>takeoff</func>
+   <id>21</id>
+   <stack>takeoff</stack>
+  </hook>
+  <hook type="misn">
+   <parent>1</parent>
+   <func>land</func>
+   <id>20</id>
+   <stack>land</stack>
+  </hook>
+ </hooks>
+ <space>
+  <known sys="Delta Polaris">
+   <spob>Benteen</spob>
+   <spob>Bolero</spob>
+   <spob>Delta Polaris I</spob>
+   <spob>Delta Polaris II</spob>
+   <spob>Delta Polaris VI</spob>
+   <spob>Falas</spob>
+   <jump>Jade</jump>
+  </known>
+  <known sys="Sol">
+   <spob>Asteroids Marker</spob>
+   <spob>Calif High Shipyards</spob>
+   <spob>Earth</spob>
+   <spob>Mars</spob>
+  </known>
+ </space>
+ <economy>
+  <system name="Delta Polaris">
+   <spob name="Benteen">
+    <commodity name="Diamond" sum="528.000000" sum2="92928.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Food" sum="141.000000" sum2="6627.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Gold" sum="1053.000000" sum2="369603.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="1194.000000" sum2="475212.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="1180.000000" sum2="464134.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Medicine" sum="1068.000000" sum2="380208.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Ore" sum="795.000000" sum2="210675.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Water" sum="180.000000" sum2="10800.000000" cnt="3" time="30187288808050"/>
+   </spob>
+   <spob name="Bolero">
+    <commodity name="Diamond" sum="525.000000" sum2="91875.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Food" sum="132.000000" sum2="5808.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Gold" sum="1020.000000" sum2="346800.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="1215.000000" sum2="492075.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="1143.000000" sum2="435483.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Medicine" sum="996.000000" sum2="330672.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Ore" sum="816.000000" sum2="221952.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Water" sum="171.000000" sum2="9747.000000" cnt="3" time="30187288808050"/>
+   </spob>
+  </system>
+  <system name="Iris">
+   <spob name="Tenal-P">
+    <commodity name="Diamond" sum="361.000000" sum2="65161.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Food" sum="115.000000" sum2="6613.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Gold" sum="603.000000" sum2="181805.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1304.000000" sum2="850210.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="483.000000" sum2="116645.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Medicine" sum="411.000000" sum2="84461.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Ore" sum="690.000000" sum2="238052.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Water" sum="164.000000" sum2="13448.000000" cnt="2" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="4100.000000" sum2="16810000.000000" cnt="1" time="30187335818577"/>
+   </spob>
+  </system>
+  <system name="Jade">
+   <spob name="Stormgard">
+    <commodity name="Diamond" sum="492.000000" sum2="80688.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Food" sum="96.000000" sum2="3072.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Gold" sum="932.000000" sum2="289542.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="1280.000000" sum2="546134.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="1068.000000" sum2="380208.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Medicine" sum="725.000000" sum2="175209.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Ore" sum="837.000000" sum2="233523.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Water" sum="150.000000" sum2="7500.000000" cnt="3" time="30187288808050"/>
+   </spob>
+  </system>
+  <system name="Pastor">
+   <spob name="Dolmen">
+    <commodity name="Diamond" sum="153.000000" sum2="23409.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Food" sum="69.000000" sum2="4761.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Gold" sum="515.000000" sum2="265225.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="372.000000" sum2="138384.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="590.000000" sum2="348100.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Medicine" sum="585.000000" sum2="342225.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Ore" sum="204.000000" sum2="41616.000000" cnt="1" time="30187288808050"/>
+    <commodity name="Water" sum="144.000000" sum2="20736.000000" cnt="1" time="30187288808050"/>
+   </spob>
+  </system>
+  <system name="Sirou">
+   <spob name="Rogan">
+    <commodity name="Diamond" sum="184.000000" sum2="33856.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Food" sum="61.000000" sum2="3721.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Gold" sum="356.000000" sum2="126736.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Industrial Goods" sum="478.000000" sum2="228484.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Luxury Goods" sum="392.000000" sum2="153664.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Medicine" sum="309.000000" sum2="95481.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Ore" sum="305.000000" sum2="93025.000000" cnt="1" time="30187268342408"/>
+    <commodity name="Water" sum="111.000000" sum2="12321.000000" cnt="1" time="30187268342408"/>
+   </spob>
+  </system>
+  <system name="Sol">
+   <spob name="Earth">
+    <commodity name="Diamond" sum="1020.000000" sum2="208560.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Food" sum="798.000000" sum2="130482.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Gold" sum="2544.000000" sum2="1294770.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1820.000000" sum2="662482.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="2913.000000" sum2="1697627.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Medicine" sum="3217.000000" sum2="2069823.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ore" sum="936.000000" sum2="175266.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Water" sum="1072.000000" sum2="230906.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="29478.000000" sum2="289650990.000000" cnt="3" time="30187335818577"/>
+   </spob>
+   <spob name="Jupiter Station">
+    <commodity name="Diamond" sum="1005.000000" sum2="202275.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Food" sum="737.000000" sum2="110459.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Gold" sum="2385.000000" sum2="1137859.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1878.000000" sum2="705378.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="2732.000000" sum2="1493042.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Medicine" sum="2904.000000" sum2="1686646.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ore" sum="980.000000" sum2="192110.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Water" sum="994.000000" sum2="198242.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="27815.000000" sum2="257891553.000000" cnt="3" time="30187335818577"/>
+   </spob>
+   <spob name="Mars">
+    <commodity name="Diamond" sum="1031.000000" sum2="212875.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Food" sum="472.000000" sum2="75672.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Gold" sum="2535.000000" sum2="1285459.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1819.000000" sum2="661753.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="2904.000000" sum2="1686926.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Medicine" sum="3219.000000" sum2="2072395.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ore" sum="939.000000" sum2="176371.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Water" sum="1087.000000" sum2="236913.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="30602.000000" sum2="312160982.000000" cnt="3" time="30187335818577"/>
+   </spob>
+   <spob name="New Taxaco">
+    <commodity name="Diamond" sum="1008.000000" sum2="203490.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Food" sum="420.000000" sum2="60242.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Gold" sum="2390.000000" sum2="1142634.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1888.000000" sum2="712910.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="2739.000000" sum2="1500707.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Medicine" sum="2906.000000" sum2="1688970.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ore" sum="985.000000" sum2="194075.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Water" sum="996.000000" sum2="198984.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="27871.000000" sum2="258931025.000000" cnt="3" time="30187335818577"/>
+   </spob>
+   <spob name="Tuskegee Training Academy">
+    <commodity name="Diamond" sum="1000.000000" sum2="200270.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Food" sum="418.000000" sum2="59652.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Gold" sum="2378.000000" sum2="1131186.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Industrial Goods" sum="1868.000000" sum2="697886.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Luxury Goods" sum="2724.000000" sum2="1484318.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Medicine" sum="2896.000000" sum2="1677366.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ore" sum="975.000000" sum2="190155.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Water" sum="991.000000" sum2="196997.000000" cnt="5" time="30187335818577"/>
+    <commodity name="Ziffelan Minidragons" sum="27731.000000" sum2="256336265.000000" cnt="3" time="30187335818577"/>
+   </spob>
+  </system>
+  <system name="Zemur">
+   <spob name="Ruin">
+    <commodity name="Diamond" sum="552.000000" sum2="101568.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Food" sum="171.000000" sum2="9747.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Gold" sum="954.000000" sum2="303372.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="1549.000000" sum2="799801.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="1006.000000" sum2="337346.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Medicine" sum="711.000000" sum2="168507.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Ore" sum="990.000000" sum2="326700.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Water" sum="256.000000" sum2="21846.000000" cnt="3" time="30187288808050"/>
+   </spob>
+   <spob name="Turnpike Station">
+    <commodity name="Diamond" sum="552.000000" sum2="101568.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Food" sum="171.000000" sum2="9747.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Gold" sum="954.000000" sum2="303372.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Industrial Goods" sum="1584.000000" sum2="836352.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Luxury Goods" sum="987.000000" sum2="324723.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Medicine" sum="711.000000" sum2="168507.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Ore" sum="990.000000" sum2="326700.000000" cnt="3" time="30187288808050"/>
+    <commodity name="Water" sum="255.000000" sum2="21675.000000" cnt="3" time="30187288808050"/>
+   </spob>
+  </system>
+ </economy>
+ <shiplog>
+  <entry id="0" t="Travel" s="travel" m="20">Travel Log</entry>
+  <entry id="1" t="Travel" s="discovery">Discovery</entry>
+  <log id="0" t="30187335818577">Landed on Earth in the Sol system</log>
+  <log id="0" t="30187323605258">Landed on Mars in the Sol system</log>
+  <log id="0" t="30187311158875">Landed on Earth in the Sol system</log>
+  <log id="0" t="30187299519149">Landed on Calif High Shipyards in the Sol system</log>
+  <log id="1" t="30187298808050">You found #oSol - Home#0!</log>
+  <log id="0" t="30187288808050">Landed on Bolero in the Delta Polaris system</log>
+  <log id="0" t="30187278737337">Landed on Bolero in the Delta Polaris system</log>
+ </shiplog>
+</naev_save>

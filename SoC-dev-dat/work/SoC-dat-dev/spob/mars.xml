@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Mars">
+	<general>
+		<bar>
+			The bar is crowded, mainly by Human patrons, with quite a few K'Rinns and Rithai and some other sentients from the entire known universe
+		</bar>
+		<class>
+			A
+		</class>
+		<commodities>
+			<commodity>Food</commodity>
+			<commodity>Industrial Goods</commodity>
+			<commodity>Luxury Goods</commodity>
+			<commodity>Medicine</commodity>
+			<commodity>Ore</commodity>
+		</commodities>
+		<description>
+			Mars was the first world to be colonized by the human species, in its very first century of space exploration. Domed cities were established first, with t-farms for cultivating terraforming bacteria. The terraforming process itself took nearly a century and never turned Mars into a green planet as Earth, but mae it a semi-desertic world quite akin to what Irilia is naturally. Mars has always been left in shadows by the proximity of Earth. It is nonetheless a powerful planet and one of the major worlds on the Human Sphere.
+		</description>
+		<hide>
+			1.000000
+		</hide>
+		<population>
+			1687254000
+		</population>
+		<services>
+			<bar/>
+			<commodity/>
+			<land/>
+			<missions/>
+			<outfits/>
+			<refuel/>
+			<shipyard/>
+		</services>
+	</general>
+	<GFX>
+		<exterior>desertic.png</exterior>
+		<space>H03.png</space>
+	</GFX>
+	<pos x="8166.509880" y="-8619.619607"/>
+	<presence>
+		<faction>Independent</faction>
+		<range>
+			5
+		</range>
+		<value>
+			500.000000
+		</value>
+	</presence>
+	<tech>
+		<item>All Outfits</item>
+		<item>All Ships</item>
+	</tech>
+</spob>

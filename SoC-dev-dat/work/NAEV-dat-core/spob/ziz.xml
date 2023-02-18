@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Ziz">
+ <pos x="-14134.847457" y="17314.955606"/>
+ <GFX>
+  <space>M01.webp</space>
+  <exterior>oceanic.webp</exterior>
+ </GFX>
+ <general>
+  <class>O</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

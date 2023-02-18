@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Missions>
+	<mission name="Drunkard">
+		<lua>neutral/drunkard</lua>
+		<flags>
+			<!--<unique />-->
+		</flags>
+		<avail>
+			<!--<chance>3</chance>-->
+			<chance>100</chance>
+			<location>Bar</location>
+		</avail>
+	</mission>
+	<mission name="Tutorial Mission">
+		<lua>tutorial/tutmis</lua>
+		<flags>
+			<unique />
+		</flags>
+		<avail>
+			<location>None</location>
+		</avail>
+	</mission>
+	<mission name="Standard Cargo">
+		<lua>transport/cargo</lua>
+		<avail>
+			<priority>6</priority>
+			<chance>670</chance>
+			<location>Computer</location>
+		</avail>
+	</mission>
+	<mission name="Cargo Rush">
+		<lua>transport/cargo_rush</lua>
+		<avail>
+			<priority>5</priority>
+			<chance>350</chance>
+			<location>Computer</location>
+		</avail>
+	</mission>
+	<mission name="Ship Transport">
+		<lua>transport/shiptransport</lua>
+		<avail>
+			<priority>6</priority>
+			<chance>220</chance>
+			<location>Computer</location>
+		</avail>
+	</mission>
+	<mission name="DIY Nerds">
+		<lua>transport/diy-nerds</lua>
+		<avail>
+			<chance>100</chance>
+			<location>Bar</location>
+		</avail>
+	</mission>
+	<mission name="The Space Family">
+		<lua>shipwreck/spacefamily</lua>
+		<flags>
+			<unique />
+		</flags>
+		<avail>
+			<chance>100</chance>
+			<location>None</location>
+		</avail>
+	</mission>
+	<mission name="Standard Cargo Escort">
+		<lua>escort/escort</lua>
+		<avail>
+			<chance>100</chance>
+			<location>Computer</location>
+		</avail>
+	</mission>
+	<mission name="Standard Cargo Escort">
+		<lua>escort/escort</lua>
+		<avail>
+			<cond>
+				planet.cur():faction() ~= "Pirate" and system.cur():presence(faction.get("Pirate")) &gt; 150 and system.cur():presence(faction.get("Pirate")) &lt; 600
+			</cond>
+			<priority>4</priority>
+			<chance>960</chance>
+			<location>Computer</location>
+		</avail>
+	</mission>
+	<mission name="Smugglers Rendez-vous">
+		<lua>smugglers/smugglers-001</lua>
+		<avail>
+			<chance>399</chance>
+			<location>Bar</location>
+		</avail>
+	</mission>
+	<mission name="Pirate base Recon">
+		<lua>recon/recon-001-pirate</lua>
+		<avail>
+			<priority>3</priority>
+			<chance>100</chance>
+			<location>Bar</location>
+		</avail>
+	</mission>
+ <mission name="Dead Or Alive Bounty">
+  <lua>neutral/pirbounty_dead</lua>
+  <avail>
+   <priority>4</priority>
+   <chance>360</chance>
+   <location>Computer</location>
+   <faction>K'Rinn Council</faction>
+   <faction>Ka'Ralt Secession</faction>
+   <faction>Alliance</faction>
+   <faction>Core League</faction>
+   <faction>Purple Trail</faction>
+   <faction>Thirteen Planets League</faction>
+   <faction>Red Quadrant League</faction>
+   <faction>Baartish Intersystems</faction>
+   <faction>Candidate Systems</faction>
+   <faction>Irilia Clan</faction>
+   <faction>Arythem Clan</faction>
+   <faction>Irmothem Clan</faction>
+  </avail>
+ </mission>
+ <mission name="Alive Bounty">
+  <lua>neutral/pirbounty_alive</lua>
+  <avail>
+   <priority>4</priority>
+   <chance>360</chance>
+   <location>Computer</location>
+   <faction>K'Rinn Council</faction>
+   <faction>Ka'Ralt Secession</faction>
+   <faction>Alliance</faction>
+   <faction>Core League</faction>
+   <faction>Purple Trail</faction>
+   <faction>Thirteen Planets League</faction>
+   <faction>Red Quadrant League</faction>
+   <faction>Baartish Intersystems</faction>
+   <faction>Candidate Systems</faction>
+   <faction>Irilia Clan</faction>
+   <faction>Arythem Clan</faction>
+   <faction>Irmothem Clan</faction>
+  </avail>
+ </mission>
+ <mission name="Patrol">
+  <lua>neutral/patrol</lua>
+  <avail>
+   <priority>4</priority>
+   <chance>900</chance>
+   <location>Computer</location>
+   <faction>K'Rinn Council</faction>
+   <faction>Ka'Ralt Secession</faction>
+   <faction>Alliance</faction>
+   <faction>Core League</faction>
+   <faction>Purple Trail</faction>
+   <faction>Thirteen Planets League</faction>
+   <faction>Red Quadrant League</faction>
+   <faction>Baartish Intersystems</faction>
+   <faction>Candidate Systems</faction>
+   <faction>Irilia Clan</faction>
+   <faction>Arythem Clan</faction>
+   <faction>Irmothem Clan</faction>
+  </avail>
+ </mission>
+ <mission name="Core League Rehabilitation">
+  <lua>factions/CoreLeague/rehab</lua>
+  <avail>
+   <cond>faction.playerStanding("Core League") &lt; 0</cond>
+   <chance>100</chance>
+   <location>Computer</location>
+  </avail>
+ </mission>
+	<!--
+	-->
+</Missions>

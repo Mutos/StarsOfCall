@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Commodities>
+ <commodity>
+  <name>Generic Food</name>
+  <description>Food is necessary to sustain life. Generic food is engineered to be biocompatible with all sentient species and their common ecosystems. So it is slightly more expensive than species-specific food.</description>
+  <price>	  15.00</price>
+  <gfx_store>sustipacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>K'Rinn Food</name>
+  <description>Food, generally vegetable, produced on k'rinn-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Rith Food</name>
+  <description>Food, generally animal meat, produced on rith-biocompatible ecosystems. Warning : high risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Human Food</name>
+  <description>Food produced on human-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Sshaad Food</name>
+  <description>Food, generally animal meat, produced on sshaad-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Shapeshifter Food</name>
+  <description>Food produced on shapeshifter-biocompatible ecosystems. Warning : medium risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Pupeteer Food</name>
+  <description>Food for pupeteer symbiotes, generaly grains, produced from pupeteer-biocompatible ecosystems. Warning : high risk of not being edible for other species.</description>
+  <price>	  10.00</price>
+  <gfx_store>grains</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Ore</name>
+  <description>Ore is a key material in many industries. Smelted into metals, it provide vital resources to produce all industrial goods. Without ore, the ship-building industry and many others would grind to a halt.</description>
+  <price>	  50.00</price>
+  <gfx_store>base</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Industrial Goods</name>
+  <description>An assortment of industrial goods, ranging from cutting lasers to processed metals.</description>
+  <price>	 150.00</price>
+  <gfx_store>recycled_electronics</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Medicine</name>
+  <description>An assortment of medicines suitable for curing all sorts of ailments.</description>
+  <price>	 200.00</price>
+  <gfx_store>vaccines</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Luxury Goods</name>
+  <description>All sorts of high quality luxury goods, often products of only one planet, or even a particular area of a single planet.</description>
+  <price>	 250.00</price>
+  <gfx_store>first_class_passenger</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Ziffelan Minidragons</name>
+  <description>It was already illegal to get minidragons out of Ziffel IV, even before the quarantine, hence their exorbitant price. Plus, the huge requirements of cryosleep make that a one-ton container can only hold a dozen bird-sized dragons.</description>
+  <gfx_store>minidragon</gfx_store>
+  <price>	1000.00</price>
+ </commodity>
+ <commodity>
+  <name>Smuggled Items</name>
+ </commodity>
+ <commodity>
+  <name>Parcels</name>
+ </commodity>
+ <commodity>
+  <name>Colonists</name>
+ </commodity>
+ <commodity>
+  <name>Civilians</name>
+ </commodity>
+ <commodity>
+  <name>Tourists</name>
+ </commodity>
+ <commodity>
+  <name>Pilgrims</name>
+ </commodity>
+ <commodity>
+  <name>Group of Nerds</name>
+ </commodity>
+ <commodity>
+  <name>Teenagers</name>
+ </commodity>
+ <commodity>
+  <name>Person</name>
+ </commodity>
+ <commodity>
+  <name>VIP</name>
+ </commodity>
+ <commodity>
+  <name>Prisoners</name>
+ </commodity>
+ <commodity>
+  <name>Datapad</name>
+ </commodity>
+ <commodity>
+  <name>Satellite</name>
+ </commodity>
+ <commodity>
+  <name>Packages</name>
+ </commodity>
+ <commodity>
+  <name>Goods</name>
+ </commodity>
+ <commodity>
+  <name>Box</name>
+ </commodity>
+ <commodity>
+  <name>Gold</name>
+ </commodity>
+ <commodity>
+  <name>Waste Containers</name>
+ </commodity>
+ <commodity>
+  <name>Akk'Ti'Makkt</name>
+ </commodity>
+ <commodity>
+  <name>Angry Bee</name>
+ </commodity>
+ <commodity>
+  <name>Nelk'Tan</name>
+ </commodity>
+</Commodities>

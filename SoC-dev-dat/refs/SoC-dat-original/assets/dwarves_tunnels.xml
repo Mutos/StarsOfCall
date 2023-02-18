@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dwarves' Tunnels">
+ <pos>
+  <x>3050.590272</x>
+  <y>5121.293971</y>
+ </pos>
+ <GFX>
+  <space>A03.png</space>
+  <exterior>lava.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>67000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This planetoid is by far ore-richer than many asteroids belts, and despite hellish conditions, its mining settlement is thriving.
+  </description>
+  <bar>Mostly Human miners dreaming aloud of their future wealth</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

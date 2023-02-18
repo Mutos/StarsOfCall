@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Fighter Ripper Cannon">
+ <general>
+  <slot prop="Swivel Gun">weapon</slot>
+  <size>small</size>
+  <license>Lethal Weapon License</license>
+  <mass>2</mass>
+  <price>12000</price>
+  <description>The Ripper Cannon is a variant on the Laser Cannon, with stronger discharge tubes and an improved focuser muzzle. The result is an increase in damage per hit, though the weapon needs longer to recharge and heats up quickly. The Ripper Cannon is mostly used by experienced pilots who don't need to rely on rapid fire to hit their marks. Of course, it falls under the Lethal Spaceborne Weapons ban</description>
+  <gfx_store>ripper</gfx_store>
+  <cpu>-1</cpu>
+ </general>
+ <specific type="bolt">
+  <gfx>ripperS</gfx>
+  <sound>ripper</sound>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <delay>1.2</delay>
+  <speed>1200</speed>
+  <range>1800</range>
+  <falloff>700</falloff>
+  <gfx_end>ripperS-end</gfx_end>
+  <energy>20</energy>
+  <heatup>30</heatup>
+  <track>3</track>
+  <swivel>30</swivel>
+  <damage>
+   <type>laser</type>
+   <penetrate>5</penetrate>
+   <physical>12</physical>
+   <disable>4</disable>
+  </damage>
+ </specific>
+</outfit>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Rarilash Research Station">
+ <pos>
+  <x>1465.669962</x>
+  <y>807.173860</y>
+ </pos>
+ <GFX>
+  <space>Station-SSY004.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shoden Clusters</faction>
+  <value>50.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>19500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This station is one of the main research shipyards within Shoden space. It borders the small Relat cluster, whose uninhabited systems are used as proving grounds for new ships and weapons.
+
+It is also said that the stealth station over Banthory IV, that later became Beuzelay-la-Bastille, was a research plan stemming from Rarilash, but that has never been confirmed. Rumours tell of a power struggle between high ranking masters, that ended with the withdrawal of funding for the Banthory project.
+  </description>
+  <bar>The bar is full of Shoden spacers and researchers talking about all possible ways to wipe non-Sshaads from the face of the universe</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

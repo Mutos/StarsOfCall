@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Elnat">
+ <pos>
+  <x>1765.228972</x>
+  <y>-3062.623436</y>
+ </pos>
+ <GFX>
+  <space>J04.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

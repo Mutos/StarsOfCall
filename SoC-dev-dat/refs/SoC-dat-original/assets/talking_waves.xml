@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Talking Waves">
+ <pos>
+  <x>1258.700081</x>
+  <y>-2053.668553</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>49245000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Talking Waves took its name from its proteiform ocean life, that seems to pass from a shape to another with not much logic, and whose higher species are thought to be near-sentient.
+
+The local searchers have formally requested the help of Shapeshifters to study than peculiar fauna, as shapeshifting seem to be a defining feature of most of its species. As of now, only a few Hives answered the call, but the movement is expected to grow.
+  </description>
+  <bar>Mainly researchers in biology and sentience, along with a few local people on bearers. With luck, you could spot a group of Shapeshifters</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

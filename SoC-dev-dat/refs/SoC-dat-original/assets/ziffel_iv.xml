@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ziffel IV">
+ <pos>
+  <x>5228.808085</x>
+  <y>-6002.719377</y>
+ </pos>
+ <GFX>
+  <space>M08.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ziffel Empire</faction>
+  <value>350.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5487000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Ziffel IV has always been quite a secretive world. It was a Better Worlds colony gone awry on landing, that had been isolated for decades. Rediscovered by investigators after the Better Worlds affair, it joined Cartel Sol and thrived on exotic goods export. From 2246 HOC on, it has been subject to a quarantine after a plague broke out and decimated a large part of the population.
+
+The official planetside government is ruled as an Empire, self-proclaimed by the families of the first planetfall survivors. In the first years, the strict discipline they enforced allowed the colonists to survive in the face of an aggressive local fauna and low biocompatibility, as on many Better Worlds colonies. It still maintains a strict control on trade and contact with outplanet.
+
+However, the crew and colonists from the second ship, that arrived years later because of a main drive malfunction, resented being treated as mere labor force by the already established Firstlanders. Some fled to remote island clusters and established a de facto second planetside State, known as the Independent Territories. They were supplied from outplanet by a well-organized network of smugglers using makeshift landing grounds, often with small planetfall-capable ships rather than shuttles.
+
+When the Planetarist Alliance conquered the Sol system, some Cartelist officials who couldn't earn their passage in the Purple Flag exfiltration took refuge on various cartel-friendly planets. Ziffel IV was one of these. When the Core League seceded, the planet naturally joined the new state.
+
+As organized scarcity provided the Empire with a high income source, a few very expensive goods were officially exported through severely restricted imperial channels. A profitable smuggling business also thrived from the Independant Territories. The best-known export from Ziffel are the so-called Ziffelan Minidragons. They come from a clade of reptile-like avian creature resembling the legendary dragons of Earth myths. They exist on all size and shapes, but those hunted for export are small enough to perch on their human keepers' shoulder.
+
+When news broke of a plague decimating the Ziffelan population, a quarantine was declared as well as a blockade on trade, both of which are still in effect 4 years later. In the meantime, cunning tour operators made Ziffel a destination, where tourists pay to see the "Sick Planet" from the Quarantine Station. The extra income to the station quickly overcame the initial Core League authorities frowning. All exports, either Imperial or Independent, are officially shutdown, but it is rumored that officials still smuggle items for sky-high bribes.
+  </description>
+  <bar>The bar is peopled with Humans and you wonder... none of them seems to be sick</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+ </tech>
+</asset>

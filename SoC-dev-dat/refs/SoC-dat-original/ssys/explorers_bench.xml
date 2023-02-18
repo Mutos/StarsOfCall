@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Explorers' Bench">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>5083.376000</x>
+  <y>-2834.816000</y>
+ </pos>
+ <assets>
+  <asset>Explorers' Bench</asset>
+  <asset>The Eye</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="IS 0028">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IS 0030">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IS 0033">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 215780">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="166.395833" y="-9162.24759"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 234651">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4280.070593" y="4395.931396"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 248751">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-5595.830236" y="4688.664806"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 454010">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="135.58179" y="-9778.528453"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 654215">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-732.141665" y="-9473.469426"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 654287">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1264.608331" y="-9895.005536"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

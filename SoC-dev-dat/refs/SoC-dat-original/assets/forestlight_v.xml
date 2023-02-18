@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="ForestLight V">
+ <pos>
+  <x>-4041.089733</x>
+  <y>-2716.142279</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25876000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>ForestLight is a lush and varied world, of woodlands and oceans, great mountains and some deserts. It has long been settled by Pupeteers from the Cradle and was named for its bioluminescent woodlands.
+
+It is renowned for having been the first world where non-symbiotic sentients established permanent settlements in pupeteer space. Irilia and Planetarist colonists installed themselves on ForestLight as part of a treaty between the planets and their respective States. That treaty was inspirationnal for the secessionist wolrds of the Red Quadrant League, which ForestLight joined a few years later after a large-scale vote.
+
+The planet is also famous for the experiments on group-minds, done by a group of Pupeteers, Sshaads and Shapeshifters. They sought to artificially create Hive-Mind-like "superbrains" from aggregates of sentients linked by bioware. They were successful to a small extent, but it was never proved the created group-minds actually gained a separate consciousness and the experiments were stopped as being a dead-end.
+
+Most creatures from ForestLight tend to have metallic hues in their skins, ranging from steel-grey to golden and copper. This is due to the endemic aerial plancton they inhale, that enters the organism, becomes symbiotic and settles in the creature's skin. Of course, being entient doesn't remove this effect, so it also applies to colonists and sometimes to mere tourists, if they stay long enough in plancton-rich areas. Some even come to the planet to gain that so-called "ForestLight jewels".
+  </description>
+  <bar>A large crowd of Pupeteers, Rithai and Humans, locals of all species standing out by their skin's metallic hues</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

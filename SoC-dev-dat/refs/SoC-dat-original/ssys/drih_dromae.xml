@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Drih Dromae">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>1681.432000</x>
+  <y>-3004.368000</y>
+ </pos>
+ <assets>
+  <asset>Drih Skarae</asset>
+  <asset>Irol</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Iri 0214">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0215">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0219">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0224">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 176862">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3372.288882" y="843.072221"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 518677">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2684.519439" y="-5923.691655"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 591021">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3083.869438" y="-6411.786098"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 678521">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3816.011104" y="-6899.880542"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 798861">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3705.080548" y="88.744444"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 901023">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3438.847215" y="-5857.133322"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

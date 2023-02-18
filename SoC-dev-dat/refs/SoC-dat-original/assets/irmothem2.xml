@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irmothem-2">
+ <pos>
+  <x>-5101.047696</x>
+  <y>-2981.131770</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>150.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>754819000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This cold yet rich world was the second sublight colony of the Irmothem Clan. It was later linked to Irmothem itself by a jump route, which from then on became a major artery of the Clan's space.
+
+From it departed many expeditions to settle new planets a few jumps beyond, or surround them with dual-counter-rotating habitats. In this, the Irmothem differed greatly from the other major Clans, who never established so many stations, preferring to only settle already living planets.
+   </description>
+  <bar>A nearly exclusively rith crowd, with many Thiskai proudly dislpaying various subclans markings, and merchants in spacer attire</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

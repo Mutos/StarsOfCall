@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ka'Ralt">
+ <pos>
+  <x>-3113.626515</x>
+  <y>-4571.068714</y>
+ </pos>
+ <GFX>
+  <space>moon-P02.png</space>
+  <exterior>mining5.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ka'Ralt Secession</faction>
+  <value>650.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>253648000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Ka'Ralt was the 3rd and last full-k'rinn planetary colony. During the 2nd Fringe War, its population refused to conclude a treaty with a non-k'rinn faction, the human Planetarist Alliance. In the face of an incoming Arythem siege fleet, it rather submitted itself to an emergency Defenderization plan, transforming thousands of volunteer regulars into Defenders.
+
+This move was viewed with horror by the Council and the colony proclaimed itself as "The Secession". In a very tight session that lasted three full days while under pressure from the battlefield, the Council decided to let the new State fend for itself.
+
+The Secession hastily converted its fleet for military duty. With mining ships insystem, an extensive asteroid belt to hide in, and hundreds of thousands of newly converted Defenders, they prepared a grand show of force. While most colonists thought of that as a last stand, seasoned spacers of the High Command staff knew more of rith cultures, and especially Arythems. They believed that, if they could show their defiance and courage with enough might, they stood a chance of the Clan recognizing them as brave foes and entering negociations.
+
+Hopefully for Ka'Ralt, they were right. The space battle lasted four full days, but when the battered Arythem fleet came into Ka'Ralt orbit, the observation drones showed how costly occupying the planet would be. Fleet Command had already changed its opinion on Ka'Ralters. From slight contempt for the pacifist K'Rinns and for some, hatred for a people they perceived only as na'imshoid aliens, they had turned to show them the respect brave foes deserve. Negociations were opened and a truce was reached.
+
+The Arythem Fleet was quickly rerouted into the main attack path, but Ka'Ralters actually did save time for Ek'In defence to gather from the other k'rinn systems. Also, after the Battle of Ka'Ralt, Arythem forces used much more caution, which gave the Council Forces some leeway in the ensuing battles.
+
+Nearly a century after the events, the role of Ka'Ralt in the war is still a topic of dispute. Ka'Ralters boast themselves as the ultimate Defenders, sacrificed to save time for the Council by diverting the Arythem blow, while they are viewed with distrust by Council citizens, as traitors to the species' cohesion and pacifism.
+  </description>
+  <bar>A varied crowd of Ka'Ralters, most of them dressed in the colorful attire their culture is known for</bar>
+ </general>
+ <tech>
+  <item>All Outfits</item>
+  <item>All Ships</item>
+ </tech>
+</asset>

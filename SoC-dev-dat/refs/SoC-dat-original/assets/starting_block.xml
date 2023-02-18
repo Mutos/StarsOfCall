@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Starting Block">
+ <pos>
+  <x>6678.019431</x>
+  <y>4437.222213</y>
+ </pos>
+ <GFX>
+  <space>I04.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

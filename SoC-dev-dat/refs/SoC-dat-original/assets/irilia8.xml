@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-8">
+ <pos>
+  <x>-5366.037186</x>
+  <y>-2583.647534</y>
+ </pos>
+ <GFX>
+  <space>K03.png</space>
+  <exterior>desertic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>975000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A typical Irilia planet, mostly divided between sand deserts, tundras and forests, with small polar ice caps and oceans. Its wide biodiversity and rich ecosystems make it a prime provider of food for all the neighbouring sectors, and its high biocompatibility with all known lifeforms still enhanced this tendancy.
+
+The drawback to this highly agricultural orientation is that the technological level has stayed low, despite tentatives of the local governments to create more tech-ventures. However, they have succeeded in attracting producers of generic food, that see in the planet's highly biocompatible life a great raw material for making wide-spectrum food products.
+  </description>
+  <bar>A varied crowd of all sentients, most of them somewhat linked to some agricultural concern</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

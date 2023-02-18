@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Persephone's Bane">
+ <pos>
+  <x>4173.584478</x>
+  <y>2186.163298</y>
+ </pos>
+ <GFX>
+  <space>002.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>100</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This recently discovered station has been identified as the probable location where the Persephone European Deep Space Explorer did land one century ago.
+
+On the station, the Persephone crew found there nanobiotech facilities, that enabled them to survive and refurbish their ship, but transformed them in horrible ways. They then tried to fly home and in the process attacked Tempest, in the Hoshi no Hekka, to loot the material they needed. The ship and its whole crew were destroyed, except one survivor. This event has been shrouded in secrecy by the Hoshi no Hekka, but has been revealed over time and is now known as "the Tempest Incident".
+
+As of 2250, the researchers only discovered nonfunctionnal machines and traces of adaptation to the machines for human biology, that made them think it was the station where the Persephone docked for some years. It seems the explorer ship's crew did strain too much the station's systems, which collapsed in the ensuing decades.
+  </description>
+  <bar>Many researchers and a few spacers</bar>
+ </general>
+</asset>

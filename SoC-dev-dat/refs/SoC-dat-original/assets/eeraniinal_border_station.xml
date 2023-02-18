@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eeraniinal Border Station">
+ <pos>
+  <x>-5034.800323</x>
+  <y>2716.142279</y>
+ </pos>
+ <GFX>
+  <space>Station-001-Comm-Hub.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>400.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>79600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Named after its star's color, this station is a major stronghold and trade outpost at the border of the Sshaad Sphere. It guards the entry of the Candidate Systems from the Irilia and Thirteen Planets League, and is pivotal for commerce with the Rith and Puppeteer Spheres.
+
+It replaces a smaller station that was blown to pieces during an attack never fully explained. Several ships were vying near the station when, for an unknown cause, one of them fired a missile volley. The situation quickly degenerated into a fierce skirmish and the station was hit by several shots, decompressing and prompting emergency evacuation. Odd events followed near the station, involving what seemed to be a wild Rockstealer with abnormal warp power, that was signaled at some nearby stations, then disappeared.
+
+A well-known novel, named "The Space Pariahs" and rumored to be the Rockstealer's autobiography, tells it involves factions as diverse as the Irilia Clan, an unnamed extremist Defenders factions from k'rinn space, the Proteous Resistance, Human from a subsidiary of the Harushita Policorpo, some Baartish subcorps and the infamous Shodens. Despite its being published with several footages of video and audio cues that seemed authentic, it was never truly confirmed and is, still now, a popular controversy topic. Some Spacers even claim to have seen the Rockstealer herself...
+  </description>
+  <bar>A crowd of mostly harmless tradesbeings, mainly Sshaads, with some Rithai and Pupeteers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

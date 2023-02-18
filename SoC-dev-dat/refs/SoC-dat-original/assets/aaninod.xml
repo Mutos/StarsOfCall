@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aan-Inod">
+ <pos>
+  <x>-8612.158447</x>
+  <y>-7684.695230</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>500.000000</value>
+  <range>8</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>87450</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This station has been built by a small group of pirates to be able to intercept convoys running the Aan-route between Aan-Lales in Instrumentality space and Lalerin in the Candidate Systems.
+
+A recently discovered route to Tsaa'lisht now enables them to also prey on the Baartish border. It has attracted other pirate squadron, which allowed to extend the station far beyond its former importance. It is now forming a true pirate power claiming the whole Aan sector.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

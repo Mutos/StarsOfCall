@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Kerloth">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>3378.040000</x>
+  <y>-2708.016000</y>
+ </pos>
+ <assets>
+  <asset>Heth</asset>
+  <asset>Heth no Dirnae</asset>
+  <asset>Kerloth Transfer Station</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Iri 0136">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0138">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0141">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0244">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 709815">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2747.527995" y="-3865.707992"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

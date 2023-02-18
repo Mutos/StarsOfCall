@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Sirius Preacher">
+ <points>60</points>
+ <base_type>Preacher</base_type>
+ <GFX size="70" sx="10" sy="10">preacher</GFX>
+ <rarity>2</rarity>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Corvette</class>
+ <price>1200000</price>
+ <time_mod>1</time_mod>
+ <trail_generator x="-25" y="0" h="0">sirius</trail_generator>
+ <fabricator>Sirius Systems</fabricator>
+ <license>Medium Combat Vessel</license>
+ <cond>faction.playerStanding("Sirius") &gt;= 40</cond>
+ <condstr>You need at least 40 reputation with House Sirius.</condstr>
+ <description>The Preacher, as its name implies, is the primary vessel by which House Sirius projects its message and will. Fielding a large array of weaponry, the Preacher is adept at making converts out of unbelievers.</description>
+ <health>
+  <armour>250</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>11</crew>
+  <mass>140</mass>
+  <fuel_consumption>200</fuel_consumption>
+  <cargo>20</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="medium" x="15" y="1" h="2" />
+  <weapon size="medium" x="15" y="-1" h="2" />
+  <weapon size="medium" x="-9" y="-10" h="2" />
+  <weapon size="medium" x="-9" y="10" h="2" />
+  <weapon size="medium" x="-9" y="-3" h="2" />
+  <weapon size="medium" x="-9" y="3" h="2" />
+  <utility size="medium" prop="systems">Unicorp PT-200 Core System</utility>
+  <utility size="medium" prop="accessory" />
+  <utility size="medium" />
+  <utility size="medium" />
+  <utility size="small" />
+  <structure size="medium" prop="engines">Nexus Arrow 700 Engine</structure>
+  <structure size="medium" prop="hull">Unicorp D-12 Medium Plating</structure>
+  <structure size="medium" />
+  <structure size="medium" />
+ </slots>
+ <stats>
+  <speed_mod>-10</speed_mod>
+  <shield_mod>10</shield_mod>
+  <armour_mod>15</armour_mod>
+  <stress_dissipation>20</stress_dissipation>
+ </stats>
+ <tags>
+  <tag>sirius</tag>
+ </tags>
+</ship>

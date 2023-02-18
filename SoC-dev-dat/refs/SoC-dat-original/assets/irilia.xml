@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia">
+ <pos>
+  <x>-6408.645254</x>
+  <y>-5277.797048</y>
+ </pos>
+ <GFX>
+  <space>H01.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>650.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1253542000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The first skaraformed world, home of the renowned Clan Irilia, colonized at the beginning of the rith space age by a concern of small Clans hoping to escape the extended Irmothem-Arythem cold war that was taking place on Skarae at the time. While the major Clans were expending their strength launching sublight extradromal expeditions in a show of forces, the non-aligned used that very rivalry to their advantage to secure a colonization expedition to Irilia.
+
+Once the expedition was about to take off, however, Irmothem and Arythem pretexted a local feud to attempt seizing the launch site. It was later revealed that the whole affair was a trap for damaging the non-aligned clans' best assets beyond hope of repair. But both superpowers wanted to take the facilities for their own, and they didn't wait until the site was captured to fight among themselves. While the Irilia warriors defended the cargoes' takeoff, Irmothem and Arythem attackers turned on one another.
+
+Thus began the legend of Raltir and Ermel, the "Heroic Moons". Respectively heiress and heir of their respective tribes, they gave their lives to ensure that the cargoes could safely enter transfert course to Irilia. The new Clan gave their name to Irilia's two main moons, and the third was unofficially dubbed Ortir, from the lord, a good friend of them, on whose lands was built the launch facility.
+
+Once the sand planet was theirs, the Irilia quickly became recognized as the third Major Clan of the Rith Sphere. At the same time, the third moon was oficially endorsed by the Rithai Kemae. In the ensuing decades, Irilia Clan rose to prosperity and its scientists discovered hyperspace transfert. It became the main supplier of jump drives of the Rith Sphere and began colonizing extradromal planets.
+
+Nowadays, planet Irilia is still the Clan's stronghold and main base in the Drom system, from which the many Irilia colonies hail.
+  </description>
+  <bar>Wealthy and proud Rithai of the Irilia nobility, some in traditionnal desert attire and some in spacers' garments</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Dwarves' Tunnels (Gl 261)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1929.424320</x>
+  <y>-1438.329600</y>
+ </pos>
+ <assets>
+  <asset>Dwarves' Tunnels</asset>
+  <asset>Godjaveri Staryards</asset>
+  <asset>Runners' Station</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Carrouf (NN 3487)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GL 283 A">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Meetpoint (Gl 291)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="NN 3466">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 145621">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3949.12777" y="2196.424996"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

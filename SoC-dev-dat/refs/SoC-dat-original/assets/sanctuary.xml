@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sanctuary">
+ <pos>
+  <x>-4527.974175</x>
+  <y>-4940.871073</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>750.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>158962000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Sanctuary was settled as the Planetarist Movement rose, far from the center of the Human Sphere, by then Policorpos-controlled space. Its location stayed secret until the Alliance declared itself. Even then, it was known only to a few captains, commerce with outside the Alliance being handled via several buffer stations in border systems.
+
+Since the Alliance's victory over Cartel Sol, it has become a proud capitol world, contending with Earth for the title of most influential planet in the Human Sphere. The rivalry between the two worlds was indeed one of the unseen reasons that prompted the Core League's secession from the Alliance.
+
+Sanctuarians have a reputation of being overly proud, especially the original settlers' descendants, who view themselves as the founders of the Alliance, often understating the role of the First Colonies and the Purgatory War in the rise of the movement, and the fact the Alliance was effectively founded in deep space.
+  </description>
+  <bar>Proud and well-off Planetarist dignitaries and upper-class people, along with a host of wealthy visitors from all the known universe</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

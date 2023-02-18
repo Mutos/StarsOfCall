@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="UX IIX">
+ <pos x="16448.723203" y="-12793.912085"/>
+ <GFX>
+  <space>I02.webp</space>
+  <exterior>uninhabited-rocky-green-03.webp</exterior>
+ </GFX>
+ <general>
+  <class>I</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

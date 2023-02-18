@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ergal">
+ <pos>
+  <x>2221.253279</x>
+  <y>-2394.267093</y>
+ </pos>
+ <GFX>
+  <space>O02.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>818500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Of the twin planets that give its name to the system, Ergal, the ocean planet with a lush ecosystem biocompatible to all known life, is the most adapted to rithkind. Its population roughly amounts to 2/3 Rithai, 1/6 Sshaads and 1/6 Shapeshifters, the complementarist communities residing mostly on the large eastern continent. It is administered by Arythem, with Baartish representatives.
+
+The co-colonies were designed from the start with cooperation in mind and are powerful examples of what Complementarism can achieve. The three species work in unison to strive on the rich local ecosystems, and nearby asteroids fields provides them with ores lacking on Ergal's planetary crust.
+  </description>
+  <bar>Lots of Rithai and some Sshaads and Shapeshifters, most of them involved with marine life</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

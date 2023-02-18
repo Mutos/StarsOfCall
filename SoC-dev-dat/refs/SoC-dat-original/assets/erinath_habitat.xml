@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Erinath Habitat">
+ <pos>
+  <x>4925.316657</x>
+  <y>2289.606662</y>
+ </pos>
+ <GFX>
+  <space>Station-SCO004.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>8452000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This station, originally called Hochbergspitze was built to be the capitol of the Würth-Faradji Frei Gericht, a state that was to be created along the Raumbahn Sieben jump shortcut flanking the Planetarist Alliance and Core League and linking Villera and Nyotekundu to Sinjiang and Nouvelle Hong-Kong. As the creation of the new state, heavily backed by local mafias, would have destabilized the whole sector, central to the Spacegoing Species Community balance, the Stellar Police twarted the attempt.
+  
+  Left to itelf after two years of monitoring, the station's people ended up by charting for themselves an independent status, under joint supervision of the League and Alliance. The presence of many Rithai from the Erinath Clan at the time of the independance and the fact that the Clan backed their operation, prompted them for renaming the station in its name, which, after being accepted by the Clan, gave them the equivalent of a formal treaty with it.
+  </description>
+  <bar>Numerous merchantbeings and spacers, mainly Humans, Rithai and K'Rinns</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

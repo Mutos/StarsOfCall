@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="TPL 0069">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>696.472000</x>
+  <y>-3866.640000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="TPL 0065">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0068">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

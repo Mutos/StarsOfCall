@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<effect name="Hypergate Enter">
+ <description>Entering a hypergate!</description>
+ <duration>3</duration>
+ <overwrite>wormhole_enter</overwrite>
+ <icon>/gfx/misc/icons/galaxy.webp</icon>
+ <lua>effects/lua/hypergate_enter.lua</lua>
+ <shader vertex="effect15x.vert">effects/hypergate_enter.frag</shader>
+</effect>

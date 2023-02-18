@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Skarae">
+ <pos>
+  <x>2119.915925</x>
+  <y>1192.452708</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Rithai Kemae</faction>
+  <value>750.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2354286000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The Rith Homeworld and the Rith Core systems are ruled in parts by all 3 Major Clans. To settle constant disputes, they agreed to give the formal authority on the planet to the major inter-clan organisation, the Rithai Kemae Guild.
+
+The Irmothem and Arythem Clans are of the same origin : the Arrhan Empire, direct heir to a large group of tribes known as the Arrhan Clan. That Clan has been at war for several centuries with the Orthid Clan, in what is generally called the Forever War. As both Clans were but a ragtag assembl of tribes warring amongst them, none could achieve supremacy. But after a short, but intense ice age hit the planet, striking mostly Orthid land, there were mass exodes to the South and on border zones, the two Clans began to mix. The arose the great conqueror Erhan ud Arrhan. He managed to unite the diverse Arrhan tribes and some ex-Orthid to strike a final blow and conquer nearly the whole of the southern continent : Irmothem Skarae.
+
+The Arrhan Empire combined the Orthid caste system and the Trial of Honour into a form of society that would never be challenged until the Space Age, several centuries later. Even with the rise of independent Clans that would form the Irilia Clan, this system remained the Rithai's base social structure, and was borne to the stars by the colonists. It is now only challenged by a few isolated tribes, that try to revive old primitive societies, to borrow social structures from other species, or to find innovative structures adapted to rithkind.
+
+The exploration of Skarae from Irmothem Skarae has been done by the great navigator Arythem ud Irol. She discovered the continent that bear her name and her successors conquered it and assimilated the old Irmaoth civilisation. They imposed the Arrhan social order onto Arythem Skarae, but adopted the Irmaoth views on philosophy, religion and science. That would later prove to be a great advantage for them. They soon seceded from the Irmothem Clan to make their own Clan. The notion of Major Clan dates from that "cold war" period.
+
+Later, as the Major Clans began a race for space, a group of tribes unwilling to take side on that cold war assembled and secretly planned to colonize nearby planet Irilia. Upon the departure of that expedition, Skarae was virtually under the dual dominion of the Irmothem and Arythem Clans. Only the Rithai Kemae Guild, long-time diplomacy place between the two superpowers, could settle their dispute, and it didn't do so before the end of the Fringe Wars, several decades afterwards. Now the Major Clans rule their respective continents and the Kemae all small islands and planetwide infrastructure. Its ambiion is to unite the Rithai as the Council did for the K'Rinns.
+  </description>
+  <bar>Proud locals, always friendly but sometimes looking down on off-planet visitors</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eden">
+ <pos>
+  <x>-1735.182459</x>
+  <y>1534.388891</y>
+ </pos>
+ <GFX>
+  <space>M00.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>700.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2153000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A lush paradise orbiting a spectacular gas giant named "Utsukushi", the Japanese word for "beautiful", Eden is the only largely colonized planet in the Hoshi no Hekka and is a legend in its own right among Spacers.
+
+Originally from fear of having a "gravvies attitude" spoil the HnH's ideological foundation, the Council of the Hekka keeps picturing Eden as a kind of "Turtle Island in space", an idyllic resort when only true Spacers can land. This allows them to keep planetside permanent residents to a bare minimum, but also helps attract tourists and thus traffic and trade.
+
+The planet and the entire system are fiercely protected by all HnH people. There is always at least two Fortresses patrolling the Eden system, all non-HnH ships are required to register on Eden High before proceeding to the planet and permanent residency visas are very sparingly issued.
+  </description>
+  <bar>Proud Hekkan people telling some tourists embellished tales of deep space adventures.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="KT-134 Station">
+ <pos>
+  <x>3023.783232</x>
+  <y>-1671.196183</y>
+ </pos>
+ <GFX>
+  <space>Station-SCV002.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>78000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>The planet Irilia-12 was initially colonized by both Irilia and Arythem Clans, whose settlers maintained an armed truce, whith the K'Rinn Council orbital station serving as a neutral place, as the Council had good diplomatic relations with both Clans.
+
+Then, a rich tilkath deposit was discovered on a border region. The Arythem swiftly moved in, blockaded the system and called for reinforcements. When the Irilia core worlds got the news and sent an answer force, all was over. After a fierce battle, the Irilia colony has surrendered and declared itself an Arythem feud.
+
+But the incoming Arythem srike force took the station by force, killing several K'Rinns. The Council protested and sent an envoy to reclaim the station and get apologies for the lost lives. They were sent back with the diplomatic equivalent of a scolding. A second envoy never came back and the news of its demise was sent to the Council by message pod.
+
+Council authorities declared the Arythem Clan as Ennemies of the K'rinns and ordered a fleet to be assembled around the newly commissionned cruiser-carrier Ma'Tang, then first of the name.
+
+Emerging unexpected thanks to their slingshot jump satellites, the Council strike fleet quickly freed the station and dispatched the Arythem blockade. The unexpected attack left the Arythem forces disbanded as the Irilia fleet jumped in. The resulting joint task force took on a swift lightning strike that, in a matter of weeks, drove the Arythem out from not only the planet, but the system and the whole sector.
+
+This was the beginning of the Fringe Wars, that turned the universe into chaos for decades and ended only with utter Arythem defeat and the subsequent creation of the Community. Being the place where all started, the station has been turned into a memorial to universal peace and a trading center between Irilia, Arythem and the Council.
+  </description>
+  <bar>A crowd of tourists of many species, mostly K'Rinns and Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

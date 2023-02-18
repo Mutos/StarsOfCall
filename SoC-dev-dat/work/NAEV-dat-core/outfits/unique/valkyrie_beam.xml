@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Valkyrie Beam">
+ <general>
+  <slot>weapon</slot>
+  <unique />
+  <size>large</size>
+  <license>Heavy Weapon</license>
+  <mass>55</mass>
+  <price>750000</price>
+  <description>The Valkyrie Beam is a heavily modified version of the Ragnarok Beam, where the shields of the ship are significantly rerouted into the beam weapon to increase the output damage. The result is an incredibly potent beam that has a tendency to leave the ship as a sitting duck if it is unable to destroy the target in a single shot.</description>
+  <desc_extra>#rDrains 80 shield per second when firing and for one second after.#0</desc_extra>
+  <gfx_store>ragnarok.webp</gfx_store>
+  <cpu>-350</cpu>
+ <rarity>6</rarity></general>
+ <specific type="turret beam">
+  <lua>outfits/unique/valkyrie_beam.lua</lua>
+  <delay>10</delay>
+  <duration min="2">5</duration>
+  <range>700</range>
+  <turn>25</turn>
+  <energy>160</energy>
+  <heatup>60</heatup>
+  <damage>
+   <type>normal</type>
+   <penetrate>95</penetrate>
+   <physical>250</physical>
+   <disable>18</disable>
+  </damage>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <sound>beam0</sound>
+  <sound_off>beam_off0</sound_off>
+  <shader r="1." g="0.6" b="0.9" a="1." width="26.">beam_helix</shader>
+ </specific>
+</outfit>

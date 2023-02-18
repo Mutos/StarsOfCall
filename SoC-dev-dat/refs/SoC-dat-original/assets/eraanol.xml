@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eraanol">
+ <pos>
+  <x>-6293.460173</x>
+  <y>1926.493978</y>
+ </pos>
+ <GFX>
+  <space>moon-C01.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

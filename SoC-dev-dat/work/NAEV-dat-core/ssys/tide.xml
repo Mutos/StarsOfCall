@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Tide">
+ <general>
+  <radius>13000.000000</radius>
+  <stars>400</stars>
+  <interference>42.857100</interference>
+  <nebula volatility="75.800000" hue="320.000000">800.000000</nebula>
+ </general>
+ <pos x="754.212963" y="214.000000"/>
+ <spobs/>
+ <jumps>
+  <jump target="Antares">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sol">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

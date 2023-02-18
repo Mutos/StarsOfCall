@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Naled">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1574.120000</x>
+  <y>-3249.744000</y>
+ </pos>
+ <assets>
+  <asset>Naled I</asset>
+  <asset>Naled II</asset>
+  <asset>Naled III</asset>
+  <asset>Naled IV</asset>
+  <asset>Naled IX</asset>
+  <asset>Naled V</asset>
+  <asset>Naled VI</asset>
+  <asset>Naled VI.1</asset>
+  <asset>Naled VII</asset>
+  <asset>Naled VIII</asset>
+  <asset>Naled VIII.1</asset>
+  <asset>Naled VIII.2</asset>
+  <asset>Naled VIII.3</asset>
+  <asset>Naled VIII.4</asset>
+  <asset>Naled X</asset>
+ </assets>
+ <jumps>
+  <jump target="CS-TPL-RQL - 1 - 1">
+   <pos x="9508.957410" y="-6648.086009"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ind 0004">
+   <pos x="-6857.288363" y="7094.196804"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ind 0007">
+   <pos x="-12997.522392" y="-3481.076358"/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 133859">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-14024.578162" y="-3306.479202"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 186514">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2018.936107" y="4326.291658"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 239530">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4397.933273" y="2243.703776"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 276309">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-13629.371751" y="-3858.608436"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 294880">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="496.845632" y="10103.924748"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 296773">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="463.17737" y="-9987.352531"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 373567">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4022.341937" y="4696.060176"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 405417">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="11558.963866" y="-931.816665"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 417110">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="11033.993148" y="-4869.460904"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 418741">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6622.916558" y="7213.272853"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 497290">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4397.933273" y="2243.703776"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 548479">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4947.502768" y="4082.244436"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 552465">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="15764.811565" y="2298.871582"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 558351">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3113.626515" y="-3776.100242"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 598871">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-12824.797911" y="-3483.10474"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 609034">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2013.984877" y="-4220.049649"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 796287">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-9697.918916" y="8864.707189"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 829403">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6269.794988" y="-13742.077196"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 840852">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="954.002776" y="5923.691655"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 885530">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4070.924195" y="2894.87856"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 941416">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6622.916558" y="7213.272853"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 945962">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6740.024134" y="-6028.16838"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 965113">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10383.09998" y="8865.569982"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

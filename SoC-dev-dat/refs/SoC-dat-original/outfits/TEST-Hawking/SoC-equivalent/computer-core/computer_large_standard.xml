@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hawking Computer">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Computer Core">structure</slot>
+  <size>large</size>
+  <price>10000</price>
+  <description>The computer core is the ship's brain, and sometimes is actually an AI. This is not the case though in this standard issue computer.</description>
+  <gfx_store>hk2250/Computer-Core-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <cpu_max>180</cpu_max>				<!-- Main purpose	: gives the ship its CPU value -->
+ </specific>
+</outfit>

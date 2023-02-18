@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-10">
+ <pos>
+  <x>1921.173807</x>
+  <y>-1854.926435</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>60487000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Apparently a lush planet well suited to be settled, but its biotope was later discovered to be only 35% biocompatible with skaraean life. Native and skaraformed lands are now separated by large border zones where the two lifesystems wage a ruthless war, with little or no bridge species.
+
+The situation is now dramatic, as the implanted skaraean life destroys invaluable biodiversity while failing to really make the most of the terrain, which the indigenous lifeforms already did. Some have suggested to abandon the planet, but the stakes are already too high for most settlers.
+
+Many local clans tried to bridge the gap, but for now to no avail. There is however a hope, as some famous Pupeteers research domains from High Reaches have seen that situation as a suitable challenge for their gengineering skills. They have sent researchers, who actually seem to progress better than their rithai predecessors.
+
+It has also been discovered that the original biotope is largely biocompatible with sshaad and shapeshifter life, leading to a new path of hope. Negociations have begun with the Baartish and Candidate Systems for installing a Complementarist co-colony. If this endeavor succeeds, Irilia-10 could become a major multi-species population centre near the very heart of the Commonwealth.
+ </description>
+  <bar>Sentients from all species eagerly chatting together</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

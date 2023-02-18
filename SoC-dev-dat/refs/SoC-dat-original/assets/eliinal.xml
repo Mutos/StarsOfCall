@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eliinal">
+ <pos>
+  <x>-2207.896694</x>
+  <y>-2747.790284</y>
+ </pos>
+ <GFX>
+  <space>I06.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

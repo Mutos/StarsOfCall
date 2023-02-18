@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-14">
+ <pos>
+  <x>3327.916660</x>
+  <y>-3198.497679</y>
+ </pos>
+ <GFX>
+  <space>G01.png</space>
+  <exterior>gas.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>253000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>Initially established as a mere mining outpost, the colony has thrived with trade when a route to the Planetarist Alliance was discovered.
+
+However, its harsh living conditions don't encourage new settlers to come in and skaraformation to any extent would spoil the resources-rich mines, so the population stays quite low and is mainly comprised of miners and traders living in dome cities.
+  </description>
+  <bar>Hardened miners talking of their latest discoveries</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

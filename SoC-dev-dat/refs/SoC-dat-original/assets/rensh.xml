@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ren'sh">
+ <pos>
+  <x>-2649.894907</x>
+  <y>-1656.184317</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ren'sh Planetary Council</faction>
+  <value>950.000000</value>
+  <range>7</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>928876000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>From space, Ren'sh seems a harsh and barren planet, but its underground hydrographic network is far more extended than its outside desert-like appearance betrays. With Traanil, it forms a dual-body system orbiting around its center of mass, rather than the regular planet-satellite system.
+
+The Ren'sh Planetary Council is the closest thing in the Sshaad Sphere to a fully independant planet. It has been so from the very beginning and, contrary to common sshaad manner, all danebs on the planet maintained a close political proximity. They are all masterless danebs, removed from the usual Colonisation Corporations and allied with the Daneb Anarchs. When Complementarism began to rise, they choose to also ally with the Candidate Systems, and the planet is now home to numerous complementarist settlements.
+  </description>
+  <bar>You stand among a crowd of proud Ren'shers with some spacesshaads and an occasional offworld merchant</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

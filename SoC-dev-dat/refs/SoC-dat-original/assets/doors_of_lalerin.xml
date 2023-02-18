@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Doors of Lalerin">
+ <pos>
+  <x>-7885.299092</x>
+  <y>4011.932818</y>
+ </pos>
+ <GFX>
+  <space>I06.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Tuskegee Training Academy">
+ <pos x="-19012.995956" y="-30540.038801"/>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>125000</population>
+  <hide>1.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>With its name a tribute to the glory days of the fight for equality in the army, the Tuskegee Training Academy, or TTA for shorts, is the most famous station in the Sol Training Network. It holds 2 courses, the first one for cadets and the second one a Top Gun session. It is established on an asteroid, which orbit is often modified by warpless thruster burns under strict in-base directions, so its exact position is never known outside a restricted circle of Core League military officials.
+
+Statistics show that TTA cadets are more likely than other STN cadets to achieve Elite status in the fighter and bomber units, and are also susceptible to reach higher ranks in the military hierarchy.
+
+The Tuskegee version of Top Gun training is famed for its unusual entry exam : the candidates, already proven pilots from operational units, are free to choose any ship they want from their unit and equip it as they want, with only dummy ammo however. They are then launched and have 10 Mars-days to find the station, infiltrate its defence perimeter and show up at one of some predetermined rendezvous points. Success rate is held secret, but public estimates rate it at around 1 out of 20.
+
+The Tiger Meet regular fighting units contest is occasionally held at Tuskegee, just like at any other STN base. Local cadets, customarily authorized to enter the competition, hold their ground fairly well compared to other bases' cadets. The station's Hall of Fame even displays more than a few Golden Hobbes won by cadets.
+  </description>
+  <bar>Mostly spacemen, with some gound crew.</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</spob>

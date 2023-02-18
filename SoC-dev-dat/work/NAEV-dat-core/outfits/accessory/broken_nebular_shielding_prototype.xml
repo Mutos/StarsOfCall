@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Broken Nebular Shielding Prototype">
+ <general>
+  <unique />
+  <typename>Accessory</typename>
+  <slot prop="accessory">utility</slot>
+  <size>small</size>
+  <priority>3</priority>
+  <mass>0</mass>
+  <price>800000</price>
+  <description>A broken prototype for a novel shielding device that is supposed to enable travel into the Sol Nebula. However, due to its malfunction you almost died. On the other hand it does seem to absorb harmful energy and emit heat radiation into space.</description>
+  <gfx_store>nebula_shielding_prototype.webp</gfx_store>
+ <rarity>6</rarity></general>
+ <specific type="modification">
+  <stress_dissipation>25</stress_dissipation>
+  <heat_dissipation>25</heat_dissipation>
+ </specific>
+</outfit>

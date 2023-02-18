@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irali">
+ <pos>
+  <x>-2180.486493</x>
+  <y>-5105.503377</y>
+ </pos>
+ <GFX>
+  <space>Planet-011-red.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

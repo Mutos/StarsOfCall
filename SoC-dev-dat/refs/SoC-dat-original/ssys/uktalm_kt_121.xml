@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Uktalm (KT 121)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>81.216000</x>
+  <y>-409.536000</y>
+ </pos>
+ <assets>
+  <asset>A'Ilnet</asset>
+  <asset>Alin'T</asset>
+  <asset>El'Tinal</asset>
+  <asset>T'Ilnet</asset>
+  <asset>T'Telnar</asset>
+  <asset>Uktalm</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="KT 35">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 47">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 49">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 619806">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4810.966123" y="4336.49881"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 68741">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3242.12285" y="-2448.147197"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 762188">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2353.445846" y="-2908.509001"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 980109">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9096.305538" y="-3827.104159"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 981600">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4574.418412" y="2460.175611"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

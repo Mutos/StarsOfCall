@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nya Jorden">
+ <pos>
+  <x>1854.926435</x>
+  <y>-3511.110751</y>
+ </pos>
+ <GFX>
+  <space>L00.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Akta Manniskor</faction>
+  <value>600.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>95387500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The Akta Manniskor movement owes its name to a pre-space neo-humanist expression, from a Swedish movement born in 2004 to oppose nano and bionic enhancement. They refuse any alteration to the original human stock and are ready to oppose whoever they see as traitors to the Human race, using force if they deem it necessary.
+
+The old Akta Manniskor was charged with terrorism in 2031 and forced into dormancy during most of the Corporatist and Planetarist periods. The modern movement appeared on Mars in 2192. It soon spawned chapters in nearly all Core League planets, promoting violent action against AIs and enhanced Humans.
+
+In 2216, it funded a colonisation expedition to a newly discovered planet in Purple Trail space. Their departure from Core space was welcomed by the corrupt politicians who compromised with non-Humans and transhumanists. Nya Jorden, meaning "New Earth" in Swedish, is now their home, in which they intend to build a race of superior Humans by "controlled blending of the best specimens from all True Human Races". The Nya Jorden regime applies active eugenics, but bans any attempt at gengineering, AI, nanotechs or cyber-implants.
+
+For instance, any citizen can randomly be selected at any time for purity and strength tests to prove their value to the Human Race. Refusal or failure means "removal from the breeding pool", in other words, legal neutering. The authorities maintain stock reserves regions populated by pure-race people and in the rest of the planet, promote extended interracial breeding, to preserve genetic diversity mongrel strength. They periodically authorize quotas of selected people from the reserves to settle among the mixed people to inject one race or another in the breeding pool, according to a policy managed by the Ministry of Melting, colloquially known as "MiniMelt".
+
+The heavily endoctrinated population despises all non-Humans, depicted as either threats for Human Supremacy, like Sshaads and Rithai, or feeble beings worth only as slaves to Humans, like K'Rinns, Pupeteers or Shapeshifters.
+  </description>
+  <bar>You see only Humans in the Bar, and you feel non-Humans aren't welcome.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

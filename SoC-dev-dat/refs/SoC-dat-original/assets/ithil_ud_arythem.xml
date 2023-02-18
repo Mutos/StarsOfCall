@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ithil ud Arythem">
+ <pos>
+  <x>-7750.942602</x>
+  <y>-331.236863</y>
+ </pos>
+ <GFX>
+  <space>001.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+  </commodities>
+  <description>This massive station is known as "The Shield of the Arythem". It was first established against a possible K'Rinn Council attack, but that role has become obsolete since the end of the Fringe Wars. It now defends the Clan's core territory against sshaad and human incursions, respectively from the Ergal border zone or the Hoshi no Hekka.
+  </description>
+  <bar>Proud Arythem pilots and a mix of rith, sshaad, human and k'rinns merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

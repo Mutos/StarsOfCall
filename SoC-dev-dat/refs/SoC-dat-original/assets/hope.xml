@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hope">
+ <pos>
+  <x>-5167.295068</x>
+  <y>1656.184317</y>
+ </pos>
+ <GFX>
+  <space>M06.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>10000000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Hope is one of the First Human Colonies, also knows as Sublight Colonies in the Human Sphere. When the Core League seceded from the Planetarist Alliance, a referendum was organised on Hope and decided, with a small majority, in favor of secession.
+
+Since then, the planet, which is roughly at the centre of the Human Sphere, has remained a link between the League, Alliance and Hoshi no Hekka. Recently, some major businesses have elected to move their headquarters away from Earth, Mars or Sanctuary. Some relocated on Hope, which is now the rising planet in the Human Sphere.
+  </description>
+  <bar>The bar is crowded by a mix of wealthy patrons, corpsuits and a few spacers, most of them human, but with some K'rinns and Rithai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

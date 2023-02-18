@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tham Relay">
+ <pos>
+  <x>-1930.191663</x>
+  <y>-3194.799994</y>
+ </pos>
+ <GFX>
+  <space>Outpost-Halisht-002-Series.png</space>
+  <exterior>Outpost-Halisht-002-Series.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>30</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This relay was built by explorers from Irilia-6, but the jump route they were mapping got nowhere, except on a few asteroids-rich systems.
+  </description>
+  <bar>A few crewrithai eagerly waiting for passers-by</bar>
+ </general>
+</asset>

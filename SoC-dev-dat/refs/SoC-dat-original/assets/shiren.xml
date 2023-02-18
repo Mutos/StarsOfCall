@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shiren">
+ <pos>
+  <x>-4419.473325</x>
+  <y>1331.166664</y>
+ </pos>
+ <GFX>
+  <space>I00.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>2538530</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

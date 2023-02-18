@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nolaas">
+ <pos>
+  <x>-5058.433323</x>
+  <y>2635.709995</y>
+ </pos>
+ <GFX>
+  <space>I07.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

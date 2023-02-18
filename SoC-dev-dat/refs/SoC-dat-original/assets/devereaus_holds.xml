@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Devereau's Holds">
+ <pos>
+  <x>1894.693885</x>
+  <y>692.206665</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>86300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>During the Corporate Wars, this stealth station hidden in planet Wai's rings was a crucial part of the Alliance EWS on the backside jump route from Sol to Sanctuary.
+
+After the war and with the Shadow Complex becoming a State in its own right, border duty was transferred forward to the newly built Ryuu Station. Thus, the old outpost was bought by a successful merchant named Angelique Devereau and converted to a minor trading and smuggling station.
+
+Later on, a jump route was discovered to the Baartish Intersystems. The Devereau Movers jumped on the market and thrived on it, along with their home station, which became a major Planetarist border trade node.
+  </description>
+  <bar>Many merchants, mostly Humans, some K'Rinns and Rithai and an ever-growing number of Baartish Sshaads</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Flak Turrets - Civilian</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

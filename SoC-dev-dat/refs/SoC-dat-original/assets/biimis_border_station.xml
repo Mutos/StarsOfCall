@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Biimis Border Station">
+ <pos>
+  <x>-7220.963621</x>
+  <y>-728.721099</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>100.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>21800</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>This border station lies on the Sshaad side of the interface between Baartish and Arythem spaces. Of course, the two States are formally allies and jointly maintain the Joint Peacekeeper Corps, but marauders, smugglers and pirates exist on both sides. So the route is guarded by a station on each side, and Biimis is the Baartish side firewall. 
+
+It is of notice that the station is named after the colored stripes that show on some Sshaads' articulations. If the lore is to be believed, they are the marks of the gifted, signalling particularly talented individuals. It is told that an unusual number of young Masters appointed to that station indeed attained high-ranking positions afterwards, but no-one ever formally studied that fact, so it may well be another urban legend !
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

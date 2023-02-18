@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Son of the Eclipse">
+ <pos>
+  <x>2351.516813</x>
+  <y>-2412.981305</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>684256000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land>land_freeAdrimai_restrict</land>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This planet has been long-settled by the Pupeteers. Its desertic conditions should have discouraged colonization, but good biocompatibility and vast wealth in ores prompted the installation of an outpost.
+
+The settlement thrived and developped as new bridge species and chelator-based mining organisms were gengineered. With far more ores than a relatively low-mech-tech civilization would need, Son of the Eclipse became the main provider for dead-tech resources in the League, that didn't call itself 13-Planets at the time.
+
+When the first route to Irilia space was discovered, nothing seemed to change. But, slowly at first, then with growing speed, the word spread among the Adrimai that there existed a world named after the Eclipse. Adrimai being Rithai, they are highly sensitive to symbolism. They soon began to pour into the planet, were gladly accepted by the peaceful pupeteer natives, and found out that the conditions were good, with a 75-to-80% biocompatibility to skaraean life for both indigenous and gengineered life.
+
+Now, Son of the Eclipse is developping a unique cultural mix between the original pupeteer culture concern for life and pacifism, and the more warlike adrim culture based on the rith notion of honor but bent with a people unable for generations to prove their very existence to "true Rithai". The ex-Adrimai have appointed themselves as protectors of the pacific Pupeteers and relieved that burden from the original pupeteer equivalents of Defenders.
+
+The Gham Garri often boast about being able to invade Son of the Eclipse whenever they should decide it, but everyone knows they couldn't stand against the Thirteen Planets. Even the local orbital defenses would be able to defeat any invasion force. But a terror strike is always possible, so the system is heavily patrolled and the planet's policy is strict about vessels asking for landing.
+  </description>
+  <bar>Proud Rithai with dri'h markings and Pupeteers on various landborne bearers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

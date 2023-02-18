@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Medved">
+ <pos>
+  <x>776.513887</x>
+  <y>-9891.307851</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>mining3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

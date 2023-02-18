@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Naarse">
+ <pos>
+  <x>9075.890056</x>
+  <y>2848.637025</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2576000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>A newly colonized world, Naarse is famed for its near-100% biocompatibility with sshaad life. Some xenobiologists even think it was seeded by Tshi'arsh life in a very remote past. The most ambitious theory even talks of the mysterious people that transplanted several biospheres to Heaven several hundred thousand years ago, thoug no clear evidence has been found so far.
+
+The planet has long been stricly reserved for Sshaads only, but has recently been opened to Shapeshifters as a gengineering Hive formulated several groundbreaking hypotheses. They were allowed to make planetfall and settle on the eastern continent. Following their researches, some famed teams of Putepeers with which they were in contact recently came to Naarse, so there is good hope to find further clues.
+  </description>
+  <bar>Mainly sshaad science people with an occasional Shapeshifter and several Pupeteers.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

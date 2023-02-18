@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Weird Planetoid #2821">
+ <pos>
+  <x>-14839.411478</x>
+  <y>-2517.400161</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+  </services>
+  <commodities/>
+  <description>Seemingly an old Purgatorian base with corridors in all directions, carved through the asteroid's innards.
+  </description>
+ </general>
+</asset>

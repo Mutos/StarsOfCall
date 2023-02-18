@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CL 0043">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2199.656000</x>
+  <y>474.096000</y>
+ </pos>
+ <assets>
+  <asset>Virtual Miner Local</asset>
+ </assets>
+ <jumps>
+  <jump target="CL 0042">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CL 0044">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CL 0045">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Nyotekundu">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 119766">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7166.113875" y="8941.00276"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 153653">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5617.523322" y="-4712.329991"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 376904">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4523.836791" y="1571.841597"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 482037">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6478.344432" y="2795.449994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 488005">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2396.099995" y="-4148.80277"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 682701">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3281.695595" y="-1494.481093"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 952306">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6857.357162" y="-1472.911263"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 999330">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7456.998442" y="570.059798"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

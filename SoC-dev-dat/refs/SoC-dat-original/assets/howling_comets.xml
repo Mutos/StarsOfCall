@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Howling Comets">
+ <pos>
+  <x>-3616.336104</x>
+  <y>-3106.055549</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-001-Base-100px.png</space>
+  <exterior>Outpost-PurrSphere-001-Base-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>120</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>That smallish PurrSphere used to be an unavoidable relay on the jump route to Planetarist and Irilia spaces, but with the rise of longer-jump-range ships, the relay is now often skipped by convoys.
+
+The system and station both take their name from the numerous asteroids in the system.
+  </description>
+  <bar>A small population of Pupeteers and other Spacers</bar>
+ </general>
+</asset>

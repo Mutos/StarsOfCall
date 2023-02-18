@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freiheit Tueren">
+ <pos>
+  <x>4529.664343</x>
+  <y>-6415.483784</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Stellar Police</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>54800</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This station used to be secret. It was established by the Vurth Group to serve as a border station guarding the entry on the Pei side of the Raumbahn Sieben jump route.
+
+After the demise of the Group, it was takn by the Stellar Police, but kept its name and most of its inhabitants were allowed to stay. The station is however under high scrutiny, given its secret past.</description>
+  <bar>Mainly Humans with a few K'Rinns.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

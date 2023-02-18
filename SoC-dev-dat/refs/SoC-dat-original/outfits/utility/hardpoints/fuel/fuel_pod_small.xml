@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Small Fuel Pod">
+ <general>
+  <typename>Fuel Expansion</typename>
+  <slot prop="Hardpoint">utility</slot>
+  <size>small</size>
+  <mass>3</mass>
+  <price>25000</price>
+  <description>The fuel pod allows a ship to store more fuel for hyperspace jumps.</description>
+  <gfx_store>fuel_pod</gfx_store>
+ </general>
+ <specific type="modification">
+  <fuel>100</fuel>				<!-- Main purpose	: extra fuel storage for 4 jumps of a small jump drive -->
+ </specific>
+</outfit>

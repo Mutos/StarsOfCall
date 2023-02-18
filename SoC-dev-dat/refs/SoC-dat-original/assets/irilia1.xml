@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-1">
+ <pos>
+  <x>-861.215845</x>
+  <y>-3113.626515</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>gas.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>934237000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>The very first Irilia colony, a resources-rich, but rough environment, that pushed to their limits the already enduring Irilia people.
+
+However, after the first years of hardship, the colony thrived on a noria of sulight ships. It became quite wealthy, due to the combination of rich tilkath deposits and a good biocompatibility of local ecosystems with Skaraean life. Irilia-1 animals have even found their way as exotic pets on Irilia and Skarae. Some breeds are now quasi indigenous to some regions, like the famous purring spider, harmless for rithai metabolism but a gorgeous pet for entertaining rich Idrimarai, and which adapted so well that it is now easily found on Arythem Skarae.
+
+When hyperspace was discovered, the route to Drom was easily found and the local colonists considered to extend the planet's influence by settling other systems. The first one to be targeted was Irilia-7, by the Thalinel route. Centuries after, the relations between the two worlds are still fairly strong.
+  </description>
+  <bar>Some wealthy Iirilia Idrimarai, numerous people of the Rith and some Thiskai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

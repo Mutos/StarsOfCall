@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-13">
+ <pos>
+  <x>3820.811247</x>
+  <y>-5830.783891</y>
+ </pos>
+ <GFX>
+  <space>moon-M01.png</space>
+  <exterior>oceanic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>280.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>483250000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Irilia-13 has many oceans and a set of lush continents alternating vast deserts, tundras and forest-covered lands. The Irilia settlers originally intended to colonize the deserts first, then extend to the other environments, but skaraean life is much more biocompatible with ocean-borne indigenous life than land life. So, skaraformation has been largely successful around the oceans and in the immediate proximity of the shores, than on the land masses themselves. Now, the deserts and tundras are the skaraforming teams' current targets, but the large amazonias stay largely impenetrable.
+
+Also, the planet's complete lack of moons has also lowered the interest of new settlers for cultural reasons, despite a set of artificial satellites that try to mimic a suitable well-moonedness. So the planet's wealth has quickly stalled a few years after its colonization.
+
+However, being largely freer from traditionalists than other Irilia worlds, Irilia-13 has slowly become a refuge for innovators and even for ex-Adrim refugees, and a well-known base of the Dri'h Kemae organisation, that fights to make ex-Adrim people regain honor and thus be recognized as living Rithai.
+  </description>
+  <bar>A small but animated crowd mainly of Rithai, some wearing ostensible dri'h markings</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

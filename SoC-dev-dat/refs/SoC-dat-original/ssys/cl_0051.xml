@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="CL 0051">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1933.256000</x>
+  <y>710.832000</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="CL 0054">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Crossover">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Delta 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 344467">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5854.668198" y="4283.151998"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 423145">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="8031.372207" y="-2948.534161"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 458552">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1931.670737" y="-2578.765643"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 471978">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4187.487624" y="2350.865317"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 808235">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2467.095551" y="-2223.048329"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 877112">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7582.103616" y="-3593.553843"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 908045">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-11277.643978" y="7539.727985"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ariisha Elasaii">
+ <pos>
+  <x>-3069.078698</x>
+  <y>628.606480</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>40.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>60</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>A small mining station founded by a Candidate Systems daneb-company.
+
+Its original crew was almost entirely killed by a rogue Pupeteer psychopath, who was then killed, but left after him a trail of corpses and a shattered asteroid.
+
+A new station was built on a nearby asteroid by a no-nonsense crew of Sshaads. It was given the former station's name in honor of the miners slaughtered there. It still thrives on refueling miner ships, selling them fuel, catering to the crews' needs and trading ore and supplies.
+  </description>
+  <bar>Greasy-looking Sshaad, Shapeshifter and Pupeteer miners talking trade and business.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Candidate Systems</item>
+ </tech>
+</asset>

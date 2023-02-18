@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Vanir Ia">
+ <pos x="-12145.429869" y="4442.980964"/>
+ <GFX>
+  <space>moon-K00.webp</space>
+  <exterior>uninhabited-rocky-airless-00.webp</exterior>
+ </GFX>
+ <general>
+  <class>K</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</spob>

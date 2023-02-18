@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Muran">
+ <general>
+  <radius>12000.000000</radius>
+  <stars>400</stars>
+  <interference>11.111100</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="80.044889" y="365.039575"/>
+ <spobs/>
+ <jumps>
+  <jump target="Dendria">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Forlat">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="New Haven">
+   <autopos/>
+   <hidden/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

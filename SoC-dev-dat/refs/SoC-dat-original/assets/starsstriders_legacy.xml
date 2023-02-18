@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Stars-Strider's Legacy">
+ <pos>
+  <x>4703.563460</x>
+  <y>2053.668553</y>
+ </pos>
+ <GFX>
+  <space>station-commerce3.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>200.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5700</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This station was offered by the Arythem Clan to the 13-Planets League as a token of Friendship, Honor and Apology for the ordeal of Stars-Strider-7, whose first contact with Rithai ended in his untimely death.
+
+He was captured in that system by the Arythem when his exploration vessel died in this system after a jump drive malfunction, along with the rest of the crew. He was then coerced into performing invasion of conscience on Irilia officials to dictate them treason on their Clan. He managed to escape and reveal the affair, then committed suicide.
+
+The body of the Discoverer, the ill-fated exploration ship, still orbits the gas giant near the jump point, and the station has been built on a nearby orbit, standing eternal guard over the lifeless hulk. The planet itself has been renamed The Warder, officially in Star Melodies tongue, but here its name is translated in the map's language.
+  </description>
+  <bar>A majority of Pupeteers and Rithai share the bar, all conscious to be in a landmark of history.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ashaan">
+ <pos>
+  <x>-2318.658043</x>
+  <y>-2716.142279</y>
+ </pos>
+ <GFX>
+  <space>P00.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>850.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1583000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This planet is named after the ancient Toshic philosopher who discovered the law of natural selection. It has earned its name due to the ferocity of biological competition among its indigenous biosphere, split evenly between oceans and wood-covered lands.
+
+It was once used as a lab for the Hiban company's gengineering experiments on Sshaads. Master Hajin, the founder of the Instrumentality Company, was one of these experiments. So successful indeed was he, that with his mate Hrashn, they brought the Hiban dominion to an end, became the rulers of the planet and from it, extended their new policorpo to dominate the local sector.
+
+Now the planet is, like the Instrumentality itself, in majority hostile to Complementarism. However, a few joint settlements has been authorized as experiments and they begin to show results. Sshaads born from these settlements are sturdier and less subject to jungle attrition. Some high Masters even foresee that, if the trend is confirmed, the State itself, following its philosophy of natural selection, might accept Complementarism and the presence of Shapeshifters as a new asset in its evolution.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Hi-tech Generic</item>
+ </tech>
+</asset>

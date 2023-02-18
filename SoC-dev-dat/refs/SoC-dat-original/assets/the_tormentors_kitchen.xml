@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="The Tormentor's Kitchen">
+ <pos>
+  <x>-843.072221</x>
+  <y>976.188887</y>
+ </pos>
+ <GFX>
+  <space>Planet-012-volcanic.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

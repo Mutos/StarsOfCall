@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aan-Relink">
+ <pos>
+  <x>-9605.869037</x>
+  <y>7684.695230</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>400.000000</value>
+  <range>8</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>125850</population>
+  <hide>2.500000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Another pirate base posing as an abandonned station, Aan-Relink lies near the Aan-route, but it has more hardships to overcome than Aan-Imod, because it has no link to another target zone.
+
+However, it is rumored that some nearby systems might have been purgatorian colonies millenia ago and still hold valuable remnants. This has prompted exploration expeditions, some of which never came back..
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+ </tech>
+</asset>

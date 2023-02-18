@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Palin">
+ <general>
+  <radius>20000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="364.965161" y="-829.044141"/>
+ <spobs>
+  <spob>Golem</spob>
+  <spob>Nolan</spob>
+  <spob>Palin I</spob>
+  <spob>Palin II</spob>
+  <spob>Palin III</spob>
+  <spob>Zaren</spob>
+ </spobs>
+ <jumps>
+  <jump target="Allous">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Gruz">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sarrii">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Vandal">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+</ssys>

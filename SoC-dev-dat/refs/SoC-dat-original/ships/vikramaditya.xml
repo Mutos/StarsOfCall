@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Vikramaditya">
+ <base_type>Vikramaditya</base_type>
+ <GFX sx="6" sy="6">vikramaditya</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Carrier</class>
+ <price>1100000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Core League Staryards</fabricator>
+ <description>The latest and greatest of the Core Fleet's ships of the line, the Vikramaditya is basically a missiles cruiser with a spinal gun and carrier capabilities added. Thanks to a League-Council agreement, it features the same fighters as the Ma'Tang.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>120</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>70</crew>
+  <mass>1625</mass>
+  <fuel_consumption>1400</fuel_consumption>
+  <fuel>2500</fuel>
+  <cargo>70</cargo>
+ </characteristics>
+ <slots>
+  <structure size="large"   prop="Hull Plating">Std Lrg Hull Plating</structure>
+  <structure size="large"   prop="Power Core">Std Lrg Powerplant</structure>
+  <structure size="large"   prop="Computer Core">Std Lrg Computer</structure>
+  <structure size="large"   prop="Warp Engine - Large">Std Lrg Warp Engine</structure>
+  <structure size="large"   prop="Jump Drive">Std Lrg Jump Drive</structure>
+  <structure size="large"   prop="Verniers Array - Large">Std Lrg Verniers</structure>
+  <structure size="large"   prop="Shield Generator">Std Lrg Shield</structure>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="large"   prop="Core Systems Extension"></utility>
+  <utility   size="large"   prop="Internal Holds"></utility>
+  <utility   size="large"   prop="Internal Holds"></utility>
+  <utility   size="large"   prop="Internal Holds"></utility>
+  <weapon    size="large"   prop="Spinal Gun"     x="+20"  y="  0" h="  0">Spinal Railgun</weapon>
+  <weapon    size="large"   prop="Missiles Rack"  x="+20"  y="-20" h="  0">HIM Launcher</weapon>
+  <weapon    size="large"   prop="Missiles Rack"  x="+20"  y="+20" h="  0">HIM Launcher</weapon>
+  <weapon    size="large"   prop="Craft Bay"      x="-50"  y="  0" h="  0">25x Nelk'Tan Bay</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="+35"  y="+25" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="+35"  y="-25" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="-35"  y="+25" h="  0">Small Ion Flak Turret</weapon>
+  <weapon    size="small"   prop="Flak Turret"    x="-35"  y="-25" h="  0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>0</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

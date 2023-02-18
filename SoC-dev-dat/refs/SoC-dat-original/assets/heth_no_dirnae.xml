@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Heth no Dirnae">
+ <pos>
+  <x>-6185.701410</x>
+  <y>-7529.316947</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

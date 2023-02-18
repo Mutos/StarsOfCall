@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Backdoor">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-965.216000</x>
+  <y>188.344000</y>
+ </pos>
+ <assets>
+  <asset>Jokers Patrol Base</asset>
+  <asset>Loki</asset>
+ </assets>
+ <jumps>
+  <jump target="AC 0003">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="AC 0008">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-3.1 - Ashioto Backdoor">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 206048">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2209.736662" y="1677.269997"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 264781">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4712.329991" y="-2822.073328"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 364128">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8386.349983" y="6256.483321"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 402179">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5617.523322" y="-4712.329991"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

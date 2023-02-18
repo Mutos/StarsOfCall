@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mhandari">
+ <pos>
+  <x>4041.089733</x>
+  <y>-3246.121261</y>
+ </pos>
+ <GFX>
+  <space>K03.png</space>
+  <exterior>forest2-Red.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>450.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>256432000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Despite the proximity to its star, the reddish sub-G Nyotekundu, Mhandari is a lush world. It is the most recent Core League settlement and a great success in terraforming and adapting the indigenous lifeforms, which were already 75% biocompatible with terran life.
+
+It is a nice world to live on, if one likes the red tinge of the atmosphere and the blue-green color of everything that grows there, having adjusted their photosynthesis process to the ambiant light. But stable and moderate temperature, good living conditions and a government combining entreprenuership and state welfare have attracted a good-sized population for such a recent world.
+
+However, a network of jump tunnels leading to a Shoden Cluster have recently been discovered. These prompts much defiance in would-be colonists and immigration is estimated to reach a modest ceiling value in the upcoming years.
+
+But the Core League Explorastro Corps also thinks there could be a connexion to The Long Link, the jump network that links the Sshaad, Human and Rith Spheres and from which the Core League is de facto excluded. The immigration trend could reverse if this connexion is actually discovered. The Core League would then be connected to this major trade route, of which Mhandari will become a key hub, prompting massive investments on both planetside and orbital facilities. The planet would then enjoy a so-called "Villera effect", but hopefully without the crime rise !
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

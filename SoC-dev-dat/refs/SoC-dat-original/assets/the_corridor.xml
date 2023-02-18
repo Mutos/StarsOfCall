@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="The Corridor">
+ <pos>
+  <x>-2451.152789</x>
+  <y>2384.905416</y>
+ </pos>
+ <GFX>
+  <space>Station-SCV002.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>800.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>4563000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The Corridor is a Pupeteers-run closed O'Neill habitat build between the 13-Planets and the Independant Stars. At first a small wheel-type outpost, it has then been discovered that it was linked to several other states by 3- to 5-jumps routes. Under impulse from the 13-Planets, the original outpost has been replaced by an extended terrarium-type habitat.
+  </description>
+  <bar>Locals and visitors of all species and cultures make up a chattering, diverse crowd</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

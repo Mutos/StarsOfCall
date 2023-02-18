@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Abandoned Station">
+ <pos>
+  <x>4165.379150</x>
+  <y>1484.788722</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+  </services>
+  <commodities/>
+  <description>This station once was a promising oupost, but lack of funding when no system nearby proved ore-rich caused its demise. Now, its vast halls are empty and exposed to the eternal void of deep space.
+  </description>
+ </general>
+</asset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Eden (Gl 304)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1910.281600</x>
+  <y>-1285.272640</y>
+ </pos>
+ <assets>
+  <asset>Eden</asset>
+  <asset>Eden High</asset>
+  <asset>Tanuki</asset>
+  <asset>Utsukushi</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Meetpoint (Gl 291)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="NN 3466">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="NN 3500">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 175768">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2587.787995" y="5686.743989"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 267811">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10383.09998" y="6357.651987"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 514352">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-11181.799978" y="6229.859988"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 687159">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7294.793319" y="6629.209987"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 761663">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8338.427984" y="-5399.211989"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 817201">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-10478.943979" y="5814.535989"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+ <asteroids>
+  <asteroid name="Asteroid Cluster 617465">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6899.898802" y="7081.556717"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+</ssys>

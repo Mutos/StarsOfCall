@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ershiilt">
+ <pos>
+  <x>4899.432861</x>
+  <y>2465.123452</y>
+ </pos>
+ <GFX>
+  <space>moon-M03.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>250.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>254387000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This oceanic moon around a gas giant has been the first Baartish colony. Settling began with a group of danebs built on the Ershiin islands, but they quickly found out they didn't have enough room to extend. They later migrated to a large-scale oceania around the northern continents cluster, that offerred far better conditions. Its several thousands reef islands surrounding 4 small continents have given rise of a peculiar division of places. Main danebs are situated on the islands and the continents' shores are host to egg-places and danebs dedicated to emergence and teaching.
+
+Being relatively near to the Shoden border, the planet first followed their opinion, that Shapeshifters were in for corrupting the Sshaad communities. So, the first dual danebs founded by Tshiaa'rint fugitives were only given remote, half-barren islands. However, quite peaceful and pragmatic, the population didn't go to the extent of violence that plagued other baartish planets. When finally the dual danebs demonstrated their benevolence and viability, they progressively began swhitching sides. There are currently few Complementarist danebs, but they are no more viewed with suspicion, but rather with a mild interest, specially since some of them began hosting tourists, then colonists of other species.
+  </description>
+  <bar>A large number of native Sshaads, some Shapeshifters and a few tourists</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

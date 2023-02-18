@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lanilt'sh Border Station">
+ <pos>
+  <x>1481.101179</x>
+  <y>-7491.405859</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>13300</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Lanilt'sh Border Station guards the entry into Baartish space from the Long Link, that network of interstate jump routes linking Instrumentality, Baartish and Shoden spaces on the Sshaad side with Arythem territory on the Rith Sphere.
+
+Its situation makes it also crucial as the link between main Baartish space and the Northern Cluster, a group of recently discovered systems linked by a dense network and hosting a few newly founded colonies.
+  </description>
+  <bar>A mainly sshaad crowd proudly displaying Baartish markings, and some Rithai visibly of Arythem allegiance</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

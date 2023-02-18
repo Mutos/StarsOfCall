@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IC 0007">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3917.288000</x>
+  <y>847.344000</y>
+ </pos>
+ <assets>
+  <asset>Eresh</asset>
+  <asset>Iinaal</asset>
+  <asset>Oshiin</asset>
+  <asset>Sshain al Iinaal</asset>
+  <asset>Sshiinan Base</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="IC 0006">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0014">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0021">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 201534">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7176.952247" y="5727.528811"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 201570">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7810.7311" y="6287.794174"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 642078">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4024.256972" y="-1520.601701"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

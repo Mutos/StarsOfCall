@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Warnecke II">
+ <pos x="-105.345516" y="-6.449725"/>
+ <GFX>
+  <space>moon-J00.webp</space>
+  <exterior>uninhabited-rocky-magenta-03.webp</exterior>
+ </GFX>
+ <general>
+  <class>J</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</spob>

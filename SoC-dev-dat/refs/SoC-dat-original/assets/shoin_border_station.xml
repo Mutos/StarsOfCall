@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shoin Border Station">
+ <pos>
+  <x>-7022.221503</x>
+  <y>-2517.400161</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Shoden Clusters</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>213000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Entry to Shoden space is always guarded by armed stations, and Shoin is no exception. It lies on a short jump route to the Baartish, which, as a sshaad State, is not deemed very dangerous by the Shoden, except for advocating Complementarism, which is viewed as a treason of the entire sshaad species.
+  </description>
+  <bar>Proud pilots and patrol officers on Shoden markings, joking on the "blobs invasion" and ready to fight any non-Sshaad who would dare to enter the bar</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

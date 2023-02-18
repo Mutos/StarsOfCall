@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lalth ish Eeris">
+ <pos>
+  <x>4658.448498</x>
+  <y>1957.562744</y>
+ </pos>
+ <GFX>
+  <space>J05.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

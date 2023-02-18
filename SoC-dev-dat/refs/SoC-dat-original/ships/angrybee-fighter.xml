@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Angry Bee Fighter">
+ <base_type>Angry Bee</base_type>
+ <GFX sx="6" sy="6">angrybee</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>85000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Robosys</fabricator>
+ <description>This is the classical Angry Bee drone, transformed into a low-cost fighter yet including a small missile launcher. It features a life support system built for Humans, K'Rinns or Sshaads, and can even accomodate a Rith with some field modding. Its internal hold can allow it to be used as a courier.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>4</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>1</crew>
+  <mass>3</mass>
+  <fuel_consumption>70</fuel_consumption>
+  <fuel>30</fuel>
+  <cargo>1</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small" prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small" prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small" prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small" prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small" prop="Ftr Jump Drive">Std Ftr Jump Drive</structure>
+  <structure size="small" prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small" prop="Ftr Shield Generator">Std Ftr Shield</structure>
+  <utility   size="small" prop="Core Systems Extension"></utility>
+  <utility   size="small" prop="Internal Holds"></utility>
+  <utility   size="small" prop="Hardpoint"></utility>
+  <weapon    size="small" prop="Swivel Gun"    x="+8"  y="0" h="+1">Fighter Ion Cannon</weapon>
+  <weapon    size="small" prop="Missiles Rack" x="+8"  y="0" h="-1"></weapon>
+ </slots>
+ <stats>
+  <speed_mod>0</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>-10</armour_mod>
+  <shield_mod>-10</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

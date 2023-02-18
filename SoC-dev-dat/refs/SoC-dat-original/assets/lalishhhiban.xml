@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lal-ishh-Hiban">
+ <pos>
+  <x>3776.100242</x>
+  <y>-1921.173807</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>550.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25153000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>Former cradle world of the Hiban Company, which was once a powerful policorporation ruled by a college of highly qualified high-masters. Unfortunately, their successors were not so talented and made deadly mistakes.
+
+Notably, they engaged into hazardous experiments on sshaad nature itself, that got too far. Very gifted experimental subjects escaped their labs and hid in the surrounding planet. They finally regrouped, founded the Instrumentality Company and after a long and exhausting fight, brought Hiban to its knees.
+
+The policorpo was later split between Instrumentality and Baartish as part of a deal for systems. Its former homeworld was finally attributed to Baartish. It is still a powerful planet with connections everywhere in the Sshaad Sphere and a network of merchants and masters hailing from it. This allowed it to retin most of its former wealth.
+  </description>
+  <bar>A diverse crowd with all origins in sshaadkind, dominated by a few ostensibly well-off masters and merchants</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

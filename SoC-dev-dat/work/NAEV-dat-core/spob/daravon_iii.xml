@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Daravon III">
+ <pos x="-22250.000000" y="-9450.000000"/>
+ <GFX>
+  <space>O03.webp</space>
+  <exterior>aquatic2.webp</exterior>
+ </GFX>
+ <general>
+  <class>O</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</spob>

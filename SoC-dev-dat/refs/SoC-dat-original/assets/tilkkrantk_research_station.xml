@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Til'kk'Rantk Research Station">
+ <pos>
+  <x>-4246.051061</x>
+  <y>2336.071833</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Joint Peacekeepers Corps</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>210000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>In 2243 HTC, a prison ship from Biimis crashed on a former purgatorian planet-base, which was destroyed when the survivors deactivated the generator that kept it in one piece. The Joint Peacekeeper Corps moved swiftly to secure the debris cloud on behalf of both Baartish Intersystems and Arythem Clan. With the maps they brough back, many explorers set out from Leenan and Jaltha. They progressively mapped what is now know as the Sigma Sector. They were followed by adventurers seeking purgatorian artefacts in the nearby stars.
+
+Establishing a formal research station was a means for Arythem and Baartish to gain access to a potential hold of purgatorian artefacts without having to check with the Ashioto Cluster and its backers, the K'Rinn Council and Core League.
+
+The Council has however been allowed to send researchers to the Sigma Sector under strict Peacekeeper control, and as proposed by a high-ranking Defender who was aboard the prison ship, the research station has been given the old Ha'Tinkar name of the Purgatorian, meaning "Flying Gods".
+  </description>
+  <bar>Mostly Sshaads and Rithai, and a few K'Rinns, all research types and asteroid miners.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Arythem Clan</item>
+  <item>Star Maps - Baartish Intersystems</item>
+  <item>The Long Link</item>
+  <item>Hi-tech Generic</item>
+ </tech>
+</asset>

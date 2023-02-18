@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Til'n 0003">
+ <pos>
+  <x>7081.806653</x>
+  <y>-1757.139997</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>The third K'Til'n station is the better known one. It has been built in the first days of K'Rinn expansion into space, by the first L'Linal't expedition, made of sublight nanobuilder ships and named from a species of termite-like k'rinnoids that built large structures.
+
+Thus, it is technically the first K'Til'n station to have been built, but was named only when the jump route to it was discovered, hence its numbering.
+
+Other L'Linal't expeditions were launched and the stations they built were rediscovered when the k'rinn jump network extended. They are given a registry number on either the K'Til'n or L'Linal't list.
+  </description>
+ </general>
+</asset>

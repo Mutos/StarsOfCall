@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Asteroids Field 362810">
+ <pos>
+  <x>9967.775980</x>
+  <y>13066.731974</y>
+ </pos>
+ <GFX>
+  <space>asteroids-006.png</space>
+  <exterior>aquatic2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

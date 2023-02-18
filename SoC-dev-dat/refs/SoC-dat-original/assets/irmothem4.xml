@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irmothem-4">
+ <pos>
+  <x>-3436.693086</x>
+  <y>-4512.688088</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>150.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>874923000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>The Woodland Moon, or the Rith Woodsfield, as it is often dubbed, is a lush world of correct but not exceptional biocompatibility with skaraen life. It is basically an agriculture world with some mines, few great cities and only one chartered starport. It is somewhat notable for its luxury items in remarkable local wood essences.
+
+As for history, its only remarkable mention is to have been the first Irmothem jump colony.
+  </description>
+  <bar>Many rithai woodrunners and a few spacers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

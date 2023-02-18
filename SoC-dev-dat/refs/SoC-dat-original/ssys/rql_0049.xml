@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="RQL 0049">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-578.792000</x>
+  <y>-3436.368000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="RQL 0026">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RQL 0048">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RQL 0050">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RQL-TPL - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

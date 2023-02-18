@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tempest">
+ <pos>
+  <x>-8155.933453</x>
+  <y>-7626.470059</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>mining3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>50.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>A small mining outpost on a satellite from the Nemesis gas giant.
+
+Tempest became famous when it was attacked by the Persephone. This Zheng He-class Deep Space Explorer, second of its class, was launched in 2105 by the European Explorastro Corps for nearby stars manned sublight exploration. Presumed lost during its maiden flight towards 20-LY-distant Gliese 667, it hyperspaced back in 2228 in the Red Hell system. Following its discovery of an abandoned purgatorian research station, it had been deeply refitted with purgatorian technologies and its crew had been hideously gengineered by nanobiotechs found in the station.
+
+The Persephone launched a lightning strike against Tempest, hoping to take the outpost for supplies. The attack failed, destroying the ship and Tempest's LRS base in the process, and causing many casualties on the Tempest miners. Only one of the Persephone crew, Lt Fabio DiCarlo, survived and was detained onboard the Cyhyraeth, the largest Hoshi no Hekka Fortress.
+
+The story was only revealed in 2242 outside of Fortresses-related circles and became widely known as "the Persephone encounter".
+  </description>
+  <bar>Workers relaxing after their shift, along with a few Spacers, mainly ore haulers' crews</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

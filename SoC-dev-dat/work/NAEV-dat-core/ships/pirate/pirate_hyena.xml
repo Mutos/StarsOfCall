@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Pirate Hyena">
+ <points>30</points>
+ <base_type>Hyena</base_type>
+ <GFX size="44">hyena_pirate</GFX>
+ <rarity>2</rarity>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Interceptor</class>
+ <price>280000</price>
+ <time_mod>0.75</time_mod>
+ <trail_generator x="-3" y="13" h="0">nebula</trail_generator>
+ <trail_generator x="-3" y="-13" h="0">nebula</trail_generator>
+ <trail_generator x="-15" y="-6" h="0">pirateS</trail_generator>
+ <trail_generator x="-15" y="6" h="0">pirateS</trail_generator>
+ <fabricator>Skull and Bones</fabricator>
+ <description>The Pirate Hyena has quickly become a favourite of pirates far and wide. Not much of a fighter, nor does it pack too much of a punch, but in groups they can overcome nearly any vessel and it's so simple to pilot that reaction times are vastly improved. Skull and Bones has added modifications to make them even more efficient as scavengers and harder to hit than their Aerosys counterparts.</description>
+ <health>
+  <armour>25</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>2</crew>
+  <mass>25</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>5</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="small" x="15" y="0" h="-3" />
+  <weapon size="small" x="15" y="0" h="-3" />
+  <weapon size="small" x="0" y="0" h="0" />
+  <utility size="small" prop="systems">Previous Generation Small Systems</utility>
+  <utility size="small" prop="accessory" />
+  <utility size="small" />
+  <structure size="small" prop="engines">Beat Up Small Engine</structure>
+  <structure size="small" prop="hull">Patchwork Light Plating</structure>
+  <structure size="small" />
+ </slots>
+ <stats>
+  <turn_mod>20</turn_mod>
+  <thrust_mod>70</thrust_mod>
+  <armour_mod>-50</armour_mod>
+  <fwd_firerate>10</fwd_firerate>
+  <ew_evade>10</ew_evade>
+  <loot_mod>20</loot_mod>
+ </stats>
+ <tags>
+  <tag>pirate</tag>
+ </tags>
+</ship>

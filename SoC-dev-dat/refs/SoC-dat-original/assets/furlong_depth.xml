@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Furlong Depth">
+ <pos>
+  <x>3444.863379</x>
+  <y>-3312.368633</y>
+ </pos>
+ <GFX>
+  <space>M01.png</space>
+  <exterior>oceanic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Red Quadrant League</faction>
+  <value>560.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>56891000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A seemingly oceanic planet but with no really deep waters, Furlong Depth is rather a planetwide swamp with land masses scattered around. Its lush and vibrant ecosystems have given the Pupeteer many famous bearer species, even if its colonization is somewhat recent. It is of notice, that the ecosystem has good biocompatibility with Ziffelan species and that some species of Ziffelan Minidragons have begun to be raised there.
+
+Furlong Depth was the second secessionist colony from the Thirteen Planets. Both founding worlds are co-capitols of the new State, which is also associated with the Wandering Domains. Thus, sessions of the representative body, the Wisdom Council, is held in alternance on one of the planets and a Wandering Domains habitat-ship.
+  </description>
+  <bar>Locals on various bearers, along with a fair number of non-symbiotic tourists and residents. You notice a few minidragons hovering around</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Void's Expanse">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>29.464000</x>
+  <y>-3868.368000</y>
+ </pos>
+ <assets>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Void's Expanse</asset>
+ </assets>
+ <jumps>
+  <jump target="TPL 0092">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0093">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0098">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 459217">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7299.230541" y="7521.091652"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 656875">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-8674.769427" y="4060.058325"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

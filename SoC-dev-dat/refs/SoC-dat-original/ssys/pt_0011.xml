@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="PT 0011">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3111.272000</x>
+  <y>-1135.976000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="Cartel">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0012">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0025">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

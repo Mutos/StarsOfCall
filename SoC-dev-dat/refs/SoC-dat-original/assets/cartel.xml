@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Cartel">
+ <pos>
+  <x>-2848.637025</x>
+  <y>-2583.647534</y>
+ </pos>
+ <GFX>
+  <space>K03.png</space>
+  <exterior>lava.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Purple Trail</faction>
+  <value>500.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>96185000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Originally one of the "Better Worlds Colonies", Redrose was basically bent on agriculture, and several secondary mining settlements were built on easily accessible ore deposits. The planet thrived to its own small level of prosperity, despite harsh conditions, and stayed away from the turmoils of the Human Sphere. It was never directly involved in the Planetarist War or the Fringe Wars.
+
+Then, the Alliance invaded Sol and chased the former Cartel Sol Policorpos. Dignitaries fled aboard the "Purple Flag" prototype supercruiser, to a remote hiding place they chose enroute from a handful of candidate system. It happened to be Redrose. The system and planet were invaded and renamed Cartel, and extensive terraforming took place.
+
+From then on, Cartel became the Capitol of the Purple Flag. Massive enclosed arcologies were built and native Redrosers were turned to slaves in the building sites, mines and agriplexes. The social system is still dominated by ex-Cartel Sol dynasties, referred to as "Founders" or "Founding Families", and a middle class living within the arcologies and supporting the Corporate State. Two distinct proleclasses are used as cheap labor: the native Redrosers and the "Fallen", descending from former corporate employees that failed to meet the organization's harsh expectations.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

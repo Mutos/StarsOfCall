@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Techs>
+	<!-- ==================================================================================================== -->
+	<!-- Ships -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "All Ships">
+		<item>Akk'Ti'Makkt</item>
+		<item>Alaith</item>
+		<item>Angry Bee Fighter</item>
+		<item>Arshiilan</item>
+		<item>Bao Zheng</item>
+		<item>Caravelle</item>
+		<item>Diwali</item>
+		<item>Eclair d'Etoiles</item>
+		<item>Eershlan</item>
+		<item>Eresslih</item>
+		<item>Erlith</item>
+		<item>Faithful</item>
+		<item>Fast Shell</item>
+		<item>Irali</item>
+		<item>Iserlohn</item>
+		<item>Keserlan</item>
+		<item>L'Lintir</item>
+		<item>Ma'Tang</item>
+		<item>Mosquito</item>
+		<item>Nelk'Tan</item>
+		<item>Percheron Mk1</item>
+		<item>Percheron Mk2 Containers</item>
+		<item>Percheron Mk2 Holds</item>
+		<item>Percheron Mk2 Tanker</item>
+		<item>Shire</item>
+		<item>Sshilaan</item>
+		<item>StarJump</item>
+		<item>SunFlower</item>
+		<item>T'Kalt Cargo</item>
+		<item>T'Kalt Patrol</item>
+		<item>Travellers' Breath</item>
+		<item>T'Telin</item>
+		<item>Valiant Drone</item>
+		<item>Valiant Fighter</item>
+		<item>Valiant Bomber</item>
+		<item>Vikramaditya</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Exhaustive list of all existing outfits -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "All Outfits">
+		<!-- Core Systems -->
+		<item>Standard Core Outfits</item>
+		<item>Beat-up Core Outfits</item>
+		<item>Hi-tech Core Outfits</item>
+		<!-- Core Systems extensions -->
+		<item>Core Systems Extensions</item>
+		<!-- Storage holds and pod -->
+		<item>Cargo and Fuel</item>
+		<!-- Hardpoints outifts -->
+		<item>Hardpoints Outfits</item>
+		<!-- Weapons -->
+		<item>Flak Turrets - Civilian</item>
+		<item>Fighter Weapons</item>
+		<item>Missile Launchers</item>
+		<item>Capship Weapons</item>
+		<item>Launch Bays</item>
+		<!-- All kinds of licenses -->
+		<item>Licenses</item>
+		<!-- Maps -->
+		<item>Star Maps</item>
+		<!-- Alternate GUIs -->
+		<item>Alternate GUIs</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Tech tree roots by tech level -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Low-tech Generic">
+		<item>Alternate GUIs</item>
+		<item>Low-tech Civilian Ships</item>
+		<item>Low-tech Core Systems and Extensions</item>
+		<item>Low-tech Civilian Weapons</item>
+	</tech>
+	<tech name = "Regular Generic">
+		<item>Alternate GUIs</item>
+		<item>Regular Civilian Ships</item>
+		<item>Regular Core Systems and Extensions</item>
+		<item>Regular Civilian Weapons</item>
+	</tech>
+	<tech name = "Hi-tech Generic">
+		<item>Alternate GUIs</item>
+		<item>Hi-tech Civilian Ships</item>
+		<item>Hi-tech Core Systems and Extensions</item>
+		<item>Hi-tech Civilian Weapons</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Base tech tree by outfit types -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Standard Core Outfits">
+		<!-- Base Core Systems that equip each new ship by default -->
+		<item>Std Sml Hull Plating</item>			<item>Std Med Hull Plating</item>			<item>Std Lrg Hull Plating</item>
+		<item>Std Sml Powerplant</item>				<item>Std Med Powerplant</item>				<item>Std Lrg Powerplant</item>
+		<item>Std Sml Computer</item>				<item>Std Med Computer</item>				<item>Std Lrg Computer</item>
+		<item>Std Sml Warp Engine</item>			<item>Std Med Warp Engine</item>			<item>Std Lrg Warp Engine</item>
+		<item>Std Ftr Jump Drive</item>				<item>Std Sml Jump Drive</item>				<item>Std Med Jump Drive</item>				<item>Std Lrg Jump Drive</item>
+		<item>Std Sml Verniers</item>				<item>Std Med Verniers</item>				<item>Std Lrg Verniers</item>
+		<item>Std Ftr Shield</item>					<item>Std Sml Shield</item>					<item>Std Med Shield</item>					<item>Std Lrg Shield</item>
+	</tech>
+	<tech name = "Beat-up Core Outfits">
+		<!-- Free Core Systems beat-up versions -->
+		<item>Beat-up Sml Hull Plating</item>		<item>Beat-up Med Hull Plating</item>		<item>Beat-up Lrg Hull Plating</item>
+		<item>Beat-up Sml Powerplant</item>			<item>Beat-up Med Powerplant</item>			<item>Beat-up Lrg Powerplant</item>
+		<item>Beat-up Sml Computer</item>			<item>Beat-up Med Computer</item>			<item>Beat-up Lrg Computer</item>
+		<item>Beat-up Sml Warp Engine</item>		<item>Beat-up Med Warp Engine</item>		<item>Beat-up Lrg Warp Engine</item>
+		<item>Beat-up Ftr Jump Drive</item>			<item>Beat-up Sml Jump Drive</item>			<item>Beat-up Med Jump Drive</item>			<item>Beat-up Lrg Jump Drive</item>
+		<item>Beat-up Sml Verniers</item>			<item>Beat-up Med Verniers</item>			<item>Beat-up Lrg Verniers</item>
+		<item>Beat-up Ftr Shield</item>				<item>Beat-up Sml Shield</item>				<item>Beat-up Med Shield</item>				<item>Beat-up Lrg Shield</item>
+	</tech>
+	<tech name = "Hi-tech Core Outfits">
+		<!-- Base Core Systems that equip each new ship by default -->
+		<item>Hi-tech Sml Hull Plating</item>		<item>Hi-tech Med Hull Plating</item>		<item>Hi-tech Lrg Hull Plating</item>
+		<item>Hi-tech Sml Powerplant</item>			<item>Hi-tech Med Powerplant</item>			<item>Hi-tech Lrg Powerplant</item>
+		<item>Hi-tech Sml Computer</item>			<item>Hi-tech Med Computer</item>			<item>Hi-tech Lrg Computer</item>
+		<item>Hi-tech Sml Warp Engine</item>		<item>Hi-tech Med Warp Engine</item>		<item>Hi-tech Lrg Warp Engine</item>
+		<item>Hi-tech Ftr Jump Drive</item>			<item>Hi-tech Sml Jump Drive</item>			<item>Hi-tech Med Jump Drive</item>			<item>Hi-tech Lrg Jump Drive</item>
+		<item>Hi-tech Sml Verniers</item>			<item>Hi-tech Med Verniers</item>			<item>Hi-tech Lrg Verniers</item>
+		<item>Hi-tech Ftr Shield</item>				<item>Hi-tech Sml Shield</item>				<item>Hi-tech Med Shield</item>				<item>Hi-tech Lrg Shield</item>
+	</tech>
+	<tech name = "Core Systems Extensions">
+		<!-- Core Systems extensions for utility slots -->
+		<item>Small Battery</item>
+		<item>Medium Battery</item>
+		<item>Large Battery</item>
+		<item>Small Shield Booster</item>
+		<item>Small CPU Extension</item>
+		<item>Warp Override</item>
+		<item>Standard Jammer</item>
+		<item>Hidden Jump Scanner</item>
+		<item>Emergency Shield Booster</item>
+	</tech>
+	<tech name = "Cargo and Fuel">
+		<!-- Hardpoint-fixed storage pods -->
+		<item>Small Fuel Pod</item>					<item>Medium Fuel Pod</item>				<item>Large Fuel Pod</item>
+		<item>Small Cargo Pod</item>				<item>Medium Cargo Pod</item>				<item>Large Cargo Pod</item>
+		<!-- Internal storage holds -->
+		<item>Small Fuel Tank</item>				<item>Medium Fuel Tank</item>				<item>Large Fuel Tank</item>
+		<item>Small Cargo Hold</item>				<item>Medium Cargo Hold</item>				<item>Large Cargo Hold</item>
+		<!-- Container rings for large freighters-->
+		<item>Small Cargo Containers Ring</item>	<item>Medium Cargo Containers Ring</item>	<item>Large Cargo Containers Ring</item>
+	</tech>
+	<tech name = "Hardpoints Outfits">
+		<!-- Hardpoint-fixed active outfits -->
+		<item>Jump Anomaly Scanner</item>
+		<item>Hardpoint Standard Jammer</item>
+		<item>Pirates Sensor Suite</item>
+	</tech>
+	<tech name = "Flak Turrets - Civilian">
+		<!-- Flak turrets for civilian ships -->
+		<item>Small Flak Turret</item>			<item>Medium Flak Turret</item>
+		<item>Small Ion Flak Turret</item>		<item>Medium Ion Flak Turret</item>
+	</tech>
+	<tech name = "Fighter Weapons">
+		<!-- Fighter and bomber-grade weapons -->
+		<item>Fighter Laser Cannon</item>
+		<item>Fighter Ion Cannon</item>
+		<item>Pirates Ion Cannon</item>
+		<item>Fighter Railgun Cannon</item>
+		<item>Fighter Ripper Cannon</item>
+	</tech>
+	<tech name = "Missile Launchers">
+		<!-- Various Missile Launchers -->
+		<item>DFM Missile</item>
+		<item>DFM Launcher</item>
+		<item>DFM EC Launcher</item>
+		<item>DFM XC Launcher</item>
+		<item>SIM Missile</item>
+		<item>SIM Launcher</item>
+		<item>SIM Rapid-Fire Launcher</item>
+		<item>MIM Missile</item>
+		<item>MIM Launcher</item>
+		<item>HIM Missile</item>
+		<item>HIM Launcher</item>
+		<item>ASM Missile</item>
+		<item>ASM Launcher</item>
+	</tech>
+	<tech name = "Capship Weapons">
+		<!-- Capital ship weapons -->
+		<item>Spinal Railgun</item>
+	</tech>
+	<tech name = "Launch Bays">
+		<!-- Launch bays -->
+		<item>Launch bays : Angry Bee</item>
+		<item>Launch bays : Eershlan</item>
+		<item>Launch bays : Akk'Ti'Makkt</item>
+		<item>Launch bays : Nelk'Tan</item>
+		<item>Launch bays : T'Telin</item>
+	</tech>
+	<tech name = "Launch bays : Angry Bee">
+		<item>Angry Bee Drone</item>
+		<item>1x Angry Bee Bay</item>		<item>2x Angry Bee Bay</item>		<item>3x Angry Bee Bay</item>
+		<item>5x Angry Bee Bay</item>		<item>10x Angry Bee Bay</item>
+		<item>15x Angry Bee Bay</item>		<item>25x Angry Bee Bay</item>
+	</tech>
+	<tech name = "Launch bays : Eershlan">
+		<item>Eershlan Fighter</item>
+		<item>1x Eershlan Bay</item>		<item>2x Eershlan Bay</item>		<item>3x Eershlan Bay</item>
+		<item>5x Eershlan Bay</item>		<item>10x Eershlan Bay</item>
+		<item>15x Eershlan Bay</item>		<item>25x Eershlan Bay</item>
+	</tech>
+	<tech name = "Launch bays : Akk'Ti'Makkt">
+		<item>Akk'Ti'Makkt Bomber</item>
+		<item>1x Akk'Ti'Makkt Bay</item>		<item>2x Akk'Ti'Makkt Bay</item>		<item>3x Akk'Ti'Makkt Bay</item>
+		<item>5x Akk'Ti'Makkt Bay</item>		<item>10x Akk'Ti'Makkt Bay</item>
+		<item>15x Akk'Ti'Makkt Bay</item>		<item>25x Akk'Ti'Makkt Bay</item>
+	</tech>
+	<tech name = "Launch bays : Nelk'Tan">
+		<item>Nelk'Tan Fighter</item>
+		<item>1x Nelk'Tan Bay</item>		<item>2x Nelk'Tan Bay</item>		<item>3x Nelk'Tan Bay</item>
+		<item>5x Nelk'Tan Bay</item>		<item>10x Nelk'Tan Bay</item>
+		<item>15x Nelk'Tan Bay</item>		<item>25x Nelk'Tan Bay</item>
+	</tech>
+	<tech name = "Launch bays : T'Telin">
+		<item>T'Telin Fighter</item>
+		<item>1x T'Telin Bay</item>			<item>2x T'Telin Bay</item>			<item>3x T'Telin Bay</item>
+		<item>5x T'Telin Bay</item>			<item>10x T'Telin Bay</item>
+		<item>15x T'Telin Bay</item>		<item>25x T'Telin Bay</item>
+	</tech>
+	<tech name = "Licenses">
+		<!-- All kinds of licenses -->
+		<item>Purchase Licenses</item>
+		<item>Security Licenses</item>
+		<item>Landing Passes</item>
+	</tech>
+	<tech name = "Purchase Licenses">
+		<item>Large Civilian Vessel License</item>
+		<item>Lethal Weapon License</item>
+		<item>Medium Weapon License</item>
+		<item>Heavy Weapon License</item>
+		<item>Light Combat Vessel License</item>
+		<item>Medium Combat Vessel License</item>
+		<item>Heavy Combat Vessel License</item>
+	</tech>
+	<tech name = "Security Licenses">
+		<item>Free Adrimai License</item>
+		<item>Free Adrimai Security License</item>
+		<item>Free Adrimai Security License (forged)</item>
+		<item>Gham Garri License</item>
+		<item>Gham Garri Security License</item>
+		<item>Gham Garri Security License (forged)</item>
+	</tech>
+	<tech name = "Landing Passes">
+		<item>Pirate Landing Pass</item>
+		<item>Eden Landing Pass</item>
+		<item>Purgatoire Landing Pass</item>
+		<item>Yana Private Invitation</item>
+		<item>Ziffel IV Quarantine Exception</item>
+		<item>Core League Military Accreditation</item>
+	</tech>
+	<tech name = "Landing Passes - Ziffel IV Quarantine Exception">
+		<item>Ziffel IV Quarantine Exception</item>
+	</tech>
+	<tech name = "Star Maps">
+		<!-- All kinds of star maps -->
+		<item>Star Maps - Special</item>
+		<item>Star Maps - Commonwealth</item>
+		<item>Star Maps - K'Rinn Sphere</item>
+		<item>Star Maps - Human Sphere</item>
+		<item>Star Maps - Rith Sphere</item>
+		<item>Star Maps - Sshaad Sphere</item>
+		<item>Star Maps - Pupeteer Sphere</item>
+		<item>Star Maps - Shapeshifter Sphere</item>
+		<item>Star Maps - Border Sectors</item>
+		<item>Star Maps - Space Pariahs</item>
+	</tech>
+	<tech name = "Alternate GUIs">
+		<!-- Alternate GUIs -->
+		<item>GUI - Brushed</item>
+		<item>GUI - Slimv2</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Star Maps -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Star Maps - Special">
+		<item>Local System Map</item>
+		<item>All Systems Map</item>
+		<item>Prices Info</item>
+	</tech>
+	<tech name = "Star Maps - Commonwealth">
+		<item>Star Maps - K'Rinn Council</item>
+		<item>Star Maps - Planetarist Alliance</item>
+		<item>Star Maps - Core League</item>
+		<item>Star Maps - Rithai Kemae</item>
+		<item>Star Maps - Irilia Clan</item>
+		<item>Star Maps - Arythem Clan</item>
+		<item>Star Maps - Baartish Intersystems</item>
+		<item>Star Maps - Candidate Systems</item>
+		<item>Star Maps - Thirteen Planets League</item>
+	</tech>
+	<tech name = "Star Maps - K'Rinn Sphere">
+		<item>Star Maps - K'Rinn Council</item>
+		<item>Star Maps - Ka'Ralt Secession</item>
+		<item>Star Maps - Shadow Complex</item>
+		<item>Star Maps - Ashioto Cluster</item>
+	</tech>
+	<tech name = "Star Maps - Human Sphere">
+		<item>Star Maps - Planetarist Alliance</item>
+		<item>Star Maps - Core League</item>
+		<item>Star Maps - Purple Trail</item>
+		<item>Star Maps - Hoshi no Hekka</item>
+		<item>Star Maps - Shadow Complex</item>
+		<item>Star Maps - Ashioto Cluster</item>
+	</tech>
+	<tech name = "Star Maps - Rith Sphere">
+		<item>Star Maps - Rithai Kemae</item>
+		<item>Star Maps - Irilia Clan</item>
+		<item>Star Maps - Irmothem Clan</item>
+		<item>Star Maps - Arythem Clan</item>
+		<item>Star Maps - Shadow Complex</item>
+	</tech>
+	<tech name = "Star Maps - Sshaad Sphere">
+		<item>Star Maps - Baartish Intersystems</item>
+		<item>Star Maps - Candidate Systems</item>
+		<item>Star Maps - Instrumentality Company</item>
+		<item>Star Maps - Complementarist Protectorate</item>
+		<item>Star Maps - Shoden Clusters</item>
+		<item>Star Maps - Complementarist Protectorate</item>
+	</tech>
+	<tech name = "Star Maps - Shapeshifter Sphere">
+		<item>Star Maps - Complementarist Protectorate</item>
+		<item>Star Maps - Proteous Resistance</item>
+	</tech>
+	<tech name = "Star Maps - Pupeteer Sphere">
+		<item>Star Maps - Thirteen Planets League</item>
+		<item>Star Maps - Red Quadrant League</item>
+	</tech>
+	<tech name = "Star Maps - Border Sectors">
+		<item>Star Maps - The Corridor</item>
+		<item>Star Maps - The Long Link</item>
+		<item>Star Maps - Free Adrimai exfiltration routes - Irilia sector</item>
+		<item>Star Maps - Free Adrimai exfiltration routes - Irmothem sector</item>
+		<item>Star Maps - Gham Garri Firewall Zone</item>
+		<item>Star Maps - The Path of Light</item>
+		<item>Star Maps - Gamma Sector</item>
+	</tech>
+	<tech name = "Star Maps - The Corridor">
+		<item>The Corridor</item>
+	</tech>
+	<tech name = "Star Maps - The Long Link">
+		<item>The Long Link</item>
+	</tech>
+	<tech name = "Star Maps - Free Adrimai exfiltration routes - Irilia sector">
+		<item>Free Adrimai exfiltration routes - Irilia sector</item>
+	</tech>
+	<tech name = "Star Maps - Free Adrimai exfiltration routes - Irmothem sector">
+		<item>Free Adrimai exfiltration routes - Irmothem sector</item>
+	</tech>
+	<tech name = "Star Maps - Gham Garri Firewall Zone">
+		<item>Gham Garri Firewall Zone</item>
+	</tech>
+	<tech name = "Star Maps - The Path of Light">
+		<item>The Path of Light</item>
+	</tech>
+	<tech name = "Star Maps - Gamma Sector">
+		<item>Gamma Sector</item>
+	</tech>
+	<tech name = "Star Maps - K'Rinn Council">
+		<item>K'Rinn Council - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Ka'Ralt Secession">
+		<item>Ka'Ralt Secession - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Rithai Kemae">
+		<item>Rithai Kemae - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Irilia Clan">
+		<item>Irilia Clan - Main Routes 1/3</item>
+		<item>Irilia Clan - Main Routes 2/3</item>
+		<item>Irilia Clan - Main Routes 3/3</item>
+	</tech>
+	<tech name = "Star Maps - Irmothem Clan">
+		<item>Irmothem Clan - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Arythem Clan">
+		<item>Arythem Clan - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Planetarist Alliance">
+		<item>Planetarist Alliance - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Core League">
+		<item>Core League - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Purple Trail">
+		<item>Purple Trail - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Hoshi no Hekka">
+		<item>Hoshi no Hekka - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Shadow Complex">
+		<item>Shadow Complex - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Ashioto Cluster">
+		<item>Ashioto Cluster - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Thirteen Planets League">
+		<item>Thirteen Planets League - Main Routes 1/2</item>
+		<item>Thirteen Planets League - Main Routes 2/2</item>
+	</tech>
+	<tech name = "Star Maps - Red Quadrant League">
+		<item>Red Quadrant League - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Instrumentality Company">
+		<item>Instrumentality Company - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Shoden Clusters">
+		<item>Shoden Clusters - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Baartish Intersystems">
+		<item>Baartish Intersystems - Main Routes 1/2</item>
+		<item>Baartish Intersystems - Main Routes 2/2</item>
+	</tech>
+	<tech name = "Star Maps - Complementarist Protectorate">
+		<item>Complementarist Protectorate - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Candidate Systems">
+		<item>Candidate Systems - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Proteous Resistance">
+		<item>Proteous Resistance - Main Routes</item>
+	</tech>
+	<tech name = "Star Maps - Space Pariahs">
+		<item>Space Pariahs - Part 1/4 - Pop</item>
+		<item>Space Pariahs - Part 2/4 - Vole</item>
+		<item>Space Pariahs - Part 3/4 - Ma</item>
+		<item>Space Pariahs - Part 4/4 - Pariahs</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Low-level technologies, found everywhere -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Low-tech Civilian Ships">
+		<item>Caravelle</item>
+		<item>Eresslih</item>
+		<item>Erlith</item>
+		<item>Percheron Mk1</item>
+		<item>Shire</item>
+		<item>StarJump</item>
+		<item>T'Kalt Cargo</item>
+	</tech>
+	<tech name = "Low-tech Core Systems and Extensions">
+		<item>Standard Core Outfits</item>
+		<item>Beat-up Core Outfits</item>
+		<item>Small Battery</item>
+		<item>Small Shield Booster</item>
+		<item>Cargo and Fuel</item>
+	</tech>
+	<tech name = "Low-tech Civilian Weapons">
+		<item>Flak Turrets - Civilian</item>
+		<item>Angry Bee Drone</item>
+		<item>1x Angry Bee Bay</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Medium-level technologies, available on most large colonies -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Regular Civilian Ships">
+		<item>Arshiilan</item>
+		<item>Caravelle</item>
+		<item>Eresslih</item>
+		<item>Keserlan</item>
+		<item>Irali</item>
+		<item>Iserlohn</item>
+		<item>L'Lintir</item>
+		<item>Percheron Mk2 Containers</item>
+		<item>Percheron Mk2 Holds</item>
+		<item>Percheron Mk2 Tanker</item>
+		<item>Shire</item>
+		<item>StarJump</item>
+		<item>T'Kalt Cargo</item>
+	</tech>
+	<tech name = "Regular Core Systems and Extensions">
+		<item>Standard Core Outfits</item>
+		<item>Small Battery</item>
+		<item>Medium Battery</item>
+		<item>Small Shield Booster</item>
+		<item>Emergency Shield Booster</item>
+		<item>Hidden Jump Scanner</item>
+		<item>Standard Jammer</item>
+		<item>Small CPU Extension</item>
+		<item>Warp Override</item>
+		<item>Cargo and Fuel</item>
+	</tech>
+	<tech name = "Regular Civilian Weapons">
+		<item>Flak Turrets - Civilian</item>
+		<item>DFM Missile</item>
+		<item>DFM Launcher</item>
+		<item>DFM EC Launcher</item>
+		<item>DFM XC Launcher</item>
+		<item>Angry Bee Drone</item>
+		<item>1x Angry Bee Bay</item>
+		<item>2x Angry Bee Bay</item>
+		<item>3x Angry Bee Bay</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+
+
+	<!-- ==================================================================================================== -->
+	<!-- Hi-level technologies, found only on capital systems and large shipyards -->
+	<!-- ==================================================================================================== -->
+	<!-- -->
+	<tech name = "Hi-tech Civilian Ships">
+		<item>Alaith</item>
+		<item>Eclair d'Etoiles</item>
+		<item>Faithful</item>
+		<item>Fast Shell</item>
+		<item>Keserlan</item>
+		<item>SunFlower</item>
+		<item>Travellers' Breath</item>
+	</tech>
+	<tech name = "Hi-tech Core Systems and Extensions">
+		<item>Hi-tech Core Outfits</item>
+		<item>Small Battery</item>
+		<item>Medium Battery</item>
+		<item>Large Battery</item>
+	</tech>
+	<tech name = "Hi-tech Civilian Weapons">
+		<item>SIM Missile</item>
+		<item>SIM Launcher</item>
+		<item>SIM Rapid-Fire Launcher</item>
+		<item>ASM Missile</item>
+		<item>ASM Launcher</item>
+	</tech>
+	<!-- -->
+	<!-- ==================================================================================================== -->
+</Techs>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Percheron Mk1">
+ <base_type>Percheron</base_type>
+ <GFX sx="6" sy="6">percheron_mk1</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Freighter</class>
+ <price>900000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Melendez Corp.</fabricator>
+ <description>A medium freighter with accommodations for passengers. With its original single flak turret, the Percheron Mk1 was a favorite target of pirates until modular models Mk2 added a 2nd turret, a 2nd core extension and a drones bay.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>60</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>4</crew>
+  <mass>200</mass>
+  <fuel_consumption>440</fuel_consumption>
+  <fuel>700</fuel>
+  <cargo>150</cargo>
+ </characteristics>
+ <slots>
+  <structure size="medium"  prop="Hull Plating">Std Med Hull Plating</structure>
+  <structure size="medium"  prop="Power Core">Std Med Powerplant</structure>
+  <structure size="medium"  prop="Computer Core">Std Med Computer</structure>
+  <structure size="medium"  prop="Warp Engine - Medium">Std Med Warp Engine</structure>
+  <structure size="medium"  prop="Jump Drive">Std Med Jump Drive</structure>
+  <structure size="medium"  prop="Verniers Array - Medium">Std Med Verniers</structure>
+  <structure size="medium"  prop="Shield Generator">Std Med Shield</structure>
+  <utility size="medium"  prop="Core Systems Extension"></utility>
+  <utility   size="medium"  prop="Containers Ring">Medium Cargo Containers Ring</utility>
+  <weapon    size="small"  prop="Flak Turret" x="+10"  y="0" h="0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>0</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

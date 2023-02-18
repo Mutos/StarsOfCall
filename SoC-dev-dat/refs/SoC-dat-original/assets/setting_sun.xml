@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Setting Sun">
+ <pos>
+  <x>2684.519439</x>
+  <y>-2063.308329</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-002-Panels-100px.png</space>
+  <exterior>Outpost-PurrSphere-002-Panels-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>85</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities/>
+  <description>This station is the nearest to The Cradle, and also the first Purr Sphere of the second generation. It has been named from the local sun's light playing with the nearby gas giant.
+  </description>
+  <bar>Several station crew along withSpacers waiting for their ship to be refuelled.</bar>
+ </general>
+</asset>

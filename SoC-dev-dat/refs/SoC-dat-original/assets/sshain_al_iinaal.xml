@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sshain al Iinaal">
+ <pos>
+  <x>1917.105966</x>
+  <y>-1380.188383</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Instrumentality Company</faction>
+  <value>400.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>18705000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>A lush forest world, of the type favored by the Sshaads, orbiting a gas giant that can easily be exploited for cheap hydrogen. The only drawback is the low biocompatibility with Sshaad life, that forced the colonists to develop numerous bridge species. Notably, all eggs have to be injected on laying with bridge bacteria. Without this treatment, the young are unable to properly metabolize native preys and they die a slow and painful death of starvation.
+
+Pupeteers recently offered help to gengineer the colonists themselves for digesting the native biology, but for now, it has been turned down as the local people want to stay on autarcy whenever possible.
+  </description>
+  <bar>A crowd of forest runner natives, proud of their feat of survival in an hostile environment</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

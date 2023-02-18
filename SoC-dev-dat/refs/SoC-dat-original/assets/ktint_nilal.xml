@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Tint Nilal">
+ <pos>
+  <x>-3355.129478</x>
+  <y>-2310.604579</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>54650</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>This independent relay orbiting planet K'Tint is a meetpoint between the two major k'rinn States : the K'Rinn Council and the Ka'Ralt Secession. It has built its success on this position, in a crossroads system scattered by remnants of the Second Fringe War.
+
+At the time, the system was part of a major route linking the Council to the Irilia Clan, that the Arythem Clan sought to shut down. Ka'Ralt itself being on the route from Drom to the Crossing, was directly threatened by an Arythem strike force. Refusing to ally with the recently contacted Humans, the Ka'Raltians implemented a plan frowned upon by the Council, to genetically defenderize tens of thousands of their own people. After the planet seceded, the ka'raltian stand actually forced the Arythem forces to use a longer jump route around their system. It earned the Council enough time to gather its forces and stop the Arythem assault at the Crossing.
+
+The old relay dates back from the Battle of the Crossing, though it has been modernized many times since. It acts as a museum of the battle and as a neutral zone between the Council and Ka'Ralt.
+  </description>
+  <bar>K'Rinns with markings of both States, mainly merchants eager to cross the long-standing borders, but also a few Defenders, mainly fighter pilots.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

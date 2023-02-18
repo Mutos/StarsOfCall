@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Lone Star">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>3701.464000</x>
+  <y>-3201.360000</y>
+ </pos>
+ <assets>
+  <asset>Lone Star</asset>
+ </assets>
+ <jumps>
+  <jump target="KR-TPL-IS - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KR-TPL-IS - 1 - 3">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KR-TPL-IS - 1 - 4">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="The Corridor">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 122763">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3629.64777" y="3820.448326"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 308490">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="674.746311" y="5498.681835"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 426049">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-11277.643978" y="7539.727985"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 663442">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2502.593328" y="5111.67999"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 747162">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3734.045749" y="-2457.728082"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 761462">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2747.527995" y="-3865.707992"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 810559">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4525.966658" y="3239.172216"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 847259">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4015.686103" y="-6944.252764"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

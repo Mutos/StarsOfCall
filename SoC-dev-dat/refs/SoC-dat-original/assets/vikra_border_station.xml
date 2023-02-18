@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Vikra Border Station">
+ <pos>
+  <x>-4107.337106</x>
+  <y>5896.016168</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Stellar Police</faction>
+  <value>300.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>60000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+  </commodities>
+  <description>The Vikra ("Force") station guards the main passage between Planetarist Alliance and Core League. Manned by the joint Stellar Police, its main purpose is to prevent smuggling through the border. Additionally, it also serves as a deterrent against outlaws from the Hoshi no Hekka and the Theta sector.
+  </description>
+  <bar>Many planetarist people, most of them pilots and patrol crews</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

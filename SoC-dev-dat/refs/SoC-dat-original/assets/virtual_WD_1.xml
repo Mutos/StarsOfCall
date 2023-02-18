@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual WD Area 1">
+ <virtual/>
+ <presence>
+  <faction>Wandering Domains</faction>
+  <value>450.000000</value>
+  <range>1</range>
+ </presence>
+</asset>

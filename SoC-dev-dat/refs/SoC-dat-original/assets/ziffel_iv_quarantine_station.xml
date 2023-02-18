@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ziffel IV Quarantine Station">
+ <pos>
+  <x>5697.463304</x>
+  <y>-6121.295872</y>
+ </pos>
+ <GFX>
+  <space>Station-SR002.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>85900</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Since the Quarantine has been enforced, the Trading Station that ensured planetfall control to Ziffel IV, thus enforcing the treaty between the planetside Ziffelian Empire and the Core League, has been converted to a Quarantine Station.
+
+It's nearly the only place where planetfall visas to the "Sick Planet" can officially be delivered.
+  </description>
+  <bar>You see Ziffel IV through the glass walls and group of tourists after group of tourists gobble their guide's speech on the Sick Planet</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Landing Passes - Ziffel IV Quarantine Exception</item>
+ </tech>
+</asset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Beuzeley-la-Bastille">
+ <pos>
+  <x>4788.273877</x>
+  <y>3637.009075</y>
+ </pos>
+ <GFX>
+  <space>004.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>340.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2500</population>
+  <hide>10.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>A station orbiting Banthory IV, originally built in secrecy by an unidentified sshaad faction, that is thought to be related to the Shoden. Its goals would have been to observe Humans in situ to evaluate means of fighting them.
+
+The outpost was to be protected by the very limited traffic to and from Banthory IV, but had nonetheless been designed with stealthy materials and external structure. Furthermore, cloaking generators were to make it invisible to radar and eye during a limited time, should ships approach within detection range. The places where these devices were to be mounted have been identified, but it seems they were never installed. This hypothesis is confirmed by the oversized power plant, able to overrun at a very high peak power for a few hours.
+
+The station was hastily evacuated for unknown reasons while it was still uncomplete. It had been salvaged by a motley group of smugglers, comprised of a Human privateer, a lone Shapeshifter traveller, a Pupeteer sociology student and a Sshaad cyborg leftover in the evacuation. They turned it into what it currently is : a discreet trade platform, away from the larger routes and able to survive in autarcy, thanks to the pastoral world it orbits around.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

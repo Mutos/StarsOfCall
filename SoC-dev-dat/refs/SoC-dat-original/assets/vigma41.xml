@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Vigma-4.1">
+ <pos>
+  <x>3069.078698</x>
+  <y>4511.175917</y>
+ </pos>
+ <GFX>
+  <space>moon-K00.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

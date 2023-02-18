@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Oshiinal">
+ <pos>
+  <x>2512.596244</x>
+  <y>-1800.671701</y>
+ </pos>
+ <GFX>
+  <space>moon-M01.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>195649000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Oshiinal is a mainly oceanic moon, with a few rich land masses and an ecosystem 80% biocompatible with esshiinan life.
+
+It was initially colonized to become a seafood source for the Baartish. Then, numerous jump routes were discovered, linking the new colony to other important planets. So, Oshiinal also became a de facto trade nexus, far wealthier than expected by the first settlers. It is now becoming a resort for the most richest people in the entire Baartish.
+  </description>
+  <bar>The patrons at the bar are mainly so-called "golden beaks" Sshaads : insanely well-off master-merchants</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

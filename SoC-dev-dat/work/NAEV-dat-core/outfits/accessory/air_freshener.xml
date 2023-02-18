@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="Air Freshener">
+ <general>
+  <unique />
+  <typename>Accessory</typename>
+  <slot prop="accessory">utility</slot>
+  <size>small</size>
+  <priority>3</priority>
+  <mass>0</mass>
+  <price>1000000</price>
+  <description>Apparently air fresheners have been traditionally used in human vehicles as ornaments. They used to have scents but, since these have no impact with modern ships' powerful filtration systems, these days they are entirely cosmetic.</description>
+  <gfx_store>air_freshener.webp</gfx_store>
+ <rarity>6</rarity></general>
+ <specific type="modification">
+  <turn_mod>-25</turn_mod>
+  <speed_mod>10</speed_mod>
+  <thrust_mod>10</thrust_mod>
+ </specific>
+</outfit>

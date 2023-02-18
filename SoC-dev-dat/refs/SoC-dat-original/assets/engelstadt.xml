@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Engelstadt">
+ <pos>
+  <x>-6354.893772</x>
+  <y>4000.333101</y>
+ </pos>
+ <GFX>
+  <space>Station-SCO003.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>550.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>8453000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Engelstadt is home to Humans gengineered to become flying beings. It was the dream of the former Hekka of the Mirai, Urs Schreiber. He choose the Hallier system for its ore-rich planet and asteroids, able to provide resources for the massive station required for his project. He even had the Council rename it Engelstadt, as the new station itself.
+
+Initial population was implanted with mechanical wings, so they could fly in the third-gravity O'Neill dual-cylinders, while the next generations were to have genetically built-in wings. However, the experiment went horribly wrong and hundreds of people were sacrificed to crude gengineering.
+
+One such 2nd-generation "defect", Maria Dolores Ibanez, born with non-functional winglets, never admitted her fate. She fled her home while still a child, lived among outcasts and got a street charcudoc replace her winglets by crude synthetic wings. After a few years, she finally fled Engelstadt, had her wings removed altogether and made a career as a fighter pilot. Hearing of the Pupeteers, she searched for gengineers able to made her a true Angel. After many failures, she stayed some years on Forestlight with a senior gengineer named Plancton-Flowers. When she came back to Engelstadt, she was bringing with her a functional Angel DNA Infector and was welcomed as a messiah.
+
+Sadly, Urs Schreiber never lived long enough to see his dream come true, but now the vista of angels flying within the station's curved panels is famous even far away from the Human Sphere, though few people actually come through hazardous HnH space to see it with their own eyes.
+
+The drawback for Angels is that they actually can fly only in less than half-Earth-G, and their bones are easily broken in higher-G environments. Most of them spend their whole lives in Engelstadt or other light-G stations. Some even become Spacers to live in zero-G, often in large station-ships, allowing them to keep the taste of winged flight.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

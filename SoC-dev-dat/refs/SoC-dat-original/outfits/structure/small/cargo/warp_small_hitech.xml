@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Hi-tech Sml Warp Engine">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Warp Engine - Small">structure</slot>
+  <size>small</size>
+  <price>20000</price>
+  <description>An advanced warp core with the best available field collimators, providing ample thrust and speed.</description>
+  <gfx_store>hk2250/Warp-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <thrust>300</thrust>							<!-- Main purpose	: thrust directs acceleration -->
+  <speed>340</speed>							<!-- Main purpose	: maximum absolute speed - unrealistic but needed ! -->
+  <misc_reverse_thrust>1</misc_reverse_thrust>	<!-- Main purpose	: allows the ship to decelerate as well as accelerate, albeit with less power -->
+  <engine_limit>100</engine_limit>				<!-- Unknown		: no hint of what purpose this modifier is for -->
+  <mass_rel>50</mass_rel>						<!-- Mass cost		: the verniers array is not the heaviest outfit, but it certainly adds to a ship's mass -->
+  <energy_usage>8</energy_usage>				<!-- Energy cost	: defines energy consumption -->
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

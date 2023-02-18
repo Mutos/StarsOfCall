@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Cloudy Resort">
+ <pos>
+  <x>-2085.494440</x>
+  <y>-4148.802770</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>259760</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This newly built gas mining outpost orbiting Fallen Sun, jokingly named as a vacation resort, has increased tenfold the planet's hydrogen output, thus ensuring its status as a major refuel point in the area.
+
+The large landing bay is constantly filled by automated and crewed mining skimmers and regular tankers carrying the raw gas to Gamma World, as the station itself has next to no refinement capacity and only outputs enough fuel-grade hydrogen for its own needs. So it is not permitted to refuel private vessels at the station: pilots must refuel planetside.
+
+This limit on refining has been imposed by Gamma World. As the majority of the crew comes from the planet and only stays for a limited time on Cloudy Resort, there is still much support for this way of working. However, there is a growing resent among minorities of lifelong miners and permanent workers, that planetside interests plunder all the outpost's income and prevent any enhancement in living conditions.
+  </description>
+  <bar>A large crew of gas-miners and a handful of merchants.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Border Sectors</item>
+ </tech>
+</asset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Erathan Base">
+ <pos>
+  <x>-8296.256624</x>
+  <y>-10406.204773</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D16.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Gham Garri</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>66300</population>
+  <hide>2.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Erathan Base has been secretely built by the Gham Garri to prevent Adrim exfiltration to the Baartish Intersystem. It is a lonely stealth station with a fanatic crew of patrol pilots, eager to wait for days hidden in the Long Link systems until they detect a would-be "ghost ship" to ambush.
+  </description>
+  <bar>Only Gham Garri people, mostly pilots, eager to fight any non-Rith who would try showing up</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

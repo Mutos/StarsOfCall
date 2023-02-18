@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="IS 0060">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>5486.000000</x>
+  <y>-2852.096000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="IS 0057">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IS 0061">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

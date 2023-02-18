@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-2">
+ <pos>
+  <x>-2716.142279</x>
+  <y>-2583.647534</y>
+ </pos>
+ <GFX>
+  <space>moon-O01.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>12563000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>The second Irilia colony was a lush world. It would have seemed more suited for the Irmothem, with their long history of wood dwellers, but it was the best world Irilia could give its colonists at the time.
+
+Its rich ecosystem and fine-moonedness marked it however as a choice living place and so, some Irilia people forgot their eternal sands and adapted to the forest world.
+
+But it was colonized before hyperspace was discovered and was later found to be far from any great route, on a dead-end of the jump network. So colonization paced and by the Fringe Wars, internal growth has become greater than immigration. It has stayed so since, and Irilia-2 is host to a very specific culture, mixing sand-dwellers traditions and adaptation to forest living.
+  </description>
+  <bar>Mainly natives regarding strangers with defiance</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

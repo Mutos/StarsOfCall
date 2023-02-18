@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Naled VIII">
+ <pos>
+  <x>8996.907423</x>
+  <y>-7322.010108</y>
+ </pos>
+ <GFX>
+  <space>J00.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

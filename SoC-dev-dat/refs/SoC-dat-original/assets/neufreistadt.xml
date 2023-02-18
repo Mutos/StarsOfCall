@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Neufreistadt">
+ <pos>
+  <x>11048.683312</x>
+  <y>1996.749996</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D23.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>54200</population>
+  <hide>25.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Neufreistadt is a small station hidden well inside one of the numerous asteroids fields of system Raumbahn Sieben 3.1. It is often an uneventful place, except when a smuggling ship passes by on its way to or from Ashioto Cluster. The station poses as an asteroid, with its docks shielded from view in craters and artistly camouflaged. Moreover, the arrays of thrusters scattered over its whole surface are often fired at random to make its orbital path unpredictable. For now, it has never been pinpointed by the patrols from Raumhansa, despite a long-running suspicion.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

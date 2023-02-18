@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Godjaveri Staryards">
+ <pos>
+  <x>3128.241661</x>
+  <y>5635.272211</y>
+ </pos>
+ <GFX>
+  <space>station-shipyard.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>55600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>
+ Lupe Godjaveri's own staryards, originally only a small drydock to manufacture on demand the Niglo-class smuggling ship. It has been built on orbit around Dwarves' Tunnels, which abundant raw metals it can use at a low price. It has then expanded to become a flourishing station that builds and repairs many smugglers' ships. It is currently managed by Lupe Godjaveri herself and her only child, her daughter Azra.
+  </description>
+  <bar>Spacers and mechanics, mainly Humans, but smugglers of all species know they can find there the best for their needs.</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

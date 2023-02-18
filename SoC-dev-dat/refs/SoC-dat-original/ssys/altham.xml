@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Altham">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>2484.952000</x>
+  <y>-2525.712000</y>
+ </pos>
+ <assets>
+  <asset>Altham Etrel</asset>
+  <asset>Altham Irla</asset>
+  <asset>Holin Altham</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Iri 0044">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0046">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0051">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri 0053">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 410474">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4326.291658" y="6167.738877"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 456568">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9451.283315" y="-3017.311105"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 564544">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2351.727773" y="-2995.124994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 565548">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1530.841664" y="10205.611091"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 569852">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1331.166664" y="-1198.049998"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 698520">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5635.272211" y="-2773.263883"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 895454">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-4015.686103" y="2351.727773"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

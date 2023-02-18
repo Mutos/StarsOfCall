@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delta Polaris">
+ <general>
+  <radius>20000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-443.368000" y="-134.944000"/>
+ <spobs>
+  <spob>Benteen</spob>
+  <spob>Bolero</spob>
+  <spob>Delta Polaris I</spob>
+  <spob>Delta Polaris II</spob>
+  <spob>Delta Polaris VI</spob>
+  <spob>Falas</spob>
+ </spobs>
+ <jumps>
+  <jump target="Antlejos">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Jade">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Knave">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Zemur">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <group>typeA-poor</group>
+   <radius>1000.000000</radius>
+   <pos x="-821.337464" y="10960.983874"/>
+  </asteroid>
+  <exclusion>
+   <radius>500.000000</radius>
+   <pos x="-841.597055" y="10984.495082"/>
+  </exclusion>
+ </asteroids>
+</ssys>

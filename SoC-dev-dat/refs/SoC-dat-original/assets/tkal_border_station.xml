@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="T'Kal Border Station">
+ <pos>
+  <x>-5631.026677</x>
+  <y>861.215845</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+  </commodities>
+  <description>This newly-commissioned station was built when the link between the Ashioto Cluster and the Long Run was discovered. Its aim is to prevent a rush of smugglers upon potentially dangerous purgatorian technologies.
+  </description>
+  <bar>Cluster Guard members are everywhere, spying every move of everyone</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Ashioto Cluster</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

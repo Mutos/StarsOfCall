@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tek'Kettet Orbital Shipyards">
+ <pos>
+  <x>-3876.024845</x>
+  <y>-2835.375485</y>
+ </pos>
+ <GFX>
+  <space>station-shipyard.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>100.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>23000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+  </commodities>
+  <description>These are the famous shipyards that build a great part of the T'Kalt used during the Second Fringe War. After the war, they were oversized and under a threat of shutting down. Just as what happened with the planetside facilities, workers united to claim them back. In less than two decades, they managed to convert them to building cargo ships like the famous L'Lintir and recycling old ships into new careers.
+
+The Tek'Kettet shipyard is now a major shipbuilder of k'rinn space, on a par with the orbital facilities around planetary colonies and even H'Rkann. Their ships are used throughout the whole of the known universe.
+  </description>
+  <bar>Workers ans Spacers talking about ships</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

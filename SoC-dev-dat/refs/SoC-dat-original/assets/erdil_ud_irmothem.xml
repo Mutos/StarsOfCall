@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Erdil ud Irmothem">
+ <pos>
+  <x>-3842.347615</x>
+  <y>529.978981</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Erdil Clan</faction>
+  <value>300.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1925354000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The fifth Irmothem exocolony was as lush as the first, but also ripe with perils and dangers. Its low biocompatibility claimed the life of many colonists in the first few years. Biologists had a hard time to adapt local and skaraean species so they could bind together into successful ecosystems.
+
+After a decades-long power struggle among Irmothem Idrimarai, the Clan finally decided to end the Erdil experiment and concentrate its efforts on the three previous settlements. The settlers, following a momentous debate, decided to stay and maintain the settlement against all odds. They finally obtained from the Clan an ultra-low-frequency noria of supply ships and, during the following decades, they proved themselves right and earned a status of Associated Clan.
+
+The new Clan and the planet were named after the first Idrimar among them, Erdil ud Irmothem, untimely fallen to a local disease after having led the expedition, the first Landing and many fights against the hostile biosphere.
+
+The Erdil Clan has since become specialists of developping bridge species and dealing with biocompatibility issues. It has often cooperated with Pupeteers and a fair number of Pupeteers reside on all Erdil planets.
+  </description>
+  <bar>Many Rithai with Erdil markings, some Pupeteers and tradesbeings of various species</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

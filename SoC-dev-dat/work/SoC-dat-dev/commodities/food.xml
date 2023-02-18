@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Food</name>
+ <description>Evolving from the military rations of the ancient past, modern packaged meals are rich in nutrients and able to last many cycles in their vacuum-sealed packaging. They are normally suitable for all species, but no warranty is given as composition may vary depending on the ecosystem of origin.</description>
+ <price>210</price>
+ <gfx_store>ration_mealpacks.png</gfx_store>
+ <standard/>
+ <spob_modifier type="H">0.7</spob_modifier>
+ <spob_modifier type="K">0.95</spob_modifier>
+ <spob_modifier type="L">0.9</spob_modifier>
+ <spob_modifier type="M">0.4</spob_modifier>
+ <spob_modifier type="O">0.4</spob_modifier>
+ <spob_modifier type="P">0.5</spob_modifier>
+ <spob_modifier type="Q">0.8</spob_modifier>
+ <spob_modifier type="R">0.8</spob_modifier>
+ <period>80</period>
+ <population_modifier>0.75</population_modifier>
+ <faction_modifier type="Empire">0.8</faction_modifier>
+ <faction_modifier type="FLF">1.2</faction_modifier>
+ <faction_modifier type="Frontier">1.2</faction_modifier>
+</commodity>

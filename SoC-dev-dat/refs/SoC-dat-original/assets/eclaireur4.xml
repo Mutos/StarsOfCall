@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eclaireur-4">
+ <pos>
+  <x>-6157.322645</x>
+  <y>3434.250490</y>
+ </pos>
+ <GFX>
+  <space>I01.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

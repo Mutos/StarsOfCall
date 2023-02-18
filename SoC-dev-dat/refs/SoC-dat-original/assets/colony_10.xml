@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Colony 10">
+ <pos>
+  <x>-3444.863379</x>
+  <y>-4703.563460</y>
+ </pos>
+ <GFX>
+  <space>M04.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>400.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>87523000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This 13-Planets colony has yet to be named. Proposals currently go from "Great Reefs" to "Whales' Paradise" or "Othersea". They are all related to oceans, which take an important part of the planet's surface. The colony's population is still quite low and so is the number of visitors from other species, but this is expected to change in the coming decades, given the potential of the local ecosystems.
+
+Notably, some near-sentient whale-like creatures are now used as subaquatic bearers and under gengineering into starships. They have become famous since their discovery, thanks to travelling spacers who spread images throughout the known universe. They've been named "werewhales" in English in an attempt of translation from their complex pupeteer name.
+
+Most werewhale symbionts are at first awed by these magnificent creatures and fear they might commit Invasion of Conscience, but most soon learn to form a deep symbiosis, most akin to a sentient-to-sentient partnership. A few attempts, however, resulted in damage to both the werewhale's and the Pupeteer's minds, as the pilot couldn't overcome their fear. To prevent such dramatic events, an in-depth study of candidates' mind has recently been edicted as a pre-requisite for symbiosis clearance.
+  </description>
+  <bar>Pupeteers on small bearers and a few non-Pupeteers, all of them admiring the werewhales through glass panels</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

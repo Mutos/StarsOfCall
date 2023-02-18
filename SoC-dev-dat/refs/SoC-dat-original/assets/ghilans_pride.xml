@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ghilan's Pride">
+ <pos>
+  <x>-5546.527767</x>
+  <y>-2862.008328</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Alliance</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>30</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Ghilan's Pride is a 1st-generation K'Til'n station due to be dismantled, that was bought by a human spacer and towed into place around Light of Dawn, ten jumps away from its original system, after a sternuous journey.
+
+It mainly serves as a refueling relay, its minimal crew operating automated harvesters to get fuel at low-cost from the gas giant's atmosphere.
+  </description>
+  <bar>A few Humans and Rithai, waiting for their ships' tanks to be filled.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Cargo and Fuel</item>
+ </tech>
+</asset>

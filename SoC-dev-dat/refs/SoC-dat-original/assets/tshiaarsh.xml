@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tshiaa'rsh">
+ <pos>
+  <x>-596.226354</x>
+  <y>-728.721099</y>
+ </pos>
+ <GFX>
+  <space>M08.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Daneb Anarchs</faction>
+  <value>1000.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2687653000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Tshiaa'rsh is the Sshaads' cradleworld. It is one of the few major worlds ruled by the "Daneb Anarchs", whose ideology is based on the sociological theory that, since the beginning of the industrial age, Masters Leagues have perverted the near-anarchy of the ancestral villages, known as "daneb".
+
+By now, it has lost most of its political power as a state in itself and is formally allied to Baartish Intersystems, but has retained a government, based on an alliance of the planet's danebs. The planet is quite jealous of its independance from the Baartish Masters, which has led it welcome the headquarters of the Daneb Anarchs.
+
+In popular culture, it is often opposed to the Baartish capitol, where the ruling Masters gather. A common saying tells that "Baartish rules by its Masters' networks, Tshiaa'rsh rules by its people's brains". It is renowned for being the place where different cultures and ideas meet and ground-breaking policies are decided.
+  </description>
+  <bar>The intellectual elite of the Sshaad Sphere seems to have gathered here, along with a sizeable number of visitors from the whole known universe</bar>
+ </general>
+ <tech>
+  <item>All Ships</item>
+  <item>All Outfits</item>
+ </tech>
+</asset>

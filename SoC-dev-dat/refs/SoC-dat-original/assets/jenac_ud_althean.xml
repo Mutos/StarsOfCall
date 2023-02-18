@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Jenac ud Althean">
+ <pos>
+  <x>6176.147590</x>
+  <y>-3820.884948</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007b-Mining-Facility.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>JnI</faction>
+  <value>340.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This station bears the name of Jenac ud Arythem ud Althean, a Thisk officer from the ill-fated Arythem-5 colony, whose sacrifice became a legend. She gave her life to recon the first Na'imsh-infested villages, at the beginning of the Great Horror that destroyed the settlements. Her cybereye's transmissions were the first evidences that something was going awfully awry. The device's signal only stopped when they ran out of energy, hours after her actual death. Ground Control Officers had to watch her entire agony, as she was paralyzed and eaten alive by Na'imsh larvae during three full days. Despite being unable to move, she still could transmit and receive thoughts through her implants. She described her ordeal, desperately fighting to remain conscious and gather all information she could about the parasites that were killing her.
+
+During the Uneasy Peace between Arythem and the K'Rinn Council, a group of survivors sent back from Arythem-5 to Skarae set out to destroy the K'Rinns, whom they saw as Na'imsh-like, and thus, as utterly evil. Calling themselves the Jenac nah Ikar, meaning "Jenac's Heirs", they voewed to defend Arythem in spite of itself. Using underground propaganda to foment a massive outcry among the Arythem Rith and getting support from several high-ranking military Thiskae, they were one of the forces behind the escalation of violence that led to the Second Fringe War. They also placed members among the Arythem High Command, whose hate-inspired decisions were often far less than optimal and caused, directly and indirectly, many untimely losses of rith lives.
+
+After the war, the JnI was outlawed by the Major Clans and the Rithai Kemae, and banned from the Rith Core. Their organizations were dismantled and the surviving members dived into clandestinity. They built JnA station to get a new base from which they hope to rise from their ashes and exact vengeance, not only on the K'Rinn Council, but also on the main rithai Clans who, in their view, betrayed their own species.
+  </description>
+  <bar>Several mean-looking Rithai with a fanatical glare in their eyes.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

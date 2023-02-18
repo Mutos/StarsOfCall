@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hirvaam">
+ <pos>
+  <x>4173.584478</x>
+  <y>3246.121261</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>259424000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>With oceans, forests and deserts, Hirvaam has everything a planet's settler can desire, except maybe enough polar caps for a satisfying climate stability. It has lots of erratic meteorological phenomenons, to which the indigenous fauna has well adapted. The new Hirvaameers, however, have devised numbers of strategies to prevent, mitigate and lessen their consequences, including observing and imitating the local fauna.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+ </tech>
+</asset>

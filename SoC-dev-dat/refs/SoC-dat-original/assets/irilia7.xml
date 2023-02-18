@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irilia-7">
+ <pos>
+  <x>-1980.775996</x>
+  <y>2555.839995</y>
+ </pos>
+ <GFX>
+  <space>M03.png</space>
+  <exterior>oceanic2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>253241000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>One of the most successful Irilia colonies, Irilia-7 was initially established by Irilia-1 people in search of further expansion. The oceanic world proved to be a great reservoir of marine life which was, despite a low biocompatibility, mostly harmless for skaraean life.
+
+Today's population is a basic mix of Irilia-1 and Irilia-4 stock, with the addition of a notable proportion of people from other oceanic Irilia worlds. The steady climate and benign ecosystems provide for a great quality of life, if lacklust by rithai warlike standards. Its proximity with Ka'Ralt and k'rinn space have also attracted a steadily growing k'rinn population, under the first cooperation treaty of Ka'Ralt with a non-k'rinn world.
+
+The mix of populations with very different views on life has prompted some concern in the beginning, but now things have settled into a "live and let live" modus vivendi. There is still some opposition between pro-Gham Garri and pro-Free Adrimai but, if the system sometimes sees armed encounters between the opposed factions, the planetside population doesn't actively take sides.
+  </description>
+  <bar>A mixed lot of Rithai of diverse ethnies and mostly Ka'Raltian K'Rinns</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

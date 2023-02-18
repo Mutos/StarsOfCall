@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Roaming Herds">
+ <pos>
+  <x>2053.668553</x>
+  <y>-3246.121261</y>
+ </pos>
+ <GFX>
+  <space>H03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>550.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>256457000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>This half-desert world in surface holds far more water than it seems, thanks to a underground hydrographic network, albeit only meters to dizains of meters under the surface. Its deserts are roamed by herds of millions cow-sized animals, that follow the underground water current from oasis to oasis. They can eat bare an entire oasis, but from their tracks, new vegetation grows and gives life to new, ephemereal enchanting trails. The oasis also regrows a while after their passage and thrives until another herd erases it from the tundra. This feature is so peculiar the planet has been named from it.
+
+Roaming Herds is one of latest 13-Planets colonies. It has been discovered by people from Colony-15, who thought at first to have found a very similar world, until they spotted the immense herds of bovines and oasis, and found out the difference in depth in the underground water network.
+
+The great six-legged beasts and their associated fauna are fascinating and many local species make great bearers. Generally, Pupeteers avoid predatory animals as bearers, as it seems to rub off on the symbiont, but one species, colloquially called weregarri, and more scavengers than hunters, has been found to be great bearers. Quite intelligent with a sentience rating rounding 0.8, they are most often viewed as life-friends for their symbionts, instead of mere bearers.
+  </description>
+  <bar>A chattering crowd of Pupeteers on local, garr-looking bearers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Pupeteer Sphere</item>
+ </tech>
+</asset>

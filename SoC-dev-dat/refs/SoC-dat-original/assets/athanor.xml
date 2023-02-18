@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Athanor">
+ <pos>
+  <x>6827.724919</x>
+  <y>-1911.737078</y>
+ </pos>
+ <GFX>
+  <space>M08.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>287600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>A patchwork of forests and waterlands, this very fertile planet has been colonized independently by Baartish and Arythem settlers. It was the first place where Sshaads and Rithai began to fight what would later be known as the "New Fringe War".
+
+Despite the introduction of many Complementarist danebs and the spreading of youngpacks control, the situation between descendents of original colonists is still unstable. The planet and system are under intense scrutiny by the Joint Peacekeepers Corps to prevent a new conflict, as Shoden ships have been sighted, supposedly trying to setup a route to their space to spread their supremacist views among planetside Sshaads.
+  </description>
+  <bar>None</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

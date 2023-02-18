@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship name="Eclair d'Etoiles">
+ <base_type>Eclair d'Etoiles</base_type>
+ <GFX sx="6" sy="6">eclairetoiles</GFX>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Courier</class>
+ <price>120000</price>
+ <time_mod>1.0</time_mod>
+ <fabricator>Core League Staryards</fabricator>
+ <description>While still a cargo hauler, the Eclair d'Etoiles is quite different from other offerings. Featuring a streamlined frame and oversized engines, it's the prime choice for expedient shipping.</description>
+ <health>
+  <absorb>0</absorb>
+  <armour>25</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>3</crew>
+  <mass>25</mass>
+  <fuel_consumption>250</fuel_consumption>
+  <fuel>250</fuel>
+  <cargo>20</cargo>
+ </characteristics>
+ <slots>
+  <structure size="small"  prop="Hull Plating">Std Sml Hull Plating</structure>
+  <structure size="small"  prop="Power Core">Std Sml Powerplant</structure>
+  <structure size="small"  prop="Computer Core">Std Sml Computer</structure>
+  <structure size="small"  prop="Warp Engine - Small">Std Sml Warp Engine</structure>
+  <structure size="small"  prop="Jump Drive">Std Sml Jump Drive</structure>
+  <structure size="small"  prop="Verniers Array - Small">Std Sml Verniers</structure>
+  <structure size="small"  prop="Shield Generator">Std Sml Shield</structure>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility size="small"  prop="Core Systems Extension"></utility>
+  <utility   size="small"  prop="Internal Holds"></utility>
+  <weapon    size="small"  prop="Flak Turret" x="0"  y="0" h="0">Small Ion Flak Turret</weapon>
+ </slots>
+ <stats>
+  <speed_mod>+10</speed_mod>
+  <cpu_mod>0</cpu_mod>
+  <turn_mod>0</turn_mod>
+  <thrust_mod>0</thrust_mod>
+  <armour_mod>0</armour_mod>
+  <shield_mod>0</shield_mod>
+  <cpu_mod>0</cpu_mod>
+  <cargo_mod>0</cargo_mod>
+  <ew_detect>0</ew_detect>
+  <ew_hide>0</ew_hide>
+ </stats>
+</ship>

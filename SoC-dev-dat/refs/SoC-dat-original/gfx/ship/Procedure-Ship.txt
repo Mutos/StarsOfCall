@@ -1,0 +1,26 @@
+Convert graphicx from Transcendance to NAEV
+	- Source :
+		Transcendance format
+		JPG, 40 images strip
+		Angle+ : Vertical Top to Bottom
+	- Destination :
+		NAEV format
+		PNG, 10x4 images
+		Angle+ : horizontal Left to Right, then Vertical Top to Bottom
+	- Open the JPG (000) with GIMP
+	- Save to XCF immediately (001)
+	- Rotate image 90° to the right
+	- Extend the layer to full height
+	- Repeat 4 times the following :
+		- Duplicate the last layer used
+		- Shift the new layer by X = and Y = +25%
+		- Resize the layer by n x 25% with Y = -n x 25%
+	- Flatten the image to remove the multiple layers
+	- Add an Alpha channel
+	- Select the background with the magic wand
+	- Press <Del> to delete the background, it becomes transparent
+	- Save the image in PNG format with default options
+	- Rename it with <ship>.png
+	- Make a copy with name <ship>_engine.png
+	- Add a 256x256px beauty shot of the ship as <ship>_comm.png
+	

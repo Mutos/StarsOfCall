@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Delta 2 A">
+ <pos>
+  <x>-681.557332</x>
+  <y>-1251.296664</y>
+ </pos>
+ <GFX>
+  <space>moon-M02.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

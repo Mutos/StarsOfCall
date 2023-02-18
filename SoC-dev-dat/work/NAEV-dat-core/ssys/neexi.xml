@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Neexi">
+ <general>
+  <background>haze</background>
+  <map_shader>haze_map.frag</map_shader>
+  <features>#rHaze (-50% Shield and Shield Regen)#0</features>
+  <radius>16000.000000</radius>
+  <stars>400</stars>
+  <interference>15.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos x="-98.531254" y="761.485813"/>
+ <spobs>
+  <spob>Neexi I</spob>
+  <spob>Neexi II</spob>
+ </spobs>
+ <jumps>
+  <jump target="Malebolge">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+  <jump target="Sleuth">
+   <autopos/>
+   <hide>1.000000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <group>typeB-poor</group>
+   <radius>4500.000000</radius>
+   <pos x="4636.778887" y="-6838.262316"/>
+  </asteroid>
+ </asteroids>
+ <stats>
+  <shield_mod>-50.000000</shield_mod>
+  <shield_regen_mod>-50.000000</shield_regen_mod>
+ </stats>
+ <tags>
+  <tag>haze</tag>
+ </tags>
+</ssys>

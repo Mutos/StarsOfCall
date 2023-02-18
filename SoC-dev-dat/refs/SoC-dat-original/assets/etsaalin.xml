@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ets'aalin">
+ <pos>
+  <x>-1757.139997</x>
+  <y>-2870.882772</y>
+ </pos>
+ <GFX>
+  <space>P05.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>7819000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Ets'aalin is a lush world, which was chosen for colonization rather than Aimaa by the Hash'riss Colonization Corporation for political reasons, deliberately ignoring the low biocompatibility reports.
+
+At that time, Baartish space was split on the Complementarity question and, just before the expedition was launched, Hash'riss hierarchy sided with the anti-Complementarists. Some already planned hived danebs were cancelled, but some Sshaads colonists decided to sneak in their fellow Shapeshifters. A few Hives, fearing to live underground, resigned and many of their members had to join other Hives to stay in the expedition.
+
+After a few years underground, as Baartish sided with the Complementarists, the planet was expunged of Shoden forces. Meantime, the complementarist colonists and the Shoden have fought a dirty war of ambushes, underground actions and raids. This resulted in several tragedies, including the well-known odyssey of Three-Willows, the young Shapeshifter envoy who crashed with a Core League shuttle while chased by Shoden forces.
+
+After the nearby Aimaa planet was settled as a co-colony with the K'Rinns, its good biocompatibility made it more attractive than Ets'aalin. The planetary authorities sought to turn their lush world into a kind of pleasure resort using its magnificent vistas and lush forest areas, but until now, Ets'aalin is still quite backyards.
+  </description>
+  <bar>Sshaads and Shapeshifters</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

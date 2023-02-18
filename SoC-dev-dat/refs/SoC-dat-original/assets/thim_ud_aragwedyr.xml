@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Thim ud Aragwedyr">
+ <pos>
+  <x>-6851.364309</x>
+  <y>3848.657069</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-003-Outpost.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Adrimai</faction>
+  <value>200.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>8900</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This is the main waypoint for the so-called "ghost ships" heading from Irilia space to the Aragwedyr planet of Amarynn-Woodsfield. It lies near Thim Humae and both stations mutually protect themselves.
+
+Under Irilia protection by treaty, but administered by Free Adrimai, the station proudly wears the color of the Dri'h on its hull and flag.
+  </description>
+  <bar>The bar is filled with Rithai, most of them Free Adrimai</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

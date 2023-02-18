@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Arythem-5">
+ <pos>
+  <x>1401.546238</x>
+  <y>-936.465407</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>50.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>75000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+  </services>
+  <commodities/>
+  <description>This planet was colonized, then evacuated after the infamous Na'imsh tragedy.
+
+The Na'imsh were small insectoids indigenous to the planet. They had a mostly harmless normal stage but, once every 19 local years, grew to a gregarious form, that wrecked havoc on the local ecosystem, laying eggs inside every animal they found. The larvae then devoured the victim from the inside.
+
+The Arythem explorers came around near the beginning of the cycle and so, they couldn't detect the potential threat to the colony. As the ecosystem was biocompatible with skaraean life, green light was given for full-scale colonization.
+
+12 years after initial settling, the gregarious metamorphosis took place. The availability of large cattle mass had a multiplying effect on the Na'imsh lifecyle. The invasion was sudden and left the colony on its knees. Beasts and Rithai alike were bitten and dropped into a restless sleep. Eggs laid in their bodies hatched and the larvae began to eat them alive. Healers used the best techs they had planetside but most patients died during the larvae removal process. They finally only reached a mere 45% success rate, even with the help of high-tech surgery rooms imported in all haste from the Arythem core along with trained crew.
+
+Faced with the extent of damage sustained and the horrors the survivors have been through, the decision was swiftly made of evacuating. The trauma on the whole Clan was horrendous and quickly gave birth to a new mythology, with anything even remotely na'imshoid being seen as the incarnation of evil.
+
+Later on, when the Rithai encountered the K'Rinns, the warlike factions within the Arythem Clan played on memories and fears from the Na'imsh tragedy to wage war on the K'Rinn Council, despite the evidence of them being an obviously pacifist species.
+
+The former colony now only hosts a small population of scientists to study the ecosystems. A quarantine station has been established using the habitat originally built as a staging ground for new colonists.
+  </description>
+ </general>
+</asset>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Za'lek Demon">
+ <points>100</points>
+ <base_type>Demon</base_type>
+ <GFX sx="12" sy="12">demon</GFX>
+ <rarity>2</rarity>
+ <GUI>slim</GUI>
+ <sound pitch="0.76">engine_zalek</sound>
+ <class>Destroyer</class>
+ <price>2400000</price>
+ <time_mod>1.25</time_mod>
+ <trail_generator x="-35" y="20" h="0">nebula</trail_generator>
+ <trail_generator x="-10" y="-20" h="0">nebula</trail_generator>
+ <trail_generator x="-30" y="8" h="0">zalek</trail_generator>
+ <trail_generator x="-30" y="-8" h="0">zalek</trail_generator>
+ <fabricator>Za'lek Fabricators</fabricator>
+ <license>Medium Combat Vessel</license>
+ <cond>faction.playerStanding("Za'lek") &gt;= 50</cond>
+ <condstr>You need at least 50 reputation with House Za'lek.</condstr>
+ <description>House Za'lek's ferociously-named destroyer has earned the moniker with disproportionately powerful shields and energy management, as well as size. Its handling suffers and it has poor armour, like all Za'lek ships, but this comes as little consolation to the Za'lek's enemies.</description>
+ <health>
+  <armour>400</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>17</crew>
+  <mass>370</mass>
+  <fuel_consumption>200</fuel_consumption>
+  <cargo>50</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="large" x="28" y="0" h="5" />
+  <weapon size="large" x="18" y="0" h="5" />
+  <weapon size="medium" prop="fighter_bay" x="-30" y="-8" h="3" />
+  <weapon size="medium" prop="fighter_bay" x="-30" y="8" h="3" />
+  <utility size="medium" prop="systems">Unicorp PT-310 Core System</utility>
+  <utility size="medium" prop="accessory" />
+  <utility size="large" />
+  <utility size="large" />
+  <utility size="medium" />
+  <utility size="medium" />
+  <utility size="medium" />
+  <structure size="medium" prop="engines">Unicorp Falcon 1300 Engine</structure>
+  <structure size="medium" prop="hull">Unicorp D-24 Medium Plating</structure>
+  <structure size="large" />
+  <structure size="medium" />
+  <structure size="medium" />
+ </slots>
+ <stats>
+  <armour_mod>-30</armour_mod>
+  <shield_mod>40</shield_mod>
+  <shield_regen_mod>30</shield_regen_mod>
+  <stress_dissipation>10</stress_dissipation>
+  <fbay_reload>15</fbay_reload>
+ </stats>
+ <tags>
+  <tag>zalek</tag>
+ </tags>
+</ship>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Neel'Rilk Border Station">
+ <pos>
+  <x>-2527.707344</x>
+  <y>-1526.379928</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>350.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>13300</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Neel'Rilk controls the K'Rinn Council side of the Ashioto Cluster. Any ship passing through the system must dock at the station to be minutiously inspected.
+  </description>
+  <bar>A mixed lot of K'Rinns and Humans, mainly pilots and custom officers of the Ashioto Guard</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Ashioto Cluster</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

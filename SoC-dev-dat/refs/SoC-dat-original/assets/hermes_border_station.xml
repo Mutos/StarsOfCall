@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hermes Border Station">
+ <pos>
+  <x>931.816665</x>
+  <y>4170.988881</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Red.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>300.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>23000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The Cartel Sol invasion fleet came by Hermes when it attacked the Harushita Pocket. As the new Hoshi no Hekka State was created in the Eden Conference, the hastily built Fortresses rushed to the then-known 3 jump routes from Sol to Eden. One of these 1st-generation Fortresses, the Banshee, sacrificed itself to stop the incoming fleet dead in its track in the Eldorado system.
+
+During the Corporatist Wars between Cartel Sol and the Planetarist Alliance, the Cartelists knew the HnH acted as a major supply route for the Alliance. However, of such power was the deterrent of the Fortresses that, even at the end of the war, after repeated failures to find a flanking Sol-Sanctuary jump route, they never launched another all-out attack against the new State.
+
+The Hoshi no Hekka never forgot Solar forces came by Hermes first. Only weeks after the Solar fleet was routed at Eldorado, the Hermes system was patrolled by a 1st-generation Fortress of the same class as the late Banshee. At the end of the war, it was stripped from its jump drives and turned into an insystem mobile defense station.
+
+Hermes Border Station now also dubs as a major trade exchange center, nearly on a par with Shin Yokohama.
+  </description>
+  <bar>Numerous HnHers and Spacers stand at the bar, laughing about the planetside States.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Hoshi no Hekka</item>
+ </tech>
+</asset>

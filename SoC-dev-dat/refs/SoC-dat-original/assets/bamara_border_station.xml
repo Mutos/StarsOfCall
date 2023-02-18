@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Bamara Border Station">
+ <pos>
+  <x>-8013.623318</x>
+  <y>1411.036664</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>Bamara has been built as an outpost for epxloiting the Neufeld Asteroids Field. After a few months, seemingly sshaad ships jumped in from an uncharted jump point and an attempt to take over Bamara was repelled. A Core Navy Fleet visiting Nyotekundu was rerouted and the outpost was turned into a military base.
+
+Explorers were sent through the jump point. They never returned, but sent message drones with images of a small fleet bearing Shoden markings. After a while, Shoden ships began pouring in from the jump point. The invasion fleet was finally routed. Once reinforcements came, a counter-attack was launched, that broke on a stronger fleet than expected. Each side understing the other side was too hard a nut to break, the High Master in charge of Baatal and the Fleet Admiral commanding Bamara negociated a non-aggression treaty over the route.
+
+What is now known as the Baatal-Bamara Incident started a "mild peace blockade". Patrols from Bamara and its Shoden shadow, Baatal, routinely cruise the two buffer systems between them, and a full Core Navy Home Fleet routinely patrols the systems between Bamara, Nyotekundu and Hammerfall. The station is regaining its role as a trading outpost as daring human and sshaad captains seek profit from the border. A small smuggling flow has even been reported, despite the heavy patrol presence.
+
+Ships willing to land on Bamara need a military accreditation from the Core League.
+  </description>
+  <bar>Human pilots and merchants, the latter sometimes screening an occasional Sshaad partner from the former.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Shoden Clusters</item>
+ </tech>
+</asset>

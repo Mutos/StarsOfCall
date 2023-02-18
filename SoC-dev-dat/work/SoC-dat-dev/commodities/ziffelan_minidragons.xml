@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Ziffelan Minidragons</name>
+ <description>It was already illegal to get minidragons out of Ziffel IV, even before the quarantine, hence their exorbitant price. Plus, the huge requirements of cryosleep makes that a one-ton container can only hold a dozen bird-sized dragons.</description>
+ <price>12500</price>
+ <gfx_store>minidragon.png</gfx_store>
+ <standard/>
+<!-- <spob_modifier name="Ziffel IV">0.2</spob_modifier> -->
+ <spob_modifier type="A">1.2</spob_modifier>
+ <spob_modifier type="B">1.2</spob_modifier>
+ <spob_modifier type="E">1.2</spob_modifier>
+ <spob_modifier type="F">1.2</spob_modifier>
+ <spob_modifier type="H">1.1</spob_modifier>
+ <spob_modifier type="K">0.95</spob_modifier>
+ <spob_modifier type="L">0.9</spob_modifier>
+ <spob_modifier type="M">0.7</spob_modifier>
+ <spob_modifier type="N">0.9</spob_modifier>
+ <spob_modifier type="O">0.4</spob_modifier>
+ <spob_modifier type="P">0.5</spob_modifier>
+ <spob_modifier type="Q">0.8</spob_modifier>
+ <spob_modifier type="R">0.9</spob_modifier>
+ <spob_modifier type="X">1.25</spob_modifier>
+ <spob_modifier type="Y">1.25</spob_modifier>
+ <spob_modifier type="Z">1.25</spob_modifier>
+ <period>110</period>
+ <population_modifier>0.7</population_modifier>
+ <faction_modifier type="FLF">1.2</faction_modifier>
+ <faction_modifier type="Frontier">1.2</faction_modifier>
+</commodity>

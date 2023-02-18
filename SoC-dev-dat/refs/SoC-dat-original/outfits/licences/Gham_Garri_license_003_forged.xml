@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Gham Garri Security License (forged)">
+ <general>
+  <mass>0</mass>
+  <price>15000</price>
+  <gfx_store>license</gfx_store>
+  <description>This license may deceive Gham Garri landing authorities to let you access where you shouldn't. However, if the attempt fails, you'll be attacked by the asset's defenses, your reputation with the Gham Garri will seriously fall down, and of course, the license will be signaled as forged.</description>
+ </general>
+ <specific type="license"/>
+</outfit>

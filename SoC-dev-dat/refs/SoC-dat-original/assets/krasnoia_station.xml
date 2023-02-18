@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Krasnoia Station">
+ <pos>
+  <x>3682.278156</x>
+  <y>1509.888114</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>26700</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+  </commodities>
+  <description>The older asteroids ore trading center in the system, this station was never converted to a Fortress. Its position on the edge of a rich Asteroids Field and between the two main jump points explained its success. It is still a major trading center, despite the nearby presence of Hallier and Engelstadt in the system. In fact, it has been one of the reasons that prompted Urs Schreiber to built Engelstadt Station in this very system.
+  </description>
+  <bar>A host of miners and merchants, most of them Humans with some K'Rinns and Rithai from the nearby Shadow Complex</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

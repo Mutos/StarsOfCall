@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual Irmothem Area">
+ <virtual/>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>550.000000</value>
+  <range>3</range>
+ </presence>
+</asset>

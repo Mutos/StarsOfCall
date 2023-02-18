@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Cerberus Fortress">
+ <pos>
+  <x>759.580264</x>
+  <y>3523.515332</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Blue.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>250.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>13600</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Cerberus is one of the largest 1st-generation Fortresses still operational. Like many ex-OCS Fortresses, it has been converted to an insystem mobile station.
+
+After the Core League seceded from the Alliance, many smugglers and pirates flew to the Hoshi no Hekka and the tension escalated between the State and its neighbors. The Council decided to strip some 1st-generation Fortresses of their warp engines in external systems to turn them into border defence stations. As the largest and recently refitted with new weapon systems, the Cerberus was selected to control the all-important Gl 250 A system, which is a major crossroads on the Hoshi no Hekka border, leading to the Alliance and the Gamma Sector. Since then, new routes have been discovered from there, notably one leading to the Arythem space.
+
+A part of the station was already devoted to trade and, with this new strategical position, attracted many more residents. It thrived on the situation and was extended several times. Now the station is a major HnH trade point.
+  </description>
+  <bar>A handful of HnH militia pilots and merchants in various attire, talking Spacers talk.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Arythem Clan</item>
+ </tech>
+</asset>

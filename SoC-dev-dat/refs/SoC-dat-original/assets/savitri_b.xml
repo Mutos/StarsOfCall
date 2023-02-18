@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Savitri B">
+ <pos>
+  <x>5034.800323</x>
+  <y>5299.789814</y>
+ </pos>
+ <GFX>
+  <space>I04.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

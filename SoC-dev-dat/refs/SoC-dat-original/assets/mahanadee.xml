@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mahanadee">
+ <pos>
+  <x>12811.147975</x>
+  <y>8785.699983</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>35200</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Mahanadee station was initially an advanced base for a small mining company willing to establish itself on the newly colonized Villera system. Despite the system's lack of suitable resources, nearby systems like Savitri were better endowed and Villera IV was a suitable market.
+
+The station never really thrived and by the time Villera IV became a smuggling waypoint, so became the station. It has since then lost most of this role, but remains a common stop for many small smuggling routes in the vicinity.
+
+It was due for reactivation by the Wurth-related network of smugglers feeding the Raumbahn Sieben, but its frequent use by head-hunters made the plan abort in favor of the Anhui-based route.
+
+With the demise of the Raumbahn Sieben state-to-be, the station is more backyards than ever, but this fact prompted a surge of smuggling traffic, eased by its position quite far from the oft-treaded routes.</description>
+  <bar>A few asteroids miners and traders, some of them probably smugglers</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+ </tech>
+</asset>

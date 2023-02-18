@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tsaa'lisht">
+ <pos>
+  <x>1058.117758</x>
+  <y>-2668.296955</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>600.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>258964000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+  </commodities>
+  <description>As most sshaad planets, Tsaa'lisht is a forest world. It has been colonised by the Hash'riss and as such, has also been occupied by the Shodens before the beginning of the Complementarist Splitup.
+
+When Baartish decided to side with the Complementarists, Tsaa'lisht was second to be taken back. Learning from the lessons of the Ishaaln Tragedy, the Baartish forces took over the planet in one fast move, preventing the Shodens from reacting.
+
+Now, Tsaa'lisht is a complementarist model world, living for the most part off the agricultural wealth of a highly biocompatible indigenous life and also harboring a small mining industry and some touristic vistas.
+  </description>
+  <bar>The bar is filled with Sshaad and Shapeshifter patrons, with occasionnal off-planet visitors</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+ </tech>
+</asset>

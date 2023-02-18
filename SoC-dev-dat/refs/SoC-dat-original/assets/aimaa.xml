@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aimaa">
+ <pos>
+  <x>3407.988051</x>
+  <y>804.094241</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>87587000</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>Aimaa is a recently settled Baartish world, the first co-colony based on Complementarist concepts and a contract with the K'Rinn Council. On a nice world, although a little cold for K'Rinns and Sshaads, but unique for its unusually good biocompatibility to sshaad, shapeshifter and k'rinn ecosystems alike.
+
+The colony has been strongly advertised and has started with an already large complement of settlers. This public relations +.operation prompted a dispute with the nearby Ets'aalin planet in the same system, as the Aimaa Colonization Authorities secretly asked several seasoned Ets'aalin Hives to have them emigrate to Aimaa.
+
+The initial population was made of experienced hived danebs already striving in Baartish colonies, along with veteran colonists from k'rinn worlds. As a diplomatic token present from Ka'Ralt to the Council, the Secession even participed by providing the co-colony with a contingent of enduring volunteers.
+
+Whether from Council or Secession, every K'Rinn volunteering for Aimaa has to be willing to live in a potentially dangerous environment, even protected from young sshaads packs by shapeshifter controllers.
+  </description>
+  <bar>(null)</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Sshaad Sphere</item>
+  <item>Star Maps - Shapeshifter Sphere</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>

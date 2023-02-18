@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Freeport 1">
+ <pos>
+  <x>-7536.879373</x>
+  <y>-1257.643234</y>
+ </pos>
+ <GFX>
+  <space>station-commerce3.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>200.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>235300</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>This station was founded by independent spacerithai and -men in the wake of the Fringe Wars, in a system that was called "Althaim", meaning "The crossing" in Irilia. They wanted to built a place where any sentient could come and go freely, to learn the ways of other people and trade any possible goods.
+
+On a major route on the Irilia-Alliance border and near the Gham Garri stronghold at Irilia-4, it has been challenged on several occasions. Each time, spacers all around have assembled in defiance against the threats.
+  </description>
+  <bar>A rumbling mass of joyous sentients discussing all matters and occasionnally brawling without any actual anger.</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

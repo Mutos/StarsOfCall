@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irmothem">
+ <pos>
+  <x>4306.079224</x>
+  <y>-2848.637025</y>
+ </pos>
+ <GFX>
+  <space>M03.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>450.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2459654000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
+  <description>The first extradromal world colonized by the Rithai was settled by plasma-driven sleeper ships built by the Irmothem Orbital Shipyards. This expedition prompted the Arythem-Irmothem "race for the stars" that took place just after the birth of the Irilia Clan.
+
+From  the very beginning, this lush planet has been seen as a second home to the Irmothem Clan. It was the first truly Irmothem world, free from Arythem presence. It has soon been renamed simply Irmothem, instead of the customary Irmothem-1. A noria of torchships has always been maintained wih the rith homeworld and the first hyperspace expedition launched by the Clan was aimed at finding a route to link it to Drom. In fact, it actually found two parallel routes.
+
+This history explains why Irmothem has a high population and a level of development nearly equal to Skarae itself. It owes its prosperity to its use as a staging area for all interstellar commerce on the whole Irmothem space.
+   </description>
+  <bar>A nearly exclusively rith crowd, dressed in rich attires</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Hi-tech Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Rith Sphere</item>
+ </tech>
+</asset>

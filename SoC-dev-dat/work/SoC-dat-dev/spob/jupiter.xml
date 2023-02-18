@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Jupiter">
+ <pos x="25174.001614" y="23915.301534"/>
+ <GFX>
+  <space>J06.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</spob>

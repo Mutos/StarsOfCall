@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eetin Alshaan">
+ <pos>
+  <x>5432.250974</x>
+  <y>1167.167962</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D40.png</space>
+  <exterior>mining4.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2580</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>A supply depot on a small asteroid, with a few underground holds and tanks, and a crude facility : a bar, some rooms to rent and a lobby with a few dust-covered mission terminals.
+
+It has been established by miners seing the profit to get from the Aan Jump Route and is thriving in its own smallish way. The gorgeous view on the nearby gas giant so far failed to attract tourists, due to the hardship of simply getting there.
+  </description>
+  <bar>A mix of captains and crewsshaads on their road through the Aan sector, local gas and ore miners. You feel sure that there are pirate ears among the small crowd, waiting for information about shipments.</bar>
+ </general>
+</asset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Unicorp PT-1000 Core System">
+ <general>
+  <typename>Core Systems (System)</typename>
+  <slot prop="systems">utility</slot>
+  <size>large</size>
+  <priority>7</priority>
+  <!-- TODO --><mass>875</mass>
+  <price>650000</price>
+  <description>Criticized by some as nothing more than a cluster of PT-600 systems, the PT-1000 nevertheless offers acceptable performance for capital ships at a fraction of its competitors' prices.</description>
+  <gfx_store>core_system05</gfx_store>
+ </general>
+ <specific type="modification">
+  <!-- OK --><cpu_max>180</cpu_max>  
+  <!-- OK --><shield>700</shield>
+  <!-- OK --><shield_regen>12</shield_regen>
+  <!-- OK --><energy>3000</energy>
+  <!-- OK --><energy_regen>140</energy_regen>
+ </specific>
+</outfit>

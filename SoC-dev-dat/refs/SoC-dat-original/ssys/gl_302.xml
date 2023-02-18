@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Gl 302">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1506.881280</x>
+  <y>-640.297920</y>
+ </pos>
+ <assets>
+ </assets>
+ <jumps>
+  <jump target="New Earth (Eta Cassiopeia)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 390444">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-6857.357162" y="-1472.911263"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 509045">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3882.569437" y="-2174.238885"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 745523">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9296.670141" y="-2146.178365"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 956031">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3557.659714" y="1993.655576"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 986443">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7344.013617" y="1078.49151"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids/>
+</ssys>

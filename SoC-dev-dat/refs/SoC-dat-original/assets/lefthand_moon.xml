@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Left-Hand Moon">
+ <pos>
+  <x>-3237.111351</x>
+  <y>-4277.537716</y>
+ </pos>
+ <GFX>
+  <space>moon-O00.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>2.000000</hide>
+  <services/>
+ </general>
+</asset>

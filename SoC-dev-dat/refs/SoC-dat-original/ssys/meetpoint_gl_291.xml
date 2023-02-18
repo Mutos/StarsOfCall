@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Meetpoint (Gl 291)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1999.764480</x>
+  <y>-1344.026880</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="Carrouf (NN 3487)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Delanney's Freezer (NN 3523)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Dwarves' Tunnels (Gl 261)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Eden (Gl 304)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 314 B">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

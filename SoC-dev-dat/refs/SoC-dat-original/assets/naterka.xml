@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nat'Erka">
+ <pos>
+  <x>6359.747776</x>
+  <y>-3643.605497</y>
+ </pos>
+ <GFX>
+  <space>moon-H02.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ka'Ralt Secession</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2215324000</population>
+  <hide>2.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Medicine</commodity>
+  </commodities>
+  <description>This new colony is the last from the Ka'Ralt Secession. It is thriving as a new jump route has been discovered to the Rith Sphere via Arythem space.
+  </description>
+  <bar>A chattering crowd of Ka'Ralters, naturally with a large proportion of Defenders</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - K'Rinn Sphere</item>
+ </tech>
+</asset>
