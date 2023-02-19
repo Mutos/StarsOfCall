@@ -2,15 +2,20 @@
 <spob name="Earth">
 	<general>
 		<bar>
-			The bar is crowded by patrons and outsystem tourists. Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...
+			The bar is crowded by patrons and outsystem tourists.
+			Some locals are ranting about the greatness of Earth and looking down on Spacers, giving the bartender a hard time trying to prevent any incident...
 		</bar>
 		<class>M</class>
 		<commodities/>
 		<description>
 			Earth is the cradleworld of the Human species and has a rich but dramatic history.
+
 			At the dawn of the space age, it was facing a severe overpollution. So Europe at first, then the United Nations, the then-ruling body coming from the most influential countries, decided to relocate some industries in orbit and created the RaumGesellschaft status. But in the ensuing years, the giants concerns actually outgrew the planetside states, tying them into a network of economic chains. Power-hungry policorpos conquered the solar system, settled Mars and began to expand into outer space by sublight sleeper convoys. Battling one another for the most lucrative positions, they sided together every time Earthers would attempt to restrain them.
+
 			Discovery of the jump drive prompted two dramatic events. The Policorpos attempted to take back by force distant colonies that had developed their own way of living, in a campaign known as the "Reconquista". They also discovered the remnants of the Purgatorians' cradleword, and fought over them in the horrible Ashioto War.
+
 			From these two events rose a new opposition to Sol: Planetarism, and a new state: the Planetarist Alliance. The Corporate Wars began, and lasted for several decades. They ended with the Planetarists taking over Sol and Earth itself, using K'Rinn-supplied advanced jump technologies.
+
 			But some people could not accept that mankind's cradleworld be ruled from the distant Sanctuary system. With population and politicians support, they rallied a few nearby colonies. The situation was heading to breaking point, when the K'Rinn Council stepped in as mediator. The Alliance accepted the creation of a new state: the Core League, with capitol on Earth, in the Forbidden City of Beijin, mostly rebuilt after the 2154 HTO earthquake, ancient-looking, yet with up-to-date amenities.
 		</description>
 		<hide>
