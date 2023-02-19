@@ -4,7 +4,7 @@
   <naev>0.10.4.dirty</naev>
   <data>Sea of Darkness</data>
  </version>
- <last_played>1676806586</last_played>
+ <last_played>1676806579</last_played>
  <plugins/>
  <diffs/>
  <player name="Mutos">
@@ -25,7 +25,7 @@
   <ship name="Outward Bound" model="Llama" favourite="0" deployed="0">
    <acquired>Your first space-worthy ship!</acquired>
    <acquired_date>2232714712</acquired_date>
-   <time_played>432.000000</time_played>
+   <time_played>381.000000</time_played>
    <dmg_done_shield>0.000000</dmg_done_shield>
    <dmg_done_armour>0.000000</dmg_done_armour>
    <dmg_taken_shield>100.000000</dmg_taken_shield>
@@ -95,9 +95,9 @@
  <events_done/>
  <escorts/>
  <metadata>
-  <last_played>1676806586</last_played>
+  <last_played>1676806579</last_played>
   <date_created>1676392336</date_created>
-  <time_played>1404.000000</time_played>
+  <time_played>1397.000000</time_played>
   <dmg_done_shield>0.000000</dmg_done_shield>
   <dmg_done_armour>0.000000</dmg_done_armour>
   <dmg_taken_shield>100.000000</dmg_taken_shield>

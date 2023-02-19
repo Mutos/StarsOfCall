@@ -1,0 +1,8 @@
+Loaded configuration: ../../naev-data/NAEV//conf.lua
+Read locations, searched in order:
+    ../../naev-data/NAEV/
+    C:\Users\brobin\Documents\Perso\dev\StarsOfCall\\SoC-dev-dat\refs\NAEV-vanilla-dat-0.10.4
+Write location: ../../naev-data/NAEV/
+
+ Sea of Darkness
+Reached main menu in 27.761 s

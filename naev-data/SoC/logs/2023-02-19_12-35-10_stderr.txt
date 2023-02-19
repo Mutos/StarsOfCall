@@ -1,0 +1,8 @@
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!

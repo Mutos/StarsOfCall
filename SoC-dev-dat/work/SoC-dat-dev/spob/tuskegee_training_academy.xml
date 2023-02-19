@@ -6,7 +6,7 @@
   <exterior>station03.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
+  <faction>Core League</faction>
   <value>100.000000</value>
   <range>5</range>
  </presence>
