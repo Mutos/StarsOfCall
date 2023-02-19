@@ -179,7 +179,7 @@ lastversion = "0.10.4+dev"
 translation_warning_seen = true
 
 -- Time Naev was last played. This gets refreshed each time you exit Naev.
-last_played = 1676802502
+last_played = 1676803146
 
 -- Enables FPU exceptions - only works on DEBUG builds
 fpu_except = false

@@ -10,13 +10,11 @@ run/dat/
 # Runtime data folders for NAEV
 naev-data/NAEV/conf.lua.backup
 naev-data/NAEV/collisions/*
-naev-data/NAEV/logs/*
 naev-data/NAEV/saves/*/backup.ns
 
 # Runtime data folders for SoC
 naev-data/SoC/conf.lua.backup
 naev-data/SoC/collisions/*
-naev-data/SoC/logs/*
 naev-data/SoC/saves/*/backup.ns
 
 # The NAEV vanilla dat reference, is a copy of the "dat" folder from the NAEV 0.10.4 release

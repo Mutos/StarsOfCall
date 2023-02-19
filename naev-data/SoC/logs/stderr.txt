@@ -1,0 +1,12 @@
+Warning: [cli_warn] News: Faction 'Core League' does not have entry in faction table!
+Warning: [cli_warn] News: Faction 'Core League' does not have entry in faction table!
+Warning: [cli_warn] News: Faction 'Core League' does not have entry in faction table!
+Warning: [event_runFunc] Event 'Generic News' -> 'land': [string "events/news.lua"]:180: bad argument #1 to 'ipairs' (table expected, got nil)
+stack traceback:
+	[C]: in function 'ipairs'
+	[string "events/news.lua"]:180: in function 'jointest'
+	[string "events/news.lua"]:190: in function 'add_article'
+	[string "events/news.lua"]:136: in function <[string "events/news.lua"]:114>
+Warning: [hook_runEvent] Hook [land] '52' -> 'land' failed
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!

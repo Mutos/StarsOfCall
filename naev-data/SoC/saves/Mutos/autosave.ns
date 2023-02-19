@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <naev_save>
  <version>
-  <naev>0.10.4+dev</naev>
+  <naev>0.10.4.dirty</naev>
   <data>Sea of Darkness</data>
  </version>
- <last_played>1676802421</last_played>
+ <last_played>1676803128</last_played>
  <plugins/>
  <diffs/>
  <player name="Mutos">
-  <credits>30000</credits>
+  <credits>25000</credits>
   <chapter>0</chapter>
   <mapOverlay>1</mapOverlay>
   <radar_res>50.000000</radar_res>
@@ -17,21 +17,21 @@
   <fleet_capacity>0</fleet_capacity>
   <time>
    <SCU>603</SCU>
-   <STP>3733</STP>
-   <STU>5818</STU>
-   <Remainder>577.647774</Remainder>
+   <STP>3735</STP>
+   <STU>9548</STU>
+   <Remainder>700.916463</Remainder>
   </time>
-  <location>Earth</location>
+  <location>Jupiter Station</location>
   <ship name="Outward Bound" model="Llama" favourite="0" deployed="0">
    <acquired>Your first space-worthy ship!</acquired>
    <acquired_date>2232714712</acquired_date>
-   <time_played>279.000000</time_played>
+   <time_played>301.000000</time_played>
    <dmg_done_shield>0.000000</dmg_done_shield>
    <dmg_done_armour>0.000000</dmg_done_armour>
    <dmg_taken_shield>100.000000</dmg_taken_shield>
    <dmg_taken_armour>0.000000</dmg_taken_armour>
    <jumped_times>0</jumped_times>
-   <landed_times>7</landed_times>
+   <landed_times>9</landed_times>
    <death_counter>0</death_counter>
    <ships_destroyed>
     <Yacht>0</Yacht>
@@ -65,7 +65,6 @@
     <commodity quantity="1">Olivine</commodity>
     <commodity quantity="1">Generic Food</commodity>
     <commodity quantity="1">Human Food</commodity>
-    <commodity quantity="20" id="1">Water</commodity>
    </commodities>
    <weaponsets autoweap="1" active_set="0" aim_lines="0">
     <weaponset inrange="0" manual="0" id="0"/>
@@ -96,15 +95,15 @@
  <events_done/>
  <escorts/>
  <metadata>
-  <last_played>1676802421</last_played>
+  <last_played>1676803128</last_played>
   <date_created>1676392336</date_created>
-  <time_played>1047.000000</time_played>
+  <time_played>1242.000000</time_played>
   <dmg_done_shield>0.000000</dmg_done_shield>
   <dmg_done_armour>0.000000</dmg_done_armour>
   <dmg_taken_shield>100.000000</dmg_taken_shield>
   <dmg_taken_armour>0.000000</dmg_taken_armour>
   <jumped_times>0</jumped_times>
-  <landed_times>7</landed_times>
+  <landed_times>9</landed_times>
   <death_counter>0</death_counter>
   <ships_destroyed>
    <Yacht>0</Yacht>
@@ -148,52 +147,14 @@
     <data type="number" name="stage">4</data>
    </lua>
   </mission>
-  <mission data="Cargo Rush" id="3">
-   <title>Pressing cargo delivery to Jupiter Station in Sol (20 t)</title>
-   <desc>Pressing cargo delivery of 20 tonnes of Water to Jupiter Station in the Sol system.
-
-#nCargo:#0 Water (20 tonnes)
-#nJumps:#0 0
-#nTravel distance:#0 36,051
-#nPiracy Risk:#0 None
-#nTime limit:#0 1.56 p</desc>
-   <reward>11,579 ¤</reward>
-   <markers>
-    <marker id="0" type="4">Jupiter Station</marker>
-   </markers>
-   <cargos>
-    <cargo>1</cargo>
-   </cargos>
-   <osd title="Rush cargo mission" nitems="1" active="0">
-    <msg>Fly to Jupiter Station in the Sol system before UST 603:3735.14
-(1.56 p remaining)</msg>
-   </osd>
-   <claims/>
-   <lua>
-    <data type="number" name="avgrisk">0</data>
-    <data type="string" name="cargo">Water</data>
-    <data type="number" name="numjumps">0</data>
-    <data type="number" name="amount">20</data>
-    <data type="number" name="reward">11579.176146868</data>
-    <data type="time" name="timelimit">30187351375577</data>
-    <data type="number" name="traveldist">36050.941726546</data>
-    <data type="number" name="tier">2</data>
-    <data type="bool" name="intime">1</data>
-    <data type="system" name="destsys">Sol</data>
-    <data type="spob" name="destplanet">Jupiter Station</data>
-    <data type="time" name="timelimit2">30187354487577</data>
-   </lua>
-  </mission>
  </missions>
  <events/>
  <news>
-  <article title="We bring you the latest news in the universe." desc="" faction="Generic" date="0" date_to_rm="30187335819577" id="97" priority="-1" tag="header"/>
-  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Luxury Goods on Tenal-P is now 241 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187311380577" date_to_rm="30187381754577" id="89" priority="6"/>
-  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two decaperiods floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Independent" date="30187311158875" date_to_rm="30187411954875" id="58" priority="6" tag="Amazing Survival Story"/>
-  <article title="Emperor's Aid Gets Hitched" desc="Imperial secretary Karil Lorenze married long time fiancee Rachid Baouda in the future palace gardens on Emperor's Fist. His Eminence the Bishop of Bao performed the ceremony." faction="Empire" date="30187288808050" date_to_rm="30187387336050" id="37" priority="6" tag="Emperor's Aid Gets Hitched"/>
-  <article title="Commodity Trading Likened to Gambling" desc="In a controversial statement, one activist has likened commodity trading to gambling. &quot;It's legalized gambling, plain and simple! Right now the price of Diamond on Tenal-P is 181 ¤ per tonne, for example, but everyone knows the price fluctuates. Tomorrow it could be lower, or it could be higher. Who knows? Frankly, it is my firm opinion that this 'commodity trading' is self-destructive and needs to stop.&quot;" faction="Generic" date="30187269033875" date_to_rm="30187362033875" id="49" priority="6"/>
-  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Luxury Goods on Dolmen to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 590 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187255330050" date_to_rm="30187338791050" id="38" priority="6"/>
-  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 192&#10;Food: 129&#10;Gold: 519&#10;Industrial Goods: 363&#10;Luxury Goods: 595&#10;Medicine: 642&#10;Ore: 183&#10;Water: 196&#10;Ziffelan Minidragons: 9,817&#10;&#10;Jupiter Station in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 485&#10;Industrial Goods: 375&#10;Luxury Goods: 555&#10;Medicine: 580&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,263&#10;&#10;Mars in Sol&#10;Diamond: 197&#10;Food: 142&#10;Gold: 515&#10;Industrial Goods: 363&#10;Luxury Goods: 590&#10;Medicine: 643&#10;Ore: 185&#10;Water: 204&#10;Ziffelan Minidragons: 10,191&#10;&#10;New Taxaco in Sol&#10;Diamond: 192&#10;Food: 124&#10;Gold: 486&#10;Industrial Goods: 377&#10;Luxury Goods: 557&#10;Medicine: 580&#10;Ore: 194&#10;Water: 186&#10;Ziffelan Minidragons: 9,282&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 373&#10;Luxury Goods: 554&#10;Medicine: 578&#10;Ore: 192&#10;Water: 185&#10;Ziffelan Minidragons: 9,235" faction="Generic" date="30187335818577" date_to_rm="30187335819577" id="98" priority="11" tag="econ"/>
+  <article title="We bring you the latest news in the universe." desc="" faction="Generic" date="0" date_to_rm="30187359549700" id="104" priority="-1" tag="header"/>
+  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Luxury Goods on Tenal-P is now 241 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187311380577" date_to_rm="30187381754577" id="90" priority="6"/>
+  <article title="Amazing Survival Story" desc="An Xing Long was rescued after two decaperiods floating in space. &quot;I used meditation to slow my breathing,&quot; Xing Long told us. &quot;It was hard because I was scared.&quot;" faction="Independent" date="30187311158875" date_to_rm="30187411954875" id="59" priority="6" tag="Amazing Survival Story"/>
+  <article title="Emperor's Aid Gets Hitched" desc="Imperial secretary Karil Lorenze married long time fiancee Rachid Baouda in the future palace gardens on Emperor's Fist. His Eminence the Bishop of Bao performed the ceremony." faction="Empire" date="30187288808050" date_to_rm="30187387336050" id="38" priority="6" tag="Emperor's Aid Gets Hitched"/>
+  <article title="Commodity Trading Likened to Gambling" desc="In a controversial statement, one activist has likened commodity trading to gambling. &quot;It's legalized gambling, plain and simple! Right now the price of Diamond on Tenal-P is 181 ¤ per tonne, for example, but everyone knows the price fluctuates. Tomorrow it could be lower, or it could be higher. Who knows? Frankly, it is my firm opinion that this 'commodity trading' is self-destructive and needs to stop.&quot;" faction="Generic" date="30187269033875" date_to_rm="30187362033875" id="50" priority="6"/>
  </news>
  <vars>
   <var name="_fcap_dvaered" type="num">40.000000</var>
@@ -205,6 +166,11 @@
   <var name="_fcap_soromid" type="num">30.000000</var>
   <var name="_fcap_zalek" type="num">30.000000</var>
   <var name="disc_sol" type="bool">1</var>
+  <var name="escortai_aggressive" type="bool">1</var>
+  <var name="escortai_armourrun" type="num">30.000000</var>
+  <var name="escortai_enemyclose" type="num">2000.000000</var>
+  <var name="escortai_profile" type="str">Default</var>
+  <var name="escortai_returndist" type="num">5000.000000</var>
   <var name="news_last_article" type="num">30187311158875.000000</var>
   <var name="news_last_econ_article" type="num">30187335818577.000000</var>
   <var name="shipai_name" type="str">Gloria</var>
@@ -289,23 +255,10 @@
  </factions>
  <hooks>
   <hook type="misn">
-   <parent>3</parent>
-   <func>tick</func>
-   <id>45</id>
-   <stack>date</stack>
-   <resolution>100000</resolution>
-  </hook>
-  <hook type="misn">
-   <parent>3</parent>
-   <func>land</func>
-   <id>44</id>
-   <stack>land</stack>
-  </hook>
-  <hook type="misn">
    <parent>1</parent>
-   <func>enter</func>
-   <id>22</id>
-   <stack>enter</stack>
+   <func>land</func>
+   <id>20</id>
+   <stack>land</stack>
   </hook>
   <hook type="misn">
    <parent>1</parent>
@@ -315,9 +268,9 @@
   </hook>
   <hook type="misn">
    <parent>1</parent>
-   <func>land</func>
-   <id>20</id>
-   <stack>land</stack>
+   <func>enter</func>
+   <id>22</id>
+   <stack>enter</stack>
   </hook>
  </hooks>
  <space>
@@ -334,7 +287,15 @@
    <spob>Asteroids Marker</spob>
    <spob>Calif High Shipyards</spob>
    <spob>Earth</spob>
+   <spob>Jupiter</spob>
+   <spob>Jupiter Station</spob>
    <spob>Mars</spob>
+   <spob>New Taxaco</spob>
+   <spob>Saturn</spob>
+   <spob>Tuskegee Training Academy</spob>
+   <jump>Midoros</jump>
+   <jump>Polaris</jump>
+   <jump>Tide</jump>
   </known>
  </space>
  <economy>
@@ -411,59 +372,59 @@
   </system>
   <system name="Sol">
    <spob name="Earth">
-    <commodity name="Diamond" sum="1020.000000" sum2="208560.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Food" sum="798.000000" sum2="130482.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Gold" sum="2544.000000" sum2="1294770.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Industrial Goods" sum="1820.000000" sum2="662482.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Luxury Goods" sum="2913.000000" sum2="1697627.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Medicine" sum="3217.000000" sum2="2069823.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ore" sum="936.000000" sum2="175266.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Water" sum="1072.000000" sum2="230906.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ziffelan Minidragons" sum="29478.000000" sum2="289650990.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Diamond" sum="1212.000000" sum2="245424.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Food" sum="927.000000" sum2="147123.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Gold" sum="3063.000000" sum2="1564131.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Industrial Goods" sum="2183.000000" sum2="794251.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Luxury Goods" sum="3507.000000" sum2="2050463.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Medicine" sum="3859.000000" sum2="2481987.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ore" sum="1119.000000" sum2="208755.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Water" sum="1268.000000" sum2="269322.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ziffelan Minidragons" sum="39288.000000" sum2="385887090.000000" cnt="4" time="30187345966811"/>
    </spob>
    <spob name="Jupiter Station">
-    <commodity name="Diamond" sum="1005.000000" sum2="202275.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Food" sum="737.000000" sum2="110459.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Gold" sum="2385.000000" sum2="1137859.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Industrial Goods" sum="1878.000000" sum2="705378.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Luxury Goods" sum="2732.000000" sum2="1493042.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Medicine" sum="2904.000000" sum2="1686646.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ore" sum="980.000000" sum2="192110.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Water" sum="994.000000" sum2="198242.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ziffelan Minidragons" sum="27815.000000" sum2="257891553.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Diamond" sum="1387.000000" sum2="275237.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Food" sum="985.000000" sum2="141211.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Gold" sum="3353.000000" sum2="1606371.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Industrial Goods" sum="2627.000000" sum2="985879.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Luxury Goods" sum="3841.000000" sum2="2107983.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Medicine" sum="4061.000000" sum2="2355971.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Ore" sum="1366.000000" sum2="266608.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Water" sum="1364.000000" sum2="266692.000000" cnt="7" time="30187359548700"/>
+    <commodity name="Ziffelan Minidragons" sum="46318.000000" sum2="429072098.000000" cnt="5" time="30187359548700"/>
    </spob>
    <spob name="Mars">
-    <commodity name="Diamond" sum="1031.000000" sum2="212875.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Food" sum="472.000000" sum2="75672.000000" cnt="3" time="30187335818577"/>
-    <commodity name="Gold" sum="2535.000000" sum2="1285459.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Industrial Goods" sum="1819.000000" sum2="661753.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Luxury Goods" sum="2904.000000" sum2="1686926.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Medicine" sum="3219.000000" sum2="2072395.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ore" sum="939.000000" sum2="176371.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Water" sum="1087.000000" sum2="236913.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ziffelan Minidragons" sum="30602.000000" sum2="312160982.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Diamond" sum="1228.000000" sum2="251684.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Food" sum="614.000000" sum2="95836.000000" cnt="4" time="30187345966811"/>
+    <commodity name="Gold" sum="3049.000000" sum2="1549655.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Industrial Goods" sum="2182.000000" sum2="793522.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Luxury Goods" sum="3493.000000" sum2="2033847.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Medicine" sum="3861.000000" sum2="2484559.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ore" sum="1124.000000" sum2="210596.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Water" sum="1291.000000" sum2="278529.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ziffelan Minidragons" sum="40786.000000" sum2="415874838.000000" cnt="4" time="30187345966811"/>
    </spob>
    <spob name="New Taxaco">
-    <commodity name="Diamond" sum="1008.000000" sum2="203490.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Food" sum="420.000000" sum2="60242.000000" cnt="3" time="30187335818577"/>
-    <commodity name="Gold" sum="2390.000000" sum2="1142634.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Industrial Goods" sum="1888.000000" sum2="712910.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Luxury Goods" sum="2739.000000" sum2="1500707.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Medicine" sum="2906.000000" sum2="1688970.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ore" sum="985.000000" sum2="194075.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Water" sum="996.000000" sum2="198984.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ziffelan Minidragons" sum="27871.000000" sum2="258931025.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Diamond" sum="1200.000000" sum2="240354.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Food" sum="544.000000" sum2="75618.000000" cnt="4" time="30187345966811"/>
+    <commodity name="Gold" sum="2876.000000" sum2="1378830.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Industrial Goods" sum="2265.000000" sum2="855039.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Luxury Goods" sum="3295.000000" sum2="1809843.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Medicine" sum="3486.000000" sum2="2025370.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ore" sum="1179.000000" sum2="231711.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Water" sum="1181.000000" sum2="233209.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ziffelan Minidragons" sum="37146.000000" sum2="344956650.000000" cnt="4" time="30187345966811"/>
    </spob>
    <spob name="Tuskegee Training Academy">
-    <commodity name="Diamond" sum="1000.000000" sum2="200270.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Food" sum="418.000000" sum2="59652.000000" cnt="3" time="30187335818577"/>
-    <commodity name="Gold" sum="2378.000000" sum2="1131186.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Industrial Goods" sum="1868.000000" sum2="697886.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Luxury Goods" sum="2724.000000" sum2="1484318.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Medicine" sum="2896.000000" sum2="1677366.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ore" sum="975.000000" sum2="190155.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Water" sum="991.000000" sum2="196997.000000" cnt="5" time="30187335818577"/>
-    <commodity name="Ziffelan Minidragons" sum="27731.000000" sum2="256336265.000000" cnt="3" time="30187335818577"/>
+    <commodity name="Diamond" sum="1191.000000" sum2="236751.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Food" sum="542.000000" sum2="75028.000000" cnt="4" time="30187345966811"/>
+    <commodity name="Gold" sum="2861.000000" sum2="1364475.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Industrial Goods" sum="2241.000000" sum2="837015.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Luxury Goods" sum="3277.000000" sum2="1790127.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Medicine" sum="3474.000000" sum2="2011450.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ore" sum="1167.000000" sum2="227019.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Water" sum="1176.000000" sum2="231222.000000" cnt="6" time="30187345966811"/>
+    <commodity name="Ziffelan Minidragons" sum="36959.000000" sum2="341492249.000000" cnt="4" time="30187345966811"/>
    </spob>
   </system>
   <system name="Zemur">
@@ -492,6 +453,10 @@
  <shiplog>
   <entry id="0" t="Travel" s="travel" m="20">Travel Log</entry>
   <entry id="1" t="Travel" s="discovery">Discovery</entry>
+  <entry id="2" t="Diary" s="Diary">Your Diary</entry>
+  <log id="2" t="30187359548700">Test log</log>
+  <log id="0" t="30187359548700">Landed on Jupiter Station in the Sol system</log>
+  <log id="0" t="30187345966811">Landed on Earth in the Sol system</log>
   <log id="0" t="30187335818577">Landed on Earth in the Sol system</log>
   <log id="0" t="30187323605258">Landed on Mars in the Sol system</log>
   <log id="0" t="30187311158875">Landed on Earth in the Sol system</log>
