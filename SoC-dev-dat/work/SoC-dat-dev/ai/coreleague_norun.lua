@@ -1,4 +1,4 @@
-require 'ai.empire'
+require 'ai.coreleague'
 require 'ai.core.idle.wait'
 
 mem.shield_run    = -1

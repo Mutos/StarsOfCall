@@ -1,9 +1,9 @@
-require 'ai.empire_idle'
+require 'ai.coreleague_idle'
 
 -- Settings
 mem.aggressive = false
 mem.defensive  = false
-mem.distressmsg = _("Empire refuel ship under attack!")
+mem.distressmsg = _("Core Navy refuelling ship under attack!")
 
 function create ()
    create_pre()

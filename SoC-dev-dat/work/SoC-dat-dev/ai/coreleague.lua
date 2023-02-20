@@ -10,7 +10,7 @@ mem.formation     = "fishbone"
 
 local bribe_no_list = {
    _([["You won't buy your way out of this one."]]),
-   _([["The Empire likes to make examples out of scum like you."]]),
+   _([["The Core League likes to make examples out of scum like you."]]),
    _([["You've made a huge mistake."]]),
    _([["Bribery carries a harsh penalty, scum."]]),
    _([["I'm not interested in your blood money!"]]),
@@ -18,15 +18,15 @@ local bribe_no_list = {
 }
 local taunt_list_offensive = {
    _("There is no room in this universe for scum like you!"),
-   _("The Empire will enjoy your death!"),
-   _("Your head will make a fine gift for the Emperor!"),
-   _("None survive the wrath of the Emperor!"),
+   _("The Core League will enjoy your death!"),
+   _("Your head will make a fine trophy for the Admiralty!"),
+   _("None survive the wrath of the Core Navy!"),
    _("Enjoy your last moments, criminal!")
 }
 local taunt_list_defensive = {
    _("You dare attack me?!"),
-   _("You are no match for the Empire!"),
-   _("The Empire will have your head!"),
+   _("You are no match for the Core Navy!"),
+   _("The Core League will have your head!"),
    _("You'll regret that!"),
    _("That was a fatal mistake!")
 }
@@ -47,12 +47,12 @@ function create ()
       ai.setcredits( rnd.rnd(price/300, price/70) )
    end
 
-   -- Lines to annoy the player. Shouldn't be too common or Gamma Polaris and such get inundated.
+   -- Lines to annoy the player. Shouldn't be too common or Sol and such get inundated.
    local r = rnd.rnd(0,20)
    if r == 0 then
-      p:broadcast(_("The Empire is watching you."))
+      p:broadcast(_("The Core League is watching you."))
    elseif r == 1 then
-      p:broadcast(_("The Emperor sees all."))
+      p:broadcast(_("The Navy sees all."))
    end
 
    -- Set how far they attack
@@ -87,10 +87,10 @@ function hail ()
    local standing = p:faction():playerStanding()
    mem.refuel = mem.refuel_base
    if standing < 0 then
-      mem.refuel_no = _([["My fuel is property of the Empire."]])
+      mem.refuel_no = _([["My fuel is property of the Core Navy."]])
    elseif standing < 40 then
       if rnd.rnd() > 0.8 then
-         mem.refuel_no = _([["My fuel is property of the Empire."]])
+         mem.refuel_no = _([["My fuel is property of the Core Navy."]])
       end
    else
       mem.refuel = mem.refuel * 0.6

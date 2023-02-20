@@ -1,7 +1,7 @@
-require 'ai.empire'
+require 'ai.coreleague'
 
 --[[
-    This AI is for Empire ships that should initially just sit stationary in space. Good for guards.
+    This AI is for Core League ships that should initially just sit stationary in space. Good for guards.
 --]]
 
 -- Just stays still
