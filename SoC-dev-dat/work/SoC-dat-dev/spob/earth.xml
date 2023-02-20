@@ -41,10 +41,10 @@
 	<pos x="-5010.877660" y="5649.122024"/>
 	<presence>
 		<base>
-			0.000000
+			200.000000
 		</base>
 		<bonus>
-			0.000000
+			50.000000
 		</bonus>
 		<faction>Core League</faction>
 		<range>
