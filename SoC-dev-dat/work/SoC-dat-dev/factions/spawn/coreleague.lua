@@ -1,3 +1,4 @@
+local fmt  = require "format"
 local scom = require "factions.spawn.lib.common"
 
 local slancelot   = ship.get("Core League Lancelot")
@@ -10,6 +11,8 @@ local srainmaker  = ship.get("Core League Rainmaker")
 
 -- @brief Spawns a small patrol fleet.
 local function spawn_patrol ()
+   warn("function spawn_patrol () : begin")
+
    local pilots = { __doscans = true }
    local r = rnd.rnd()
 
@@ -22,12 +25,14 @@ local function spawn_patrol ()
       scom.addPilot( pilots, spacifier )
    end
 
+   warn("function spawn_patrol () : end")
    return pilots
 end
 
 
 -- @brief Spawns a medium sized squadron.
 local function spawn_squad ()
+   warn("function spawn_squad () : begin")
    local pilots = {}
    if rnd.rnd() < 0.5 then
       pilots.__doscans = true
@@ -47,12 +52,14 @@ local function spawn_squad ()
       scom.addPilot( pilots, sshark )
    end
 
+   warn("function spawn_squad () : end")
    return pilots
 end
 
 
 -- @brief Spawns a capship with escorts.
 local function spawn_capship ()
+   warn("function spawn_capship () : begin")
    local pilots = {}
    local r = rnd.rnd()
 
@@ -79,13 +86,15 @@ local function spawn_capship ()
       scom.addPilot( pilots, slancelot )
    end
 
+   warn("function spawn_capship () : end")
    return pilots
 end
 
-
 local fCoreLeague = faction.get("Core League")
+
 -- @brief Creation hook.
 function create( max )
+   warn(fmt.f(_("function create ( '{max}' ) : begin"), {max=max}) )
    local weights = {}
 
    -- Create weights for spawn table
@@ -94,5 +103,6 @@ function create( max )
    weights[ spawn_capship ] = math.max(1, -500 + 1.70 * max)
 
    -- Initialize spawn stuff
+   warn(fmt.f(_("function create ( '{max}' ) : end"), {max=max}) )
    return scom.init( fCoreLeague, weights, max, {patrol=true} )
 end
