@@ -31,3 +31,6 @@ REM Run NAEV within a dedicated folder
 REM Writing from editors is done on hard-coded "../dat" from this path
 CD run\SoC
 %binDir%\naev.exe -devmode -d "%SoCdatDir%" -d "%NAEVdatDir%"
+
+REM Make sure to exit the script in the entry folder
+CD %DIR_SCRIPT%

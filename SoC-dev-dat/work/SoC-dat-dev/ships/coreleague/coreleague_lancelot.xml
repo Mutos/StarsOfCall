@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Core League Lancelot">
+ <points>40</points>
+ <base_type>Lancelot</base_type>
+ <GFX size="56">lancelot_empire</GFX>
+ <rarity>2</rarity>
+ <GUI>slim</GUI>
+ <sound>engine</sound>
+ <class>Fighter</class>
+ <price>500000</price>
+ <time_mod>0.9</time_mod>
+ <trail_generator x="-13" y="-17" h="-6">nebula</trail_generator>
+ <trail_generator x="-13" y="17" h="-6">nebula</trail_generator>
+ <trail_generator x="-20" y="5" h="0" />
+ <trail_generator x="-20" y="-5" h="0" />
+ <fabricator>Nexus Shipyards</fabricator>
+ <license>Light Combat Vessel</license>
+ <cond>faction.playerStanding("Core League") &gt;= 30</cond>
+ <condstr>You need at least 30 reputation with the Core League.</condstr>
+ <description>This military grade version of the Lancelot is mostly identical in function to a standard Lancelot, but with slightly better armour, shields, and heat dissipation.</description>
+ <health>
+  <armour>70</armour>
+  <armour_regen>0</armour_regen>
+ </health>
+ <characteristics>
+  <crew>4</crew>
+  <mass>80</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>15</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="medium" x="-3" y="0" h="-2" />
+  <weapon size="small" x="-3" y="3" h="5" />
+  <weapon size="small" x="-3" y="-3" h="5" />
+  <weapon size="small" x="-5" y="0" h="5" />
+  <utility size="small" prop="systems">Unicorp PT-68 Core System</utility>
+  <utility size="small" prop="accessory" />
+  <utility size="small" />
+  <utility size="small" />
+  <utility size="small" />
+  <structure size="small" prop="engines">Unicorp Hawk 350 Engine</structure>
+  <structure size="small" prop="hull">Unicorp D-4 Light Plating</structure>
+  <structure size="small" />
+  <structure size="small" />
+ </slots>
+ <stats>
+  <shield_mod>15</shield_mod>
+  <shield_regen_mod>20</shield_regen_mod>
+  <heat_dissipation>15</heat_dissipation>
+ </stats>
+ <tags>
+  <tag>empire</tag>
+ </tags>
+</ship>

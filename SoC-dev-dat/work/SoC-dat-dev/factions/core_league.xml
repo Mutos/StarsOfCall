@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faction name="Core League">
- <ai>empire</ai>
+ <ai>coreleague</ai>
  <known />
  <logo>empire</logo>
  <longname>Core League</longname>
  <player>20</player>
  <colour>blue</colour>
- <spawn>empire</spawn>
+ <spawn>coreleague</spawn>
  <standing>empire</standing>
  <equip>empire</equip>
  <description>The Core League is one of the main human States, with its capital on the human cradleworld, Earth, in the system Sol.</description>
