@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faction name="Core League">
- <ai>empire</ai>
+ <ai>coreleague</ai>
  <known />
  <logo>empire</logo>
  <longname>Core League</longname>
