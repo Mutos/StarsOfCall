@@ -1,9 +1,0 @@
-Loaded configuration: ../../naev-data/SoC//conf.lua
-Read locations, searched in order:
-    ../../naev-data/SoC/
-    C:\Users\brobin\Documents\Perso\dev\StarsOfCall\\SoC-dev-dat\work\SoC-dat-dev
-    C:\Users\brobin\Documents\Perso\dev\StarsOfCall\\SoC-dev-dat\work\NAEV-dat-core
-Write location: ../../naev-data/SoC/
-
- Sea of Darkness
-Reached main menu in 41.141 s

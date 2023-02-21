@@ -1,6 +1,3 @@
-Warning: [faction_addStandingScript] Failed to run standing script: factions/standing/coreleague.lua
-[string "factions/standing/coreleague.lua"]:3: module 'factions.coreleague' not found:
-	no field package.preload['factions.coreleague']
-   no ndata path 'factions/coreleague.lua'
-   no ndata path 'scripts/factions/coreleague.lua'
-Most likely Lua file has improper syntax, please check
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
+Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
