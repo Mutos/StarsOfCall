@@ -7,8 +7,8 @@
  <player>20</player>
  <colour>blue</colour>
  <spawn>coreleague</spawn>
- <standing>empire</standing>
- <equip>empire</equip>
+ <standing>coreleague</standing>
+ <equip>coreleague</equip>
  <description>The Core League is one of the main human States, with its capital on the human cradleworld, Earth, in the system Sol.</description>
  <generator weight="0.45">Independent</generator>
  <generator weight="0.35">Trader</generator>

@@ -1,37 +1,3 @@
 Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
 Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
 Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end

@@ -6,4 +6,4 @@ Read locations, searched in order:
 Write location: ../../naev-data/SoC/
 
  Sea of Darkness
-Reached main menu in 41.141 s
+Reached main menu in 32.515 s
