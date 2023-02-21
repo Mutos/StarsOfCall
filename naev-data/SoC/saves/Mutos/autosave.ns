@@ -4,7 +4,7 @@
   <naev>0.10.4</naev>
   <data>Sea of Darkness</data>
  </version>
- <last_played>1676996699</last_played>
+ <last_played>1676998276</last_played>
  <plugins/>
  <diffs/>
  <player name="Mutos">
@@ -62,8 +62,8 @@
     <outfit slot="0">Laser Cannon MK1</outfit>
    </outfits_weapon>
    <commodities>
-    <commodity quantity="1">Olivine</commodity>
     <commodity quantity="1">Human Food</commodity>
+    <commodity quantity="1">Olivine</commodity>
     <commodity quantity="1">Generic Food</commodity>
    </commodities>
    <weaponsets autoweap="1" active_set="0" aim_lines="0">
@@ -95,9 +95,9 @@
  <events_done/>
  <escorts/>
  <metadata>
-  <last_played>1676996699</last_played>
+  <last_played>1676998276</last_played>
   <date_created>1676392336</date_created>
-  <time_played>1591.000000</time_played>
+  <time_played>1595.000000</time_played>
   <dmg_done_shield>0.000000</dmg_done_shield>
   <dmg_done_armour>0.000000</dmg_done_armour>
   <dmg_taken_shield>100.000000</dmg_taken_shield>
@@ -150,11 +150,11 @@
  </missions>
  <events/>
  <news>
-  <article title="Welcome to the Core League News Centre." desc="Fresh news from around the Core League." faction="Core League" date="0" date_to_rm="30187412588187" id="153" priority="-1" tag="header"/>
-  <article title="Sand Monster Caught On Tape" desc="Local residents claim footage from a security camera shows elusive beast walking through a desert storm. Exobiologists suspect a hoax." faction="Core League" date="30187384730590" date_to_rm="30187482342590" id="136" priority="6" tag="Sand Monster Caught On Tape"/>
-  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Water on Tenal-P to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 82 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187374402777" date_to_rm="30187446306777" id="151" priority="6"/>
-  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Industrial Goods on Tenal-P is now 649 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187342566263" date_to_rm="30187424729263" id="121" priority="6"/>
-  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 191&#10;Food: 128&#10;Gold: 516&#10;Industrial Goods: 361&#10;Luxury Goods: 591&#10;Medicine: 639&#10;Ore: 182&#10;Water: 195&#10;Ziffelan Minidragons: 9,760&#10;&#10;Jupiter Station in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 482&#10;Industrial Goods: 373&#10;Luxury Goods: 552&#10;Medicine: 576&#10;Ore: 192&#10;Water: 184&#10;Ziffelan Minidragons: 9,209&#10;&#10;Mars in Sol&#10;Diamond: 196&#10;Food: 141&#10;Gold: 512&#10;Industrial Goods: 361&#10;Luxury Goods: 586&#10;Medicine: 639&#10;Ore: 184&#10;Water: 203&#10;Ziffelan Minidragons: 10,132&#10;&#10;New Taxaco in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 375&#10;Luxury Goods: 553&#10;Medicine: 577&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,228&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 190&#10;Food: 123&#10;Gold: 480&#10;Industrial Goods: 371&#10;Luxury Goods: 550&#10;Medicine: 575&#10;Ore: 191&#10;Water: 184&#10;Ziffelan Minidragons: 9,182" faction="Generic" date="30187412587187" date_to_rm="30187412588187" id="154" priority="11" tag="econ"/>
+  <article title="Welcome to the Core League News Centre." desc="Keeping you informed." faction="Core League" date="0" date_to_rm="30187412588187" id="156" priority="-1" tag="header"/>
+  <article title="Sand Monster Caught On Tape" desc="Local residents claim footage from a security camera shows elusive beast walking through a desert storm. Exobiologists suspect a hoax." faction="Core League" date="30187384730590" date_to_rm="30187482342590" id="137" priority="6" tag="Sand Monster Caught On Tape"/>
+  <article title="Corporate Scandal Rips Through the Galaxy" desc="Economists are attributing the price of Water on Tenal-P to a scandal involving WarpTron Industries. Debates have ensued regarding whether or not the price, seen to be 82 ¤ per tonne, will go up, down, or remain the same this time." faction="Generic" date="30187374402777" date_to_rm="30187446306777" id="152" priority="6"/>
+  <article title="Economist Describes Sinusoidal Economic Theory" desc="A little-known economist discusses a controversial economic theory. &quot;When you look at the trends, it resembles a sine wave. For instance, the price of Industrial Goods on Tenal-P is now 649 ¤ per tonne, and it seems to return to that price with some regularity. We are working on developing a model to predict these curves more accurately.&quot; Other economists disagree, however, attributing these economists' results to chance." faction="Generic" date="30187342566263" date_to_rm="30187424729263" id="122" priority="6"/>
+  <article title="Current Market Prices" desc="&#10;&#10;Earth in Sol&#10;Diamond: 191&#10;Food: 128&#10;Gold: 516&#10;Industrial Goods: 361&#10;Luxury Goods: 591&#10;Medicine: 639&#10;Ore: 182&#10;Water: 195&#10;Ziffelan Minidragons: 9,760&#10;&#10;Jupiter Station in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 482&#10;Industrial Goods: 373&#10;Luxury Goods: 552&#10;Medicine: 576&#10;Ore: 192&#10;Water: 184&#10;Ziffelan Minidragons: 9,209&#10;&#10;Mars in Sol&#10;Diamond: 196&#10;Food: 141&#10;Gold: 512&#10;Industrial Goods: 361&#10;Luxury Goods: 586&#10;Medicine: 639&#10;Ore: 184&#10;Water: 203&#10;Ziffelan Minidragons: 10,132&#10;&#10;New Taxaco in Sol&#10;Diamond: 191&#10;Food: 124&#10;Gold: 483&#10;Industrial Goods: 375&#10;Luxury Goods: 553&#10;Medicine: 577&#10;Ore: 193&#10;Water: 185&#10;Ziffelan Minidragons: 9,228&#10;&#10;Tuskegee Training Academy in Sol&#10;Diamond: 190&#10;Food: 123&#10;Gold: 480&#10;Industrial Goods: 371&#10;Luxury Goods: 550&#10;Medicine: 575&#10;Ore: 191&#10;Water: 184&#10;Ziffelan Minidragons: 9,182" faction="Generic" date="30187412587187" date_to_rm="30187412588187" id="157" priority="11" tag="econ"/>
  </news>
  <vars>
   <var name="_fcap_coreleague" type="num">30.000000</var>
@@ -257,9 +257,9 @@
  <hooks>
   <hook type="misn">
    <parent>1</parent>
-   <func>enter</func>
-   <id>22</id>
-   <stack>enter</stack>
+   <func>land</func>
+   <id>20</id>
+   <stack>land</stack>
   </hook>
   <hook type="misn">
    <parent>1</parent>
@@ -269,9 +269,9 @@
   </hook>
   <hook type="misn">
    <parent>1</parent>
-   <func>land</func>
-   <id>20</id>
-   <stack>land</stack>
+   <func>enter</func>
+   <id>22</id>
+   <stack>enter</stack>
   </hook>
  </hooks>
  <space>
