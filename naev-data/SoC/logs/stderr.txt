@@ -1,37 +1,6 @@
-Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [naev_versionCompare] Failed to parse version string '0.10.4.dirty'!
-Warning: [cli_warn] function create ( '250' ) : begin
-Warning: [cli_warn] function create ( '250' ) : end
-Warning: [cli_warn] function spawn_squad () : begin
-Warning: [cli_warn] function spawn_squad () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
-Warning: [cli_warn] function spawn_patrol () : begin
-Warning: [cli_warn] function spawn_patrol () : end
+Warning: [faction_addStandingScript] Failed to run standing script: factions/standing/coreleague.lua
+[string "factions/standing/coreleague.lua"]:3: module 'factions.coreleague' not found:
+	no field package.preload['factions.coreleague']
+   no ndata path 'factions/coreleague.lua'
+   no ndata path 'scripts/factions/coreleague.lua'
+Most likely Lua file has improper syntax, please check
