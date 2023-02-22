@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Core League">
+ <ai>alliance</ai>
+ <known />
+ <logo>default</logo>
+ <longname>Planetarist Alliance</longname>
+ <player>20</player>
+ <colour>yellow</colour>
+ <spawn>alliance</spawn>
+ <standing>alliance</standing>
+ <equip>alliance</equip>
+ <description>The Planetarist Alliance is one of the main human States, formed in reaction to the Policorpos' ruthless policies on colonies. Its capital is Sanctuary, in the system of the same name.</description>
+ <generator weight="0.45">Independent</generator>
+ <generator weight="0.35">Trader</generator>
+ <allies>
+  <ally>Independent</ally>
+ </allies>
+ <enemies>
+  <enemy>Pirate</enemy>
+ </enemies>
+ <tags>
+  <tag>generic</tag>
+ </tags>
+</faction>
