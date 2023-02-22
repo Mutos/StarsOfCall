@@ -1,9 +1,41 @@
 Loaded configuration: ../../naev-data/SoC//conf.lua
 Read locations, searched in order:
     ../../naev-data/SoC/
-    C:\Users\brobin\Documents\Perso\dev\StarsOfCall\\SoC-dev-dat\work\SoC-dat-dev
-    C:\Users\brobin\Documents\Perso\dev\StarsOfCall\\SoC-dev-dat\work\NAEV-dat-core
+    /home/leschouchous/Documents-Local/dev/StarsOfCall/SoC-dev-dat/work/SoC-dat-dev
+    /home/leschouchous/Documents-Local/dev/StarsOfCall/SoC-dev-dat/work/NAEV-dat-core
+Cache location: ../../naev-data/SoC//
 Write location: ../../naev-data/SoC/
 
  Sea of Darkness
-Reached main menu in 32.515 s
+
+SDL: 2.0.20 [compiled: 2.0.20]
+
+OpenGL Drawable Created: 1280x720@24bpp
+r: 8, g: 8, b: 8, a: 0, db: yes, fsaa: 0, tex: 16384
+vsync: no
+Renderer: AMD CEDAR (DRM 2.50.0 / 5.15.0-60-generic, LLVM 15.0.6)
+Version: 3.1 Mesa 22.2.5
+
+Crashing ALSOFT version detected, disabling EFX
+OpenAL started: 44100 Hz
+Renderer: OpenAL Soft
+Version: 1.1 ALSOFT 1.19.1 without EFX
+
+Loaded 77 Sounds
+Loaded 59 Songs
+Loaded 30 Commodities in 0.448 s
+Loaded 23 Special Effects in 1.843 s
+Loaded 19 Effects in 0.250 s
+Loaded 396 Outfits in 4.430 s
+Loaded 110 Ships in 14.011 s
+Loaded 29 Factions in 0.656 s
+Loaded 56 AI Profiles in 1.812 s
+Loaded 95 tech groups in 0.227 s
+Loaded 463 Star Systems
+       with 1173 Space Objects in 1.712 s
+Loaded 60 Events in 0.157 s
+Loaded 198 Missions in 0.546 s
+Loaded 27 UniDiffs in 0.035 s
+Loaded 9 map decorators in 0.084 s
+Charted safe lanes for 1626 objects in 1.477 s
+Reached main menu in 39.844 s
