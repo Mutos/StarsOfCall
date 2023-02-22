@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<faction name="Core League">
+<faction name="Alliance">
  <ai>alliance</ai>
  <known />
- <logo>default</logo>
+ <logo>empire</logo>
  <longname>Planetarist Alliance</longname>
  <player>20</player>
  <colour>yellow</colour>
