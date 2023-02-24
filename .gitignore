@@ -16,7 +16,7 @@ naev-data/NAEV/saves/*/backup.ns
 naev-data/NAEV/saves/*/autosave.ns
 
 # Runtime data folders for SoC
-naev-data/NAEV/conf.lua
+naev-data/SoC/conf.lua
 naev-data/SoC/conf.lua.backup
 naev-data/SoC/collisions/*
 naev-data/SoC/logs/*
