@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Large Cargo Containers Ring">
+ <general>
+  <typename>Cargo Expansion</typename>
+  <slot prop="Containers Ring">utility</slot>
+  <size>large</size>
+  <mass>800</mass>
+  <price>35000</price>
+  <description>Containers ships are build around these rings of cargo containers.</description>
+  <gfx_store>hk2250/Containers-Ring-Medium-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>750</cargo>
+ </specific>
+</outfit>

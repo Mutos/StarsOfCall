@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Proteous Resistance - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Proteous Resistance worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="New Hope">
+   <jump>PR 0004</jump>
+   <jump>PR 0016</jump>
+   <asset>New Hope</asset>
+  </sys>
+  <sys name="PR 0004">
+   <jump>Morpheus</jump>
+   <jump>New Hope</jump>
+   <jump>PR 0005</jump>
+  </sys>
+  <sys name="Morpheus">
+   <jump>PR 0004</jump>
+   <asset>Morpheus Station</asset>
+  </sys>
+  <sys name="PR 0008">
+   <jump>PR 0005</jump>
+   <jump>PR 0013</jump>
+  </sys>
+  <sys name="PR 0005">
+   <jump>PR 0004</jump>
+   <jump>PR 0008</jump>
+  </sys>
+  <sys name="PR 0014">
+   <jump>PR 0013</jump>
+   <jump>PR 0016</jump>
+  </sys>
+  <sys name="PR 0016">
+   <jump>New Hope</jump>
+   <jump>PR 0014</jump>
+  </sys>
+  <sys name="PR 0013">
+   <jump>PR 0008</jump>
+   <jump>PR 0014</jump>
+  </sys>
+ </specific>
+</outfit>

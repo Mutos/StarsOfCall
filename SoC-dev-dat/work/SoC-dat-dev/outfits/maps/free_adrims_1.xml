@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Free Adrimai exfiltration routes - Irilia sector">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>In tis zone, the Free Adrim have built an influence they use to exfiltrate refugees from the Rith Sphere.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Iri 0240">
+   <jump>Iri 0230</jump>
+   <jump>Iri 0242</jump>
+  </sys>
+  <sys name="Iri 0242">
+   <jump>Iri 0240</jump>
+   <jump>Skaeth</jump>
+  </sys>
+  <sys name="Son of the Eclipse">
+   <jump>Iri-TPL - 1 - 1</jump>
+   <asset>Freedom Portal</asset>
+   <asset>SkyRuler</asset>
+   <asset>Son of the Eclipse</asset>
+  </sys>
+  <sys name="Iri-TPL - 1 - 1">
+   <jump>Iri-TPL - 1 - 2</jump>
+   <jump>Skaeth</jump>
+   <jump>Son of the Eclipse</jump>
+  </sys>
+  <sys name="Iri-TPL - 1 - 2">
+   <jump>Iri-TPL - 1 - 1</jump>
+   <jump>Skaeth</jump>
+   <jump>TPL 0060</jump>
+  </sys>
+  <sys name="TPL 0060">
+   <jump>Iri-TPL - 1 - 2</jump>
+   <jump>TPL 0061</jump>
+  </sys>
+  <sys name="TPL 0061">
+   <jump>TPL 0055</jump>
+   <jump>TPL 0060</jump>
+  </sys>
+  <sys name="Irilia-17">
+   <jump>Iri 0039</jump>
+   <jump>Iri-PA-CL - 1 - 3</jump>
+   <asset>Irilia-17</asset>
+   <asset>Left-Hand Moon</asset>
+   <asset>Right-Hand Moon</asset>
+   <asset>Seynbeg Kemae</asset>
+  </sys>
+  <sys name="Iri 0136">
+   <jump>Iri 0135</jump>
+   <jump>Iri 0180</jump>
+   <jump>Kerloth</jump>
+  </sys>
+  <sys name="Iri 0135">
+   <jump>Iri 0134</jump>
+   <jump>Iri 0136</jump>
+  </sys>
+  <sys name="Iri 0134">
+   <jump>Iri 0133</jump>
+   <jump>Iri 0135</jump>
+  </sys>
+  <sys name="Iri 0133">
+   <jump>Iri 0132</jump>
+   <jump>Iri 0134</jump>
+  </sys>
+  <sys name="Iri 0132">
+   <jump>Iri 0133</jump>
+   <jump>Irilia-9</jump>
+  </sys>
+  <sys name="Irilia-9">
+   <jump>Iri 0120</jump>
+   <jump>Iri 0122</jump>
+   <jump>Iri 0132</jump>
+   <asset>Ermel-9</asset>
+   <asset>Irilia-9</asset>
+   <asset>Ortir-9</asset>
+   <asset>Raltir-9</asset>
+  </sys>
+  <sys name="Iri 0120">
+   <jump>Iri 0112</jump>
+   <jump>Irilia-9</jump>
+  </sys>
+  <sys name="Irilia-13">
+   <jump>Iri 0114</jump>
+   <jump>Iri 0238</jump>
+   <asset>Akeloth</asset>
+   <asset>Irilia-13</asset>
+  </sys>
+  <sys name="Iri 0114">
+   <jump>Iri 0111</jump>
+   <jump>Irilia-13</jump>
+  </sys>
+  <sys name="Iri 0111">
+   <jump>Iri 0110</jump>
+   <jump>Iri 0114</jump>
+  </sys>
+  <sys name="Iri 0110">
+   <jump>Iri 0111</jump>
+   <jump>Iri 0112</jump>
+  </sys>
+  <sys name="Iri 0112">
+   <jump>Iri 0110</jump>
+   <jump>Iri 0120</jump>
+  </sys>
+  <sys name="Iri 0238">
+   <jump>Iri 0236</jump>
+   <jump>Irilia-13</jump>
+  </sys>
+  <sys name="Iri 0236">
+   <jump>Iri 0237</jump>
+   <jump>Iri 0238</jump>
+  </sys>
+  <sys name="Iri 0237">
+   <jump>Iri 0202</jump>
+   <jump>Iri 0236</jump>
+  </sys>
+  <sys name="Iri 0202">
+   <jump>Iri 0203</jump>
+   <jump>Iri 0237</jump>
+  </sys>
+  <sys name="Iri 0230">
+   <jump>Iri 0231</jump>
+   <jump>Iri 0240</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Iri 0231">
+   <jump>Iri 0224</jump>
+   <jump>Iri 0230</jump>
+  </sys>
+  <sys name="Iri 0224">
+   <jump>Drih Dromae</jump>
+   <jump>Iri 0219</jump>
+   <jump>Iri 0223</jump>
+   <jump>Iri 0231</jump>
+  </sys>
+  <sys name="Iri 0223">
+   <jump>Iri 0224</jump>
+   <jump>Iri 0225</jump>
+  </sys>
+  <sys name="Iri 0219">
+   <jump>Drih Dromae</jump>
+   <jump>Iri 0217</jump>
+   <jump>Iri 0224</jump>
+  </sys>
+  <sys name="Iri 0217">
+   <jump>Iri 0215</jump>
+   <jump>Iri 0218</jump>
+   <jump>Iri 0219</jump>
+  </sys>
+  <sys name="Iri 0215">
+   <jump>Drih Dromae</jump>
+   <jump>Iri 0214</jump>
+   <jump>Iri 0217</jump>
+  </sys>
+  <sys name="Iri 0214">
+   <jump>Drih Dromae</jump>
+   <jump>Iri 0215</jump>
+   <jump>Irilia-15</jump>
+  </sys>
+  <sys name="Irilia-15">
+   <jump>Iri 0185</jump>
+   <jump>Iri 0214</jump>
+   <asset>Ermel-15</asset>
+   <asset>Irilia-15</asset>
+   <asset>Ortir-15</asset>
+   <asset>Raltir-15</asset>
+  </sys>
+  <sys name="Iri 0185">
+   <jump>Iri 0187</jump>
+   <jump>Irilia-15</jump>
+  </sys>
+  <sys name="Iri 0187">
+   <jump>Iri 0185</jump>
+   <jump>Iri 0193</jump>
+  </sys>
+  <sys name="Iri 0193">
+   <jump>Iri 0187</jump>
+   <jump>Iri 0194</jump>
+  </sys>
+  <sys name="Iri 0194">
+   <jump>Iri 0193</jump>
+   <jump>Iri 0203</jump>
+  </sys>
+  <sys name="Iri 0203">
+   <jump>Iri 0194</jump>
+   <jump>Iri 0202</jump>
+  </sys>
+  <sys name="iri 0204">
+   <jump>Iri 0205</jump>
+  </sys>
+  <sys name="Iri 0205">
+   <jump>Iri 0206</jump>
+   <jump>iri 0204</jump>
+   <jump>iri 0207</jump>
+  </sys>
+  <sys name="Iri 0206">
+   <jump>Iri 0205</jump>
+   <jump>iri 0207</jump>
+  </sys>
+  <sys name="Irilia-16">
+   <jump>Iri 0208</jump>
+   <jump>Iri 0209</jump>
+   <jump>iri 0207</jump>
+   <asset>Irilia-16</asset>
+  </sys>
+  <sys name="iri 0207">
+   <jump>Iri 0205</jump>
+   <jump>Iri 0206</jump>
+   <jump>Irilia-16</jump>
+  </sys>
+  <sys name="Iri 0208">
+   <jump>Iri 0209</jump>
+   <jump>Iri 0218</jump>
+   <jump>Irilia-16</jump>
+  </sys>
+  <sys name="Iri 0218">
+   <jump>Iri 0208</jump>
+   <jump>Iri 0217</jump>
+  </sys>
+  <sys name="Iri 0119">
+   <jump>Iri 0213</jump>
+   <jump>Iri 0244</jump>
+  </sys>
+  <sys name="Iri 0212">
+   <jump>Iri 0210</jump>
+   <jump>Iri 0213</jump>
+  </sys>
+  <sys name="Iri 0210">
+   <jump>Iri 0209</jump>
+   <jump>Iri 0212</jump>
+  </sys>
+  <sys name="Iri 0209">
+   <jump>Iri 0208</jump>
+   <jump>Iri 0210</jump>
+   <jump>Irilia-16</jump>
+  </sys>
+  <sys name="Iri 0213">
+   <jump>Iri 0119</jump>
+   <jump>Iri 0212</jump>
+  </sys>
+  <sys name="Iri 0244">
+   <jump>Iri 0119</jump>
+   <jump>Kerloth</jump>
+  </sys>
+  <sys name="Iri 0141">
+   <jump>Iri 0143</jump>
+   <jump>Kerloth</jump>
+  </sys>
+  <sys name="Iri 0143">
+   <jump>Iri 0141</jump>
+   <jump>Iri 0144</jump>
+  </sys>
+  <sys name="Iri 0144">
+   <jump>Iri 0143</jump>
+   <jump>Irm-Iri - 2 - 1</jump>
+  </sys>
+  <sys name="Irm-Iri - 2 - 1">
+   <jump>Iri 0144</jump>
+   <jump>Irm 0059</jump>
+  </sys>
+  <sys name="Irm 0059">
+   <jump>Irm 0053</jump>
+   <jump>Irm-Iri - 2 - 1</jump>
+  </sys>
+  <sys name="Irm 0053">
+   <jump>Erdil-1</jump>
+   <jump>Irm 0059</jump>
+  </sys>
+  <sys name="Erdil-1">
+   <jump>Irm 0053</jump>
+   <asset>Alarane</asset>
+   <asset>Erdil-1</asset>
+  </sys>
+  <sys name="Iri 0122">
+   <jump>Iri 0041</jump>
+   <jump>Irilia-9</jump>
+  </sys>
+  <sys name="Iri 0041">
+   <jump>Iri 0035</jump>
+   <jump>Iri 0122</jump>
+  </sys>
+  <sys name="Iri 0035">
+   <jump>Iri 0041</jump>
+   <jump>Iri 0056</jump>
+  </sys>
+  <sys name="Iri 0056">
+   <jump>Iri 0035</jump>
+   <jump>Iri 0037</jump>
+  </sys>
+  <sys name="Iri 0180">
+   <jump>Iri 0037</jump>
+   <jump>Iri 0136</jump>
+  </sys>
+  <sys name="Iri 0037">
+   <jump>Iri 0039</jump>
+   <jump>Iri 0056</jump>
+   <jump>Iri 0180</jump>
+  </sys>
+  <sys name="Iri 0039">
+   <jump>Iri 0037</jump>
+   <jump>Irilia-17</jump>
+  </sys>
+  <sys name="Iri-PA-CL - 1 - 1">
+   <jump>Nouvelle-Hong-Kong</jump>
+   <jump>Thurnae</jump>
+  </sys>
+  <sys name="Nouvelle-Hong-Kong">
+   <jump>Iri-PA-CL - 1 - 1</jump>
+   <asset>Nouvelle-Hong-Kong</asset>
+  </sys>
+  <sys name="Iri-PA-CL - 1 - 3">
+   <jump>Irilia-17</jump>
+   <jump>Thurnae</jump>
+  </sys>
+  <sys name="Kerloth">
+   <jump>Iri 0136</jump>
+   <jump>Iri 0141</jump>
+   <jump>Iri 0244</jump>
+   <asset>Asteroids Cluster 709815</asset>
+   <asset>Heth</asset>
+   <asset>Heth no Dirnae</asset>
+   <asset>Kerloth Transfer Station</asset>
+  </sys>
+  <sys name="Flow of Life">
+   <jump>TPL 0057</jump>
+   <asset>Flow of Life</asset>
+  </sys>
+  <sys name="TPL 0057">
+   <jump>Flow of Life</jump>
+   <jump>TPL 0055</jump>
+  </sys>
+  <sys name="TPL 0055">
+   <jump>TPL 0057</jump>
+   <jump>TPL 0061</jump>
+  </sys>
+  <sys name="Skaeth">
+   <jump>Iri 0242</jump>
+   <jump>Iri-TPL - 1 - 1</jump>
+   <jump>Iri-TPL - 1 - 2</jump>
+   <asset>Asteroids Cluster 124121</asset>
+   <asset>Asteroids Cluster 125784</asset>
+   <asset>Asteroids Cluster 215754</asset>
+   <asset>Asteroids Cluster 290146</asset>
+   <asset>Asteroids Cluster 545484</asset>
+   <asset>Asteroids Cluster 648754</asset>
+   <asset>Asteroids Cluster 854025</asset>
+   <asset>Skaeth Border Station</asset>
+  </sys>
+  <sys name="Drih Dromae">
+   <jump>Iri 0214</jump>
+   <jump>Iri 0215</jump>
+   <jump>Iri 0219</jump>
+   <jump>Iri 0224</jump>
+   <asset>Asteroids Cluster 176862</asset>
+   <asset>Asteroids Cluster 518677</asset>
+   <asset>Asteroids Cluster 591021</asset>
+   <asset>Asteroids Cluster 678521</asset>
+   <asset>Asteroids Cluster 798861</asset>
+   <asset>Asteroids Cluster 901023</asset>
+   <asset>Drih Skarae</asset>
+   <asset>Irol</asset>
+  </sys>
+  <sys name="Irilia-18">
+   <jump>Iri 0225</jump>
+   <jump>Iri 0227</jump>
+   <jump>Iri 0230</jump>
+   <asset>Asteroids Cluster 415614</asset>
+   <asset>Asteroids Cluster 478149</asset>
+   <asset>Elthain</asset>
+   <asset>Irilia-18</asset>
+  </sys>
+  <sys name="Iri 0225">
+   <jump>Iri 0223</jump>
+   <jump>Iri 0227</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Iri 0227">
+   <jump>Iri 0225</jump>
+   <jump>Iri 0228</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Iri 0228">
+   <jump>Iri 0227</jump>
+   <jump>Iri 0229</jump>
+  </sys>
+  <sys name="Iri 0229">
+   <jump>Iri 0228</jump>
+   <jump>Kherai</jump>
+  </sys>
+  <sys name="Kherai">
+   <jump>Alinath</jump>
+   <jump>Iri 0229</jump>
+   <asset>Kherai Border Station</asset>
+  </sys>
+  <sys name="Alinath">
+   <jump>Eltth-Ssaan</jump>
+   <jump>Kherai</jump>
+  </sys>
+  <sys name="Eltth-Ssaan">
+   <jump>Aareli</jump>
+   <jump>Alinath</jump>
+  </sys>
+  <sys name="Aareli">
+   <jump>Eltth-Ssaan</jump>
+   <asset>Black Rose</asset>
+  </sys>
+  <sys name="Thurnae">
+   <jump>Iri-PA-CL - 1 - 1</jump>
+   <jump>Iri-PA-CL - 1 - 3</jump>
+   <asset>Asteroids Cluster 184397</asset>
+   <asset>Asteroids Cluster 185277</asset>
+   <asset>Asteroids Cluster 227356</asset>
+   <asset>Asteroids Cluster 235160</asset>
+   <asset>Asteroids Cluster 251670</asset>
+   <asset>Asteroids Cluster 273379</asset>
+   <asset>Asteroids Cluster 277603</asset>
+   <asset>Asteroids Cluster 297178</asset>
+   <asset>Asteroids Cluster 415935</asset>
+   <asset>Asteroids Cluster 456529</asset>
+   <asset>Asteroids Cluster 474553</asset>
+   <asset>Asteroids Cluster 481478</asset>
+   <asset>Asteroids Cluster 507533</asset>
+   <asset>Asteroids Cluster 555573</asset>
+   <asset>Asteroids Cluster 556046</asset>
+   <asset>Asteroids Cluster 565293</asset>
+   <asset>Asteroids Cluster 571618</asset>
+   <asset>Asteroids Cluster 578860</asset>
+   <asset>Asteroids Cluster 582428</asset>
+   <asset>Asteroids Cluster 593220</asset>
+   <asset>Asteroids Cluster 606807</asset>
+   <asset>Asteroids Cluster 629196</asset>
+   <asset>Asteroids Cluster 632292</asset>
+   <asset>Asteroids Cluster 712160</asset>
+   <asset>Asteroids Cluster 712595</asset>
+   <asset>Asteroids Cluster 753355</asset>
+   <asset>Asteroids Cluster 790023</asset>
+   <asset>Asteroids Cluster 829124</asset>
+   <asset>Asteroids Cluster 864323</asset>
+   <asset>Asteroids Cluster 872491</asset>
+   <asset>Asteroids Cluster 893869</asset>
+   <asset>Asteroids Cluster 899315</asset>
+   <asset>Asteroids Cluster 899446</asset>
+   <asset>Asteroids Cluster 913363</asset>
+   <asset>Asteroids Cluster 927895</asset>
+   <asset>Thurnae</asset>
+  </sys>
+ </specific>
+</outfit>

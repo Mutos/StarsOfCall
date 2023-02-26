@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="15x Akk'Ti'Makkt Bay">
+ <general>
+  <slot prop="Craft Bay">weapon</slot>
+  <size>small</size>
+  <license>Light Combat Vessel License</license>
+  <mass>320</mass>
+  <price>1300000</price>
+  <gfx_store>hk2250/akktimakkt_escort</gfx_store>
+  <description>This bay holds 15 Akk'Ti'Makkt fighters and all the needed maintenance tools.</description>
+  <cpu>-12</cpu>
+ </general>
+ <specific type="fighter bay" secondary="1">
+  <ammo>Akk'Ti'Makkt Bomber</ammo>
+  <delay>5</delay>
+  <reload_time>10</reload_time>
+  <amount>15</amount>
+ </specific>
+</outfit>

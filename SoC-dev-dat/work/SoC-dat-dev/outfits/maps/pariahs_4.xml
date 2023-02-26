@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Space Pariahs - Part 4/4 - Pariahs">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Route of Vole's motley crew from the well-known "Space Pariah" novel after the destruction of the former Eeraniinal trading station.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Eeraniinal">
+   <jump>Aareli</jump>
+   <asset>Eeraniinal Border Station</asset>
+  </sys>
+  <sys name="Aareli">
+   <jump>Eeraniinal</jump>
+   <jump>Ind 0010</jump>
+   <asset>Black Rose</asset>
+  </sys>
+  <sys name="Ind 0010">
+   <jump>Aareli</jump>
+   <jump>Ind 0008</jump>
+  </sys>
+  <sys name="Ind 0008">
+   <jump>Ind 0001</jump>
+   <jump>Ind 0010</jump>
+  </sys>
+  <sys name="Ind 0001">
+   <jump>Ind 0005</jump>
+   <jump>Ind 0008</jump>
+  </sys>
+  <sys name="Ind 0005">
+   <jump>Ind 0001</jump>
+   <jump>Ind 0004</jump>
+  </sys>
+  <sys name="Eshii-K'tin">
+   <jump>Ind 0004</jump>
+   <asset>Asteroids Cluster 286755</asset>
+   <asset>Asteroids Cluster 515382</asset>
+   <asset>Asteroids Cluster 635869</asset>
+   <asset>Asteroids Cluster 725317</asset>
+   <asset>Asteroids Cluster 747433</asset>
+   <asset>Asteroids Cluster 821909</asset>
+   <asset>Asteroids Cluster 932316</asset>
+   <asset>Asteroids Cluster 999041</asset>
+   <asset>Giant</asset>
+   <asset>K'tin Trade Center</asset>
+  </sys>
+  <sys name="Ind 0004">
+   <jump>Eshii-K'tin</jump>
+   <jump>Ind 0005</jump>
+  </sys>
+  <sys name="Ind 0007"/>
+  <sys name="TPL 0019">
+   <jump>TPL 0024</jump>
+   <asset>Asteroids Cluster 138891</asset>
+   <asset>Asteroids Cluster 414877</asset>
+   <asset>Asteroids Cluster 466825</asset>
+   <asset>Asteroids Cluster 587998</asset>
+   <asset>Asteroids Cluster 699809</asset>
+   <asset>Asteroids Cluster 769109</asset>
+  </sys>
+  <sys name="TPL 0024">
+   <jump>TPL 0019</jump>
+   <jump>TPL 0023</jump>
+  </sys>
+  <sys name="TPL 0023">
+   <jump>TPL 0024</jump>
+   <jump>TPL-RQL - 1 -  3</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 -  3">
+   <jump>RQL 0055</jump>
+   <jump>TPL 0023</jump>
+  </sys>
+  <sys name="RQL 0055">
+   <jump>Svenia</jump>
+   <jump>TPL-RQL - 1 -  3</jump>
+  </sys>
+  <sys name="Svenia">
+   <jump>RQL 0055</jump>
+   <asset>Bob and Diego's</asset>
+   <asset>Svenia</asset>
+  </sys>
+ </specific>
+</outfit>

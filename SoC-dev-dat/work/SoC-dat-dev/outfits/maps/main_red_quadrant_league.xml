@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Red Quadrant League - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Red Quadrant League worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Red Skies">
+   <jump>RQL 0001</jump>
+   <jump>RQL 0002</jump>
+   <jump>RQL 0005</jump>
+   <asset>Fire Ruler</asset>
+   <asset>Red Skies</asset>
+  </sys>
+  <sys name="Furlong Depth">
+   <jump>RQL 0012</jump>
+   <jump>RQL 0023</jump>
+   <asset>Furlong Depth</asset>
+  </sys>
+  <sys name="ForestLight">
+   <jump>RQL 0026</jump>
+   <jump>RQL 0047</jump>
+   <jump>RQL 0048</jump>
+   <asset>ForestLight V</asset>
+  </sys>
+  <sys name="New Light">
+   <jump>RQL 0025</jump>
+   <jump>RQL 0027</jump>
+   <jump>RQL 0029</jump>
+   <asset>New Light</asset>
+  </sys>
+  <sys name="RQL 0025">
+   <jump>New Light</jump>
+   <jump>RQL 0027</jump>
+   <jump>Savory Clouds</jump>
+  </sys>
+  <sys name="RQL 0023">
+   <jump>Furlong Depth</jump>
+   <jump>Savory Clouds</jump>
+  </sys>
+  <sys name="RQL 0012">
+   <jump>Furlong Depth</jump>
+   <jump>RQL 0010</jump>
+  </sys>
+  <sys name="RQL 0010">
+   <jump>RQL 0002</jump>
+   <jump>RQL 0012</jump>
+  </sys>
+  <sys name="RQL 0002">
+   <jump>RQL 0001</jump>
+   <jump>RQL 0010</jump>
+   <jump>Red Skies</jump>
+  </sys>
+  <sys name="RQL 0005">
+   <jump>RQL 0006</jump>
+   <jump>Red Skies</jump>
+  </sys>
+  <sys name="RQL 0006">
+   <jump>RQL 0005</jump>
+   <jump>RQL 0007</jump>
+  </sys>
+  <sys name="RQL 0007">
+   <jump>RQL 0006</jump>
+   <jump>RQL 0035</jump>
+  </sys>
+  <sys name="RQL 0035">
+   <jump>RQL 0007</jump>
+   <jump>RQL 0041</jump>
+   <jump>RQL 0042</jump>
+  </sys>
+  <sys name="RQL 0041">
+   <jump>RQL 0035</jump>
+   <jump>RQL 0045</jump>
+  </sys>
+  <sys name="RQL 0045">
+   <jump>RQL 0041</jump>
+   <jump>RQL 0042</jump>
+  </sys>
+  <sys name="RQL 0042">
+   <jump>RQL 0035</jump>
+   <jump>RQL 0045</jump>
+  </sys>
+  <sys name="RQL 0047">
+   <jump>ForestLight</jump>
+   <jump>RQL 0046</jump>
+  </sys>
+  <sys name="RQL 0046">
+   <jump>RQL 0001</jump>
+   <jump>RQL 0047</jump>
+  </sys>
+  <sys name="RQL 0001">
+   <jump>RQL 0002</jump>
+   <jump>RQL 0046</jump>
+   <jump>Red Skies</jump>
+  </sys>
+  <sys name="RQL 0026">
+   <jump>ForestLight</jump>
+   <jump>RQL 0049</jump>
+  </sys>
+  <sys name="RQL 0048">
+   <jump>ForestLight</jump>
+   <jump>RQL 0049</jump>
+  </sys>
+  <sys name="RQL 0049">
+   <jump>RQL 0026</jump>
+   <jump>RQL 0048</jump>
+  </sys>
+  <sys name="RQL 0027">
+   <jump>New Light</jump>
+   <jump>RQL 0025</jump>
+   <jump>RQL 0034</jump>
+  </sys>
+  <sys name="RQL 0034">
+   <jump>Howling Comets</jump>
+   <jump>RQL 0027</jump>
+   <jump>RQL 0033</jump>
+  </sys>
+  <sys name="RQL 0057">
+   <jump>Howling Comets</jump>
+   <jump>TPL-RQL - 1 - 2</jump>
+   <jump>TPL-RQL - 1 - 4</jump>
+  </sys>
+  <sys name="The Line">
+   <jump>Gentle Light</jump>
+   <asset>Asteroids Cluster 641252</asset>
+   <asset>Line Border Station</asset>
+  </sys>
+  <sys name="Gentle Light">
+   <jump>RQL 0032</jump>
+   <jump>The Line</jump>
+   <asset>Asteroids Cluster 262541</asset>
+   <asset>Asteroids Cluster 655541</asset>
+   <asset>Asteroids Cluster 845126</asset>
+   <asset>Asteroids Cluster 956654</asset>
+   <asset>Beautiful Sands</asset>
+   <asset>Burning Clouds</asset>
+   <asset>Gentle Light</asset>
+  </sys>
+  <sys name="RQL 0032">
+   <jump>Gentle Light</jump>
+   <jump>RQL 0029</jump>
+   <jump>RQL 0033</jump>
+  </sys>
+  <sys name="RQL 0033">
+   <jump>RQL 0032</jump>
+   <jump>RQL 0034</jump>
+  </sys>
+  <sys name="RQL 0029">
+   <jump>New Light</jump>
+   <jump>RQL 0032</jump>
+  </sys>
+  <sys name="Savory Clouds">
+   <jump>RQL 0023</jump>
+   <jump>RQL 0025</jump>
+   <asset>Asteroids Cluster 264210</asset>
+   <asset>Asteroids Cluster 621884</asset>
+   <asset>Divers' Beach</asset>
+   <asset>Savory Clouds</asset>
+  </sys>
+  <sys name="Howling Comets">
+   <jump>RQL 0034</jump>
+   <jump>RQL 0057</jump>
+   <asset>Asteroids Cluster 231211</asset>
+   <asset>Asteroids Cluster 235879</asset>
+   <asset>Asteroids Cluster 456781</asset>
+   <asset>Asteroids Cluster 564888</asset>
+   <asset>Asteroids Cluster 565421</asset>
+   <asset>Asteroids Cluster 899845</asset>
+   <asset>Howling Comets</asset>
+  </sys>
+  <sys name="Svenia">
+   <jump>RQL 0055</jump>
+   <asset>Bob and Diego's</asset>
+   <asset>Svenia</asset>
+  </sys>
+  <sys name="RQL 0055">
+   <jump>Svenia</jump>
+   <jump>TPL-RQL - 1 -  3</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 - 4">
+   <jump>RQL 0057</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 -  3">
+   <jump>RQL 0055</jump>
+   <jump>TPL-RQL - 1 - 2</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 - 2">
+   <jump>RQL 0057</jump>
+   <jump>TPL-RQL - 1 -  3</jump>
+  </sys>
+ </specific>
+</outfit>

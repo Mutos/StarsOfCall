@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Small Ion Flak Turret">
+ <general>
+  <slot prop="Flak Turret">weapon</slot>
+  <size>small</size>
+  <mass>3</mass>
+  <price>12000</price>
+  <description>A pair of miniaturized ion cannons optimized for range and cadence, mounted on a rotating turret, aiming at non-lethal protection. It is designed to fend off ion-armed fighters and so, has a slightly greater range than the regular ion cannon.</description>
+  <gfx_store>ionturret</gfx_store>
+  <cpu>-3</cpu>
+  </general>
+ <specific type="turret bolt">
+  <gfx>ionM</gfx>
+  <sound>ion</sound>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <delay>0.4</delay>
+  <speed>1000</speed>
+  <range>700</range>
+  <falloff>550</falloff>
+  <gfx_end>ionM-end</gfx_end>
+  <energy>18</energy>
+  <heatup>18</heatup>
+  <track>3</track>
+  <damage>
+   <type>ion</type>
+   <penetrate>3</penetrate>
+   <physical>4</physical>
+   <disable>12</disable>
+  </damage>
+ </specific>
+</outfit>

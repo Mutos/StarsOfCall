@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Space Pariahs - Part 3/4 - Ma">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Route of Ma the Pupeteer from the well-known "Space Pariah" novel.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Eeraniinal">
+   <jump>CS 0052</jump>
+   <asset>Eeraniinal Border Station</asset>
+  </sys>
+  <sys name="Star Melodies">
+   <jump>TPL 0075</jump>
+   <asset>Star Melodies</asset>
+  </sys>
+  <sys name="Talking Waves">
+   <jump>TPL 0032</jump>
+   <jump>TPL 0033</jump>
+   <asset>Talking Waves</asset>
+  </sys>
+  <sys name="TPL 0075">
+   <jump>Star Melodies</jump>
+   <jump>TPL 0074</jump>
+  </sys>
+  <sys name="TPL 0074">
+   <jump>TPL 0075</jump>
+  </sys>
+  <sys name="TPL 0071">
+   <jump>TPL 0068</jump>
+  </sys>
+  <sys name="TPL 0068">
+   <jump>TPL 0071</jump>
+   <jump>TPL 0072</jump>
+  </sys>
+  <sys name="TPL 0072">
+   <jump>TPL 0044</jump>
+   <jump>TPL 0068</jump>
+  </sys>
+  <sys name="TPL 0044">
+   <jump>TPL 0033</jump>
+   <jump>TPL 0072</jump>
+  </sys>
+  <sys name="TPL 0033">
+   <jump>TPL 0044</jump>
+   <jump>Talking Waves</jump>
+  </sys>
+  <sys name="TPL 0032">
+   <jump>TPL 0031</jump>
+   <jump>Talking Waves</jump>
+  </sys>
+  <sys name="TPL 0031">
+   <jump>TPL 0030</jump>
+   <jump>TPL 0032</jump>
+  </sys>
+  <sys name="TPL 0030">
+   <jump>TPL 0031</jump>
+   <jump>TPL-RQL - 1 - 4</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 - 4">
+   <jump>RQL 0057</jump>
+   <jump>TPL 0030</jump>
+  </sys>
+  <sys name="RQL 0057">
+   <jump>TPL-RQL - 1 - 2</jump>
+   <jump>TPL-RQL - 1 - 4</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 - 2">
+   <jump>RQL 0057</jump>
+   <jump>TPL-RQL - 1 - 1</jump>
+  </sys>
+  <sys name="TPL-RQL - 1 - 1">
+   <jump>PA-TPL-RQL 1 - 1</jump>
+   <jump>TPL-RQL - 1 - 2</jump>
+  </sys>
+  <sys name="PA-TPL-RQL 1 - 1">
+   <jump>PA-TPL-RQL - 1 - 2</jump>
+   <jump>TPL-RQL - 1 - 1</jump>
+  </sys>
+  <sys name="PA-TPL-RQL - 1 - 2">
+   <jump>PA 0019</jump>
+   <jump>PA-TPL-RQL 1 - 1</jump>
+  </sys>
+  <sys name="PA 0019">
+   <jump>PA-TPL-RQL - 1 - 2</jump>
+   <jump>Starsling</jump>
+  </sys>
+  <sys name="Starsling">
+   <jump>PA 0019</jump>
+   <jump>PA-KC - 2 - 1</jump>
+   <asset>StarSling Station</asset>
+  </sys>
+  <sys name="PA-KC - 2 - 1">
+   <jump>KC-SC-CS - 1 - 1</jump>
+   <jump>Starsling</jump>
+  </sys>
+  <sys name="KC-SC-CS - 1 - 1">
+   <jump>KC-SC-PA-CS - 1 - 1</jump>
+   <jump>PA-KC - 2 - 1</jump>
+  </sys>
+  <sys name="KC-SC-PA-CS - 1 - 1">
+   <jump>KC-SC - 1 - 2</jump>
+   <jump>KC-SC-CS - 1 - 1</jump>
+  </sys>
+  <sys name="KC-SC - 1 - 2">
+   <jump>Elathon</jump>
+   <jump>KC-SC-PA-CS - 1 - 1</jump>
+   <jump>SC 0012</jump>
+  </sys>
+  <sys name="SC 0012">
+   <jump>KC-SC - 1 - 2</jump>
+   <jump>SC 0010</jump>
+  </sys>
+  <sys name="SC 0010">
+   <jump>SC 0002</jump>
+   <jump>SC 0012</jump>
+  </sys>
+  <sys name="SC 0002">
+   <jump>SC 0010</jump>
+  </sys>
+  <sys name="Shadow Grave">
+   <jump>Al-Wahid's Bluff</jump>
+   <jump>Teufelfeuer</jump>
+   <asset>Asteroids Cluster 086411</asset>
+   <asset>Asteroids Cluster 087545</asset>
+   <asset>Asteroids Cluster 154454</asset>
+   <asset>Asteroids Cluster 287623</asset>
+   <asset>Asteroids Cluster 457888</asset>
+   <asset>Asteroids Cluster 466578</asset>
+   <asset>Asteroids Cluster 487654</asset>
+   <asset>Asteroids Cluster 642781</asset>
+   <asset>Asteroids Cluster 804508</asset>
+   <asset>Asteroids Cluster 873140</asset>
+   <asset>Asteroids Cluster 987130</asset>
+   <asset>Freeport 3</asset>
+   <asset>Shadow Grave</asset>
+  </sys>
+  <sys name="CS-SC - 1 - 1">
+   <jump>CS 0043</jump>
+   <jump>Teufelfeuer</jump>
+  </sys>
+  <sys name="Ssaalin">
+   <jump>CS 0024</jump>
+   <asset>Ershell</asset>
+   <asset>Ssaalin</asset>
+  </sys>
+  <sys name="CS 0024">
+   <jump>CS 0022</jump>
+   <jump>Ssaalin</jump>
+  </sys>
+  <sys name="CS 0022">
+   <jump>CS 0021</jump>
+   <jump>CS 0024</jump>
+   <jump>CS 0042</jump>
+  </sys>
+  <sys name="CS 0042">
+   <jump>CS 0022</jump>
+   <jump>CS 0043</jump>
+  </sys>
+  <sys name="CS 0043">
+   <jump>CS 0042</jump>
+   <jump>CS-SC - 1 - 1</jump>
+  </sys>
+  <sys name="CS 0021">
+   <jump>CS 0020</jump>
+   <jump>CS 0022</jump>
+  </sys>
+  <sys name="CS 0020">
+   <jump>CS 0018</jump>
+   <jump>CS 0021</jump>
+  </sys>
+  <sys name="CS 0018">
+   <jump>CS 0008</jump>
+   <jump>CS 0020</jump>
+  </sys>
+  <sys name="CS 0008">
+   <jump>CS 0017</jump>
+   <jump>CS 0018</jump>
+  </sys>
+  <sys name="CS 0017">
+   <jump>Alshiinal</jump>
+   <jump>CS 0008</jump>
+  </sys>
+  <sys name="Alshiinal">
+   <jump>CS 0002</jump>
+   <jump>CS 0017</jump>
+   <asset>Alshiinal Border Station</asset>
+   <asset>Asteroids Cluster 001696</asset>
+   <asset>Asteroids Cluster 185358</asset>
+   <asset>Asteroids Cluster 670816</asset>
+  </sys>
+  <sys name="CS 0002">
+   <jump>Alshiinal</jump>
+   <jump>Ren'sh</jump>
+  </sys>
+  <sys name="Ren'sh">
+   <jump>CS 0002</jump>
+   <jump>CS 0005</jump>
+   <asset>Reedal High Trading Station</asset>
+   <asset>Ren'sh</asset>
+   <asset>Traanil</asset>
+  </sys>
+  <sys name="CS 0005">
+   <jump>CS 0004</jump>
+   <jump>Ren'sh</jump>
+  </sys>
+  <sys name="CS 0004">
+   <jump>CS 0005</jump>
+   <jump>CS 0010</jump>
+  </sys>
+  <sys name="CS 0010">
+   <jump>CS 0004</jump>
+   <jump>CS 0015</jump>
+  </sys>
+  <sys name="CS 0015">
+   <jump>CS 0010</jump>
+   <jump>CS 0016</jump>
+  </sys>
+  <sys name="CS 0016">
+   <jump>CS 0015</jump>
+   <jump>CS 0047</jump>
+  </sys>
+  <sys name="CS 0047">
+   <jump>CS 0016</jump>
+   <jump>CS 0046</jump>
+  </sys>
+  <sys name="CS 0046">
+   <jump>CS 0045</jump>
+   <jump>CS 0047</jump>
+   <jump>Doors of Lalerin</jump>
+  </sys>
+  <sys name="Doors of Lalerin">
+   <jump>CS 0045</jump>
+   <jump>CS 0046</jump>
+   <asset>Doors of Lalerin</asset>
+   <asset>Lalerin Border Station</asset>
+  </sys>
+  <sys name="CS 0045">
+   <jump>CS 0046</jump>
+   <jump>Doors of Lalerin</jump>
+   <jump>Lalerin</jump>
+  </sys>
+  <sys name="Lalerin">
+   <jump>CS 0045</jump>
+   <jump>CS 0049</jump>
+   <asset>Asteroids Cluser 610275</asset>
+   <asset>Ishaal</asset>
+   <asset>Lalerin</asset>
+  </sys>
+  <sys name="CS 0049">
+   <jump>CS 0040</jump>
+   <jump>Lalerin</jump>
+  </sys>
+  <sys name="Elnat">
+   <jump>CS 0052</jump>
+   <jump>CS 0055</jump>
+   <asset>Elnat</asset>
+   <asset>Elnat Relay</asset>
+  </sys>
+  <sys name="CS 0040">
+   <jump>CS 0039</jump>
+   <jump>CS 0049</jump>
+  </sys>
+  <sys name="CS 0039">
+   <jump>CS 0034</jump>
+   <jump>CS 0040</jump>
+  </sys>
+  <sys name="CS 0033">
+   <jump>CS 0034</jump>
+   <jump>CS 0035</jump>
+  </sys>
+  <sys name="CS 0034">
+   <jump>CS 0033</jump>
+   <jump>CS 0039</jump>
+  </sys>
+  <sys name="CS 0035">
+   <jump>CS 0033</jump>
+   <jump>CS 0036</jump>
+  </sys>
+  <sys name="CS 0036">
+   <jump>CS 0035</jump>
+   <jump>CS 0055</jump>
+  </sys>
+  <sys name="CS 0055">
+   <jump>CS 0036</jump>
+   <jump>Elnat</jump>
+  </sys>
+  <sys name="CS 0052">
+   <jump>Eeraniinal</jump>
+   <jump>Elnat</jump>
+  </sys>
+  <sys name="Teufelfeuer">
+   <jump>Al-Wahid's Bluff</jump>
+   <jump>CS-SC - 1 - 1</jump>
+   <jump>Shadow Grave</jump>
+   <asset>Asteroids Cluster 168795</asset>
+   <asset>Asteroids Cluster 698721</asset>
+   <asset>FeuerRing</asset>
+   <asset>FeuerRing Memorial</asset>
+  </sys>
+  <sys name="Al-Wahid's Bluff">
+   <jump>Elathon</jump>
+   <jump>Shadow Grave</jump>
+   <jump>Teufelfeuer</jump>
+   <asset>Asteroids Cluster 225487</asset>
+   <asset>Asteroids Cluster 645457</asset>
+   <asset>Freeport 5</asset>
+   <asset>Nour</asset>
+   <asset>Salam</asset>
+  </sys>
+  <sys name="Elathon">
+   <jump>Al-Wahid's Bluff</jump>
+   <jump>KC-SC - 1 - 2</jump>
+   <asset>Asteroids Cluster 225641</asset>
+   <asset>Asteroids Cluster 652124</asset>
+   <asset>Elathon</asset>
+  </sys>
+ </specific>
+</outfit>

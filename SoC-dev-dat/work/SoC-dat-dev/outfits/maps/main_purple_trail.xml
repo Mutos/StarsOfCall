@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Purple Trail - Main Routes">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Main trade routes between Purple Trail worlds</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Cartel">
+   <jump>PT 0010</jump>
+   <jump>PT 0011</jump>
+   <asset>Cartel</asset>
+  </sys>
+  <sys name="Utopia">
+   <jump>PT 0040</jump>
+   <jump>PT 0060</jump>
+   <asset>Utopia</asset>
+  </sys>
+  <sys name="Nya Jorden">
+   <jump>PT 0044</jump>
+   <jump>PT 0049</jump>
+   <jump>PT 0050</jump>
+   <asset>Asteroids Cluster 403739</asset>
+   <asset>Asteroids Cluster 708184</asset>
+   <asset>Asteroids Cluster 947761</asset>
+   <asset>Nya Jorden</asset>
+  </sys>
+  <sys name="PT 0024">
+   <jump>PT 0022</jump>
+   <jump>PT 0023</jump>
+   <jump>PT 0031</jump>
+   <asset>Asteroids Cluster 476219</asset>
+   <asset>Asteroids Cluster 587210</asset>
+   <asset>Asteroids Cluster 820176</asset>
+   <asset>Furnace</asset>
+   <asset>Hell's Kitchen Outpost</asset>
+  </sys>
+  <sys name="Arcadia">
+   <jump>PT 0020</jump>
+   <jump>PT 0028</jump>
+   <jump>PT 0034</jump>
+   <asset>Arcadia</asset>
+  </sys>
+  <sys name="PT 0017">
+   <jump>PT 0016</jump>
+   <jump>PT 0018</jump>
+  </sys>
+  <sys name="PT 0032">
+   <jump>PT 0009</jump>
+  </sys>
+  <sys name="PT 0029">
+   <jump>PT 0019</jump>
+  </sys>
+  <sys name="PT 0037">
+   <jump>PT 0033</jump>
+   <jump>PT 0036</jump>
+  </sys>
+  <sys name="PT 0034">
+   <jump>Arcadia</jump>
+   <jump>PT 0035</jump>
+   <jump>PT 0036</jump>
+  </sys>
+  <sys name="PT 0020">
+   <jump>Arcadia</jump>
+   <jump>PT 0019</jump>
+   <jump>PT 0021</jump>
+  </sys>
+  <sys name="PT 0019">
+   <jump>PT 0018</jump>
+   <jump>PT 0020</jump>
+   <jump>PT 0029</jump>
+  </sys>
+  <sys name="PT 0018">
+   <jump>PT 0016</jump>
+   <jump>PT 0017</jump>
+   <jump>PT 0019</jump>
+  </sys>
+  <sys name="PT 0016">
+   <jump>PT 0015</jump>
+   <jump>PT 0017</jump>
+   <jump>PT 0018</jump>
+  </sys>
+  <sys name="PT 0015">
+   <jump>PT 0010</jump>
+   <jump>PT 0016</jump>
+  </sys>
+  <sys name="PT 0010">
+   <jump>Cartel</jump>
+   <jump>PT 0009</jump>
+   <jump>PT 0015</jump>
+  </sys>
+  <sys name="PT 0009">
+   <jump>PT 0002</jump>
+   <jump>PT 0010</jump>
+   <jump>PT 0032</jump>
+  </sys>
+  <sys name="PT 0002">
+   <jump>PT 0009</jump>
+  </sys>
+  <sys name="PT 0003">
+   <jump>PT 0004</jump>
+  </sys>
+  <sys name="PT 0004">
+   <jump>PT 0003</jump>
+   <jump>PT 0007</jump>
+  </sys>
+  <sys name="PT 0007">
+   <jump>PT 0004</jump>
+   <jump>PT 0014</jump>
+  </sys>
+  <sys name="PT 0014">
+   <jump>PT 0007</jump>
+   <jump>PT 0013</jump>
+  </sys>
+  <sys name="PT 0013">
+   <jump>PT 0012</jump>
+   <jump>PT 0014</jump>
+   <jump>PT 0030</jump>
+  </sys>
+  <sys name="PT 0030">
+   <jump>PT 0013</jump>
+   <jump>PT 0040</jump>
+  </sys>
+  <sys name="PT 0040">
+   <jump>PT 0030</jump>
+   <jump>Utopia</jump>
+  </sys>
+  <sys name="PT 0060">
+   <jump>PT 0044</jump>
+   <jump>PT 0059</jump>
+   <jump>Utopia</jump>
+  </sys>
+  <sys name="PT 0059">
+   <jump>PT 0044</jump>
+   <jump>PT 0060</jump>
+  </sys>
+  <sys name="PT 0044">
+   <jump>Nya Jorden</jump>
+   <jump>PT 0048</jump>
+   <jump>PT 0059</jump>
+   <jump>PT 0060</jump>
+  </sys>
+  <sys name="BI-PT - 1 - 1">
+   <jump>Neu Hamburg</jump>
+   <jump>PT 0050</jump>
+  </sys>
+  <sys name="PT 0050">
+   <jump>BI-PT - 1 - 1</jump>
+   <jump>Nya Jorden</jump>
+   <jump>PT 0049</jump>
+  </sys>
+  <sys name="PT 0041">
+   <jump>Neu Hamburg</jump>
+   <jump>PT 0031</jump>
+   <jump>PT 0043</jump>
+   <jump>PT 0047</jump>
+  </sys>
+  <sys name="PT 0031">
+   <jump>PT 0024</jump>
+   <jump>PT 0041</jump>
+  </sys>
+  <sys name="PT 0047">
+   <jump>PT 0041</jump>
+   <jump>PT 0049</jump>
+  </sys>
+  <sys name="PT 0049">
+   <jump>Nya Jorden</jump>
+   <jump>PT 0047</jump>
+   <jump>PT 0048</jump>
+   <jump>PT 0050</jump>
+  </sys>
+  <sys name="PT 0048">
+   <jump>PT 0044</jump>
+   <jump>PT 0049</jump>
+  </sys>
+  <sys name="PT 0052">
+   <jump>Gallant</jump>
+   <jump>PT 0043</jump>
+   <jump>PT 0053</jump>
+  </sys>
+  <sys name="PT 0043">
+   <jump>PT 0041</jump>
+   <jump>PT 0052</jump>
+  </sys>
+  <sys name="PT 0023">
+   <jump>PT 0012</jump>
+   <jump>PT 0022</jump>
+   <jump>PT 0024</jump>
+  </sys>
+  <sys name="PT 0012">
+   <jump>PT 0011</jump>
+   <jump>PT 0013</jump>
+   <jump>PT 0023</jump>
+  </sys>
+  <sys name="PT 0011">
+   <jump>Cartel</jump>
+   <jump>PT 0012</jump>
+  </sys>
+  <sys name="PT 0021">
+   <jump>PT 0020</jump>
+   <jump>PT 0022</jump>
+  </sys>
+  <sys name="PT 0022">
+   <jump>PT 0021</jump>
+   <jump>PT 0023</jump>
+   <jump>PT 0024</jump>
+  </sys>
+  <sys name="PT 0035">
+   <jump>PT 0034</jump>
+   <jump>PT 0053</jump>
+  </sys>
+  <sys name="PT 0053">
+   <jump>Gallant</jump>
+   <jump>PT 0035</jump>
+   <jump>PT 0052</jump>
+  </sys>
+  <sys name="PT 0036">
+   <jump>PT 0034</jump>
+   <jump>PT 0037</jump>
+  </sys>
+  <sys name="PT 0063">
+   <jump>Brinn</jump>
+   <jump>PT 0062</jump>
+   <jump>PT 0064</jump>
+  </sys>
+  <sys name="PT 0064">
+   <jump>Brinn</jump>
+   <jump>PT 0062</jump>
+   <jump>PT 0063</jump>
+  </sys>
+  <sys name="PT 0062">
+   <jump>PT 0038</jump>
+   <jump>PT 0063</jump>
+   <jump>PT 0064</jump>
+  </sys>
+  <sys name="PT 0038">
+   <jump>PT 0033</jump>
+   <jump>PT 0061</jump>
+   <jump>PT 0062</jump>
+  </sys>
+  <sys name="PT 0033">
+   <jump>PT 0028</jump>
+   <jump>PT 0037</jump>
+   <jump>PT 0038</jump>
+  </sys>
+  <sys name="PT 0028">
+   <jump>Arcadia</jump>
+   <jump>PT 0033</jump>
+  </sys>
+  <sys name="PT 0061">
+   <jump>PT 0038</jump>
+  </sys>
+  <sys name="CL-PT - 1 - 2"/>
+  <sys name="Brinn">
+   <jump>PT 0063</jump>
+   <jump>PT 0064</jump>
+   <asset>Asteroids Cluster 156457</asset>
+   <asset>Asteroids Cluster 410955</asset>
+   <asset>Asteroids Cluster 573745</asset>
+   <asset>Asteroids Cluster 645525</asset>
+   <asset>Asteroids Cluster 892542</asset>
+   <asset>Brinn Border Station</asset>
+  </sys>
+  <sys name="Gallant">
+   <jump>PT 0052</jump>
+   <jump>PT 0053</jump>
+   <asset>Asteroids Cluster 633812</asset>
+   <asset>Asteroids Cluster 641538</asset>
+   <asset>Asteroids Cluster 715789</asset>
+   <asset>Asteroids Cluster 863080</asset>
+   <asset>Gallant's Moon</asset>
+   <asset>Paradiso</asset>
+  </sys>
+  <sys name="Neu Hamburg">
+   <jump>BI-PT - 1 - 1</jump>
+   <jump>PT 0041</jump>
+   <asset>Neu Hamburg Border Station</asset>
+  </sys>
+  <sys name="Hammerfall">
+   <asset>Ahn Trading Post</asset>
+   <asset>Asteroids Cluster 275201</asset>
+   <asset>Asteroids Cluster 527894</asset>
+   <asset>Asteroids Cluster 564878</asset>
+   <asset>Asteroids Cluster 642870</asset>
+   <asset>Asteroids Cluster 689754</asset>
+   <asset>Crusher</asset>
+   <asset>Fahrenheit</asset>
+   <asset>Hammerfall</asset>
+   <asset>Heavy Clouds</asset>
+  </sys>
+ </specific>
+</outfit>

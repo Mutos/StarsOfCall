@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="SIM Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>small</size>
+  <mass>5</mass>
+  <price>45000</price>
+  <description>This missile launcher fires the smallest of guided missiles, the Small Interceptor Missile. Built out of standard parts, it is easily serviceable and efficient.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-5</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>SIM Missile</ammo>
+  <amount>20</amount>
+  <delay>3</delay>
+  <reload_time>10</reload_time>
+  <lockon>1</lockon>
+  <arc>10</arc>
+  <ew_target>3</ew_target>
+ </specific>
+</outfit>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="ASM Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>small</size>
+  <mass>5</mass>
+  <price>70000</price>
+  <description>This missile launcher fires the Anti-Shields variant of the Small Interception Missiles, aimed at depleting shields rather than delivering physical damage.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-5</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>ASM Missile</ammo>
+  <amount>20</amount>
+  <delay>3</delay>
+  <reload_time>10</reload_time>
+  <lockon>1</lockon>
+  <arc>10</arc>
+  <ew_target>3</ew_target>
+ </specific>
+</outfit>

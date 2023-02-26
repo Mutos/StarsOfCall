@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="MIM Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>medium</size>
+  <mass>6</mass>
+  <price>50000</price>
+  <description>This missile launcher fires Medium Interceptor Missiles. It is built out of standard parts, which make it easily serviceable and efficient.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-5</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>MIM Missile</ammo>
+  <amount>10</amount>
+  <delay>4</delay>
+  <reload_time>10</reload_time>
+  <lockon>2</lockon>
+  <arc>10</arc>
+  <ew_target>3</ew_target>
+ </specific>
+</outfit>

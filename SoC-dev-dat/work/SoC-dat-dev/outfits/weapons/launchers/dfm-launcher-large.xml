@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="DFM XC Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>large</size>
+  <mass>15</mass>
+  <price>140000</price>
+  <description>This eXtra Capacity launcher for the popular Dumbfire Missiles comes with a king-size ammo magazine.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-2</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>DFM Missile</ammo>
+  <amount>100</amount>
+  <delay>0.3</delay>
+  <reload_time>10</reload_time>
+ </specific>
+</outfit>

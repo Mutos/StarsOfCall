@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="3x Angry Bee Bay">
+ <general>
+  <slot prop="Craft Bay">weapon</slot>
+  <size>small</size>
+  <license>Light Combat Vessel License</license>
+  <mass>50</mass>
+  <price>320000</price>
+  <gfx_store>drone_fighter</gfx_store>
+  <description>This bay holds 3 Angry Bee drones. Requiring no pilot, this makes them a safer approach in dangerous situations. They do however need some careful maintenance. All the tools needed to take care of them are provided with the bay.</description>
+  <cpu>-12</cpu>
+ </general>
+ <specific type="fighter bay" secondary="1">
+  <ammo>Angry Bee Drone</ammo>
+  <delay>5</delay>
+  <reload_time>10</reload_time>
+  <amount>3</amount>
+ </specific>
+</outfit>

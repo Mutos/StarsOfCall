@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Std Med Powerplant">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="Power Core">structure</slot>
+  <size>medium</size>
+  <price>10000</price>
+  <description>Bare-bones fusion reactor, outputting a reasonnable power, but unfit for any sort of serious duty.</description>
+  <gfx_store>hk2250/PowerCore-001</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy>900</energy>				<!-- Main purpose	: defines maximum available energy -->
+  <energy_regen>50</energy_regen>	<!-- Main purpose	: defines energy regeneration -->
+  <mass_rel>80</mass_rel>			<!-- Mass cost		: a fusion powerplant is always plated to prevent radiations from getting out -->
+  <ew_hide>-10</ew_hide>			<!-- Stealth cost	: heat and radiation leaks from the power core are the primary source of ship's visibility  -->
+ </specific>
+</outfit>

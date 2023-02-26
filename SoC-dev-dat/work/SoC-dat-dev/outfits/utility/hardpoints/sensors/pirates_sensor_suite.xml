@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Pirates Sensor Suite">
+ <general>
+  <slot prop="Hardpoint">utility</slot>
+  <size>small</size>
+  <mass>2</mass>
+  <price>300000</price>
+  <description>This sensor suite used by pirates is enhanced to be able to detect target ships at a longer range.</description>
+  <gfx_store>jammer1</gfx_store>
+ </general>
+ <specific type="modification">
+  <ew_detect>50</ew_detect>
+ </specific>
+</outfit>

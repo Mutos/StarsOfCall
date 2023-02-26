@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Small Flak Turret">
+ <general>
+  <slot prop="Flak Turret">weapon</slot>
+  <size>small</size>
+  <license>Lethal Weapon License</license>
+  <mass>3</mass>
+  <price>20000</price>
+  <description>A pair of miniaturized laser cannons optimised for range and mounted on a rotating turret, providing quite a good point-defense barrier, but forbidden on civilian ships under the Lethal Spaceborne Weapons ban.</description>
+  <gfx_store>laserturret</gfx_store>
+  <cpu>-3</cpu>
+  </general>
+ <specific type="turret bolt">
+  <gfx>laser1S</gfx>
+  <sound>laser</sound>
+  <spfx_shield>ShiS</spfx_shield>
+  <spfx_armour>ExpS</spfx_armour>
+  <delay>0.8</delay>
+  <speed>1500</speed>
+  <range>1600</range>
+  <falloff>650</falloff>
+  <energy>28</energy>
+  <heatup>28</heatup>
+  <track>3</track>
+  <damage>
+   <type>laser</type>
+   <penetrate>2</penetrate>
+   <physical>12</physical>
+   <disable>4</disable>
+  </damage>
+ </specific>
+</outfit>

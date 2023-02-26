@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="MIM Missile">
+ <general>
+  <mass>2</mass>
+  <price>1500</price>
+  <description>The Medium Interceptor Missile is a medium weight missile propelled by a powerful engine, delivering its payload to its target quickly and efficiently. It packs more punch than the SIM at the cost of being less nimble, and is suitable for targetting escort ships.</description>
+  <gfx_store>fury</gfx_store>
+ </general>
+ <specific type="ammo">
+  <gfx>fury</gfx>
+  <sound>seeker</sound>
+  <sound_hit>medexp1</sound_hit>
+  <spfx_shield>ExpM</spfx_shield>
+  <spfx_armour>ExpM</spfx_armour>
+  <duration blowup="armour">4</duration>
+  <thrust>0</thrust>
+  <turn>35</turn>
+  <speed>600</speed>
+  <resist>7</resist>
+  <damage>
+   <type>impact</type>
+   <penetrate>10</penetrate>
+   <physical>70</physical>
+   <disable>2</disable>
+  </damage>
+  <ai>smart</ai>
+ </specific>
+</outfit>

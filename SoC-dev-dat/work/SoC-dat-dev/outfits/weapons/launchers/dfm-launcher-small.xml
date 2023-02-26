@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="DFM Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>small</size>
+  <mass>4</mass>
+  <price>30000</price>
+  <description>This launcher fires Dumbfire Missiles. It is built out of standard parts, which make it bulky, but efficient and easily serviceable.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-2</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>DFM Missile</ammo>
+  <amount>20</amount>
+  <delay>0.3</delay>
+  <reload_time>10</reload_time>
+ </specific>
+</outfit>

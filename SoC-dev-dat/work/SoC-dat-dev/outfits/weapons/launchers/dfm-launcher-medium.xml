@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="DFM EC Launcher">
+ <general>
+  <slot prop="Missiles Rack">weapon</slot>
+  <size>medium</size>
+  <mass>9</mass>
+  <price>70000</price>
+  <description>This Extended Capacity launcher for the popular Dumbfire Missiles just has a larger ammo magazine than the standard model.</description>
+  <gfx_store>unicorp_fury_launcher</gfx_store>
+  <cpu>-2</cpu>
+ </general>
+ <specific type="launcher" secondary="1">
+  <ammo>DFM Missile</ammo>
+  <amount>50</amount>
+  <delay>0.3</delay>
+  <reload_time>10</reload_time>
+ </specific>
+</outfit>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="The Path of Light">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>This small route is the main path for Free Adrimai seeking to flee the Rith Sphere and settle on the famed pupeteer world named Son of the Eclipse.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Irilia-15">
+   <jump>Iri 0214</jump>
+   <asset>Ermel-15</asset>
+   <asset>Irilia-15</asset>
+   <asset>Ortir-15</asset>
+   <asset>Raltir-15</asset>
+  </sys>
+  <sys name="Son of the Eclipse">
+   <jump>Iri-TPL - 1 - 1</jump>
+   <asset>Freedom Portal</asset>
+   <asset>SkyRuler</asset>
+   <asset>Son of the Eclipse</asset>
+  </sys>
+  <sys name="Iri-TPL - 1 - 1">
+   <jump>Son of the Eclipse</jump>
+  </sys>
+  <sys name="Iri 0242">
+   <jump>Iri 0240</jump>
+  </sys>
+  <sys name="Iri 0240">
+   <jump>Iri 0230</jump>
+   <jump>Iri 0242</jump>
+  </sys>
+  <sys name="Iri 0230">
+   <jump>Iri 0231</jump>
+   <jump>Iri 0240</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Irilia-18">
+   <jump>Iri 0225</jump>
+   <jump>Iri 0230</jump>
+   <asset>Asteroids Cluster 415614</asset>
+   <asset>Asteroids Cluster 478149</asset>
+   <asset>Elthain</asset>
+   <asset>Irilia-18</asset>
+  </sys>
+  <sys name="Iri 0223">
+   <jump>Iri 0224</jump>
+   <jump>Iri 0225</jump>
+  </sys>
+  <sys name="Iri 0225">
+   <jump>Iri 0223</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Iri 0214">
+   <jump>Drih Dromae</jump>
+   <jump>Irilia-15</jump>
+  </sys>
+  <sys name="Drih Dromae">
+   <jump>Iri 0214</jump>
+   <jump>Iri 0224</jump>
+   <asset>Asteroids Cluster 176862</asset>
+   <asset>Asteroids Cluster 518677</asset>
+   <asset>Asteroids Cluster 591021</asset>
+   <asset>Asteroids Cluster 678521</asset>
+   <asset>Asteroids Cluster 798861</asset>
+   <asset>Asteroids Cluster 901023</asset>
+   <asset>Drih Skarae</asset>
+   <asset>Irol</asset>
+  </sys>
+  <sys name="Iri 0224">
+   <jump>Drih Dromae</jump>
+   <jump>Iri 0223</jump>
+   <jump>Iri 0231</jump>
+  </sys>
+  <sys name="Iri 0231">
+   <jump>Iri 0224</jump>
+   <jump>Iri 0230</jump>
+  </sys>
+ </specific>
+</outfit>
