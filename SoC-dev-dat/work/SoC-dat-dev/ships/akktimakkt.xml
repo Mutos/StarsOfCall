@@ -67,25 +67,13 @@
 		</structure>
 		<utility prop="Core Systems Extension" size="small"/>
 		<utility prop="Hardpoint" size="small"/>
-		<weapon h="  0" prop="Missiles Rack" size="medium" x="+5" y="  0">
-			MIM Launcher
-		</weapon>
-		<weapon h="+10" prop="Missiles Rack" size="small" x="+8" y="+10">
-			ASM Launcher
-		</weapon>
-		<weapon h="+10" prop="Missiles Rack" size="small" x="+8" y="-10">
-			ASM Launcher
-		</weapon>
-		<weapon h="-10" prop="Missiles Rack" size="small" x="+8" y="+10">
-			ASM Launcher
-		</weapon>
-		<weapon h="-10" prop="Missiles Rack" size="small" x="+8" y="-10">
-			ASM Launcher
-		</weapon>
+		<weapon h="  0" prop="Missiles Rack" size="medium" x="+5" y="  0">MIM Launcher</weapon>
+		<weapon h="+10" prop="Missiles Rack" size="small" x="+8" y="+10">ASM Launcher</weapon>
+		<weapon h="+10" prop="Missiles Rack" size="small" x="+8" y="-10">ASM Launcher</weapon>
+		<weapon h="-10" prop="Missiles Rack" size="small" x="+8" y="+10">ASM Launcher</weapon>
+		<weapon h="-10" prop="Missiles Rack" size="small" x="+8" y="-10">ASM Launcher</weapon>
 	</slots>
-	<sound>
-		engine
-	</sound>
+	<sound>engine</sound>
 	<stats>
 		<armour_mod>
 			-10
