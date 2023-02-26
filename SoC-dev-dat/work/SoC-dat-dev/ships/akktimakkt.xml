@@ -17,18 +17,12 @@
 			8
 		</mass>
 	</characteristics>
-	<class>
-		Fighter
-	</class>
-	<description>
-		The Akk'Ti'Makkt has been named after the famous Council Sky Marshal of the First Fringe War, who was a bomber pilot in his early career. A pure bomber targeted at small and medium escorts, it boasts 4 small and 1 medium missiles mount, with an oversized computer to manage them, but no energy weapons at all and very few extension mounts. It must also be noted, that its small mass for a bomber allows it a greater jump autonomy.
-	</description>
+	<class>Bomber</class>
+	<description>The Akk'Ti'Makkt has been named after the famous Council Sky Marshal of the First Fringe War, who was a bomber pilot in his early career. A pure bomber targeted at small and medium escorts, it boasts 4 small and 1 medium missiles mount, with an oversized computer to manage them, but no energy weapons at all and very few extension mounts. It must also be noted, that its small mass for a bomber allows it a greater jump autonomy.</description>
 	<fabricator>
 		Uktalm Staryards
 	</fabricator>
-	<GFX sx="6" sy="6">
-		akktimakkt
-	</GFX>
+	<GFX sx="6" sy="6">akktimakkt</GFX>
 	<GUI>
 		slim
 	</GUI>
