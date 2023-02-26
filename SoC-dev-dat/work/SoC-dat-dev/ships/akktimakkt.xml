@@ -44,27 +44,13 @@
 		2
 	</rarity>
 	<slots>
-		<structure prop="Computer Core" size="small">
-			Std Sml Computer
-		</structure>
-		<structure prop="Ftr Jump Drive" size="small">
-			Std Ftr Jump Drive
-		</structure>
-		<structure prop="Ftr Shield Generator" size="small">
-			Std Ftr Shield
-		</structure>
-		<structure prop="Hull Plating" size="small">
-			Std Sml Hull Plating
-		</structure>
-		<structure prop="Power Core" size="small">
-			Std Sml Powerplant
-		</structure>
-		<structure prop="Verniers Array - Small" size="small">
-			Std Sml Verniers
-		</structure>
-		<structure prop="Warp Engine - Small" size="small">
-			Std Sml Warp Engine
-		</structure>
+		<structure prop="Computer Core" size="small">Std Sml Computer</structure>
+		<structure prop="Ftr Jump Drive" size="small">Std Ftr Jump Drive</structure>
+		<structure prop="Ftr Shield Generator" size="small">Std Ftr Shield</structure>
+		<structure prop="Hull Plating" size="small">Std Sml Hull Plating</structure>
+		<structure prop="Power Core" size="small">Std Sml Powerplant</structure>
+		<structure prop="Verniers Array - Small" size="small">Std Sml Verniers</structure>
+		<structure prop="Warp Engine - Small" size="small">Std Sml Warp Engine</structure>
 		<utility prop="Core Systems Extension" size="small"/>
 		<utility prop="Hardpoint" size="small"/>
 		<weapon h="  0" prop="Missiles Rack" size="medium" x="+5" y="  0">MIM Launcher</weapon>
