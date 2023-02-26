@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Power Core">
+ <display>Power Core</display>
+ <description>The main fusion reactor that powers everything aboard the ship.</description>
+ <exclusive/>
+ <required/>
+</slot>

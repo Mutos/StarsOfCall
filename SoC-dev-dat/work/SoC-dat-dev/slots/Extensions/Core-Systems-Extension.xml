@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Core Systems Extension">
+ <display>Core Systems Extension</display>
+ <description>Core systems can be improved in a number of ways, enhancing a vessel's efficiency in specialized fields.</description>
+ <exclusive/>
+</slot>

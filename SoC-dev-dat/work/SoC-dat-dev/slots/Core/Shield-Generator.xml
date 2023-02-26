@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Shield Generator">
+ <display>Shield Generator</display>
+ <description>The generator that protects the ship from incoming damage.</description>
+ <exclusive/>
+ <required/>
+</slot>

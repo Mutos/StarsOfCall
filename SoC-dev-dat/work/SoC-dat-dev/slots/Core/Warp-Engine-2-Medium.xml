@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Warp Engine - Medium">
+ <display>Warp Engine (Med)</display>
+ <description>The main engine that generates thrust by bending spacetime around the ship.</description>
+ <exclusive/>
+ <required/>
+</slot>

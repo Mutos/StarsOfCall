@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Verniers Array - Large">
+ <display>Verniers Array (Lrg)</display>
+ <description>Thrusters scattered all around the hull to allow the ship to turn.</description>
+ <exclusive/>
+ <required/>
+</slot>

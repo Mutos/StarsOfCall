@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Craft Bay">
+ <display>Craft Bay</display>
+ <description>Bay to hold a number of small auxiliary crafts, usually drones or fighters.</description>
+ <exclusive/>
+</slot>

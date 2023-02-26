@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Hull Plating">
+ <display>Hull Plating</display>
+ <description>The ship's external plating, affecting the hull's mass, cargo space, strength and stealth capabilities.</description>
+ <exclusive/>
+ <required/>
+</slot>

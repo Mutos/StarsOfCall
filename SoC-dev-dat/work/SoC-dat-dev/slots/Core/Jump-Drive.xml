@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Jump Drive">
+ <display>Jump Drive</display>
+ <description>The warp redirection system that allows a ship to activate a jump tunnel.</description>
+ <exclusive/>
+ <required/>
+</slot>

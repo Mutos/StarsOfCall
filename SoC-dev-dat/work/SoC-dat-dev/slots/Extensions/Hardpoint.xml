@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Hardpoint">
+ <display>Hardpoint</display>
+ <description>External mount for various utility extensions, mostly active systems or payload containers.</description>
+ <exclusive/>
+</slot>

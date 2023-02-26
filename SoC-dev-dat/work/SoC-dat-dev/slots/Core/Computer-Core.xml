@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Computer Core">
+ <display>Computer Core</display>
+ <description>The semi-AI that controls all subsystems and manages ship handling.</description>
+ <exclusive/>
+ <required/>
+</slot>

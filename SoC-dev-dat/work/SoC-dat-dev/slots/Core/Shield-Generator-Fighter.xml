@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Ftr Shield Generator">
+ <display>Shield Generator</display>
+ <description>The generator that protects the ship from incoming damage. Miniaturized versions are designed for fighters, but they lack the staying power of capital ship shields.</description>
+ <exclusive/>
+ <required/>
+</slot>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Main Turret">
+ <display>Main Turret</display>
+ <description>Mount for a large turret used as main weapon on capital ships.</description>
+ <exclusive/>
+</slot>

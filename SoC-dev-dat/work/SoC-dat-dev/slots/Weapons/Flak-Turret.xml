@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Flak Turret">
+ <display>Flak Turret</display>
+ <description>Mount for a point-defense turret.</description>
+ <exclusive/>
+</slot>

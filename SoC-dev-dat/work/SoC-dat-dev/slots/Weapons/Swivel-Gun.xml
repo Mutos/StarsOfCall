@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Swivel Gun">
+ <display>Swivel Gun</display>
+ <description>External mount for swivel-mounted guns.</description>
+ <exclusive/>
+</slot>

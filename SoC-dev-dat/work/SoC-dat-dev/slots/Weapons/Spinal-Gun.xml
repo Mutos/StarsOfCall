@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Spinal Gun">
+ <display>Spinal Gun</display>
+ <description>Cannon mount forming the ship's spine.</description>
+ <exclusive/>
+</slot>

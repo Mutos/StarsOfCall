@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Internal Holds">
+ <display>Internal Holds</display>
+ <description>Internal storage space, normally only used for payload, but often fitted with makeshift core extensions.</description>
+ <exclusive/>
+</slot>

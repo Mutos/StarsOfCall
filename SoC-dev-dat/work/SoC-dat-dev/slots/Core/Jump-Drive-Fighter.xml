@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot name="Ftr Jump Drive">
+ <display>Fighter Jump Drive</display>
+ <description>The warp redirection system that allows a ship to activate a jump tunnel. Fighters have miniaturized versions of the device, with far less fuel storage than regular small Jump Drives.</description>
+ <exclusive/>
+ <required/>
+</slot>
