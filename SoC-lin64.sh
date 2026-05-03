@@ -23,8 +23,9 @@ ln -s ../Repositories/SoC-dat Integration/dat
 # cp -f ./appdata-SoC/conf-REF.lua ./appdata-SoC/conf.lua
 
 # Actually launch NAEV in SoC-lin64 configuration
+#   As of 2020-11-11, --devmode is mandatory to avoid return of issue #1087
 cd Integration
-DRI_PRIME=1 ./bin/lin64/naev
+DRI_PRIME=1 ./bin/lin64/naev --devmode --datapath ../appdata-SoC
 cd ..
 
 # Clear Integration folder
