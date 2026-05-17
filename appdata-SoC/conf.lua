@@ -30,15 +30,15 @@ engineglow = true
 
 -- The window size or screen resolution
 -- Set both of these to 0 to make Naev try the desktop resolution
-width = 0
-height = 0
+width = 1200
+height = 900
 
 -- Factor used to divide the above resolution with
 -- This is used to lower the rendering resolution, and scale to the above
 scalefactor = 1.000000
 
 -- Run Naev in full-screen mode
-fullscreen = true
+fullscreen = false
 
 -- Use video modesetting when fullscreen is enabled (SDL2-only)
 modesetting = false
