@@ -9,7 +9,8 @@ REM Clean Integration folder
 FOR /D %%F in (*) do (
 	IF NOT "%%~nF"=="" (
 		IF DEFINED WINEUSERNAME (
-			RMDIR /S /Q %%~nF
+			ECHO Win32 under Linux
+			REM RMDIR /S /Q %%~nF
 		) ELSE (
 			RMDIR %%~nF
 		)
@@ -22,7 +23,8 @@ FOR %%F in (*.*) do (
 REM Create links to naev repository's folders
 FOR %%F IN (bin) DO (
 	IF DEFINED WINEUSERNAME (
-		XCOPY /S /Y /I ..\Repositories\naev\%%~nF .\%%~nF
+		ECHO Win32 under Linux
+		REM XCOPY /S /Y /I ..\Repositories\naev\%%~nF .\%%~nF
 	) ELSE (
 		MKLINK /J .\%%~nF ..\Repositories\naev\%%~nF
 	)
@@ -40,8 +42,9 @@ echo datapath="../appdata-SoC" > datapath.lua
 
 REM Links dat to the SoC-dat repository itelf
 IF DEFINED WINEUSERNAME (
-	RMDIR /S /Q .\dat
-	XCOPY /S /Y /I ..\Repositories\SoC-dat .\dat
+	ECHO Win32 under Linux
+	REM RMDIR /S /Q .\dat
+	REM XCOPY /S /Y /I ..\Repositories\SoC-dat .\dat
 ) ELSE (
 	RMDIR .\dat
 	MKLINK /J .\dat ..\Repositories\SoC-dat
@@ -58,13 +61,15 @@ REM COPY /Y ..\appdata-SoC\conf-REF.lua ..\appdata-SoC\conf.lua
 
 ECHO Win32 Executable finished
 
-pause
+PAUSE
+ECHO.
 
 REM Clean Integration folder
 FOR /D %%F in (*) do (
 	IF NOT "%%~nF"=="" (
 		IF DEFINED WINEUSERNAME (
-			RMDIR /S /Q %%~nF
+			ECHO Win32 under Linux
+			REM RMDIR /S /Q %%~nF
 		) ELSE (
 			RMDIR %%~nF
 		)
