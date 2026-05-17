@@ -5,6 +5,9 @@ conf_nosave = 1
 -- The location of Naev's data pack, usually called 'ndata'
 data = nil
 
+-- Language to use. Set to the two character identifier to the language (e.g., "en" for English), and nil for autodetect.
+language = "en"
+
 -- The factor to use in Full-Scene Anti-Aliasing
 -- Anything lower than 2 will simply disable FSAA
 fsaa = 1
